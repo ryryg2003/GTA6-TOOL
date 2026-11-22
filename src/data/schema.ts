@@ -4,6 +4,8 @@ export const MAP_SIZE = 1000;
 export const SECTIONS = ['weapons', 'vehicles', 'missions', 'map_pins', 'trophies'] as const;
 export type SectionName = (typeof SECTIONS)[number];
 
+const httpsUrl = z.string().url().refine((u) => u.startsWith('https://'), 'must be an https:// link');
+const imageRef = z.string().refine((u) => u.startsWith('https://') || /^\/(?!\/)/.test(u), 'must be an https:// link or a /site/path');
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'must be YYYY-MM-DD');
 const bar = z.number().min(0).max(100).nullable();
 const amount = z.number().nonnegative().nullable();
@@ -12,7 +14,7 @@ export const ConfidenceSchema = z.enum(['confirmed', 'likely', 'unverified']);
 export type Confidence = z.infer<typeof ConfidenceSchema>;
 
 export const SourceSchema = z.object({
-  url: z.string().url(),
+  url: httpsUrl,
   title: z.string().min(1),
   accessed: isoDate,
 });
@@ -27,7 +29,7 @@ export const BaseSchema = z.object({
   confidence: ConfidenceSchema,
   sources: z.array(SourceSchema).min(1, 'needs at least one source'),
   last_verified: isoDate,
-  image: z.string().optional(),
+  image: imageRef.optional(),
 });
 export type Base = z.infer<typeof BaseSchema>;
 

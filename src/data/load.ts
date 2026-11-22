@@ -1,10 +1,10 @@
-import weapons from '../../data/weapons.json';
-import vehicles from '../../data/vehicles.json';
-import missions from '../../data/missions.json';
-import map_pins from '../../data/map_pins.json';
-import trophies from '../../data/trophies.json';
-import categories from '../../data/categories.json';
-import areas from '../../data/areas.json';
+import weapons from '@data/weapons.json';
+import vehicles from '@data/vehicles.json';
+import missions from '@data/missions.json';
+import map_pins from '@data/map_pins.json';
+import trophies from '@data/trophies.json';
+import categories from '@data/categories.json';
+import areas from '@data/areas.json';
 import type { AnyEntry, Area, Base, Category, MapPin, Mission, SectionName, Trophy, Vehicle, Weapon } from './schema';
 
 type SectionMap = { weapons: Weapon; vehicles: Vehicle; missions: Mission; map_pins: MapPin; trophies: Trophy };

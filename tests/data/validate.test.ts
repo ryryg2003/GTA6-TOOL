@@ -2,10 +2,10 @@ import { readAllDataFiles } from '../../scripts/validate';
 import { validateAll } from '../../src/data/validate';
 
 const clone = <T,>(x: T): T => JSON.parse(JSON.stringify(x));
-const real = () => clone(readAllDataFiles('data'));
+const real = () => clone(readAllDataFiles('tests/fixtures/data'));
 
-test('accepts the sample data files', () => {
-  const r = validateAll(real());
+test('the live data/ folder is valid', () => {
+  const r = validateAll(readAllDataFiles('data'));
   expect(r.errors).toEqual([]);
   expect(r.ok).toBe(true);
 });
@@ -56,4 +56,20 @@ test('rejects last_verified that is not YYYY-MM-DD', () => {
   const f = real();
   (f.missions as any[])[0].last_verified = '11/22/2026';
   expect(validateAll(f).ok).toBe(false);
+});
+
+test('rejects a javascript: source url', () => {
+  const f = real();
+  (f.weapons as any[])[0].sources[0].url = 'javascript:alert(1)';
+  expect(validateAll(f).ok).toBe(false);
+});
+
+test('rejects a javascript: image, accepts https and site paths', () => {
+  const f = real();
+  (f.weapons as any[])[0].image = 'javascript:alert(1)';
+  expect(validateAll(f).ok).toBe(false);
+  (f.weapons as any[])[0].image = 'https://example.com/a.png';
+  expect(validateAll(f).ok).toBe(true);
+  (f.weapons as any[])[0].image = '/images/a.png';
+  expect(validateAll(f).ok).toBe(true);
 });

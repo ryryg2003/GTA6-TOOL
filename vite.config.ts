@@ -2,8 +2,12 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
+import { fileURLToPath } from 'node:url';
+
+const dir = (p: string) => fileURLToPath(new URL(p, import.meta.url));
 
 export default defineConfig({
+  resolve: { alias: { '@data': dir('./data') } },
   plugins: [
     react(),
     VitePWA({
@@ -21,6 +25,8 @@ export default defineConfig({
     }),
   ],
   test: {
+    // App code reads @data. Tests point it at fixed fixtures so research rewriting data/ can't break them.
+    alias: { '@data': dir('./tests/fixtures/data') },
     environment: 'jsdom',
     globals: true,
     setupFiles: ['./tests/setup.ts'],

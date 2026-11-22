@@ -1,0 +1,36 @@
+[
+  {
+    "id": "trophy-sample-first",
+    "name": "First Steps (sample)",
+    "section": "trophies",
+    "summary": "FIXTURE: Placeholder trophy.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Placeholder",
+    "missable": false
+  },
+  {
+    "id": "trophy-sample-missable",
+    "name": "Don't Miss It (sample)",
+    "section": "trophies",
+    "summary": "FIXTURE: Placeholder missable trophy.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Placeholder",
+    "missable": true
+  }
+]

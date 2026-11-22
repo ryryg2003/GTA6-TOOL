@@ -67,7 +67,8 @@ export function createProgressStore(storage: StorageLike | null) {
   const damaged = storedIsCorrupt(storage);
   if (damaged !== null) {
     // Keep the damaged text so it is never lost to the next save.
-    try { storage?.setItem(`${STORAGE_KEY}:corrupt-${new Date().toISOString()}`, damaged); } catch { /* best effort */ }
+    const copyKey = `${STORAGE_KEY}:corrupt`;
+    try { if (storage?.getItem(copyKey) !== damaged) storage?.setItem(copyKey, damaged); } catch { /* best effort */ }
   }
   let state = loadState(storage);
   let ok = storage !== null;

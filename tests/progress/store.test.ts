@@ -1,3 +1,4 @@
+import { vi } from 'vitest';
 import { act, renderHook } from '@testing-library/react';
 import {
   createProgressStore, emptyState, loadState, needsBackupReminder, saveState, STORAGE_KEY, useProgress,
@@ -100,10 +101,19 @@ test('corrupt stored progress is flagged and kept in a side copy before any over
   const store = createProgressStore(st);
   expect(store.corrupt()).toBe(true);
   store.toggle('b');
-  const side = [...st.data.keys()].find((k) => k.startsWith(STORAGE_KEY + ':corrupt-'));
+  const side = [...st.data.keys()].find((k) => k.startsWith(STORAGE_KEY + ':corrupt'));
   expect(side && st.getItem(side)).toBe('{"done":{"a":tru');
 });
 
 test('healthy or empty storage is not flagged corrupt', () => {
   expect(createProgressStore(new MemStorage()).corrupt()).toBe(false);
+});
+
+test('the damaged-progress copy is saved once, not again on every launch', () => {
+  const st = new MemStorage();
+  st.setItem(STORAGE_KEY, 'garbage{');
+  vi.useFakeTimers();
+  for (const day of ['2026-11-20', '2026-11-21', '2026-11-22']) { vi.setSystemTime(new Date(day + 'T12:00:00Z')); createProgressStore(st); }
+  vi.useRealTimers();
+  expect([...st.data.keys()].filter((k) => k.includes(':corrupt')).length).toBe(1);
 });

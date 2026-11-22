@@ -37,14 +37,14 @@ test('duplicate source urls collapse to one', () => {
 
 function sandbox() {
   const root = mkdtempSync(join(tmpdir(), 'merge-'));
-  cpSync('data', join(root, 'data'), { recursive: true });
+  cpSync('tests/fixtures/data', join(root, 'data'), { recursive: true });
   mkdirSync(join(root, 'incoming'));
   return root;
 }
 
 test('runMerge merges incoming files and appends a changelog entry', () => {
   const root = sandbox();
-  const sample = JSON.parse(readFileSync('data/weapons.json', 'utf8'))[0];
+  const sample = JSON.parse(readFileSync('tests/fixtures/data/weapons.json', 'utf8'))[0];
   writeFileSync(join(root, 'incoming', 'weapons.json'), JSON.stringify([{ ...sample, id: 'weapon-new-one', name: 'New One' }]));
   const r = runMerge(join(root, 'data'), join(root, 'incoming'), '2026-11-22');
   expect(r.ok).toBe(true);
@@ -83,7 +83,7 @@ test('an empty incoming list leaves samples alone', () => {
 
 test('runMerge rejects an incoming file that repeats an id', () => {
   const root = sandbox();
-  const sample = JSON.parse(readFileSync('data/weapons.json', 'utf8'))[0];
+  const sample = JSON.parse(readFileSync('tests/fixtures/data/weapons.json', 'utf8'))[0];
   writeFileSync(join(root, 'incoming', 'weapons.json'), JSON.stringify([{ ...sample, id: 'weapon-dup' }, { ...sample, id: 'weapon-dup', name: 'Other' }]));
   const r = runMerge(join(root, 'data'), join(root, 'incoming'), '2026-11-22');
   expect(r.ok).toBe(false);
@@ -95,4 +95,20 @@ test('an update that omits optional fields keeps the existing details and image'
   expect(r.merged[0].details).toBe('Sources disagree on damage');
   expect(r.merged[0].image).toBe('/x.png');
   expect(r.merged[0].summary).toBe('new');
+});
+
+test('an incoming null never replaces a known value', () => {
+  const r = mergeEntries([e('a', { damage: 70 })], [e('a', { damage: null })], '2026-11-22');
+  expect(r.merged[0].damage).toBe(70);
+});
+
+test('confidence is not lowered by an update that brings no new sources', () => {
+  const r = mergeEntries([e('a', { confidence: 'confirmed' })], [e('a', { confidence: 'unverified' })], '2026-11-22');
+  expect(r.merged[0].confidence).toBe('confirmed');
+});
+
+test('confidence can drop when the update brings new sources (e.g. a conflict)', () => {
+  const r = mergeEntries([e('a', { confidence: 'confirmed' })], [e('a', { confidence: 'likely',
+    sources: [{ url: 'https://new.example/z', title: 'New', accessed: '2026-11-22' }] })], '2026-11-22');
+  expect(r.merged[0].confidence).toBe('likely');
 });

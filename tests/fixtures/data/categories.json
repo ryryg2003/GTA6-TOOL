@@ -1,0 +1,58 @@
+[
+  {
+    "id": "drugs",
+    "label": "Drugs",
+    "icon": "💊",
+    "color": "#b36bff",
+    "collectible": true
+  },
+  {
+    "id": "collectible-cards",
+    "label": "Collectible Cards",
+    "icon": "🃏",
+    "color": "#2ee6c9",
+    "collectible": true
+  },
+  {
+    "id": "money-bags",
+    "label": "Money Bags",
+    "icon": "💰",
+    "color": "#3ddc84",
+    "collectible": true
+  },
+  {
+    "id": "stores",
+    "label": "Stores",
+    "icon": "🛒",
+    "color": "#5aa9ff",
+    "collectible": false
+  },
+  {
+    "id": "paint-spray",
+    "label": "Paint & Spray",
+    "icon": "🎨",
+    "color": "#ff8a3d",
+    "collectible": false
+  },
+  {
+    "id": "mechanics",
+    "label": "Mechanics",
+    "icon": "🔧",
+    "color": "#ffd23d",
+    "collectible": false
+  },
+  {
+    "id": "garages",
+    "label": "Garages",
+    "icon": "🅿️",
+    "color": "#9aa0b0",
+    "collectible": false
+  },
+  {
+    "id": "safe-codes",
+    "label": "Safe Codes",
+    "icon": "🔐",
+    "color": "#ff3d7f",
+    "collectible": true
+  }
+]
