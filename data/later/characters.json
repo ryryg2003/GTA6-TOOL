@@ -1,0 +1,204 @@
+[
+  {
+    "id": "character-cal-hampton",
+    "name": "Cal Hampton",
+    "section": "characters",
+    "summary": "Jason's conspiracy-minded friend; fishing rival (trophy \"Baited My Tackle\")",
+    "details": "Report tag: CONFIRMED (role); LIKELY (actor).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Bobby Moynihan",
+    "playable": false
+  },
+  {
+    "id": "character-boobie-ike",
+    "name": "Boobie Ike",
+    "section": "characters",
+    "summary": "Vice City strip club and music label owner",
+    "details": "Report tag: CONFIRMED; LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Mike Forbs",
+    "playable": false
+  },
+  {
+    "id": "character-drequan-priest",
+    "name": "Dre'Quan Priest",
+    "section": "characters",
+    "summary": "Rapper and label boss tied to Boobie",
+    "details": "Report tag: CONFIRMED; LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Naiqui Macabroad",
+    "playable": false
+  },
+  {
+    "id": "character-real-dimez-bae-luxe-roxy",
+    "name": "Real Dimez (Bae-Luxe, Roxy)",
+    "section": "characters",
+    "summary": "Rap duo",
+    "details": "Report tag: CONFIRMED; LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Hood Brat, Krissy Celess",
+    "playable": false
+  },
+  {
+    "id": "character-raul-bautista",
+    "name": "Raul Bautista",
+    "section": "characters",
+    "summary": "Veteran bank robber",
+    "details": "Report tag: CONFIRMED; LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Manny Pérez",
+    "playable": false
+  },
+  {
+    "id": "character-brian-heder",
+    "name": "Brian Heder",
+    "section": "characters",
+    "summary": "Keys drug runner, Jason's landlord",
+    "details": "Report tag: CONFIRMED; LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Stephen Root",
+    "playable": false
+  },
+  {
+    "id": "character-mia-caminos",
+    "name": "Mia Caminos",
+    "section": "characters",
+    "summary": "Lucia's mother",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Roselyn Sánchez",
+    "playable": false
+  },
+  {
+    "id": "character-aldo-m-ndez-giorgio-gallo-danica-howard-abe-gonzalez-mattia",
+    "name": "Aldo Méndez, Giorgio Gallo, Danica Howard, Abe Gonzalez, Mattia, Kordell Grant, Valentina",
+    "section": "characters",
+    "summary": "Listed, roles not stated",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/people",
+        "title": "Rockstar People page",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "not named",
+    "playable": false
+  },
+  {
+    "id": "character-niko-bellic-spoiler",
+    "name": "Niko Bellic (SPOILER)",
+    "section": "characters",
+    "summary": "Cameo from GTA IV, Michael Hollick returning",
+    "details": "Report tag: LIKELY, Wikipedia only; confirm before showing.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "voice_actor": "Michael Hollick",
+    "playable": false
+  }
+]

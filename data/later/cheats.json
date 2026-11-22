@@ -1,0 +1,625 @@
+[
+  {
+    "id": "cheat-250-000",
+    "name": "$250,000",
+    "section": "cheats",
+    "summary": "Unlock: Complete campaign. Enter on phone: Up, Right, Down, Left, Up, Left, Down, Right.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Complete campaign",
+    "sequence": [
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-unlimited-focus",
+    "name": "Unlimited Focus",
+    "section": "cheats",
+    "summary": "Unlock: Complete campaign. Enter on phone: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Complete campaign",
+    "sequence": [
+      "Down",
+      "Up",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-body-armor",
+    "name": "Body Armor",
+    "section": "cheats",
+    "summary": "Unlock: 100 workouts. Enter on phone: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "100 workouts",
+    "sequence": [
+      "Down",
+      "Up",
+      "Left",
+      "Up",
+      "Up",
+      "Up",
+      "Up",
+      "Up",
+      "Down",
+      "Down"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-attack-force",
+    "name": "Attack Force",
+    "section": "cheats",
+    "summary": "Unlock: Complete campaign. Enter on phone: Down, Up, Left, Left, Right, Down, Down, Up, Down.",
+    "details": "Report tag: CONFIRMED ([Digitaloft](https://digitaloft.net/game/gta-vi/guide/gta-6-cheat-codes-ps5-xbox-complete-list-2026/)).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://digitaloft.net/game/gta-vi/guide/gta-6-cheat-codes-ps5-xbox-complete-list-2026/",
+        "title": "Digitaloft",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Complete campaign",
+    "sequence": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Down",
+      "Up",
+      "Down"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-max-ammo",
+    "name": "Max Ammo",
+    "section": "cheats",
+    "summary": "Unlock: 25 range medals bronze+. Enter on phone: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "25 range medals bronze+",
+    "sequence": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Up",
+      "Down",
+      "Left"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-infinite-ammo",
+    "name": "Infinite Ammo",
+    "section": "cheats",
+    "summary": "Unlock: 25 range medals silver+. Enter on phone: Down, Up, Right, Down, Left, Left, Up, Down, Down, Down.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "25 range medals silver+",
+    "sequence": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Down",
+      "Down",
+      "Down"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-no-reload",
+    "name": "No Reload",
+    "section": "cheats",
+    "summary": "Unlock: 25 gold range medals. Enter on phone: Down, Up, Right, Down, Left, Left, Up, Down, Down, Up.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "25 gold range medals",
+    "sequence": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Down",
+      "Down",
+      "Up"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-raise-heat-level",
+    "name": "Raise Heat Level",
+    "section": "cheats",
+    "summary": "Unlock: Escape 3 stars 25 times. Enter on phone: Left, Down, Right, Down, Up, Down, Up.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Escape 3 stars 25 times",
+    "sequence": [
+      "Left",
+      "Down",
+      "Right",
+      "Down",
+      "Up",
+      "Down",
+      "Up"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-raise-wanted-level",
+    "name": "Raise Wanted Level",
+    "section": "cheats",
+    "summary": "Unlock: Escape 3 stars 50 times. Enter on phone: Left, Down, Right, Down, Up, Right, Up.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Escape 3 stars 50 times",
+    "sequence": [
+      "Left",
+      "Down",
+      "Right",
+      "Down",
+      "Up",
+      "Right",
+      "Up"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-exploding-balls",
+    "name": "Exploding Balls",
+    "section": "cheats",
+    "summary": "Unlock: Explosive damage to 20 enemies. Enter on phone: Down, Up, Left, Left, Right, Down, Down, Up, Right.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Explosive damage to 20 enemies",
+    "sequence": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Down",
+      "Up",
+      "Right"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-vehicle-force",
+    "name": "Vehicle Force",
+    "section": "cheats",
+    "summary": "Unlock: Kill 25 enemies with a vehicle. Enter on phone: Down, Up, Left, Left, Right, Down, Left, Up, Down.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Kill 25 enemies with a vehicle",
+    "sequence": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-hvy-bulldozer",
+    "name": "HVY Bulldozer",
+    "section": "cheats",
+    "summary": "Unlock: Discover it (Progress menu). Enter on phone: Left, Up, Right, Down, Left, Right, Right, Down.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Discover it (Progress menu)",
+    "sequence": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Right",
+      "Right",
+      "Down"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-mtl-pumper-fire-truck",
+    "name": "MTL Pumper fire truck",
+    "section": "cheats",
+    "summary": "Unlock: Discover it. Enter on phone: Left, Up, Right, Down, Left, Right, Right, Up.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Discover it",
+    "sequence": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Right",
+      "Right",
+      "Up"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-maibatsu-boomazoom",
+    "name": "Maibatsu Boomazoom",
+    "section": "cheats",
+    "summary": "Unlock: 5 Shopping challenges. Enter on phone: Left, Up, Right, Down, Left, Left, Up, Left.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "5 Shopping challenges",
+    "sequence": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Left"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-cycle-weather",
+    "name": "Cycle Weather",
+    "section": "cheats",
+    "summary": "Unlock: Complete campaign. Enter on phone: Down, Right, Up, Down, Right, Up, Right.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Complete campaign",
+    "sequence": [
+      "Down",
+      "Right",
+      "Up",
+      "Down",
+      "Right",
+      "Up",
+      "Right"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-cataclysm-filter",
+    "name": "Cataclysm filter",
+    "section": "cheats",
+    "summary": "Unlock: Discover Martha's Vamos. Enter on phone: Down, Down, Up, Right, Right, Up, Left, Left, Right, Right.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Discover Martha's Vamos",
+    "sequence": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Right"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-dollhouse-filter",
+    "name": "Dollhouse filter",
+    "section": "cheats",
+    "summary": "Unlock: 8 hours with partner. Enter on phone: Down, Down, Up, Right, Right, Up, Left, Left, Down, Right.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "8 hours with partner",
+    "sequence": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Down",
+      "Right"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  },
+  {
+    "id": "cheat-faded-glory-filter",
+    "name": "Faded Glory filter",
+    "section": "cheats",
+    "summary": "Unlock: Rob 50 stores with partner. Enter on phone: Down, Down, Up, Right, Right, Up, Left, Left, Left, Right.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://rarethief.com/all-gta-vi-cheat-codes/",
+        "title": "Rare Thief",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "unlock_condition": "Rob 50 stores with partner",
+    "sequence": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Left",
+      "Right"
+    ],
+    "sequence_known": true,
+    "disables_trophies": true
+  }
+]

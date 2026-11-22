@@ -1,0 +1,2068 @@
+[
+  {
+    "id": "vehicle-67-vapid-dominator-buggy",
+    "name": "'67 Vapid Dominator Buggy",
+    "section": "vehicles",
+    "summary": "Off-road class. Speed bar 5.0/10, acceleration 6.1/10.",
+    "details": "In-game bars (0-10): Speed 5.0, Acceleration 6.1, Asphalt handling 3.5, Off-road handling 6.7, Strength 3.0. Road rating 493, off-road rating 672. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Off-road",
+    "top_speed_mph": null,
+    "acceleration": 61.0,
+    "handling": 35.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 50.0,
+    "offroad_handling": 67.0,
+    "strength": 30.0,
+    "road_rating": 493,
+    "offroad_rating": 672,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-albany-cavalcade-xl",
+    "name": "Albany Cavalcade XL",
+    "section": "vehicles",
+    "summary": "SUV class. Speed bar 4.7/10, acceleration 5.8/10.",
+    "details": "In-game bars (0-10): Speed 4.7, Acceleration 5.8, Asphalt handling 4.2, Off-road handling 5.0, Strength 3.0. Road rating 503, off-road rating 409. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "SUV",
+    "top_speed_mph": null,
+    "acceleration": 58.0,
+    "handling": 42.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 47.0,
+    "offroad_handling": 50.0,
+    "strength": 30.0,
+    "road_rating": 503,
+    "offroad_rating": 409,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-albany-v-str",
+    "name": "Albany V-STR",
+    "section": "vehicles",
+    "summary": "Sedan class. Speed bar 7.0/10, acceleration 7.2/10.",
+    "details": "In-game bars (0-10): Speed 7.0, Acceleration 7.2, Asphalt handling 4.5, Off-road handling 4.5, Strength 3.0. Road rating 616, off-road rating 373. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sedan",
+    "top_speed_mph": null,
+    "acceleration": 72.0,
+    "handling": 45.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 70.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 616,
+    "offroad_rating": 373,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-annis-90-elegy",
+    "name": "Annis '90 Elegy",
+    "section": "vehicles",
+    "summary": "Sports class. Speed bar 5.5/10, acceleration 6.4/10.",
+    "details": "In-game bars (0-10): Speed 5.5, Acceleration 6.4, Asphalt handling 4.8, Off-road handling 3.9, Strength 3.0. Road rating 565, off-road rating 286. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sports",
+    "top_speed_mph": null,
+    "acceleration": 64.0,
+    "handling": 48.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 55.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 565,
+    "offroad_rating": 286,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-benefactor-dubsta",
+    "name": "Benefactor Dubsta",
+    "section": "vehicles",
+    "summary": "SUV class. Speed bar 4.7/10, acceleration 5.5/10.",
+    "details": "In-game bars (0-10): Speed 4.7, Acceleration 5.5, Asphalt handling 3.9, Off-road handling 5.0, Strength 3.0. Road rating 479, off-road rating 398. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: not given",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=doFaJV-CNLw",
+        "title": "Perfect Score video",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "SUV",
+    "top_speed_mph": null,
+    "acceleration": 55.0,
+    "handling": 39.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "not given",
+    "speed": 47.0,
+    "offroad_handling": 50.0,
+    "strength": 30.0,
+    "road_rating": 479,
+    "offroad_rating": 398,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-benefactor-schafter-v12",
+    "name": "Benefactor Schafter V12",
+    "section": "vehicles",
+    "summary": "Sedan class. Speed bar 6.0/10, acceleration 6.6/10.",
+    "details": "In-game bars (0-10): Speed 6.0, Acceleration 6.6, Asphalt handling 4.5, Off-road handling 4.5, Strength 3.0. Road rating 571, off-road rating 376. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sedan",
+    "top_speed_mph": null,
+    "acceleration": 66.0,
+    "handling": 45.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 60.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 571,
+    "offroad_rating": 376,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-bermacht-cypher",
+    "name": "Übermacht Cypher",
+    "section": "vehicles",
+    "summary": "Sports class. Speed bar 6.5/10, acceleration 7.2/10.",
+    "details": "In-game bars (0-10): Speed 6.5, Acceleration 7.2, Asphalt handling 4.9, Off-road handling 4.5, Strength 3.0. Road rating 622, off-road rating 369. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: not given",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=doFaJV-CNLw",
+        "title": "Perfect Score video",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sports",
+    "top_speed_mph": null,
+    "acceleration": 72.0,
+    "handling": 49.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "not given",
+    "speed": 65.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 622,
+    "offroad_rating": 369,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-bf-77-bandito-modded",
+    "name": "BF '77 Bandito (Modded)",
+    "section": "vehicles",
+    "summary": "Off-road class, stats with parts fitted. Speed bar 3.7/10, acceleration 6.3/10.",
+    "details": "In-game bars (0-10): Speed 3.7, Acceleration 6.3, Asphalt handling 3.5, Off-road handling 7.6, Strength 3.5. Road rating 471, off-road rating 726. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Off-road",
+    "top_speed_mph": null,
+    "acceleration": 63.0,
+    "handling": 35.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 37.0,
+    "offroad_handling": 76.0,
+    "strength": 35.0,
+    "road_rating": 471,
+    "offroad_rating": 726,
+    "modded": true,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-bravado-19-buffalo",
+    "name": "Bravado '19 Buffalo",
+    "section": "vehicles",
+    "summary": "Muscle class. Speed bar 5.5/10, acceleration 6.4/10.",
+    "details": "In-game bars (0-10): Speed 5.5, Acceleration 6.4, Asphalt handling 4.7, Off-road handling 4.4, Strength 3.0. Road rating 557, off-road rating 358. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Muscle",
+    "top_speed_mph": null,
+    "acceleration": 64.0,
+    "handling": 47.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 55.0,
+    "offroad_handling": 44.0,
+    "strength": 30.0,
+    "road_rating": 557,
+    "offroad_rating": 358,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-bravado-gauntlet-hellfire",
+    "name": "Bravado Gauntlet Hellfire",
+    "section": "vehicles",
+    "summary": "Muscle class. Speed bar 7.8/10, acceleration 7.8/10.",
+    "details": "In-game bars (0-10): Speed 7.8, Acceleration 7.8, Asphalt handling 5.7, Off-road handling 3.6, Strength 3.0. Road rating 705, off-road rating 240. Report tag: CONFIRMED. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Back of M7 junkyard east of Boone Speedway, off Galerina St, Hamlet",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Muscle",
+    "top_speed_mph": null,
+    "acceleration": 78.0,
+    "handling": 57.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Back of M7 junkyard east of Boone Speedway, off Galerina St, Hamlet",
+    "speed": 78.0,
+    "offroad_handling": 36.0,
+    "strength": 30.0,
+    "road_rating": 705,
+    "offroad_rating": 240,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-bravado-swamp-blaster",
+    "name": "Bravado Swamp Blaster",
+    "section": "vehicles",
+    "summary": "Airboat-type class. Speed bar 1.7/10, acceleration 2.9/10.",
+    "details": "In-game bars (0-10): Speed 1.7, Acceleration 2.9, Asphalt handling 2.1, Off-road handling 5.9, Strength 3.5. Road rating 240, off-road rating 459. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Airboat-type",
+    "top_speed_mph": null,
+    "acceleration": 29.0,
+    "handling": 21.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 17.0,
+    "offroad_handling": 59.0,
+    "strength": 35.0,
+    "road_rating": 240,
+    "offroad_rating": 459,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-buckingham-jubilee",
+    "name": "Buckingham Jubilee",
+    "section": "vehicles",
+    "summary": "SUV class. Speed bar 5.4/10, acceleration 6.1/10.",
+    "details": "In-game bars (0-10): Speed 5.4, Acceleration 6.1, Asphalt handling 4.4, Off-road handling 5.1, Strength 3.0. Road rating 538, off-road rating 440. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Driveways in Belville, Rialto Islands, Starfish Island",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "SUV",
+    "top_speed_mph": null,
+    "acceleration": 61.0,
+    "handling": 44.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Driveways in Belville, Rialto Islands, Starfish Island",
+    "speed": 54.0,
+    "offroad_handling": 51.0,
+    "strength": 30.0,
+    "road_rating": 538,
+    "offroad_rating": 440,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-buckingham-windsor-drop",
+    "name": "Buckingham Windsor Drop",
+    "section": "vehicles",
+    "summary": "Coupe class. Speed bar 6.0/10, acceleration 6.9/10.",
+    "details": "In-game bars (0-10): Speed 6.0, Acceleration 6.9, Asphalt handling 4.7, Off-road handling 4.3, Strength 3.0. Road rating 590, off-road rating 366. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Status Auto Imports (Bayside), Capri, Y Hotel, Lake Tallaloko",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Coupe",
+    "top_speed_mph": null,
+    "acceleration": 69.0,
+    "handling": 47.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Status Auto Imports (Bayside), Capri, Y Hotel, Lake Tallaloko",
+    "speed": 60.0,
+    "offroad_handling": 43.0,
+    "strength": 30.0,
+    "road_rating": 590,
+    "offroad_rating": 366,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-canis-mesa",
+    "name": "Canis Mesa",
+    "section": "vehicles",
+    "summary": "Off-road SUV class. Speed bar 4.4/10, acceleration 5.4/10.",
+    "details": "In-game bars (0-10): Speed 4.4, Acceleration 5.4, Asphalt handling 3.2, Off-road handling 6.7, Strength 3.0. Road rating 441, off-road rating 623. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Off-road SUV",
+    "top_speed_mph": null,
+    "acceleration": 54.0,
+    "handling": 32.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 44.0,
+    "offroad_handling": 67.0,
+    "strength": 30.0,
+    "road_rating": 441,
+    "offroad_rating": 623,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-coil-raiden",
+    "name": "Coil Raiden",
+    "section": "vehicles",
+    "summary": "EV class. Speed bar 6.7/10, acceleration 7.7/10.",
+    "details": "In-game bars (0-10): Speed 6.7, Acceleration 7.7, Asphalt handling 4.7, Off-road handling 4.5, Strength 3.0. Road rating 636, off-road rating 445. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "EV",
+    "top_speed_mph": null,
+    "acceleration": 77.0,
+    "handling": 47.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 67.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 636,
+    "offroad_rating": 445,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-declasse-72-tulip",
+    "name": "Declasse '72 Tulip",
+    "section": "vehicles",
+    "summary": "Muscle class. Speed bar 5.0/10, acceleration 4.8/10.",
+    "details": "In-game bars (0-10): Speed 5.0, Acceleration 4.8, Asphalt handling 3.3, Off-road handling 3.9, Strength 3.0. Road rating 434, off-road rating 260. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Muscle",
+    "top_speed_mph": null,
+    "acceleration": 48.0,
+    "handling": 33.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 50.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 434,
+    "offroad_rating": 260,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-declasse-vigero-zx-convertible",
+    "name": "Declasse Vigero ZX Convertible",
+    "section": "vehicles",
+    "summary": "Muscle class. Speed bar 6.6/10, acceleration 6.8/10.",
+    "details": "In-game bars (0-10): Speed 6.6, Acceleration 6.8, Asphalt handling 5.4, Off-road handling 3.9, Strength 3.0. Road rating 627, off-road rating 272. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Muscle",
+    "top_speed_mph": null,
+    "acceleration": 68.0,
+    "handling": 54.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 66.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 627,
+    "offroad_rating": 272,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-dinka-chavos-xs",
+    "name": "Dinka Chavos XS",
+    "section": "vehicles",
+    "summary": "Car class. Speed bar 5.2/10, acceleration 5.7/10.",
+    "details": "In-game bars (0-10): Speed 5.2, Acceleration 5.7, Asphalt handling 3.9, Off-road handling 4.2, Strength 3.0. Road rating 497, off-road rating 315. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Car",
+    "top_speed_mph": null,
+    "acceleration": 57.0,
+    "handling": 39.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 52.0,
+    "offroad_handling": 42.0,
+    "strength": 30.0,
+    "road_rating": 497,
+    "offroad_rating": 315,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-dinka-sugoi",
+    "name": "Dinka Sugoi",
+    "section": "vehicles",
+    "summary": "Hatch class. Speed bar 5.0/10, acceleration 5.8/10.",
+    "details": "In-game bars (0-10): Speed 5.0, Acceleration 5.8, Asphalt handling 4.3, Off-road handling 4.3, Strength 3.0. Road rating 511, off-road rating 317. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Hatch",
+    "top_speed_mph": null,
+    "acceleration": 58.0,
+    "handling": 43.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 50.0,
+    "offroad_handling": 43.0,
+    "strength": 30.0,
+    "road_rating": 511,
+    "offroad_rating": 317,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-emperor-sultan",
+    "name": "Emperor Sultan",
+    "section": "vehicles",
+    "summary": "Sedan class. Speed bar 4.9/10, acceleration 6.1/10.",
+    "details": "In-game bars (0-10): Speed 4.9, Acceleration 6.1, Asphalt handling 4.4, Off-road handling 4.5, Strength 3.0. Road rating 528, off-road rating 352. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sedan",
+    "top_speed_mph": null,
+    "acceleration": 61.0,
+    "handling": 44.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 49.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 528,
+    "offroad_rating": 352,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-fathom-fr36",
+    "name": "Fathom FR36",
+    "section": "vehicles",
+    "summary": "Coupe class. Speed bar 5.3/10, acceleration 5.8/10.",
+    "details": "In-game bars (0-10): Speed 5.3, Acceleration 5.8, Asphalt handling 4.2, Off-road handling 4.5, Strength 3.0. Road rating 510, off-road rating 321. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Coupe",
+    "top_speed_mph": null,
+    "acceleration": 58.0,
+    "handling": 42.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 53.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 510,
+    "offroad_rating": 321,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-gallivanter-baller-st-d",
+    "name": "Gallivanter Baller ST-D",
+    "section": "vehicles",
+    "summary": "SUV class. Speed bar 5.3/10, acceleration 6.4/10.",
+    "details": "In-game bars (0-10): Speed 5.3, Acceleration 6.4, Asphalt handling 4.2, Off-road handling 5.0, Strength 3.0. Road rating 540, off-road rating 441. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: not given",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=doFaJV-CNLw",
+        "title": "Perfect Score video",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "SUV",
+    "top_speed_mph": null,
+    "acceleration": 64.0,
+    "handling": 42.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "not given",
+    "speed": 53.0,
+    "offroad_handling": 50.0,
+    "strength": 30.0,
+    "road_rating": 540,
+    "offroad_rating": 441,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-granforma-zorrusso",
+    "name": "Granforma Zorrusso",
+    "section": "vehicles",
+    "summary": "Super class. Speed bar 7.5/10, acceleration 7.8/10.",
+    "details": "In-game bars (0-10): Speed 7.5, Acceleration 7.8, Asphalt handling 7.1, Off-road handling 3.8, Strength 3.0. Road rating 749, off-road rating 301. Report tag: CONFIRMED. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Mission-based",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Super",
+    "top_speed_mph": null,
+    "acceleration": 78.0,
+    "handling": 71.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Mission-based",
+    "speed": 75.0,
+    "offroad_handling": 38.0,
+    "strength": 30.0,
+    "road_rating": 749,
+    "offroad_rating": 301,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-grotti-carbonizzare",
+    "name": "Grotti Carbonizzare",
+    "section": "vehicles",
+    "summary": "Sports class. Speed bar 6.3/10, acceleration 7.1/10.",
+    "details": "In-game bars (0-10): Speed 6.3, Acceleration 7.1, Asphalt handling 6.0, Off-road handling 3.6, Strength 3.0. Road rating 657, off-road rating 236. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: not given",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=doFaJV-CNLw",
+        "title": "Perfect Score video",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sports",
+    "top_speed_mph": null,
+    "acceleration": 71.0,
+    "handling": 60.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "not given",
+    "speed": 63.0,
+    "offroad_handling": 36.0,
+    "strength": 30.0,
+    "road_rating": 657,
+    "offroad_rating": 236,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-grotti-itali-rsx",
+    "name": "Grotti Itali RSX",
+    "section": "vehicles",
+    "summary": "Speed bar 7.5/10, acceleration 8.1/10, handling 7.0/10 (single aggregator).",
+    "details": "From timesaver.gg only. Randy's Wish List car.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.tech2geek.net/gta-6-fastest-cars-top-10-vehicles-ranked-by-speed/",
+        "title": "tech2geek",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Unknown",
+    "top_speed_mph": null,
+    "acceleration": 81.0,
+    "handling": 70.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": null,
+    "speed": 75.0,
+    "modded": false,
+    "wish_list": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-hvy-wastelander",
+    "name": "HVY Wastelander",
+    "section": "vehicles",
+    "summary": "Off-road truck class. Speed bar 3.1/10, acceleration 3.8/10.",
+    "details": "In-game bars (0-10): Speed 3.1, Acceleration 3.8, Asphalt handling 2.6, Off-road handling 7.0, Strength 3.5. Road rating 328, off-road rating 535. Report tag: CONFIRMED (Dexerto match). Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Off-road truck",
+    "top_speed_mph": null,
+    "acceleration": 38.0,
+    "handling": 26.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 31.0,
+    "offroad_handling": 70.0,
+    "strength": 35.0,
+    "road_rating": 328,
+    "offroad_rating": 535,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-invetero-coquette",
+    "name": "Invetero Coquette",
+    "section": "vehicles",
+    "summary": "Sports class. Speed bar 6.1/10, acceleration 6.8/10.",
+    "details": "In-game bars (0-10): Speed 6.1, Acceleration 6.8, Asphalt handling 5.5, Off-road handling 3.9, Strength 3.0. Road rating 621, off-road rating 272. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sports",
+    "top_speed_mph": null,
+    "acceleration": 68.0,
+    "handling": 55.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 61.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 621,
+    "offroad_rating": 272,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-invetero-coquette-d10",
+    "name": "Invetero Coquette D10",
+    "section": "vehicles",
+    "summary": "Sports class. Speed bar 7.0/10, acceleration 7.5/10.",
+    "details": "In-game bars (0-10): Speed 7.0, Acceleration 7.5, Asphalt handling 6.5, Off-road handling 3.6, Strength 3.0. Road rating 707, off-road rating 238. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Mission-based",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sports",
+    "top_speed_mph": null,
+    "acceleration": 75.0,
+    "handling": 65.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Mission-based",
+    "speed": 70.0,
+    "offroad_handling": 36.0,
+    "strength": 30.0,
+    "road_rating": 707,
+    "offroad_rating": 238,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-karin-84-rebel-modded",
+    "name": "Karin '84 Rebel (Modded)",
+    "section": "vehicles",
+    "summary": "Truck class, stats with parts fitted. Speed bar 3.9/10, acceleration 4.4/10.",
+    "details": "In-game bars (0-10): Speed 3.9, Acceleration 4.4, Asphalt handling 3.5, Off-road handling 5.9, Strength 5.7. Road rating 401, off-road rating 473. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Truck",
+    "top_speed_mph": null,
+    "acceleration": 44.0,
+    "handling": 35.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 39.0,
+    "offroad_handling": 59.0,
+    "strength": 57.0,
+    "road_rating": 401,
+    "offroad_rating": 473,
+    "modded": true,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-karin-98-feroci",
+    "name": "Karin '98 Feroci",
+    "section": "vehicles",
+    "summary": "Sedan class. Speed bar 5.0/10, acceleration 5.4/10.",
+    "details": "In-game bars (0-10): Speed 5.0, Acceleration 5.4, Asphalt handling 4.0, Off-road handling 4.5, Strength 3.0. Road rating 487, off-road rating 336. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sedan",
+    "top_speed_mph": null,
+    "acceleration": 54.0,
+    "handling": 40.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 50.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 487,
+    "offroad_rating": 336,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-maibatsu-97-penumbra-ff",
+    "name": "Maibatsu '97 Penumbra FF",
+    "section": "vehicles",
+    "summary": "Tuner class. Speed bar 5.1/10, acceleration 5.5/10.",
+    "details": "In-game bars (0-10): Speed 5.1, Acceleration 5.5, Asphalt handling 4.4, Off-road handling 4.3, Strength 3.0. Road rating 504, off-road rating 314. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Tuner",
+    "top_speed_mph": null,
+    "acceleration": 55.0,
+    "handling": 44.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 51.0,
+    "offroad_handling": 43.0,
+    "strength": 30.0,
+    "road_rating": 504,
+    "offroad_rating": 314,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-maibatsu-manchez",
+    "name": "Maibatsu Manchez",
+    "section": "vehicles",
+    "summary": "Dirt bike class. Speed bar 3.9/10, acceleration 5.8/10.",
+    "details": "In-game bars (0-10): Speed 3.9, Acceleration 5.8, Asphalt handling 5.2, Off-road handling 7.7, Strength 4.0. Road rating 520, off-road rating 711. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Dirt bike",
+    "top_speed_mph": null,
+    "acceleration": 58.0,
+    "handling": 52.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 39.0,
+    "offroad_handling": 77.0,
+    "strength": 40.0,
+    "road_rating": 520,
+    "offroad_rating": 711,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-maibatsu-sanchez",
+    "name": "Maibatsu Sanchez",
+    "section": "vehicles",
+    "summary": "Dirt bike class. Speed bar 3.9/10, acceleration 5.9/10.",
+    "details": "In-game bars (0-10): Speed 3.9, Acceleration 5.9, Asphalt handling 5.2, Off-road handling 7.7, Strength 4.0. Road rating 524, off-road rating 715. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Dirt bike",
+    "top_speed_mph": null,
+    "acceleration": 59.0,
+    "handling": 52.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 39.0,
+    "offroad_handling": 77.0,
+    "strength": 40.0,
+    "road_rating": 524,
+    "offroad_rating": 715,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-mer-can-blast",
+    "name": "Mer-Can Blast",
+    "section": "vehicles",
+    "summary": "Special class. Speed bar 2.0/10, acceleration 3.4/10.",
+    "details": "In-game bars (0-10): Speed 2.0, Acceleration 3.4, Asphalt handling 2.5, Off-road handling 6.5, Strength 3.5. Road rating 283, off-road rating 516. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Special",
+    "top_speed_mph": null,
+    "acceleration": 34.0,
+    "handling": 25.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 20.0,
+    "offroad_handling": 65.0,
+    "strength": 35.0,
+    "road_rating": 283,
+    "offroad_rating": 516,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-mer-can-outlaw",
+    "name": "Mer-Can Outlaw",
+    "section": "vehicles",
+    "summary": "UTV class. Speed bar 3.3/10, acceleration 5.8/10.",
+    "details": "In-game bars (0-10): Speed 3.3, Acceleration 5.8, Asphalt handling 3.2, Off-road handling 8.4, Strength 3.5. Road rating 433, off-road rating 727. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "UTV",
+    "top_speed_mph": null,
+    "acceleration": 58.0,
+    "handling": 32.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 33.0,
+    "offroad_handling": 84.0,
+    "strength": 35.0,
+    "road_rating": 433,
+    "offroad_rating": 727,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-nagasaki-carbon-rs",
+    "name": "Nagasaki Carbon RS",
+    "section": "vehicles",
+    "summary": "Speed bar 6.7/10, acceleration 7.7/10, handling 7.6/10 (single aggregator).",
+    "details": "From timesaver.gg only.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.tech2geek.net/gta-6-fastest-cars-top-10-vehicles-ranked-by-speed/",
+        "title": "tech2geek",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Unknown",
+    "top_speed_mph": null,
+    "acceleration": 77.0,
+    "handling": 76.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": null,
+    "speed": 67.0,
+    "modded": false,
+    "wish_list": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-nagasaki-sfb-1000",
+    "name": "Nagasaki SFB 1000",
+    "section": "vehicles",
+    "summary": "Motorcycle class. Speed bar 7.1/10, acceleration 8.1/10.",
+    "details": "In-game bars (0-10): Speed 7.1, Acceleration 8.1, Asphalt handling 8.1, Off-road handling 2.3, Strength 4.0. Road rating 796, off-road rating 121. Report tag: CONFIRMED (may share an upstream source). Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Motorcycle",
+    "top_speed_mph": null,
+    "acceleration": 81.0,
+    "handling": 81.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 71.0,
+    "offroad_handling": 23.0,
+    "strength": 40.0,
+    "road_rating": 796,
+    "offroad_rating": 121,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-obey-tailgater-s",
+    "name": "Obey Tailgater S",
+    "section": "vehicles",
+    "summary": "Sedan class. Speed bar 4.8/10, acceleration 5.9/10.",
+    "details": "In-game bars (0-10): Speed 4.8, Acceleration 5.9, Asphalt handling 4.4, Off-road handling 4.5, Strength 3.0. Road rating 516, off-road rating 344. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sedan",
+    "top_speed_mph": null,
+    "acceleration": 59.0,
+    "handling": 44.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 48.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 516,
+    "offroad_rating": 344,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-ocelot-jugular-modded",
+    "name": "Ocelot Jugular (Modded)",
+    "section": "vehicles",
+    "summary": "Sedan class, stats with parts fitted. Speed bar 6.5/10, acceleration 7.3/10.",
+    "details": "In-game bars (0-10): Speed 6.5, Acceleration 7.3, Asphalt handling 5.8, Off-road handling 4.5, Strength 3.0. Road rating 661, off-road rating 394. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Belville garage north of Druthers State Bank; The Vault nightclub",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sedan",
+    "top_speed_mph": null,
+    "acceleration": 73.0,
+    "handling": 58.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Belville garage north of Druthers State Bank; The Vault nightclub",
+    "speed": 65.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 661,
+    "offroad_rating": 394,
+    "modded": true,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pegassi-96-infernus-modded",
+    "name": "Pegassi '96 Infernus (Modded)",
+    "section": "vehicles",
+    "summary": "Super class, stats with parts fitted. Speed bar 8.6/10, acceleration 8.4/10.",
+    "details": "In-game bars (0-10): Speed 8.6, Acceleration 8.4, Asphalt handling 6.9, Off-road handling 3.6, Strength 3.0. Road rating 789, off-road rating 239. Report tag: LIKELY (stock 7.1/7.3/6.5 per timesaver). Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Crosstown Police Station parking, NW 9th St, level 7",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Super",
+    "top_speed_mph": null,
+    "acceleration": 84.0,
+    "handling": 69.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Crosstown Police Station parking, NW 9th St, level 7",
+    "speed": 86.0,
+    "offroad_handling": 36.0,
+    "strength": 30.0,
+    "road_rating": 789,
+    "offroad_rating": 239,
+    "modded": true,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pegassi-tempesta",
+    "name": "Pegassi Tempesta",
+    "section": "vehicles",
+    "summary": "Super class. Speed bar 7.6/10, acceleration 7.8/10.",
+    "details": "In-game bars (0-10): Speed 7.6, Acceleration 7.8, Asphalt handling 6.9, Off-road handling 3.8, Strength 3.0. Road rating 748, off-road rating 284. Report tag: CONFIRMED. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Random event on NE 3rd St (owner vs repo man)",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Super",
+    "top_speed_mph": null,
+    "acceleration": 78.0,
+    "handling": 69.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Random event on NE 3rd St (owner vs repo man)",
+    "speed": 76.0,
+    "offroad_handling": 38.0,
+    "strength": 30.0,
+    "road_rating": 748,
+    "offroad_rating": 284,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pegassi-toros",
+    "name": "Pegassi Toros",
+    "section": "vehicles",
+    "summary": "SUV class. Speed bar 6.0/10, acceleration 7.0/10.",
+    "details": "In-game bars (0-10): Speed 6.0, Acceleration 7.0, Asphalt handling 4.6, Off-road handling 5.1, Strength 3.0. Road rating 594, off-road rating 472. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Pegassi Residences, Paradise Wines Vineyard Bar, Capri",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "SUV",
+    "top_speed_mph": null,
+    "acceleration": 70.0,
+    "handling": 46.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Pegassi Residences, Paradise Wines Vineyard Bar, Capri",
+    "speed": 60.0,
+    "offroad_handling": 51.0,
+    "strength": 30.0,
+    "road_rating": 594,
+    "offroad_rating": 472,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pegassi-vitello",
+    "name": "Pegassi Vitello",
+    "section": "vehicles",
+    "summary": "Super class. Speed bar 8.2/10, acceleration 8.4/10.",
+    "details": "In-game bars (0-10): Speed 8.2, Acceleration 8.4, Asphalt handling 8.2, Off-road handling 3.8, Strength 3.0. Road rating 832, off-road rating 297. Report tag: CONFIRMED. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Villa on Flamingo Pkwy, Waning Sands (east of Belville); Clone Key at nearest garage",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Super",
+    "top_speed_mph": null,
+    "acceleration": 84.0,
+    "handling": 82.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Villa on Flamingo Pkwy, Waning Sands (east of Belville); Clone Key at nearest garage",
+    "speed": 82.0,
+    "offroad_handling": 38.0,
+    "strength": 30.0,
+    "road_rating": 832,
+    "offroad_rating": 297,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pfister-astron",
+    "name": "Pfister Astron",
+    "section": "vehicles",
+    "summary": "SUV class. Speed bar 5.3/10, acceleration 6.5/10.",
+    "details": "In-game bars (0-10): Speed 5.3, Acceleration 6.5, Asphalt handling 5.1, Off-road handling 4.5, Strength 3.0. Road rating 576, off-road rating 352. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "SUV",
+    "top_speed_mph": null,
+    "acceleration": 65.0,
+    "handling": 51.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 53.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 576,
+    "offroad_rating": 352,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pfister-comet-s2",
+    "name": "Pfister Comet S2",
+    "section": "vehicles",
+    "summary": "Speed bar 7.7/10, acceleration 8.0/10, handling 7.6/10 (single aggregator).",
+    "details": "From timesaver.gg only.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.tech2geek.net/gta-6-fastest-cars-top-10-vehicles-ranked-by-speed/",
+        "title": "tech2geek",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Unknown",
+    "top_speed_mph": null,
+    "acceleration": 80.0,
+    "handling": 76.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": null,
+    "speed": 77.0,
+    "modded": false,
+    "wish_list": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pfister-growler",
+    "name": "Pfister Growler",
+    "section": "vehicles",
+    "summary": "Sports class. Speed bar 5.5/10, acceleration 6.3/10.",
+    "details": "In-game bars (0-10): Speed 5.5, Acceleration 6.3, Asphalt handling 6.8, Off-road handling 3.9, Strength 3.0. Road rating 635, off-road rating 280. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Northern Capri, Vice Beach car parks",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sports",
+    "top_speed_mph": null,
+    "acceleration": 63.0,
+    "handling": 68.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Northern Capri, Vice Beach car parks",
+    "speed": 55.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 635,
+    "offroad_rating": 280,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-pfister-neon",
+    "name": "Pfister Neon",
+    "section": "vehicles",
+    "summary": "EV sports class. Speed bar 7.1/10, acceleration 7.4/10.",
+    "details": "In-game bars (0-10): Speed 7.1, Acceleration 7.4, Asphalt handling 5.9, Off-road handling 3.9, Strength 3.0. Road rating 683, off-road rating 357. Report tag: CONFIRMED (same caveat). Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: not given",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=doFaJV-CNLw",
+        "title": "Perfect Score video",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "EV sports",
+    "top_speed_mph": null,
+    "acceleration": 74.0,
+    "handling": 59.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "not given",
+    "speed": 71.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 683,
+    "offroad_rating": 357,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-piccia-furia",
+    "name": "Piccia Furia",
+    "section": "vehicles",
+    "summary": "Super class. Speed bar 7.8/10, acceleration 8.2/10.",
+    "details": "In-game bars (0-10): Speed 7.8, Acceleration 8.2, Asphalt handling 7.3, Off-road handling 3.6, Strength 3.0. Road rating 781, off-road rating 239. Report tag: CONFIRMED. Source: meowdb tuning-menu values (Nov 22, page marked work in progress). Randy's Wish List car. Location: Mansion on Palladia Ln, Peacock Estates; over the hedge, through the garage",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg fastest cars, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Super",
+    "top_speed_mph": null,
+    "acceleration": 82.0,
+    "handling": 73.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Mansion on Palladia Ln, Peacock Estates; over the hedge, through the garage",
+    "speed": 78.0,
+    "offroad_handling": 36.0,
+    "strength": 30.0,
+    "road_rating": 781,
+    "offroad_rating": 239,
+    "modded": false,
+    "wish_list": true,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-principe-alvino-v1",
+    "name": "Principe Alvino V1",
+    "section": "vehicles",
+    "summary": "Speed bar 6.9/10, acceleration 7.9/10, handling 7.9/10 (single aggregator).",
+    "details": "From timesaver.gg only.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.tech2geek.net/gta-6-fastest-cars-top-10-vehicles-ranked-by-speed/",
+        "title": "tech2geek",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Unknown",
+    "top_speed_mph": null,
+    "acceleration": 79.0,
+    "handling": 79.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": null,
+    "speed": 69.0,
+    "modded": false,
+    "wish_list": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-progen-emerus",
+    "name": "Progen Emerus",
+    "section": "vehicles",
+    "summary": "Speed bar 8.3/10, acceleration 8.3/10, handling 8.4/10 (single aggregator).",
+    "details": "From timesaver.gg only.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.tech2geek.net/gta-6-fastest-cars-top-10-vehicles-ranked-by-speed/",
+        "title": "tech2geek",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://timesaver.gg/tools/gta-6/cars/fastest",
+        "title": "timesaver.gg, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Unknown",
+    "top_speed_mph": null,
+    "acceleration": 83.0,
+    "handling": 84.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": null,
+    "speed": 83.0,
+    "modded": false,
+    "wish_list": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-schyster-pmp-700",
+    "name": "Schyster PMP 700",
+    "section": "vehicles",
+    "summary": "Car class. Speed bar 5.8/10, acceleration 6.4/10.",
+    "details": "In-game bars (0-10): Speed 5.8, Acceleration 6.4, Asphalt handling 4.3, Off-road handling 4.5, Strength 3.0. Road rating 551, off-road rating 353. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Car",
+    "top_speed_mph": null,
+    "acceleration": 64.0,
+    "handling": 43.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 58.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 551,
+    "offroad_rating": 353,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-vapid-65-dominator",
+    "name": "Vapid '65 Dominator",
+    "section": "vehicles",
+    "summary": "Classic muscle class. Speed bar 5.1/10, acceleration 5.6/10.",
+    "details": "In-game bars (0-10): Speed 5.1, Acceleration 5.6, Asphalt handling 3.7, Off-road handling 4.5, Strength 3.0. Road rating 481, off-road rating 343. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Classic muscle",
+    "top_speed_mph": null,
+    "acceleration": 56.0,
+    "handling": 37.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 51.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 481,
+    "offroad_rating": 343,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-vapid-caracara-4x4",
+    "name": "Vapid Caracara 4X4",
+    "section": "vehicles",
+    "summary": "Off-road truck class. Speed bar 4.2/10, acceleration 5.1/10.",
+    "details": "In-game bars (0-10): Speed 4.2, Acceleration 5.1, Asphalt handling 3.3, Off-road handling 6.7, Strength 3.0. Road rating 428, off-road rating 611. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Off-road truck",
+    "top_speed_mph": null,
+    "acceleration": 51.0,
+    "handling": 33.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 42.0,
+    "offroad_handling": 67.0,
+    "strength": 30.0,
+    "road_rating": 428,
+    "offroad_rating": 611,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-vapid-dominator",
+    "name": "Vapid Dominator",
+    "section": "vehicles",
+    "summary": "Muscle class. Speed bar 5.6/10, acceleration 6.0/10.",
+    "details": "In-game bars (0-10): Speed 5.6, Acceleration 6.0, Asphalt handling 4.4, Off-road handling 3.9, Strength 3.0. Road rating 537, off-road rating 275. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Muscle",
+    "top_speed_mph": null,
+    "acceleration": 60.0,
+    "handling": 44.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 56.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 537,
+    "offroad_rating": 275,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-vapid-dominator-asp",
+    "name": "Vapid Dominator ASP",
+    "section": "vehicles",
+    "summary": "Muscle class. Speed bar 5.7/10, acceleration 6.2/10.",
+    "details": "In-game bars (0-10): Speed 5.7, Acceleration 6.2, Asphalt handling 4.6, Off-road handling 4.4, Strength 3.0. Road rating 552, off-road rating 337. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Muscle",
+    "top_speed_mph": null,
+    "acceleration": 62.0,
+    "handling": 46.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 57.0,
+    "offroad_handling": 44.0,
+    "strength": 30.0,
+    "road_rating": 552,
+    "offroad_rating": 337,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-vapid-dominator-gt",
+    "name": "Vapid Dominator GT",
+    "section": "vehicles",
+    "summary": "Muscle class. Speed bar 6.3/10, acceleration 6.8/10.",
+    "details": "In-game bars (0-10): Speed 6.3, Acceleration 6.8, Asphalt handling 5.7, Off-road handling 3.9, Strength 3.0. Road rating 631, off-road rating 283. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Muscle",
+    "top_speed_mph": null,
+    "acceleration": 68.0,
+    "handling": 57.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 63.0,
+    "offroad_handling": 39.0,
+    "strength": 30.0,
+    "road_rating": 631,
+    "offroad_rating": 283,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "vehicle-vapid-ganado",
+    "name": "Vapid Ganado",
+    "section": "vehicles",
+    "summary": "Truck class. Speed bar 4.7/10, acceleration 5.3/10.",
+    "details": "In-game bars (0-10): Speed 4.7, Acceleration 5.3, Asphalt handling 3.6, Off-road handling 4.5, Strength 3.0. Road rating 458, off-road rating 330. Report tag: LIKELY. Source: meowdb tuning-menu values (Nov 22, page marked work in progress).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/best-cars",
+        "title": "meowdb GTA 6 vehicle stats, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Truck",
+    "top_speed_mph": null,
+    "acceleration": 53.0,
+    "handling": 36.0,
+    "braking": null,
+    "seats": null,
+    "price": null,
+    "where_to_find": "Steal one, then register it with Moses or at a Pay 'n' Spray",
+    "speed": 47.0,
+    "offroad_handling": 45.0,
+    "strength": 30.0,
+    "road_rating": 458,
+    "offroad_rating": 330,
+    "modded": false,
+    "wish_list": false,
+    "stats_scale_note": "0-100 = in-game 0-10 x 10",
+    "game_version": "01.002.001"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "stat-strength",
+    "name": "Strength",
+    "section": "character_stats",
+    "summary": "Max health, visible muscle. Train: Weights on Jason's terrace (Ch1), paid gym memberships. Decays: Yes, if Workout Windows are missed.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/workout-guide/",
+        "title": "Dexerto",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them",
+        "title": "Push Square",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "icon": "pink heart",
+    "max_level": 4,
+    "decays": true
+  },
+  {
+    "id": "stat-cardio",
+    "name": "Cardio",
+    "section": "character_stats",
+    "summary": "Max stamina. Train: Punching bag at Jason's house, treadmills and bikes, running, cycling, swimming, kayaking. Decays: Yes.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/workout-guide/",
+        "title": "Dexerto",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them",
+        "title": "Push Square",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "icon": "green bolt",
+    "max_level": 4,
+    "decays": true
+  },
+  {
+    "id": "stat-focus",
+    "name": "Focus",
+    "section": "character_stats",
+    "summary": "Slow-motion aiming time; Combat Focus (click both sticks) also highlights objectives and safe codes. Train: Shooting ranges (Rodgers Ranch, Kelly County, is fast), golf, pool, fishing, feeding Dolores. Decays: No, permanent.",
+    "details": "Report tag: CONFIRMED (stat); LIKELY (training spots).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/workout-guide/",
+        "title": "Dexerto",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them",
+        "title": "Push Square",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "icon": "purple eye",
+    "max_level": 4,
+    "decays": false
+  },
+  {
+    "id": "stat-hunger-and-body-composition",
+    "name": "Hunger and Body Composition",
+    "section": "character_stats",
+    "summary": "Weight follows calories; overeating at Marbles fast food gives \"Overweight\". Train: Eating, sleeping and showering give temporary buffs. Decays: n/a.",
+    "details": "Report tag: LIKELY ([Push Square](https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them)).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them",
+        "title": "Push Square",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "icon": "Fitness app",
+    "max_level": 4,
+    "decays": true
+  }
+]

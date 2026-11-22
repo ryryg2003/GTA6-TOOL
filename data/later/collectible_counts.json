@@ -1,0 +1,571 @@
+[
+  {
+    "id": "collectible-collectible-cards",
+    "name": "Collectible Cards",
+    "section": "collectible_counts",
+    "summary": "480 in 18 sets (12-36 per set) total; 100% needs 15 of 18 sets. Sets themed on Vice City, Liberty City, Los Santos; sell at pawn shops (GTA Boss). Videos confirm a 36-card Jack of Hearts set and 18-card Delights set",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "480 in 18 sets (12-36 per set)",
+    "required_for_100": "15 of 18 sets"
+  },
+  {
+    "id": "collectible-waink-scans",
+    "name": "WAiNK Scans",
+    "section": "collectible_counts",
+    "summary": "108 (Landmarks 31, Curiosities 35, Sculptures 23, Peewee's Billboards 4, No Flusher Tags 15) total; 100% needs 100. GTABoom says 112 in 4 categories",
+    "details": "Report tag: CONFIRMED for 31/35/23 (GTA Boss agrees).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboom.com/gta-6-collectibles",
+        "title": "GTABoom",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "108 (Landmarks 31, Curiosities 35, Sculptures 23, Peewee's Billboards 4, No Flusher Tags 15)",
+    "required_for_100": "100"
+  },
+  {
+    "id": "collectible-ahol-street-art",
+    "name": "Ahol Street Art",
+    "section": "collectible_counts",
+    "summary": "112 in 11 trash-themed types total; 100% needs not listed.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "112 in 11 trash-themed types",
+    "required_for_100": "not listed"
+  },
+  {
+    "id": "collectible-1010-murals",
+    "name": "1010 Murals",
+    "section": "collectible_counts",
+    "summary": "5 total; 100% needs not listed. All five unlock the \"1010 Cheetah\" car and a garage (LIKELY)",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "5",
+    "required_for_100": "not listed"
+  },
+  {
+    "id": "collectible-underwater-discoveries",
+    "name": "Underwater Discoveries",
+    "section": "collectible_counts",
+    "summary": "33 total; 100% needs 33.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "33",
+    "required_for_100": "33"
+  },
+  {
+    "id": "collectible-magazines-books-and-comics",
+    "name": "Magazines, Books and Comics",
+    "section": "collectible_counts",
+    "summary": "27 total; 100% needs 30 of 34. PowerPyx collectible guide 27; PowerPyx 100% list 34; GTA Boss list shows 29",
+    "details": "Report tag: CONFLICT.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "title": "PowerPyx 100%",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "27",
+    "required_for_100": "30 of 34"
+  },
+  {
+    "id": "collectible-book-swaps",
+    "name": "Book Swaps",
+    "section": "collectible_counts",
+    "summary": "7 total; 100% needs not listed.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "7",
+    "required_for_100": "not listed"
+  },
+  {
+    "id": "collectible-meditation-spots",
+    "name": "Meditation Spots",
+    "section": "collectible_counts",
+    "summary": "18 total; 100% needs 15. Trophy \"Positive Mental Attitude\" needs all 18",
+    "details": "Report tag: CONFIRMED (PowerPyx, GTA Boss, three videos).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "18",
+    "required_for_100": "15"
+  },
+  {
+    "id": "collectible-cocaine-flamingos",
+    "name": "Cocaine Flamingos",
+    "section": "collectible_counts",
+    "summary": "125 total; 100% needs 100. Shoot it, collect the cocaine package, sell to a fence. GTABase's \"Hidden Packages\" layer shows 63 or 74 (RUMOR)",
+    "details": "Report tag: CONFIRMED (PowerPyx, GTABoom, video title).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx flamingos",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboom.com/gta-6-collectibles",
+        "title": "GTABoom",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "125",
+    "required_for_100": "100"
+  },
+  {
+    "id": "collectible-unique-playlists",
+    "name": "Unique Playlists",
+    "section": "collectible_counts",
+    "summary": "2 total; 100% needs 2. GTA Boss says \"7 found so far\"",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "2",
+    "required_for_100": "2"
+  },
+  {
+    "id": "collectible-styles",
+    "name": "Styles",
+    "section": "collectible_counts",
+    "summary": "79 (Jason's Magazine 13, Lucia's Magazine 15, Magazine Tattoos 17, Luxury Watches 34) total; 100% needs 70.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "79 (Jason's Magazine 13, Lucia's Magazine 15, Magazine Tattoos 17, Luxury Watches 34)",
+    "required_for_100": "70"
+  },
+  {
+    "id": "collectible-wymans-cars",
+    "name": "Wyman's Cars",
+    "section": "collectible_counts",
+    "summary": "5 total; 100% needs n/a. Ultimate Edition only",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "5",
+    "required_for_100": "n/a"
+  },
+  {
+    "id": "collectible-kentons-treasures",
+    "name": "Kenton's Treasures",
+    "section": "collectible_counts",
+    "summary": "7 sunken wrecks total; 100% needs 5. Finder's fee plus bonus for the right buyer; e.g. 10 doubloons at the Nuestra Señora del Ocio wreck off Key Lento",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "7 sunken wrecks",
+    "required_for_100": "5"
+  },
+  {
+    "id": "collectible-meteorite-chunks",
+    "name": "Meteorite chunks",
+    "section": "collectible_counts",
+    "summary": "about 26 total; 100% needs n/a. Glow at night; 5 in Selkie Hole tunnels; may sit inside another category",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "about 26",
+    "required_for_100": "n/a"
+  },
+  {
+    "id": "collectible-stunts",
+    "name": "Stunts",
+    "section": "collectible_counts",
+    "summary": "397 (Stunt Jumps 130, Under the Bridge 202, Knife Flights 40, Base Jumps 25) total; 100% needs 300. Trophy \"Cunning Stunts\" needs 250",
+    "details": "Report tag: CONFIRMED (130 jumps, PowerPyx + video); LIKELY (rest).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "397 (Stunt Jumps 130, Under the Bridge 202, Knife Flights 40, Base Jumps 25)",
+    "required_for_100": "300"
+  },
+  {
+    "id": "collectible-wildlife",
+    "name": "Wildlife",
+    "section": "collectible_counts",
+    "summary": "255 (Hunts 61, Fish 35, Birds 60, Cats and Dogs 34, Mammals 18, Aquatic 18, Reptiles 6, Other 23) total; 100% needs 100. Pre-launch \"170+ species\" claim is RUMOR",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "255 (Hunts 61, Fish 35, Birds 60, Cats and Dogs 34, Mammals 18, Aquatic 18, Reptiles 6, Other 23)",
+    "required_for_100": "100"
+  },
+  {
+    "id": "collectible-vehicles",
+    "name": "Vehicles",
+    "section": "collectible_counts",
+    "summary": "557 (277 base, 280 Standout) total; 100% needs 200 of 277 scanned. Use the checklist's 277 for 100%",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "557 (277 base, 280 Standout)",
+    "required_for_100": "200 of 277 scanned"
+  },
+  {
+    "id": "collectible-weapons",
+    "name": "Weapons",
+    "section": "collectible_counts",
+    "summary": "196 in tracker total; 100% needs 50 of 66. Dexerto ranks 136, GTABase lists 206",
+    "details": "Report tag: CONFLICT.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "196 in tracker",
+    "required_for_100": "50 of 66"
+  },
+  {
+    "id": "collectible-equipment",
+    "name": "Equipment",
+    "section": "collectible_counts",
+    "summary": "12 total; 100% needs n/a.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "12",
+    "required_for_100": "n/a"
+  },
+  {
+    "id": "collectible-contacts",
+    "name": "Contacts",
+    "section": "collectible_counts",
+    "summary": "10 total; 100% needs n/a.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "10",
+    "required_for_100": "n/a"
+  },
+  {
+    "id": "collectible-gangs",
+    "name": "Gangs",
+    "section": "collectible_counts",
+    "summary": "9 (39 gang operations) total; 100% needs 39 of 39. Operations respawn slowly",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "9 (39 gang operations)",
+    "required_for_100": "39 of 39"
+  },
+  {
+    "id": "collectible-challenges",
+    "name": "Challenges",
+    "section": "collectible_counts",
+    "summary": "80 total; 100% needs 70. 8 categories: Survival, Combat, Sports, Vehicle, Shopping, Criminal, Exploration, Fitness (VICE)",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "80",
+    "required_for_100": "70"
+  },
+  {
+    "id": "collectible-cheats",
+    "name": "Cheats",
+    "section": "collectible_counts",
+    "summary": "61 total; 100% needs n/a. Unlocked after the story via challenges",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "total": "61",
+    "required_for_100": "n/a"
+  }
+]

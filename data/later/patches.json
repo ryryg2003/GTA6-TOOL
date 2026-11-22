@@ -1,0 +1,117 @@
+[
+  {
+    "id": "patch-01-002-000",
+    "name": "01.002.000",
+    "section": "patches",
+    "summary": "Released Nov 13, 2026. PS5 about 1.07 GB, Xbox about 2.18 GB (conflict: other reports say \"about 1 GB more than PS5\"). Official notes: None.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.dlcompare.com/gaming-news/gta-6-day-one-patch-two-silent-updates-and-a-psn-outage",
+        "title": "dLcompare",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.vice.com/en/article/gta-6-day-one-patch-ps5-version-1002/",
+        "title": "Vice",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "version": "01.002.000",
+    "date": "Nov 13, 2026",
+    "ps5_size": "about 1.07 GB",
+    "xbox_size": "about 2.18 GB (conflict: other reports say \"about 1 GB more than PS5\")",
+    "official_notes": "None"
+  },
+  {
+    "id": "patch-01-002-001",
+    "name": "01.002.001",
+    "section": "patches",
+    "summary": "Released Nov 16, 2026. PS5 602.5 MB, Xbox about 1.6 GB (1.59 GB). Official notes: None.",
+    "details": "Report tag: CONFIRMED (sizes, missing notes); LIKELY (date).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.forbes.com/sites/brianmazique/2026/11/17/gta-6-just-got-a-second-update-before-anyone-can-play-it-and-rockstar-still-isnt-saying-what-it-changes/",
+        "title": "Forbes, Nov 17",
+        "accessed": "2026-11-17"
+      },
+      {
+        "url": "https://beebom.com/gta-6-patch-notes-updates-tracker/",
+        "title": "Beebom tracker",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "version": "01.002.001",
+    "date": "Nov 16, 2026",
+    "ps5_size": "602.5 MB",
+    "xbox_size": "about 1.6 GB (1.59 GB)",
+    "official_notes": "None"
+  },
+  {
+    "id": "patch-ps5-system-software-26-07-14-23-00",
+    "name": "PS5 system software 26.07-14.23.00",
+    "section": "patches",
+    "summary": "Released Nov 18 (one note says Nov 17, conflict). PS5 required to start, Xbox n/a. Official notes: n/a.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.dlcompare.com/gaming-news/gta-6-day-one-patch-two-silent-updates-and-a-psn-outage",
+        "title": "dLcompare",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "version": "PS5 system software 26.07-14.23.00",
+    "date": "Nov 18 (one note says Nov 17, conflict)",
+    "ps5_size": "required to start",
+    "xbox_size": "n/a",
+    "official_notes": "n/a"
+  },
+  {
+    "id": "patch-unknown-post-launch-update",
+    "name": "Unknown post-launch update",
+    "section": "patches",
+    "summary": "Released Unknown. PS5 Unknown, Xbox Unknown. Official notes: Unknown.",
+    "details": "Report tag: UNVERIFIED: RockstarINTEL headline \"New GTA VI update released and not everyone has gotten it\", fetch was rate-limited.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://rockstarintel.com/new-gta-vi-update-released-and-not-everyone-has-gotten-it-heres-why/",
+        "title": "RockstarINTEL",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "version": "Unknown post-launch update",
+    "date": "Unknown",
+    "ps5_size": "Unknown",
+    "xbox_size": "Unknown",
+    "official_notes": "Unknown"
+  },
+  {
+    "id": "patch-nov-25-fix",
+    "name": "\"Nov 25 fix\"",
+    "section": "patches",
+    "summary": "Released Nov 25. PS5 n/a, Xbox n/a. Official notes: n/a.",
+    "details": "Report tag: RUMOR (X post, no Rockstar statement).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.dlcompare.com/gaming-news/gta-6-day-one-patch-two-silent-updates-and-a-psn-outage",
+        "title": "dLcompare",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "version": "\"Nov 25 fix\"",
+    "date": "Nov 25",
+    "ps5_size": "n/a",
+    "xbox_size": "n/a",
+    "official_notes": "n/a"
+  }
+]

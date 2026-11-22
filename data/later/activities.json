@@ -1,0 +1,212 @@
+[
+  {
+    "id": "activity-basketball-hoops",
+    "name": "Basketball hoops",
+    "section": "activities",
+    "summary": "Count: 100.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-golf",
+    "name": "Golf",
+    "section": "activities",
+    "summary": "Count: 5 courses (King Gator, Frontier, Dino, Leaf Links, Mount Hailes) in the collectible guide. 100% guide says mini golf 3",
+    "details": "Report tag: CONFLICT.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-pool-opponents",
+    "name": "Pool opponents",
+    "section": "activities",
+    "summary": "Count: 7.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-fishing",
+    "name": "Fishing",
+    "section": "activities",
+    "summary": "Count: 35 species. catch-and-release (RUMOR, pre-launch)",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-hunting",
+    "name": "Hunting",
+    "section": "activities",
+    "summary": "Count: 15 Bret's Target Decks.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-shooting-ranges",
+    "name": "Shooting ranges",
+    "section": "activities",
+    "summary": "Count: 14 challenges, 42 gold medals; $5 waiver.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-races",
+    "name": "Races",
+    "section": "activities",
+    "summary": "Count: 40 unique in 6 groups; 13 race challenges.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-drone-races",
+    "name": "Drone races",
+    "section": "activities",
+    "summary": "Count: 42 time trials at 14 locations.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-arcade-games",
+    "name": "Arcade games",
+    "section": "activities",
+    "summary": "Count: 4 (two named: \"Tenebra Lux\" per video, \"Street Trash Dezombifier III\"). \"Tenebra Lux\" in the video chapter vs \"Tenebrae Lux\" in GameRant",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/collectibles",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "activity-activity-types",
+    "name": "Activity types",
+    "section": "activities",
+    "summary": "Count: 9.",
+    "details": "Report tag: CONFIRMED (Beebom + PowerPyx; trophy \"Master of None\").",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  }
+]

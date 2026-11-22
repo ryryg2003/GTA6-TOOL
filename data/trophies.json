@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "trophy-a-classic-blitz-play",
+    "name": "A Classic Blitz Play",
+    "section": "trophies",
+    "summary": "Rob an armored truck",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Rob an armored truck",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-a-long-road",
+    "name": "A Long Road",
+    "section": "trophies",
+    "summary": "100% completion (hardest trophy)",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "100% completion (hardest trophy)",
+    "missable": false,
+    "grade": "Gold",
+    "category": "Completion",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-actions-speak-louder",
+    "name": "Actions Speak Louder",
+    "section": "trophies",
+    "summary": "500 Criminal Profile actions",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "500 Criminal Profile actions",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-bad-luck-i-guess",
+    "name": "Bad Luck, I Guess",
+    "section": "trophies",
+    "summary": "Rob Payday Loans again and escape on foot",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Rob Payday Loans again and escape on foot",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-baited-my-tackle",
+    "name": "Baited My Tackle",
+    "section": "trophies",
+    "summary": "Beat Cal at fishing",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Beat Cal at fishing",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-break-the-bank",
+    "name": "Break the Bank",
+    "section": "trophies",
+    "summary": "The Cartel Heist",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "The Cartel Heist",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-capital-offense",
+    "name": "Capital Offense",
+    "section": "trophies",
+    "summary": "Drive a specific car through a showroom window",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Drive a specific car through a showroom window",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-catch-me-if-you-can",
+    "name": "Catch Me If You Can",
+    "section": "trophies",
+    "summary": "Steal a passenger plane from VCIA",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Steal a passenger plane from VCIA",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-challenging-tank",
+    "name": "Challenging Tank",
+    "section": "trophies",
+    "summary": "Requirement not captured",
+    "details": "Report tag: LIKELY (name only).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Requirement not captured",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-cunning-stunts",
+    "name": "Cunning Stunts",
+    "section": "trophies",
+    "summary": "250 stunts",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "250 stunts",
+    "missable": false,
+    "grade": "Silver",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-dime-on-the-dollar",
+    "name": "Dime on the Dollar",
+    "section": "trophies",
+    "summary": "Launder $250k in marked bills",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Launder $250k in marked bills",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-dont-touch-my-deck",
+    "name": "Don't Touch My Deck",
+    "section": "trophies",
+    "summary": "3 card sets",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "3 card sets",
+    "missable": false,
+    "grade": "Silver",
+    "category": "Collectible",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-dwnfall",
+    "name": "DWNFALL",
+    "section": "trophies",
+    "summary": "Headliners",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Headliners",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-earn-cash-not-kudos",
+    "name": "Earn Cash, Not Kudos",
+    "section": "trophies",
+    "summary": "Win 20 different races",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Win 20 different races",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-fair-game",
+    "name": "Fair Game",
+    "section": "trophies",
+    "summary": "Unique animal for Bret",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Unique animal for Bret",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Character quest",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-family-matters",
+    "name": "Family Matters",
+    "section": "trophies",
+    "summary": "Child's Play",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Child's Play",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-gunslinger",
+    "name": "Gunslinger",
+    "section": "trophies",
+    "summary": "5 kills in one Combat Focus",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "5 kills in one Combat Focus",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-hi-jacked",
+    "name": "Hi-Jacked",
+    "section": "trophies",
+    "summary": "VCIA Takedown",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "VCIA Takedown",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-hot-together",
+    "name": "Hot Together",
+    "section": "trophies",
+    "summary": "Escape 4 stars with your partner",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Escape 4 stars with your partner",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-in-the-beginning",
+    "name": "In The Beginning…",
+    "section": "trophies",
+    "summary": "Cocktail at Ocean Beach",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Cocktail at Ocean Beach",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-just-like-paradise",
+    "name": "Just Like Paradise",
+    "section": "trophies",
+    "summary": "First Ch1 mission",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "First Ch1 mission",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-lets-go-bowling",
+    "name": "Let's Go Bowling",
+    "section": "trophies",
+    "summary": "Kingpin Bowling valuables",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Kingpin Bowling valuables",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-little-boxes",
+    "name": "Little Boxes",
+    "section": "trophies",
+    "summary": "Buy all 8 garages",
+    "details": "Report tag: CONFIRMED (name).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Buy all 8 garages",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-master-of-none",
+    "name": "Master of None",
+    "section": "trophies",
+    "summary": "Try all 9 activity types",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Try all 9 activity types",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-maximum-withdrawal",
+    "name": "Maximum Withdrawal",
+    "section": "trophies",
+    "summary": "Rob 5 bank vaults",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Rob 5 bank vaults",
+    "missable": false,
+    "grade": "Silver",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-on-the-spot",
+    "name": "On the Spot",
+    "section": "trophies",
+    "summary": "Register 10 vehicles with Scooter Bros",
+    "details": "Report tag: CONFIRMED (name).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Register 10 vehicles with Scooter Bros",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-one-last-thing",
+    "name": "One Last Thing",
+    "section": "trophies",
+    "summary": "50 challenges",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "50 challenges",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-paradise-lost",
+    "name": "Paradise Lost",
+    "section": "trophies",
+    "summary": "Finish Ch1",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Finish Ch1",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-personal-best",
+    "name": "Personal Best",
+    "section": "trophies",
+    "summary": "Max Strength for both characters (Push Square says reach \"Overweight\", conflict)",
+    "details": "Report tag: LIKELY (disputed).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Max Strength for both characters (Push Square says reach \"Overweight\", conflict)",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-pest-control",
+    "name": "Pest Control",
+    "section": "trophies",
+    "summary": "One illegal operation per gang (9 gangs)",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "One illegal operation per gang (9 gangs)",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-positive-mental-attitude",
+    "name": "Positive Mental Attitude",
+    "section": "trophies",
+    "summary": "Meditate at all 18 spots; possibly missable (see conflict)",
+    "details": "Possibly missable: sources disagree. Safe play: do it as soon as it's available. Report tag: CONFIRMED (name).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Meditate at all 18 spots; possibly missable (see conflict)",
+    "missable": true,
+    "grade": "Bronze",
+    "category": "Collectible",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-retail-therapy",
+    "name": "Retail Therapy",
+    "section": "trophies",
+    "summary": "3 shop robberies in a row without losing the wanted level",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "3 shop robberies in a row without losing the wanted level",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-road-to-rehabilitation",
+    "name": "Road to Rehabilitation",
+    "section": "trophies",
+    "summary": "Andy's quest (\"Puff Puff Pass\")",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Andy's quest (\"Puff Puff Pass\")",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Character quest",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-sneakthief",
+    "name": "Sneakthief",
+    "section": "trophies",
+    "summary": "Undetected jewelry store robbery",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Undetected jewelry store robbery",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Crime",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-snow-storm",
+    "name": "Snow Storm",
+    "section": "trophies",
+    "summary": "Operation Savage Glory",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Operation Savage Glory",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-spin-on-this",
+    "name": "Spin On This!",
+    "section": "trophies",
+    "summary": "Tyrone's quest",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Tyrone's quest",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Character quest",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-stick-fiddler",
+    "name": "Stick Fiddler",
+    "section": "trophies",
+    "summary": "Finish all levels of one arcade game",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Finish all levels of one arcade game",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-strangers-freaks",
+    "name": "Strangers & Freaks",
+    "section": "trophies",
+    "summary": "8 questline strands",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "8 questline strands",
+    "missable": false,
+    "grade": "Silver",
+    "category": "Character quest",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-supply-demand",
+    "name": "Supply & Demand",
+    "section": "trophies",
+    "summary": "Randy's Wish List",
+    "details": "Report tag: CONFIRMED (name).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Randy's Wish List",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Character quest",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-t-s-ass-drug-money",
+    "name": "T**s Ass Drug Money",
+    "section": "trophies",
+    "summary": "Ch2",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Ch2",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-ten-pin",
+    "name": "Ten Pin",
+    "section": "trophies",
+    "summary": "Kick 10 pedestrians in a melee drive-by within 60 seconds",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Kick 10 pedestrians in a melee drive-by within 60 seconds",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-the-goodtime-state",
+    "name": "The Goodtime State",
+    "section": "trophies",
+    "summary": "Clear fog from the whole map",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Clear fog from the whole map",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Collectible",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-the-lone-rider",
+    "name": "The Lone Rider",
+    "section": "trophies",
+    "summary": "Billy's quest (\"Hometown Heroes\")",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Billy's quest (\"Hometown Heroes\")",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Character quest",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-the-shootist",
+    "name": "The Shootist",
+    "section": "trophies",
+    "summary": "Gold in every shooting range challenge",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Gold in every shooting range challenge",
+    "missable": false,
+    "grade": "Silver",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-the-truth-is-out-there",
+    "name": "The Truth Is Out There",
+    "section": "trophies",
+    "summary": "UFO easter egg",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "UFO easter egg",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-this-was-no-boat-accident",
+    "name": "This Was No Boat Accident",
+    "section": "trophies",
+    "summary": "Kenton's quest",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Kenton's quest",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Character quest",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-top-fun",
+    "name": "Top Fun",
+    "section": "trophies",
+    "summary": "Win a drone race at every location",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Win a drone race at every location",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Activity",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-top-of-the-world-ma",
+    "name": "Top Of The World, Ma",
+    "section": "trophies",
+    "summary": "Ch4",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Ch4",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-treat-yo-self",
+    "name": "Treat Yo Self",
+    "section": "trophies",
+    "summary": "Spend $100k in shops",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Spend $100k in shops",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Misc",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-trust",
+    "name": "Trust",
+    "section": "trophies",
+    "summary": "Breakfast Run",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Breakfast Run",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-vice-city-baby",
+    "name": "Vice City, Baby!",
+    "section": "trophies",
+    "summary": "Ch3",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Ch3",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Story",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-vice-got-a-price",
+    "name": "Vice Got A Price!",
+    "section": "trophies",
+    "summary": "All other trophies",
+    "details": "Report tag: CONFIRMED (name).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "All other trophies",
+    "missable": false,
+    "grade": "Platinum",
+    "category": "Platinum",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-whip-it-good",
+    "name": "Whip It Good",
+    "section": "trophies",
+    "summary": "Discover 100 vehicles",
+    "details": "Report tag: CONFIRMED (name).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Discover 100 vehicles",
+    "missable": false,
+    "grade": "Bronze",
+    "category": "Collectible",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-you-gotta-know-when-to-get-off",
+    "name": "You Gotta Know When to Get Off",
+    "section": "trophies",
+    "summary": "Final mission (SPOILER)",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "Final mission (SPOILER)",
+    "missable": false,
+    "grade": "Gold",
+    "category": "Story",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "trophy-you-wainker",
+    "name": "You WAiNKer!",
+    "section": "trophies",
+    "summary": "100 WAiNK scans",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/",
+        "title": "GGRecon, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "how_to_unlock": "100 WAiNK scans",
+    "missable": false,
+    "grade": "Silver",
+    "category": "Collectible",
+    "spoiler": false,
+    "game_version": "01.002.001"
+  }
+]

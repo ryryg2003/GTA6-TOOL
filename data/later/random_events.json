@@ -1,0 +1,161 @@
+[
+  {
+    "id": "event-manatee-motel-tiger",
+    "name": "Manatee Motel tiger",
+    "section": "random_events",
+    "summary": "SW of Hamlet, above Shoeless Keys (Ch1): Tiger has killed most of a gang; shotgun behind the building; cash inside; 3-4 gang members arrive after",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-ocean-stilt-house",
+    "name": "Ocean stilt house",
+    "section": "random_events",
+    "summary": "Northernmost stilt house NE of Corsair Key, by boat: Dead gang, cash and cocaine; Focus reveals a floorboard stash",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-dog-on-a-jet-ski",
+    "name": "Dog on a jet ski",
+    "section": "random_events",
+    "summary": "At sea when stranded: Goggled dog rescues you",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gtacodex.com/discover/gta-6-random-events",
+        "title": "GTA Codex",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-abandoned-car-with-alarm",
+    "name": "Abandoned car with alarm",
+    "section": "random_events",
+    "summary": "Roadside, Ch2: Leads into the woods to a body and an apparent alien abduction",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-keys-liquor-store-parrots",
+    "name": "Keys liquor store parrots",
+    "section": "random_events",
+    "summary": "Leonida Keys: Fight while parrots cheer; one reveals cash near a generator",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-tempesta-repo-fight",
+    "name": "Tempesta repo fight",
+    "section": "random_events",
+    "summary": "NE 3rd St: Owner fighting a repo man; steal the car from the tow truck (Randy's list)",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "title": "Push Square",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-crashed-drug-plane",
+    "name": "Crashed drug plane",
+    "section": "random_events",
+    "summary": "not given: Drugs to sell",
+    "details": "Report tag: RUMOR.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gtacodex.com/discover/gta-6-random-events",
+        "title": "GTA Codex",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-criminal-interceptions",
+    "name": "Criminal interceptions",
+    "section": "random_events",
+    "summary": "anywhere: Reported $1,000-$15,000",
+    "details": "Report tag: RUMOR (payout).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gamerbolt.com/gta-6-money-guide/",
+        "title": "gamerbolt",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "event-police-stun-gun",
+    "name": "Police stun gun",
+    "section": "random_events",
+    "summary": "Ch1 random chase: Incapacitate an officer to get a stun gun",
+    "details": "Report tag: RUMOR (one forum post).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.resetera.com/threads/gta-vi-tips-and-tricks-thread-mark-spoilers-or-keep-them-vague.1693481/",
+        "title": "ResetEra",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  }
+]

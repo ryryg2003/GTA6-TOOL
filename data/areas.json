@@ -1,0 +1,677 @@
+[
+  {
+    "id": "vice-city",
+    "name": "Vice City",
+    "x": 760,
+    "y": 640,
+    "kind": "region",
+    "official": true,
+    "placeholder_position": true
+  },
+  {
+    "id": "leonida-keys",
+    "name": "Leonida Keys",
+    "x": 560,
+    "y": 910,
+    "kind": "region",
+    "official": true,
+    "placeholder_position": true
+  },
+  {
+    "id": "grassrivers",
+    "name": "Grassrivers",
+    "x": 500,
+    "y": 650,
+    "kind": "region",
+    "official": true,
+    "placeholder_position": true
+  },
+  {
+    "id": "port-gellhorn",
+    "name": "Port Gellhorn",
+    "x": 180,
+    "y": 330,
+    "kind": "region",
+    "official": true,
+    "placeholder_position": true
+  },
+  {
+    "id": "ambrosia",
+    "name": "Ambrosia",
+    "x": 420,
+    "y": 320,
+    "kind": "region",
+    "official": true,
+    "placeholder_position": true
+  },
+  {
+    "id": "mount-kalaga",
+    "name": "Mount Kalaga National Park",
+    "x": 640,
+    "y": 130,
+    "kind": "region",
+    "official": true,
+    "placeholder_position": true
+  },
+  {
+    "id": "mariana-leonard",
+    "name": "Mariana and Leonard counties",
+    "x": 700,
+    "y": 420,
+    "kind": "region",
+    "official": false,
+    "placeholder_position": true
+  },
+  {
+    "id": "area-balsero",
+    "name": "Balsero",
+    "x": 785,
+    "y": 640,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-bayside",
+    "name": "Bayside",
+    "x": 737,
+    "y": 660,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-bluegrass",
+    "name": "Bluegrass",
+    "x": 763,
+    "y": 603,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-crosstown",
+    "name": "Crosstown",
+    "x": 786,
+    "y": 674,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-dalton-island",
+    "name": "Dalton Island",
+    "x": 711,
+    "y": 631,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-decor-district",
+    "name": "Decor District",
+    "x": 806,
+    "y": 610,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-downtown",
+    "name": "Downtown",
+    "x": 744,
+    "y": 698,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-hamlet",
+    "name": "Hamlet",
+    "x": 729,
+    "y": 580,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-la-perle",
+    "name": "La Perle",
+    "x": 783,
+    "y": 648,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-little-cuba",
+    "name": "Little Cuba",
+    "x": 731,
+    "y": 651,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-ocean-beach",
+    "name": "Ocean Beach",
+    "x": 775,
+    "y": 606,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-penmarch-isle",
+    "name": "Penmarch Isle",
+    "x": 772,
+    "y": 681,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-port-vc",
+    "name": "Port VC",
+    "x": 717,
+    "y": 615,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-salton",
+    "name": "Salton",
+    "x": 813,
+    "y": 628,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-southside",
+    "name": "Southside",
+    "x": 724,
+    "y": 689,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-tequesta",
+    "name": "Tequesta",
+    "x": 751,
+    "y": 573,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-tequesta-retreat",
+    "name": "Tequesta Retreat",
+    "x": 779,
+    "y": 656,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-vcia",
+    "name": "VCIA",
+    "x": 729,
+    "y": 641,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-vcia-terminals",
+    "name": "VCIA Terminals",
+    "x": 786,
+    "y": 613,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-washington-beach",
+    "name": "Washington Beach",
+    "x": 758,
+    "y": 682,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-south-vice-dale-county",
+    "name": "South Vice-Dale County",
+    "x": 728,
+    "y": 602,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-west-vice-dale-county",
+    "name": "West Vice-Dale County",
+    "x": 814,
+    "y": 647,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-starfish-island",
+    "name": "Starfish Island",
+    "x": 709,
+    "y": 674,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-belville",
+    "name": "Belville",
+    "x": 774,
+    "y": 574,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-capri",
+    "name": "Capri",
+    "x": 772,
+    "y": 661,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-vespucci-island",
+    "name": "Vespucci Island",
+    "x": 730,
+    "y": 630,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-key-lento",
+    "name": "Key Lento",
+    "x": 585,
+    "y": 910,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-abismo-key",
+    "name": "Abismo Key",
+    "x": 537,
+    "y": 930,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-corsair-key",
+    "name": "Corsair Key",
+    "x": 563,
+    "y": 873,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-breakwater-quarry",
+    "name": "Breakwater Quarry",
+    "x": 586,
+    "y": 944,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-mile-zero-air-station",
+    "name": "Mile Zero Air Station",
+    "x": 511,
+    "y": 901,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-permit-keys",
+    "name": "Permit Keys",
+    "x": 606,
+    "y": 880,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-riquezas-key",
+    "name": "Riquezas Key",
+    "x": 544,
+    "y": 968,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-grassrivers-wetlands",
+    "name": "Grassrivers (wetlands)",
+    "x": 525,
+    "y": 650,
+    "kind": "sub_area",
+    "region": "grassrivers",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-north-mariana-county",
+    "name": "North Mariana County",
+    "x": 725,
+    "y": 420,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-belpoint",
+    "name": "Belpoint",
+    "x": 677,
+    "y": 440,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-watson-bay",
+    "name": "Watson Bay",
+    "x": 703,
+    "y": 383,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-mount-hailes-country-club",
+    "name": "Mount Hailes Country Club",
+    "x": 726,
+    "y": 454,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-north-leonard-county",
+    "name": "North Leonard County",
+    "x": 651,
+    "y": 411,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-south-leonard-county",
+    "name": "South Leonard County",
+    "x": 746,
+    "y": 390,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-richard-barebone-national-park",
+    "name": "Richard Barebone National Park",
+    "x": 684,
+    "y": 478,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-waning-sands",
+    "name": "Waning Sands",
+    "x": 669,
+    "y": 360,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-ambrosia",
+    "name": "Ambrosia",
+    "x": 445,
+    "y": 320,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-port-gellhorn",
+    "name": "Port Gellhorn",
+    "x": 157,
+    "y": 350,
+    "kind": "sub_area",
+    "region": "port-gellhorn",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-gellhorn",
+    "name": "Gellhorn",
+    "x": 183,
+    "y": 293,
+    "kind": "sub_area",
+    "region": "port-gellhorn",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-draper-island",
+    "name": "Draper Island",
+    "x": 206,
+    "y": 364,
+    "kind": "sub_area",
+    "region": "port-gellhorn",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-emerald-springs",
+    "name": "Emerald Springs",
+    "x": 371,
+    "y": 311,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-frogswater",
+    "name": "Frogswater",
+    "x": 226,
+    "y": 300,
+    "kind": "sub_area",
+    "region": "port-gellhorn",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-manifest-canyon",
+    "name": "Manifest Canyon",
+    "x": 404,
+    "y": 378,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-north-kelly-county",
+    "name": "North Kelly County",
+    "x": 389,
+    "y": 260,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-south-kelly-county",
+    "name": "South Kelly County",
+    "x": 443,
+    "y": 328,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-thrillbilly-mud-club",
+    "name": "Thrillbilly Mud Club",
+    "x": 391,
+    "y": 331,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-wild-hog-point",
+    "name": "Wild Hog Point",
+    "x": 195,
+    "y": 296,
+    "kind": "sub_area",
+    "region": "port-gellhorn",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-bonanza",
+    "name": "Bonanza",
+    "x": 432,
+    "y": 361,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-dawson-dam",
+    "name": "Dawson Dam",
+    "x": 377,
+    "y": 295,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-grayson",
+    "name": "Grayson",
+    "x": 473,
+    "y": 308,
+    "kind": "sub_area",
+    "region": "ambrosia",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-kalaga-national-park",
+    "name": "Kalaga National Park",
+    "x": 665,
+    "y": 130,
+    "kind": "sub_area",
+    "region": "mount-kalaga",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-macalister-gold-mine",
+    "name": "MacAlister Gold Mine",
+    "x": 617,
+    "y": 150,
+    "kind": "sub_area",
+    "region": "mount-kalaga",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-millport",
+    "name": "Millport",
+    "x": 643,
+    "y": 93,
+    "kind": "sub_area",
+    "region": "mount-kalaga",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-moreau",
+    "name": "Moreau",
+    "x": 666,
+    "y": 164,
+    "kind": "sub_area",
+    "region": "mount-kalaga",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-kalaga-reservoir",
+    "name": "Kalaga Reservoir",
+    "x": 591,
+    "y": 121,
+    "kind": "sub_area",
+    "region": "mount-kalaga",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-vice-beach",
+    "name": "Vice Beach",
+    "x": 790,
+    "y": 610,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-peacock-estates",
+    "name": "Peacock Estates",
+    "x": 790,
+    "y": 610,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-waxman-island",
+    "name": "Waxman Island",
+    "x": 790,
+    "y": 610,
+    "kind": "sub_area",
+    "region": "vice-city",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-sharktooth-island",
+    "name": "Sharktooth Island",
+    "x": 730,
+    "y": 390,
+    "kind": "sub_area",
+    "region": "mariana-leonard",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-shoeless-keys",
+    "name": "Shoeless Keys",
+    "x": 590,
+    "y": 880,
+    "kind": "sub_area",
+    "region": "leonida-keys",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-cottonmouth-lake",
+    "name": "Cottonmouth Lake",
+    "x": 530,
+    "y": 620,
+    "kind": "sub_area",
+    "region": "grassrivers",
+    "placeholder_position": true
+  },
+  {
+    "id": "area-big-pine",
+    "name": "Big Pine",
+    "x": 530,
+    "y": 620,
+    "kind": "sub_area",
+    "region": "grassrivers",
+    "placeholder_position": true
+  }
+]

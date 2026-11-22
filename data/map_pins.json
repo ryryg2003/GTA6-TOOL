@@ -1,0 +1,3256 @@
+[
+  {
+    "id": "pin-1-flamingo",
+    "name": "1 flamingo",
+    "section": "map_pins",
+    "summary": "Cocaine Flamingo: Watson Bay, SW corner of a motel on the eastern edge, among trash.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "drugs",
+    "x": 702,
+    "y": 391,
+    "location_precision": "approximate",
+    "area_name": "Watson Bay",
+    "how_to_reach": "Watson Bay, SW corner of a motel on the eastern edge, among trash",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-1-flamingo-2",
+    "name": "1 flamingo",
+    "section": "map_pins",
+    "summary": "Cocaine Flamingo: La Perle, ground level in the C-shaped building NW of Tyrone's apartment.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "drugs",
+    "x": 789,
+    "y": 644,
+    "location_precision": "approximate",
+    "area_name": "La Perle",
+    "how_to_reach": "La Perle, ground level in the C-shaped building NW of Tyrone's apartment",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-6-flamingos",
+    "name": "6 flamingos",
+    "section": "map_pins",
+    "summary": "Cocaine Flamingo: Mariana County, Belpoint: SE docks; two burning-flamingo houses (big white, small white); inside the burning container on the beach; by the beach fire next to a body and chair; on a yellow container in the water.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "drugs",
+    "x": 669,
+    "y": 437,
+    "location_precision": "approximate",
+    "area_name": "Belpoint",
+    "how_to_reach": "Mariana County, Belpoint: SE docks; two burning-flamingo houses (big white, small white); inside the burning container on the beach; by the beach fire next to a body and chair; on a yellow container in the water",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-abandoned-car-with-alarm",
+    "name": "Abandoned car with alarm",
+    "section": "map_pins",
+    "summary": "Leads into the woods to a body and an apparent alien abduction.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 764,
+    "y": 646,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Roadside, Ch2",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-assassin-nipper-38",
+    "name": "Assassin Nipper .38",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Derelict spy vessel, Permit Keys.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-assassin-pistol-smuggler-shotgun-locations/",
+        "title": "games.gg",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 607,
+    "y": 878,
+    "location_precision": "approximate",
+    "area_name": "Permit Keys",
+    "how_to_reach": "Derelict spy vessel, Permit Keys",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-assassin-nipper-38"
+  },
+  {
+    "id": "pin-basketball-hoop",
+    "name": "Basketball hoop",
+    "section": "map_pins",
+    "summary": "Activity: Front garden of a Starfish Island mansion.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "activities",
+    "x": 699,
+    "y": 681,
+    "location_precision": "approximate",
+    "area_name": "Starfish Island",
+    "how_to_reach": "Front garden of a Starfish Island mansion",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-bigfoot-skunk-ape",
+    "name": "Bigfoot / Skunk Ape",
+    "section": "map_pins",
+    "summary": "Chase leads to a foul-smelling effigy; matches Kirk's \"Search for the Skunk Ape\" quest (night only).",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/",
+        "title": "PowerPyx S&F",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 528,
+    "y": 610,
+    "location_precision": "approximate",
+    "area_name": "Cottonmouth Lake",
+    "how_to_reach": "Woods near Cottonmouth Lake",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-birds-nest-eggs",
+    "name": "Bird's nest eggs",
+    "section": "map_pins",
+    "summary": "Throwing an egg triggers a cutscene; nods to GTA Vice City.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 749,
+    "y": 629,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Top of a communications tower (about a 7-minute climb)",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-black-eagle-import-m306-tmr",
+    "name": "Black Eagle Import M306 TMR",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: not given.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/weapons",
+        "title": "NiaMeowDB, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 760,
+    "y": 643,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "not given",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-black-eagle-import-m306-tmr"
+  },
+  {
+    "id": "pin-caminos-signature-k17",
+    "name": "Caminos Signature K17",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Ultimate Edition, given to Lucia in Ch2.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
+        "title": "Dexerto K17",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://meowdb.com/gta6/weapons",
+        "title": "NiaMeowDB, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 762,
+    "y": 633,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Ultimate Edition, given to Lucia in Ch2",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-caminos-signature-k17"
+  },
+  {
+    "id": "pin-card-on-ammu-nation-billboard",
+    "name": "Card on Ammu-Nation billboard",
+    "section": "map_pins",
+    "summary": "Card: Climb the billboard tower behind the Hamlet Ammu-Nation.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gtaboom.com/gta-6-collectibles",
+        "title": "GTABoom",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectible-cards",
+    "x": 725,
+    "y": 580,
+    "location_precision": "approximate",
+    "area_name": "Hamlet",
+    "how_to_reach": "Climb the billboard tower behind the Hamlet Ammu-Nation",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-crashed-drug-plane",
+    "name": "Crashed drug plane",
+    "section": "map_pins",
+    "summary": "Drugs to sell.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gtacodex.com/discover/gta-6-random-events",
+        "title": "GTA Codex",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 762,
+    "y": 633,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "not given",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-criminal-interceptions",
+    "name": "Criminal interceptions",
+    "section": "map_pins",
+    "summary": "Reported $1,000-$15,000.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gamerbolt.com/gta-6-money-guide/",
+        "title": "gamerbolt",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 769,
+    "y": 644,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "anywhere",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-dexters-apartment-lookalike",
+    "name": "Dexter's apartment lookalike",
+    "section": "map_pins",
+    "summary": "Not enterable.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 756,
+    "y": 640,
+    "location_precision": "approximate",
+    "area_name": "Vice City",
+    "how_to_reach": "Vice City",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-dog-on-a-jet-ski",
+    "name": "Dog on a jet ski",
+    "section": "map_pins",
+    "summary": "Goggled dog rescues you.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gtacodex.com/discover/gta-6-random-events",
+        "title": "GTA Codex",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 757,
+    "y": 635,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "At sea when stranded",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-duval-signature-es9",
+    "name": "Duval Signature ES9",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Ultimate Edition, Jason's locker from Ch1.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-weapons-locations-unlocks/",
+        "title": "games.gg",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-assassin-pistol-smuggler-shotgun-locations/",
+        "title": "games.gg",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 755,
+    "y": 645,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Ultimate Edition, Jason's locker from Ch1",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-duval-signature-es9"
+  },
+  {
+    "id": "pin-festive-poodle-cartoon-labrador",
+    "name": "Festive Poodle, Cartoon Labrador",
+    "section": "map_pins",
+    "summary": "Unique dogs: not given.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectibles",
+    "x": 771,
+    "y": 634,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "not given",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-flamingo",
+    "name": "Flamingo",
+    "section": "map_pins",
+    "summary": "Cocaine Flamingo: Garden of an eccentric house, central Key Lento.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "drugs",
+    "x": 593,
+    "y": 919,
+    "location_precision": "approximate",
+    "area_name": "Key Lento",
+    "how_to_reach": "Garden of an eccentric house, central Key Lento",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-gellhorn-funfair",
+    "name": "Gellhorn Funfair",
+    "section": "map_pins",
+    "summary": "WAiNK scan: Big Ferris wheel, Port Gellhorn.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectibles",
+    "x": 151,
+    "y": 360,
+    "location_precision": "approximate",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": "Big Ferris wheel, Port Gellhorn",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-hidden-barn-loot",
+    "name": "Hidden barn loot",
+    "section": "map_pins",
+    "summary": "No enemies; weapons, cash, cocaine, a $6,000 baseball card.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 731,
+    "y": 613,
+    "location_precision": "approximate",
+    "area_name": "South Vice-Dale County",
+    "how_to_reach": "South Vice-Dale County warehouse NE of Hamlet near Lucia's former prison",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-hunters-laird-350",
+    "name": "Hunter's Laird 350",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Conflict: abandoned motel south of Hamlet, or random encounter in western Grassrivers.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-sniper-location/",
+        "title": "games.gg sniper",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 719,
+    "y": 587,
+    "location_precision": "approximate",
+    "area_name": "Hamlet",
+    "how_to_reach": "Conflict: abandoned motel south of Hamlet, or random encounter in western Grassrivers",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-hunters-laird-350"
+  },
+  {
+    "id": "pin-juan-carlos-garcia-card",
+    "name": "Juan Carlos Garcia card",
+    "section": "map_pins",
+    "summary": "Card: Box inside a garage, Key Lento.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectible-cards",
+    "x": 574,
+    "y": 899,
+    "location_precision": "approximate",
+    "area_name": "Key Lento",
+    "how_to_reach": "Box inside a garage, Key Lento",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-keys-liquor-store-parrots",
+    "name": "Keys liquor store parrots",
+    "section": "map_pins",
+    "summary": "Fight while parrots cheer; one reveals cash near a generator.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-easter-eggs-778903-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 571,
+    "y": 904,
+    "location_precision": "approximate",
+    "area_name": "Leonida Keys",
+    "how_to_reach": "Leonida Keys",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-killtelligence-sm-69",
+    "name": "Killtelligence SM-69",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Bret's first hunting quest.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://egamers.io/gta-6-weapons-guide-every-class-launcher-and-sniper-prices-and-which-ammu-nation-stores-sell-them/",
+        "title": "eGamers",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "V",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 757,
+    "y": 635,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Bret's first hunting quest",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-killtelligence-sm-69"
+  },
+  {
+    "id": "pin-kingfisher-w-22-and-kingfishers-laird-350",
+    "name": "Kingfisher W-22 and Kingfisher's Laird 350",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Gated Kingfisher compound, Grassrivers.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
+        "title": "Dexerto K17",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://meowdb.com/gta6/weapons",
+        "title": "NiaMeowDB, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 506,
+    "y": 646,
+    "location_precision": "approximate",
+    "area_name": "Grassrivers",
+    "how_to_reach": "Gated Kingfisher compound, Grassrivers",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-kingfisher-w-22-and-kingfishers-laird-350"
+  },
+  {
+    "id": "pin-manatee-motel-tiger",
+    "name": "Manatee Motel tiger",
+    "section": "map_pins",
+    "summary": "Tiger has killed most of a gang; shotgun behind the building; cash inside; 3-4 gang members arrive after.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 596,
+    "y": 876,
+    "location_precision": "approximate",
+    "area_name": "Shoeless Keys",
+    "how_to_reach": "SW of Hamlet, above Shoeless Keys (Ch1)",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-map-color-legend",
+    "name": "Map color legend",
+    "section": "map_pins",
+    "summary": "Dark-blue buildings are enterable with loot; light-blue are scenery; full-color are hideouts or friends; red Focus doors need a special lockpick.",
+    "details": "Report tag: LIKELY (several forum posters, no press).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.resetera.com/threads/gta-vi-tips-and-tricks-thread-mark-spoilers-or-keep-them-vague.1693481/page-5",
+        "title": "ResetEra p.5",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 754,
+    "y": 650,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Map",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-marabunta-grande-hobo",
+    "name": "Marabunta Grande Hobo",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Industrial storage building south of Hamlet.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-weapons-locations-unlocks/",
+        "title": "games.gg",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-assassin-pistol-smuggler-shotgun-locations/",
+        "title": "games.gg",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 721,
+    "y": 577,
+    "location_precision": "approximate",
+    "area_name": "Hamlet",
+    "how_to_reach": "Industrial storage building south of Hamlet",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-marabunta-grande-hobo"
+  },
+  {
+    "id": "pin-mount-chiliad-conversation",
+    "name": "Mount Chiliad conversation",
+    "section": "map_pins",
+    "summary": "Two patrons discuss Chiliad and a bunker with jetpacks and eggs.",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
+        "title": "GamingBible, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 751,
+    "y": 642,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Outside the bar where Jason meets Donnie and Brian, early story",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-nine1nine-card",
+    "name": "Nine1Nine card",
+    "section": "map_pins",
+    "summary": "Card: Warehouse office, Draper Island restricted area.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectible-cards",
+    "x": 209,
+    "y": 375,
+    "location_precision": "approximate",
+    "area_name": "Draper Island",
+    "how_to_reach": "Warehouse office, Draper Island restricted area",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-ocean-stilt-house",
+    "name": "Ocean stilt house",
+    "section": "map_pins",
+    "summary": "Dead gang, cash and cocaine; Focus reveals a floorboard stash.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 553,
+    "y": 880,
+    "location_precision": "approximate",
+    "area_name": "Corsair Key",
+    "how_to_reach": "Northernmost stilt house NE of Corsair Key, by boat",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-patriarch-drx",
+    "name": "Patriarch DRX",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Underwater south of Kalaga Reservoir.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
+        "title": "Dexerto K17",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://meowdb.com/gta6/weapons",
+        "title": "NiaMeowDB, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 584,
+    "y": 113,
+    "location_precision": "approximate",
+    "area_name": "Kalaga Reservoir",
+    "how_to_reach": "Underwater south of Kalaga Reservoir",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-patriarch-drx"
+  },
+  {
+    "id": "pin-patriarch-drx-pistol",
+    "name": "Patriarch DRX pistol",
+    "section": "map_pins",
+    "summary": "Weapon: Underwater by a sunken car, south of Kalaga Reservoir.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 595,
+    "y": 127,
+    "location_precision": "approximate",
+    "area_name": "Kalaga Reservoir",
+    "how_to_reach": "Underwater by a sunken car, south of Kalaga Reservoir",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-police-stun-gun",
+    "name": "Police stun gun",
+    "section": "map_pins",
+    "summary": "Incapacitate an officer to get a stun gun.",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.resetera.com/threads/gta-vi-tips-and-tricks-thread-mark-spoilers-or-keep-them-vague.1693481/",
+        "title": "ResetEra",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 753,
+    "y": 632,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Ch1 random chase",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-president-russos-bunkers",
+    "name": "President Russo's bunkers",
+    "section": "map_pins",
+    "summary": "Russo's 1922 Pistol (legendary), Hauners Ridgway tank (respawns, cannot be registered), Cold War 556 rifle (legendary), then a secret assassination side mission.",
+    "details": "Report tag: CONFIRMED (bunkers, codes, rewards); LIKELY (side mission); UNRESOLVED (Bunker 2 location).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
+        "title": "Beebom",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=lrSeYhS5aJA",
+        "title": "YouTube lrSeYhS5aJA",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://beebom.com/gta-6-safe-codes/",
+        "title": "Beebom",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-tenebrae-lux-phone-puzzle-solution/",
+        "title": "GameRant, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-south-park-easter-egg/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 725,
+    "y": 423,
+    "location_precision": "approximate",
+    "area_name": "North Mariana County",
+    "how_to_reach": "Start: veteran Jose Bermudez at Friends of Freedom, Catalan Blvd, eastern Downtown Vice City; his Little Cuba apartment (salmon building, Cuban flags). Bunker 1: Sharktooth Island, north of Waning Sands. Bunker 2: conflict, GameRant says south of the highway Ammu-Nation in southern North Mariana County, Beebom says NW of Grassrivers left of Big Pine",
+    "code": "1922",
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-russos-1922-pistol-cold-war-556",
+    "name": "Russo's 1922 Pistol, Cold War 556",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: President's bunkers.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 769,
+    "y": 644,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "President's bunkers",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-russos-1922-pistol-cold-war-556"
+  },
+  {
+    "id": "pin-safe-code-0072-pelican-valley-crab-research-outpost-safe",
+    "name": "Safe code 0072 - Pelican Valley crab research outpost safe",
+    "section": "map_pins",
+    "summary": "Pelican Valley crab research outpost safe.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 758,
+    "y": 630,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Pelican Valley crab research outpost safe",
+    "code": "0072",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-010317-president-russo-bunker-1-door-sharktooth-is",
+    "name": "Safe code 010317 - President Russo Bunker 1 door, Sharktooth Island (",
+    "section": "map_pins",
+    "summary": "President Russo Bunker 1 door, Sharktooth Island (Russo's birthday).",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
+        "title": "Beebom, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=lrSeYhS5aJA",
+        "title": "YouTube lrSeYhS5aJA",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 724,
+    "y": 400,
+    "location_precision": "approximate",
+    "area_name": "Sharktooth Island",
+    "how_to_reach": "President Russo Bunker 1 door, Sharktooth Island (Russo's birthday)",
+    "code": "010317",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-0104-donovan-banks-and-co",
+    "name": "Safe code 0104 - Donovan Banks and Co",
+    "section": "map_pins",
+    "summary": "Donovan Banks and Co. (Yasmani's Jewelry Jobs); keep the leading zero.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 751,
+    "y": 642,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Donovan Banks and Co. (Yasmani's Jewelry Jobs); keep the leading zero",
+    "code": "0104",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-0212-pelican-valley-boat-garage-keypad-note-is-ins",
+    "name": "Safe code 0212 - Pelican Valley boat garage keypad; note is inside ",
+    "section": "map_pins",
+    "summary": "Pelican Valley boat garage keypad; note is inside the 0072 safe.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 765,
+    "y": 641,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Pelican Valley boat garage keypad; note is inside the 0072 safe",
+    "code": "0212",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-0300-kingpin-bowling",
+    "name": "Safe code 0300 - Kingpin Bowling",
+    "section": "map_pins",
+    "summary": "Kingpin Bowling.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://xboxplay.games/gta-6/gta-6-safe-codes-robberies-guide-all-combinations-77421",
+        "title": "xboxplay.games",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 756,
+    "y": 640,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Kingpin Bowling",
+    "code": "0300",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-0420-key-lento-lab-door-lab-fees",
+    "name": "Safe code 0420 - Key Lento lab door (\"Lab Fees\")",
+    "section": "map_pins",
+    "summary": "Key Lento lab door (\"Lab Fees\"). Roonby labels it \"Moonstone Boutique room\".",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
+        "title": "Roonby, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 587,
+    "y": 903,
+    "location_precision": "approximate",
+    "area_name": "Key Lento",
+    "how_to_reach": "Key Lento lab door (\"Lab Fees\"). Roonby labels it \"Moonstone Boutique room\"",
+    "code": "0420",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-085355-bunker-2-tree-hatch-keypad-obsess-on-a-seve",
+    "name": "Safe code 085355 - Bunker 2 tree-hatch keypad (\"OBSESS\" on a seven-se",
+    "section": "map_pins",
+    "summary": "Bunker 2 tree-hatch keypad (\"OBSESS\" on a seven-segment display).",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 752,
+    "y": 637,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Bunker 2 tree-hatch keypad (\"OBSESS\" on a seven-segment display)",
+    "code": "085355",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-1680-casa-de-empe-o-yasmanis-jewelry-jobs",
+    "name": "Safe code 1680 - Casa de Empeño (Yasmani's Jewelry Jobs)",
+    "section": "map_pins",
+    "summary": "Casa de Empeño (Yasmani's Jewelry Jobs).",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 760,
+    "y": 643,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Casa de Empeño (Yasmani's Jewelry Jobs)",
+    "code": "1680",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-2008-delights-club-office-port-gellhorn-afternoon",
+    "name": "Safe code 2008 - Delights club office, Port Gellhorn (\"Afternoon De",
+    "section": "map_pins",
+    "summary": "Delights club office, Port Gellhorn (\"Afternoon Delight\").",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 150,
+    "y": 342,
+    "location_precision": "approximate",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": "Delights club office, Port Gellhorn (\"Afternoon Delight\")",
+    "code": "2008",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-2341-protocol-2-clue-inside-bunker-1-orders-the-ra",
+    "name": "Safe code 2341 - \"Protocol #2\" clue inside Bunker 1 (orders the rad",
+    "section": "map_pins",
+    "summary": "\"Protocol #2\" clue inside Bunker 1 (orders the radio numbers).",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 761,
+    "y": 638,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "\"Protocol #2\" clue inside Bunker 1 (orders the radio numbers)",
+    "code": "2341",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-2975-bunker-1-safe",
+    "name": "Safe code 2975 - Bunker 1 safe",
+    "section": "map_pins",
+    "summary": "Bunker 1 safe.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 768,
+    "y": 649,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Bunker 1 safe",
+    "code": "2975",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-44017-cottonmouth-lake-trailer",
+    "name": "Safe code 44017 - Cottonmouth Lake trailer",
+    "section": "map_pins",
+    "summary": "Cottonmouth Lake trailer.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
+        "title": "Roonby, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://beebom.com/gta-6-safe-codes/",
+        "title": "Beebom",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
+        "title": "Beebom, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 533,
+    "y": 631,
+    "location_precision": "approximate",
+    "area_name": "Cottonmouth Lake",
+    "how_to_reach": "Cottonmouth Lake trailer",
+    "code": "44017",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-6815-richardson-jewelry-yasmanis-jewelry-jobs",
+    "name": "Safe code 6815 - Richardson Jewelry (Yasmani's Jewelry Jobs)",
+    "section": "map_pins",
+    "summary": "Richardson Jewelry (Yasmani's Jewelry Jobs).",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
+        "title": "PC Gamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 767,
+    "y": 631,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Richardson Jewelry (Yasmani's Jewelry Jobs)",
+    "code": "6815",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-6823-brooks-boatworks-kolt-and-associates-hideout",
+    "name": "Safe code 6823 - Brooks Boatworks, Kolt and Associates hideout, Por",
+    "section": "map_pins",
+    "summary": "Brooks Boatworks, Kolt and Associates hideout, Port Gellhorn.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://xboxplay.games/gta-6/gta-6-safe-codes-robberies-guide-all-combinations-77421",
+        "title": "xboxplay.games",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 166,
+    "y": 354,
+    "location_precision": "approximate",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": "Brooks Boatworks, Kolt and Associates hideout, Port Gellhorn",
+    "code": "6823",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-6969-la-cascara-motel",
+    "name": "Safe code 6969 - La Cascara Motel",
+    "section": "map_pins",
+    "summary": "La Cascara Motel.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://xboxplay.games/gta-6/gta-6-safe-codes-robberies-guide-all-combinations-77421",
+        "title": "xboxplay.games",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 749,
+    "y": 629,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "La Cascara Motel",
+    "code": "6969",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-7700-brians-lockup-mission-lab-fees",
+    "name": "Safe code 7700 - Brian's lockup (mission \"Lab Fees\")",
+    "section": "map_pins",
+    "summary": "Brian's lockup (mission \"Lab Fees\").",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
+        "title": "Roonby, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://beebom.com/gta-6-safe-codes/",
+        "title": "Beebom",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube -eLZbZSZizU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 755,
+    "y": 645,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Brian's lockup (mission \"Lab Fees\")",
+    "code": "7700",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-safe-code-7777-nova-auto-junkyard",
+    "name": "Safe code 7777 - Nova Auto Junkyard",
+    "section": "map_pins",
+    "summary": "Nova Auto Junkyard.",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
+        "title": "Roonby, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://beebom.com/gta-6-safe-codes/",
+        "title": "Beebom",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
+        "title": "Beebom, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 770,
+    "y": 639,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Nova Auto Junkyard",
+    "code": "7777",
+    "game_version": "01.002.001",
+    "randomized": false
+  },
+  {
+    "id": "pin-shrewsbury-sms-01",
+    "name": "Shrewsbury SMS-01",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Bret's 9th hunting quest.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
+        "title": "Dexerto K17",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://meowdb.com/gta6/weapons",
+        "title": "NiaMeowDB, Nov 22",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 764,
+    "y": 646,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Bret's 9th hunting quest",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-shrewsbury-sms-01-2"
+  },
+  {
+    "id": "pin-smugglers-gorse-425",
+    "name": "Smuggler's Gorse 425",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Abandoned smuggler boat, northernmost Permit Keys island.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-weapons-locations-unlocks/",
+        "title": "games.gg",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-assassin-pistol-smuggler-shotgun-locations/",
+        "title": "games.gg",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 614,
+    "y": 889,
+    "location_precision": "approximate",
+    "area_name": "Permit Keys",
+    "how_to_reach": "Abandoned smuggler boat, northernmost Permit Keys island",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-smugglers-gorse-425"
+  },
+  {
+    "id": "pin-stunt-jumps-1-4-balsero-bayside-bluegrass",
+    "name": "Stunt jumps 1-4 (Balsero, Bayside, Bluegrass)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 1-4 are in Balsero, Bayside, Bluegrass. Video timestamp 0:00.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 767,
+    "y": 609,
+    "location_precision": "approximate",
+    "area_name": "Bluegrass",
+    "how_to_reach": "Balsero, Bayside, Bluegrass",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-101-103-manifest-canyon",
+    "name": "Stunt jumps 101-103 (Manifest Canyon)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 101-103 are in Manifest Canyon. Video timestamp 10:52.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 397,
+    "y": 370,
+    "location_precision": "approximate",
+    "area_name": "Manifest Canyon",
+    "how_to_reach": "Manifest Canyon",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-104-106-north-kelly-county",
+    "name": "Stunt jumps 104-106 (North Kelly County)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 104-106 are in North Kelly County. Video timestamp 11:12.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 389,
+    "y": 263,
+    "location_precision": "approximate",
+    "area_name": "North Kelly County",
+    "how_to_reach": "North Kelly County",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-107-109-port-gellhorn",
+    "name": "Stunt jumps 107-109 (Port Gellhorn)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 107-109 are in Port Gellhorn. Video timestamp 11:31.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 164,
+    "y": 341,
+    "location_precision": "approximate",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": "Port Gellhorn",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-110-117-south-kelly-county-thrillbilly-mud-club",
+    "name": "Stunt jumps 110-117 (South Kelly County, Thrillbilly Mud Club)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 110-117 are in South Kelly County, Thrillbilly Mud Club, Wild Hog Point, Bonanza, Dawson Dam, Grayson. Video timestamp 11:51.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 382,
+    "y": 333,
+    "location_precision": "approximate",
+    "area_name": "Thrillbilly Mud Club",
+    "how_to_reach": "South Kelly County, Thrillbilly Mud Club, Wild Hog Point, Bonanza, Dawson Dam, Grayson",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-118-122-kalaga-national-park",
+    "name": "Stunt jumps 118-122 (Kalaga National Park)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 118-122 are in Kalaga National Park. Video timestamp 12:43.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 663,
+    "y": 120,
+    "location_precision": "approximate",
+    "area_name": "Kalaga National Park",
+    "how_to_reach": "Kalaga National Park",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-12-13-hamlet",
+    "name": "Stunt jumps 12-13 (Hamlet)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 12-13 are in Hamlet. Video timestamp 1:14.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 731,
+    "y": 573,
+    "location_precision": "approximate",
+    "area_name": "Hamlet",
+    "how_to_reach": "Hamlet",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-123-127-macalister-gold-mine",
+    "name": "Stunt jumps 123-127 (MacAlister Gold Mine)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 123-127 are in MacAlister Gold Mine. Video timestamp 13:15.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 622,
+    "y": 151,
+    "location_precision": "approximate",
+    "area_name": "MacAlister Gold Mine",
+    "how_to_reach": "MacAlister Gold Mine",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-128-130-millport-moreau",
+    "name": "Stunt jumps 128-130 (Millport + Moreau)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 128-130 are in Millport + Moreau. Video timestamp 13:48.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 632,
+    "y": 82,
+    "location_precision": "approximate",
+    "area_name": "Millport",
+    "how_to_reach": "Millport + Moreau",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-14-16-la-perle",
+    "name": "Stunt jumps 14-16 (La Perle)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 14-16 are in La Perle. Video timestamp 1:27.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 792,
+    "y": 652,
+    "location_precision": "approximate",
+    "area_name": "La Perle",
+    "how_to_reach": "La Perle",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-17-18-little-cuba",
+    "name": "Stunt jumps 17-18 (Little Cuba)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 17-18 are in Little Cuba. Video timestamp 1:46.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 724,
+    "y": 643,
+    "location_precision": "approximate",
+    "area_name": "Little Cuba",
+    "how_to_reach": "Little Cuba",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-19-31-ocean-beach-penmarch-isle",
+    "name": "Stunt jumps 19-31 (Ocean Beach + Penmarch Isle)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 19-31 are in Ocean Beach + Penmarch Isle. Video timestamp 1:59.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 772,
+    "y": 684,
+    "location_precision": "approximate",
+    "area_name": "Penmarch Isle",
+    "how_to_reach": "Ocean Beach + Penmarch Isle",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-32-34-port-vc-salton",
+    "name": "Stunt jumps 32-34 (Port VC + Salton)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 32-34 are in Port VC + Salton. Video timestamp 3:24.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 724,
+    "y": 606,
+    "location_precision": "approximate",
+    "area_name": "Port VC",
+    "how_to_reach": "Port VC + Salton",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-35-38-south-vice-dale-county-southside",
+    "name": "Stunt jumps 35-38 (South Vice-Dale County + Southside)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 35-38 are in South Vice-Dale County + Southside. Video timestamp 3:43.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 719,
+    "y": 604,
+    "location_precision": "approximate",
+    "area_name": "South Vice-Dale County",
+    "how_to_reach": "South Vice-Dale County + Southside",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-39-42-tequesta-tequesta-retreat",
+    "name": "Stunt jumps 39-42 (Tequesta + Tequesta Retreat)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 39-42 are in Tequesta + Tequesta Retreat. Video timestamp 4:09.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 777,
+    "y": 646,
+    "location_precision": "approximate",
+    "area_name": "Tequesta Retreat",
+    "how_to_reach": "Tequesta + Tequesta Retreat",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-43-48-vcia",
+    "name": "Stunt jumps 43-48 (VCIA)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 43-48 are in VCIA. Video timestamp 4:35.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 734,
+    "y": 642,
+    "location_precision": "approximate",
+    "area_name": "VCIA",
+    "how_to_reach": "VCIA",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-49-51-vcia-terminals-washington-beach",
+    "name": "Stunt jumps 49-51 (VCIA Terminals + Washington Beach)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 49-51 are in VCIA Terminals + Washington Beach. Video timestamp 5:14.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 747,
+    "y": 671,
+    "location_precision": "approximate",
+    "area_name": "Washington Beach",
+    "how_to_reach": "VCIA Terminals + Washington Beach",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-5-8-crosstown-dalton-island-decor-district",
+    "name": "Stunt jumps 5-8 (Crosstown, Dalton Island, Decor District)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 5-8 are in Crosstown, Dalton Island, Decor District. Video timestamp 0:28.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 817,
+    "y": 604,
+    "location_precision": "approximate",
+    "area_name": "Decor District",
+    "how_to_reach": "Crosstown, Dalton Island, Decor District",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-52-54-west-vice-dale-county",
+    "name": "Stunt jumps 52-54 (West Vice-Dale County)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 52-54 are in West Vice-Dale County. Video timestamp 5:34.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 810,
+    "y": 647,
+    "location_precision": "approximate",
+    "area_name": "West Vice-Dale County",
+    "how_to_reach": "West Vice-Dale County",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-55-56-abismo-key",
+    "name": "Stunt jumps 55-56 (Abismo Key)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 55-56 are in Abismo Key. Video timestamp 5:53.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 540,
+    "y": 941,
+    "location_precision": "approximate",
+    "area_name": "Abismo Key",
+    "how_to_reach": "Abismo Key",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-57-61-breakwater-quarry-corsair-key",
+    "name": "Stunt jumps 57-61 (Breakwater Quarry + Corsair Key)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 57-61 are in Breakwater Quarry + Corsair Key. Video timestamp 6:06.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 596,
+    "y": 943,
+    "location_precision": "approximate",
+    "area_name": "Breakwater Quarry",
+    "how_to_reach": "Breakwater Quarry + Corsair Key",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-62-64-grassrivers",
+    "name": "Stunt jumps 62-64 (Grassrivers)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 62-64 are in Grassrivers. Video timestamp 6:39.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 494,
+    "y": 660,
+    "location_precision": "approximate",
+    "area_name": "Grassrivers",
+    "how_to_reach": "Grassrivers",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-65-66-key-lento",
+    "name": "Stunt jumps 65-66 (Key Lento)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 65-66 are in Key Lento. Video timestamp 6:58.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 586,
+    "y": 908,
+    "location_precision": "approximate",
+    "area_name": "Key Lento",
+    "how_to_reach": "Key Lento",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-67-69-mile-zero-air-station",
+    "name": "Stunt jumps 67-69 (Mile Zero Air Station)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 67-69 are in Mile Zero Air Station. Video timestamp 7:11.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 519,
+    "y": 910,
+    "location_precision": "approximate",
+    "area_name": "Mile Zero Air Station",
+    "how_to_reach": "Mile Zero Air Station",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-70-72-north-mariana-county-mount-hailes-coun",
+    "name": "Stunt jumps 70-72 (North Mariana County + Mount Hailes Coun)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 70-72 are in North Mariana County + Mount Hailes Country Club. Video timestamp 7:31.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 718,
+    "y": 451,
+    "location_precision": "approximate",
+    "area_name": "Mount Hailes Country Club",
+    "how_to_reach": "North Mariana County + Mount Hailes Country Club",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-73-74-north-leonard-county",
+    "name": "Stunt jumps 73-74 (North Leonard County)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 73-74 are in North Leonard County. Video timestamp 7:50.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 650,
+    "y": 419,
+    "location_precision": "approximate",
+    "area_name": "North Leonard County",
+    "how_to_reach": "North Leonard County",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-75-76-richard-barebone-national-park",
+    "name": "Stunt jumps 75-76 (Richard Barebone National Park)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 75-76 are in Richard Barebone National Park. Video timestamp 8:03.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 690,
+    "y": 474,
+    "location_precision": "approximate",
+    "area_name": "Richard Barebone National Park",
+    "how_to_reach": "Richard Barebone National Park",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-77-80-south-leonard-county",
+    "name": "Stunt jumps 77-80 (South Leonard County)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 77-80 are in South Leonard County. Video timestamp 8:16.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 736,
+    "y": 397,
+    "location_precision": "approximate",
+    "area_name": "South Leonard County",
+    "how_to_reach": "South Leonard County",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-81-83-waning-sands",
+    "name": "Stunt jumps 81-83 (Waning Sands)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 81-83 are in Waning Sands. Video timestamp 8:42.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 666,
+    "y": 355,
+    "location_precision": "approximate",
+    "area_name": "Waning Sands",
+    "how_to_reach": "Waning Sands",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-84-88-ambrosia",
+    "name": "Stunt jumps 84-88 (Ambrosia)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 84-88 are in Ambrosia. Video timestamp 9:02.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 449,
+    "y": 326,
+    "location_precision": "approximate",
+    "area_name": "Ambrosia",
+    "how_to_reach": "Ambrosia",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-89-90-draper-island",
+    "name": "Stunt jumps 89-90 (Draper Island)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 89-90 are in Draper Island. Video timestamp 9:34.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 217,
+    "y": 358,
+    "location_precision": "approximate",
+    "area_name": "Draper Island",
+    "how_to_reach": "Draper Island",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-9-11-downtown",
+    "name": "Stunt jumps 9-11 (Downtown)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 9-11 are in Downtown. Video timestamp 0:54.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 739,
+    "y": 703,
+    "location_precision": "approximate",
+    "area_name": "Downtown",
+    "how_to_reach": "Downtown",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-91-92-emerald-springs",
+    "name": "Stunt jumps 91-92 (Emerald Springs)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 91-92 are in Emerald Springs. Video timestamp 9:47.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 366,
+    "y": 316,
+    "location_precision": "approximate",
+    "area_name": "Emerald Springs",
+    "how_to_reach": "Emerald Springs",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-93-94-frogswater",
+    "name": "Stunt jumps 93-94 (Frogswater)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 93-94 are in Frogswater. Video timestamp 10:00.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 228,
+    "y": 293,
+    "location_precision": "approximate",
+    "area_name": "Frogswater",
+    "how_to_reach": "Frogswater",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-stunt-jumps-95-100-gellhorn",
+    "name": "Stunt jumps 95-100 (Gellhorn)",
+    "section": "map_pins",
+    "summary": "Stunt jumps 95-100 are in Gellhorn. Video timestamp 10:13.",
+    "details": "Grouping from a stunt-jump video's chapters, which draws on MapGenie. Total count of 130 is confirmed.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=uq5T0aZgjFA",
+        "title": "YouTube uq5T0aZgjFA, JFL VIDEOS, Nov 20",
+        "accessed": "2026-11-20"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "stunt-jumps",
+    "x": 192,
+    "y": 297,
+    "location_precision": "approximate",
+    "area_name": "Gellhorn",
+    "how_to_reach": "Gellhorn",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-sunset-blush-makeup",
+    "name": "Sunset Blush makeup",
+    "section": "map_pins",
+    "summary": "Style: Magazine in a Key Lento bedroom.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectibles",
+    "x": 586,
+    "y": 908,
+    "location_precision": "approximate",
+    "area_name": "Key Lento",
+    "how_to_reach": "Magazine in a Key Lento bedroom",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-tempesta-repo-fight",
+    "name": "Tempesta repo fight",
+    "section": "map_pins",
+    "summary": "Owner fighting a repo man; steal the car from the tow truck (Randy's list).",
+    "details": "Random events are not marked on the in-game map and may not repeat once done (unverified).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations",
+        "title": "Push Square",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "random-events",
+    "x": 755,
+    "y": 645,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "NE 3rd St",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-tenebrae-lux-phone-code",
+    "name": "Tenebrae Lux phone code",
+    "section": "map_pins",
+    "summary": "Randomized per playthrough. Guide examples 416643# and 424345# are NOT universal codes.",
+    "details": "Randomized per playthrough: no fixed code exists. Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-tenebrae-lux-phone-puzzle-solution/",
+        "title": "GameRant, Nov 18",
+        "accessed": "2026-11-18"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 759,
+    "y": 648,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Randomized per playthrough. Guide examples 416643# and 424345# are NOT universal codes",
+    "code": null,
+    "game_version": "01.002.001",
+    "randomized": true
+  },
+  {
+    "id": "pin-tenebrae-lux-puzzle-game",
+    "name": "Tenebrae Lux puzzle game",
+    "section": "map_pins",
+    "summary": "Six dated rooms with anomalies become a randomized phone code; a ruins-and-bridge symbol puzzle (three wrong steps reshuffle); 11 notebook pages open a door at the end of a pier to a cabin with two monitors (secret ending).",
+    "details": "Report tag: CONFIRMED (game and puzzles); LIKELY (ending reward, Outputlag only).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-tenebrae-lux-phone-puzzle-solution/",
+        "title": "GameRant phone",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-tenebrae-lux-ruins-bridge-symbols-puzzle/",
+        "title": "GameRant bridge, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://outputlag.com/guides/gta-6-tenebrae-lux/",
+        "title": "Outputlag",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://outputlag.com/guides/gta-6-easter-eggs/",
+        "title": "Outputlag",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 767,
+    "y": 631,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "JoySystem console in Jason's house",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-three-sheets-liquor-back-room",
+    "name": "Three Sheets Liquor back room",
+    "section": "map_pins",
+    "summary": "4-5 guards, cash.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 770,
+    "y": 639,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Via Shirley's errand (Ch1)",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-tranquilizer-rifle",
+    "name": "Tranquilizer rifle",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: Final mission of Kirk's Sasquatch questline.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://gamesfuze.com/guides/how-to-unlock-sniper-rifle-in-gta-6-sasquatch-quest/",
+        "title": "GamesFuze",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 771,
+    "y": 634,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Final mission of Kirk's Sasquatch questline",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-tranquilizer-rifle"
+  },
+  {
+    "id": "pin-trigger-happy-99",
+    "name": "Trigger Happy #99",
+    "section": "map_pins",
+    "summary": "Magazine: House in north-central Key Lento.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectibles",
+    "x": 595,
+    "y": 909,
+    "location_precision": "approximate",
+    "area_name": "Key Lento",
+    "how_to_reach": "House in north-central Key Lento",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-type-9-smg-and-duke-556",
+    "name": "Type 9 SMG and Duke 556",
+    "section": "map_pins",
+    "summary": "Free weapon pickup: South Vice-Dale County warehouse; Type 9 right of the entrance.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.noobfeed.com/articles/gta-6-early-game-guns",
+        "title": "NoobFeed",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "weapons",
+    "x": 727,
+    "y": 610,
+    "location_precision": "approximate",
+    "area_name": "South Vice-Dale County",
+    "how_to_reach": "South Vice-Dale County warehouse; Type 9 right of the entrance",
+    "code": null,
+    "game_version": "01.002.001",
+    "weapon_id": "weapon-type-9-smg-and-duke-556"
+  },
+  {
+    "id": "pin-ufo-easter-egg",
+    "name": "UFO easter egg",
+    "section": "map_pins",
+    "summary": "A trophy \"The Truth Is Out There\" exists for it.",
+    "details": "Report tag: LIKELY (trophy list).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+        "title": "PowerPyx trophies",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "secrets",
+    "x": 765,
+    "y": 641,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "not given",
+    "code": null,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-wish-list-ascot-paragon",
+    "name": "Wish List: Ascot Paragon",
+    "section": "map_pins",
+    "summary": "Outside The Banana Hole bar, Shore Dr, Vice Beach (about 6 PM); has a tracker.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 788,
+    "y": 600,
+    "location_precision": "approximate",
+    "area_name": "Vice Beach",
+    "how_to_reach": "Outside The Banana Hole bar, Shore Dr, Vice Beach (about 6 PM); has a tracker",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": null
+  },
+  {
+    "id": "pin-wish-list-bravado-banshee",
+    "name": "Wish List: Bravado Banshee",
+    "section": "map_pins",
+    "summary": "Outside Sweetbay Inn, East Buckley Dr, Capri (about 3 AM).",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 763,
+    "y": 663,
+    "location_precision": "approximate",
+    "area_name": "Capri",
+    "how_to_reach": "Outside Sweetbay Inn, East Buckley Dr, Capri (about 3 AM)",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": null
+  },
+  {
+    "id": "pin-wish-list-bravado-gauntlet-hellfire",
+    "name": "Wish List: Bravado Gauntlet Hellfire",
+    "section": "map_pins",
+    "summary": "Back of M7 junkyard east of Boone Speedway, off Galerina St, Hamlet.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 718,
+    "y": 569,
+    "location_precision": "approximate",
+    "area_name": "Hamlet",
+    "how_to_reach": "Back of M7 junkyard east of Boone Speedway, off Galerina St, Hamlet",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-bravado-gauntlet-hellfire"
+  },
+  {
+    "id": "pin-wish-list-buckingham-jubilee",
+    "name": "Wish List: Buckingham Jubilee",
+    "section": "map_pins",
+    "summary": "Driveways in Belville, Rialto Islands, Starfish Island.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 708,
+    "y": 682,
+    "location_precision": "approximate",
+    "area_name": "Starfish Island",
+    "how_to_reach": "Driveways in Belville, Rialto Islands, Starfish Island",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-buckingham-jubilee"
+  },
+  {
+    "id": "pin-wish-list-buckingham-windsor-drop",
+    "name": "Wish List: Buckingham Windsor Drop",
+    "section": "map_pins",
+    "summary": "Status Auto Imports (Bayside), Capri, Y Hotel, Lake Tallaloko.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 745,
+    "y": 669,
+    "location_precision": "approximate",
+    "area_name": "Bayside",
+    "how_to_reach": "Status Auto Imports (Bayside), Capri, Y Hotel, Lake Tallaloko",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-buckingham-windsor-drop"
+  },
+  {
+    "id": "pin-wish-list-granforma-zorrusso",
+    "name": "Wish List: Granforma Zorrusso",
+    "section": "map_pins",
+    "summary": "Mission-based.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 754,
+    "y": 650,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Mission-based",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-granforma-zorrusso"
+  },
+  {
+    "id": "pin-wish-list-invetero-coquette-d10",
+    "name": "Wish List: Invetero Coquette D10",
+    "section": "map_pins",
+    "summary": "Mission-based.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 761,
+    "y": 638,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Mission-based",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-invetero-coquette-d10"
+  },
+  {
+    "id": "pin-wish-list-mamba-gt",
+    "name": "Wish List: Mamba GT",
+    "section": "map_pins",
+    "summary": "Leaf Links mansion, Vice Beach; key in a bowl behind the sofa; via \"¡Dale Mamba!\".",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 800,
+    "y": 609,
+    "location_precision": "approximate",
+    "area_name": "Vice Beach",
+    "how_to_reach": "Leaf Links mansion, Vice Beach; key in a bowl behind the sofa; via \"¡Dale Mamba!\"",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": null
+  },
+  {
+    "id": "pin-wish-list-ocelot-jugular",
+    "name": "Wish List: Ocelot Jugular",
+    "section": "map_pins",
+    "summary": "Belville garage north of Druthers State Bank; The Vault nightclub.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 766,
+    "y": 571,
+    "location_precision": "approximate",
+    "area_name": "Belville",
+    "how_to_reach": "Belville garage north of Druthers State Bank; The Vault nightclub",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-ocelot-jugular-modded"
+  },
+  {
+    "id": "pin-wish-list-pegassi-96-infernus",
+    "name": "Wish List: Pegassi '96 Infernus",
+    "section": "map_pins",
+    "summary": "Crosstown Police Station parking, NW 9th St, level 7.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 782,
+    "y": 674,
+    "location_precision": "approximate",
+    "area_name": "Crosstown",
+    "how_to_reach": "Crosstown Police Station parking, NW 9th St, level 7",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-pegassi-96-infernus-modded"
+  },
+  {
+    "id": "pin-wish-list-pegassi-tempesta",
+    "name": "Wish List: Pegassi Tempesta",
+    "section": "map_pins",
+    "summary": "Random event on NE 3rd St (owner vs repo man).",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 763,
+    "y": 651,
+    "location_precision": "approximate",
+    "area_name": "Unknown (placed at Vice City center)",
+    "how_to_reach": "Random event on NE 3rd St (owner vs repo man)",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-pegassi-tempesta"
+  },
+  {
+    "id": "pin-wish-list-pegassi-toros",
+    "name": "Wish List: Pegassi Toros",
+    "section": "map_pins",
+    "summary": "Pegassi Residences, Paradise Wines Vineyard Bar, Capri.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 778,
+    "y": 657,
+    "location_precision": "approximate",
+    "area_name": "Capri",
+    "how_to_reach": "Pegassi Residences, Paradise Wines Vineyard Bar, Capri",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-pegassi-toros"
+  },
+  {
+    "id": "pin-wish-list-pegassi-vitello",
+    "name": "Wish List: Pegassi Vitello",
+    "section": "map_pins",
+    "summary": "Villa on Flamingo Pkwy, Waning Sands (east of Belville); Clone Key at nearest garage.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 676,
+    "y": 351,
+    "location_precision": "approximate",
+    "area_name": "Waning Sands",
+    "how_to_reach": "Villa on Flamingo Pkwy, Waning Sands (east of Belville); Clone Key at nearest garage",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-pegassi-vitello"
+  },
+  {
+    "id": "pin-wish-list-pfister-growler",
+    "name": "Wish List: Pfister Growler",
+    "section": "map_pins",
+    "summary": "Northern Capri, Vice Beach car parks.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 780,
+    "y": 617,
+    "location_precision": "approximate",
+    "area_name": "Vice Beach",
+    "how_to_reach": "Northern Capri, Vice Beach car parks",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-pfister-growler"
+  },
+  {
+    "id": "pin-wish-list-piccia-furia",
+    "name": "Wish List: Piccia Furia",
+    "section": "map_pins",
+    "summary": "Mansion on Palladia Ln, Peacock Estates; over the hedge, through the garage.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant, Nov 21",
+        "accessed": "2026-11-21"
+      },
+      {
+        "url": "https://game8.co/games/GTA-6/archives/639287",
+        "title": "Game8",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 795,
+    "y": 611,
+    "location_precision": "approximate",
+    "area_name": "Peacock Estates",
+    "how_to_reach": "Mansion on Palladia Ln, Peacock Estates; over the hedge, through the garage",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": "vehicle-piccia-furia"
+  },
+  {
+    "id": "pin-wish-list-truffade-thrax",
+    "name": "Wish List: Truffade Thrax",
+    "section": "map_pins",
+    "summary": "Ferry Waxman Island to Dalton Island, car park behind Dalton Island Club, deliver to Bayside Drive Garage; about $18,000; cannot keep it.",
+    "details": "Randy's Wish List unlocks after Chapter 3 mission \"Clonin' Keys, Makin' GS\".",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://culturedvultures.com/gta-6-where-to-find-the-truffade-thrax/",
+        "title": "Cultured Vultures, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 708,
+    "y": 626,
+    "location_precision": "approximate",
+    "area_name": "Dalton Island",
+    "how_to_reach": "Ferry Waxman Island to Dalton Island, car park behind Dalton Island Club, deliver to Bayside Drive Garage; about $18,000; cannot keep it",
+    "code": null,
+    "game_version": "01.002.001",
+    "vehicle_id": null
+  },
+  {
+    "id": "pin-wyman-kit-car",
+    "name": "Wyman kit car",
+    "section": "map_pins",
+    "summary": "Vehicle: Garage in Capri.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/",
+        "title": "The Big Lead",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "rare-vehicles",
+    "x": 769,
+    "y": 656,
+    "location_precision": "approximate",
+    "area_name": "Capri",
+    "how_to_reach": "Garage in Capri",
+    "code": null,
+    "game_version": "01.002.001"
+  }
+]
