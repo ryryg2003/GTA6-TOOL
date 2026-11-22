@@ -33,7 +33,6 @@ export function getAreas(): Area[] {
 export function routeFor(entry: Base): string {
   switch (entry.section) {
     case 'map_pins': return `/map?pin=${entry.id}`;
-    case 'trophies': return '/progress';
     default: return `/${entry.section}/${entry.id}`;
   }
 }

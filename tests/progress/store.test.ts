@@ -1,7 +1,7 @@
 import { vi } from 'vitest';
 import { act, renderHook } from '@testing-library/react';
 import {
-  createProgressStore, emptyState, loadState, needsBackupReminder, saveState, STORAGE_KEY, useProgress,
+  createProgressStore, emptyState, loadState, localDay, needsBackupReminder, saveState, STORAGE_KEY, useProgress,
 } from '../../src/progress/store';
 
 class MemStorage {
@@ -66,11 +66,6 @@ test('export then import round-trips exactly', () => {
   expect(b.getState().pinOverrides).toEqual({ 'pin-1': { x: 10, y: 20 } });
 });
 
-test('exportBackup records lastBackup', () => {
-  const a = createProgressStore(new MemStorage());
-  a.exportBackup(new Date('2026-11-22T12:00:00Z'));
-  expect(a.getState().lastBackup).toBe('2026-11-22');
-});
 
 test('needsBackupReminder rules', () => {
   const today = new Date('2026-11-22T12:00:00Z');
@@ -116,4 +111,54 @@ test('the damaged-progress copy is saved once, not again on every launch', () =>
   for (const day of ['2026-11-20', '2026-11-21', '2026-11-22']) { vi.setSystemTime(new Date(day + 'T12:00:00Z')); createProgressStore(st); }
   vi.useRealTimers();
   expect([...st.data.keys()].filter((k) => k.includes(':corrupt')).length).toBe(1);
+});
+
+// #3 import confirmation + merge
+test('previewBackup reports counts without changing progress', () => {
+  const a = createProgressStore(new MemStorage());
+  a.toggle('x'); a.toggle('y');
+  const json = a.exportBackup();
+  const b = createProgressStore(new MemStorage());
+  b.toggle('z');
+  expect(b.previewBackup(json)).toEqual({ ok: true, backupDone: 2, currentDone: 1 });
+  expect(b.isDone('x')).toBe(false);
+  expect(b.previewBackup('nope').ok).toBe(false);
+});
+
+test('importBackup merge mode keeps both sets of progress', () => {
+  const a = createProgressStore(new MemStorage());
+  a.toggle('x'); a.setPinOverride('p1', 1, 2);
+  const json = a.exportBackup();
+  const b = createProgressStore(new MemStorage());
+  b.toggle('z'); b.setPinOverride('p2', 3, 4);
+  expect(b.importBackup(json, 'merge')).toEqual({ ok: true });
+  expect(Object.keys(b.getState().done).sort()).toEqual(['x', 'z']);
+  expect(Object.keys(b.getState().pinOverrides).sort()).toEqual(['p1', 'p2']);
+});
+
+test('importBackup replace mode replaces progress', () => {
+  const a = createProgressStore(new MemStorage());
+  a.toggle('x');
+  const b = createProgressStore(new MemStorage());
+  b.toggle('z');
+  b.importBackup(a.exportBackup(), 'replace');
+  expect(Object.keys(b.getState().done)).toEqual(['x']);
+});
+
+// #4 lastBackup only set once the save is known to have happened
+test('exportBackup does not mark a backup; markBackedUp does', () => {
+  const a = createProgressStore(new MemStorage());
+  a.exportBackup();
+  expect(a.getState().lastBackup).toBeNull();
+  a.markBackedUp(new Date(2026, 10, 22, 12));
+  expect(a.getState().lastBackup).toBe('2026-11-22');
+});
+
+// #7 local dates, not UTC
+test('localDay uses the device time zone', () => {
+  const prev = process.env.TZ;
+  process.env.TZ = 'America/Los_Angeles';
+  try {
+    expect(localDay(new Date('2026-11-23T03:00:00Z'))).toBe('2026-11-22');
+  } finally { process.env.TZ = prev; }
 });

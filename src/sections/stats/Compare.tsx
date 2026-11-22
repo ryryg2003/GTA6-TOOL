@@ -11,7 +11,7 @@ function winner(f: StatField, a: unknown, b: unknown): 'a' | 'b' | null {
 export default function Compare() {
   const { section, a, b } = useParams();
   const ea = a ? getById(a) : undefined, eb = b ? getById(b) : undefined;
-  if (!section || !(section in STAT_FIELDS) || !ea || !eb) {
+  if (!section || !(section in STAT_FIELDS) || !ea || !eb || ea.section !== section || eb.section !== section) {
     return <main className="page"><p>Nothing to compare: entry not found.</p><Link to="/">Back home</Link></main>;
   }
   const s = section as StatSection;

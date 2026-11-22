@@ -19,5 +19,5 @@ test('getSection and getById return typed entries', () => {
 test('routeFor maps entries to detail routes', () => {
   expect(routeFor(getById('weapon-sample-pistol')!)).toBe('/weapons/weapon-sample-pistol');
   expect(routeFor(getById('pin-sample-card-1')!)).toBe('/map?pin=pin-sample-card-1');
-  expect(routeFor(getById('trophy-sample-first')!)).toBe('/progress');
+  expect(routeFor(getById('trophy-sample-first')!)).toBe('/trophies/trophy-sample-first');
 });

@@ -10,6 +10,7 @@ import MissionList from './sections/missions/MissionList';
 import MissionDetail from './sections/missions/MissionDetail';
 import ProgressPage from './sections/progress/ProgressPage';
 import MapPage from './sections/map/MapPage';
+import TrophyDetail from './sections/trophies/TrophyDetail';
 
 function ComingSoon() {
   return <main className="page"><p className="muted">Coming soon.</p></main>;
@@ -35,6 +36,7 @@ export function AppRoutes() {
         <Route path="/missions/:id" element={<MissionDetail />} />
         <Route path="/progress" element={<ProgressPage />} />
         <Route path="/map" element={<MapPage />} />
+        <Route path="/trophies/:id" element={<TrophyDetail />} />
         <Route path="*" element={<ComingSoon />} />
       </Routes>
     </>

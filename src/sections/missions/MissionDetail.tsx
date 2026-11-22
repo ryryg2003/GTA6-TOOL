@@ -1,5 +1,5 @@
 import { Link, useParams } from 'react-router-dom';
-import { getById } from '../../data/load';
+import { getById, routeFor } from '../../data/load';
 import type { Mission } from '../../data/schema';
 import { useProgress } from '../../progress/store';
 import EntryMeta from '../../ui/EntryMeta';
@@ -36,7 +36,7 @@ export default function MissionDetail() {
       {m.unlocks.length > 0 && (
         <><h3>Unlocks</h3><ul>{m.unlocks.map((u) => {
           const e = getById(u);
-          return <li key={u}>{e ? <Link to={`/missions/${u}`}>{e.name}</Link> : u}</li>;
+          return <li key={u}>{e ? <Link to={routeFor(e)}>{e.name}</Link> : u}</li>;
         })}</ul></>
       )}
       {m.details && <><h3>Notes</h3><p>{m.details}</p></>}

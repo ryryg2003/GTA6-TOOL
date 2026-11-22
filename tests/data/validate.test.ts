@@ -73,3 +73,28 @@ test('rejects a javascript: image, accepts https and site paths', () => {
   (f.weapons as any[])[0].image = '/images/a.png';
   expect(validateAll(f).ok).toBe(true);
 });
+
+// #7 validator: unlock ids must exist; confirmed needs 2+ sources or an official one
+test('rejects a mission unlock that points to a missing id', () => {
+  const f = real();
+  (f.missions as any[])[0].unlocks = ['mission-ghost'];
+  const r = validateAll(f);
+  expect(r.ok).toBe(false);
+  expect(r.errors.join('\n')).toContain('mission-ghost');
+});
+
+test('confirmed with a single non-official source is rejected', () => {
+  const f = real();
+  Object.assign((f.vehicles as any[])[0], { confidence: 'confirmed', sources: [{ url: 'https://www.ign.com/x', title: 'IGN', accessed: '2026-11-22' }] });
+  expect(validateAll(f).ok).toBe(false);
+});
+
+test('confirmed with one official source, or two sources, is accepted', () => {
+  const f = real();
+  Object.assign((f.vehicles as any[])[0], { confidence: 'confirmed', sources: [{ url: 'https://www.rockstargames.com/VI', title: 'Rockstar', accessed: '2026-11-22' }] });
+  expect(validateAll(f).ok).toBe(true);
+  Object.assign((f.vehicles as any[])[0], { sources: [
+    { url: 'https://www.ign.com/x', title: 'IGN', accessed: '2026-11-22' },
+    { url: 'https://www.gamespot.com/y', title: 'GameSpot', accessed: '2026-11-22' }] });
+  expect(validateAll(f).ok).toBe(true);
+});

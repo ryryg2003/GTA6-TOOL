@@ -19,7 +19,10 @@ export default defineConfig({
         theme_color: '#0e0f13',
         background_color: '#0e0f13',
         display: 'standalone',
-        icons: [{ src: 'icon.svg', sizes: 'any', type: 'image/svg+xml' }],
+        icons: [
+          { src: 'icon.svg', sizes: 'any', type: 'image/svg+xml' },
+          { src: 'apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+        ],
       },
       workbox: { globPatterns: ['**/*.{js,css,html,svg,png,json}'] },
     }),

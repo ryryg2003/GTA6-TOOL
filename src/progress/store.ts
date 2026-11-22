@@ -45,12 +45,17 @@ export function saveState(state: ProgressState, storage: StorageLike | null): bo
   try { storage.setItem(STORAGE_KEY, JSON.stringify(state)); return true; } catch { return false; }
 }
 
-const isoDay = (d: Date) => d.toISOString().slice(0, 10);
+/** YYYY-MM-DD in the device's own time zone (not UTC). */
+export function localDay(d: Date): string {
+  const p = (n: number) => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
+}
+const fromLocalDay = (s: string) => { const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d); };
 
 export function needsBackupReminder(state: ProgressState, today: Date): boolean {
   if (Object.keys(state.done).length === 0) return false;
   if (!state.lastBackup) return true;
-  const days = (today.getTime() - new Date(state.lastBackup + 'T00:00:00Z').getTime()) / 86_400_000;
+  const days = (today.getTime() - fromLocalDay(state.lastBackup).getTime()) / 86_400_000;
   return days > BACKUP_DAYS;
 }
 
@@ -61,6 +66,14 @@ function storedIsCorrupt(storage: StorageLike | null): string | null {
     if (!text) return null;
     try { return sanitize(JSON.parse(text)) ? null : text; } catch { return text; }
   } catch { return null; }
+}
+
+function parseBackup(json: string): { ok: true; state: ProgressState } | { ok: false; error: string } {
+  let raw: unknown;
+  try { raw = JSON.parse(json); } catch { return { ok: false, error: 'That file is not a progress backup (not valid JSON).' }; }
+  if (!isObj(raw) || raw.version !== 1) return { ok: false, error: 'That file is not a version 1 progress backup.' };
+  const clean = sanitize(raw);
+  return clean ? { ok: true, state: clean } : { ok: false, error: 'The backup file is damaged.' };
 }
 
 export function createProgressStore(storage: StorageLike | null) {
@@ -99,18 +112,26 @@ export function createProgressStore(storage: StorageLike | null) {
       delete pinOverrides[id];
       commit({ ...state, pinOverrides });
     },
+    /** The backup file's text. Does not count as a backup until markBackedUp() is called after it was saved. */
     exportBackup(now = new Date()): string {
-      const json = JSON.stringify({ version: 1, exported: now.toISOString(), done: state.done, pinOverrides: state.pinOverrides }, null, 2);
-      commit({ ...state, lastBackup: isoDay(now) });
-      return json;
+      return JSON.stringify({ version: 1, exported: now.toISOString(), done: state.done, pinOverrides: state.pinOverrides }, null, 2);
     },
-    importBackup(json: string): { ok: true } | { ok: false; error: string } {
-      let raw: unknown;
-      try { raw = JSON.parse(json); } catch { return { ok: false, error: 'That file is not a progress backup (not valid JSON).' }; }
-      if (!isObj(raw) || raw.version !== 1) return { ok: false, error: 'That file is not a version 1 progress backup.' };
-      const clean = sanitize(raw);
-      if (!clean) return { ok: false, error: 'The backup file is damaged.' };
-      commit({ ...clean, lastBackup: state.lastBackup });
+    markBackedUp(now = new Date()) {
+      commit({ ...state, lastBackup: localDay(now) });
+    },
+    previewBackup(json: string): { ok: true; backupDone: number; currentDone: number } | { ok: false; error: string } {
+      const r = parseBackup(json);
+      if (!r.ok) return r;
+      return { ok: true, backupDone: Object.keys(r.state.done).length, currentDone: Object.keys(state.done).length };
+    },
+    importBackup(json: string, mode: 'replace' | 'merge' = 'replace'): { ok: true } | { ok: false; error: string } {
+      const r = parseBackup(json);
+      if (!r.ok) return r;
+      const b = r.state;
+      const next = mode === 'merge'
+        ? { done: { ...state.done, ...b.done }, pinOverrides: { ...b.pinOverrides, ...state.pinOverrides } }
+        : { done: b.done, pinOverrides: b.pinOverrides };
+      commit({ ...next, lastBackup: state.lastBackup });
       return { ok: true };
     },
   };
@@ -147,6 +168,8 @@ export function useProgress(store: ProgressStore = getDefaultStore()) {
     storageOk: store.storageOk(),
     corrupt: store.corrupt(),
     exportBackup: store.exportBackup,
+    markBackedUp: store.markBackedUp,
+    previewBackup: store.previewBackup,
     importBackup: store.importBackup,
   };
 }

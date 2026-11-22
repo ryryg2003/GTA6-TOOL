@@ -39,3 +39,10 @@ test('unknown mission id shows not found', () => {
   at('/missions/nope');
   expect(screen.getByText(/not found/i)).toBeInTheDocument();
 });
+
+// #7 unlock links use the right route for any entry type
+test('unlock links go to each entry\'s own route', () => {
+  at('/missions/mission-sample-second');
+  expect(screen.getByRole('link', { name: 'Prologue (sample)' })).toHaveAttribute('href', '/missions/mission-sample-intro');
+  expect(screen.getByRole('link', { name: 'Pistol' })).toHaveAttribute('href', '/weapons/weapon-sample-pistol');
+});

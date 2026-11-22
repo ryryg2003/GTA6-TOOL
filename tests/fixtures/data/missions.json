@@ -55,7 +55,8 @@
     ],
     "rewards": "$0",
     "unlocks": [
-      "mission-sample-intro"
+      "mission-sample-intro",
+      "weapon-sample-pistol"
     ]
   },
   {

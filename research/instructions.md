@@ -20,10 +20,12 @@ Only include entries you are adding or changing; the merge keeps everything else
 `src/data/schema.ts`. Key rules:
 - `id`: lowercase-dashed and stable, prefixed by type: `weapon-…`, `vehicle-…`, `mission-…`, `pin-…`, `trophy-…`.
   Reuse the existing id when updating an entry. Never rename ids, because the owner's progress is keyed by them.
-- `confidence`: follow the rules in `CLAUDE.md` and `research/sources.md`. When sources disagree, keep the best-supported value, use at most `likely`, and explain the conflict in `details`.
+- `confidence`: follow the rules in `CLAUDE.md` and `research/sources.md`. The validator enforces that `confirmed` has 2+ sources or one official source (rockstargames.com, playstation.com, xbox.com). When sources disagree, keep the best-supported value, use at most `likely`, and explain the conflict in `details`.
 - Unknown stats are `null`. Never estimate a number. Bar stats are 0–100 as shown in the game's UI.
 - `sources`: every source you used, with `accessed` set to today.
-- Missions: `order` is the story order (`null` for side missions). List missable items in `missables`.
+- Missions: `order` is the story order (`null` for side missions). List missable items in `missables`. Every id in `unlocks` must be an existing entry id (add that entry first, or leave it out).
+- Links: source URLs must start with `https://`. `image` must be an `https://` link or a `/site/path`.
+- Unknown fields: send `null`. The merge never lets a `null` erase a value already known, and only lowers `confidence` when you bring a new source.
 - Map pins: `category` must be an id from `data/categories.json`. If a source gives only a text location, set `x`/`y` to the matching area's center in `data/areas.json`, `location_precision: "approximate"`, and `area_name`. Use `exact` only when a source gives a precise map position. A safe's combination goes in `code`.
 - Trophies: `missable: true` only if a source says it can be permanently missed.
 

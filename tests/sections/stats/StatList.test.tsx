@@ -62,3 +62,9 @@ test('real app route /vehicles/:id renders the car detail page', () => {
   render(<MemoryRouter initialEntries={['/vehicles/vehicle-sample-stinger']}><AppRoutes /></MemoryRouter>);
   expect(screen.getByRole('heading', { name: 'Stinger' })).toBeInTheDocument();
 });
+
+// #7 compare checks both entries belong to the section
+test('compare refuses entries from another section', () => {
+  at('/compare/weapons/weapon-sample-pistol/vehicle-sample-stinger');
+  expect(screen.getByText(/not found/i)).toBeInTheDocument();
+});
