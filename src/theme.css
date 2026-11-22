@@ -67,3 +67,12 @@ h3 { font-size: 1.05rem; margin: 18px 0 6px; }
 .missable { margin-top: 14px; }
 .missable ul { margin: 6px 0 0; padding-left: 18px; }
 .steps li { margin: 6px 0; }
+.group { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+.group-head { width: 100%; display: grid; grid-template-columns: 1fr auto; gap: 6px 10px; text-align: left; background: none; border: 0; border-radius: 0; padding: 12px 14px; }
+.group-title { font-weight: 700; }
+.group-bar { grid-column: 1 / -1; display: block; }
+.checklist { list-style: none; margin: 0; padding: 0 8px 8px; }
+.checklist li { display: flex; align-items: center; justify-content: space-between; gap: 8px; border-top: 1px solid var(--border); }
+.check-row { display: flex; align-items: center; gap: 10px; min-height: 44px; flex: 1; padding: 0 6px; }
+.check-row input { width: 22px; height: 22px; min-height: 0; accent-color: var(--good); }
+.open-link { display: flex; align-items: center; padding: 0 10px; text-decoration: none; }
