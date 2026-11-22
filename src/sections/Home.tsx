@@ -13,6 +13,9 @@ export default function Home() {
   const p = useProgress();
   return (
     <main className="page">
+      {p.corrupt && (
+        <p className="warn-box">Saved progress was damaged and couldn't be loaded. If you have a backup, <Link to="/settings">restore it in Settings</Link>.</p>
+      )}
       {!p.storageOk && <p className="warn-box">Progress can't be saved in this browser. Checkmarks will be lost when you close it.</p>}
       {p.storageOk && needsBackupReminder(p.state, new Date()) && (
         <p className="warn-box">It's been a while: <Link to="/settings">back up your progress</Link> so a cleared browser can't wipe it.</p>

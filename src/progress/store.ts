@@ -54,7 +54,21 @@ export function needsBackupReminder(state: ProgressState, today: Date): boolean 
   return days > BACKUP_DAYS;
 }
 
+/** True when something is stored under our key but it can't be read as progress. */
+function storedIsCorrupt(storage: StorageLike | null): string | null {
+  try {
+    const text = storage?.getItem(STORAGE_KEY);
+    if (!text) return null;
+    try { return sanitize(JSON.parse(text)) ? null : text; } catch { return text; }
+  } catch { return null; }
+}
+
 export function createProgressStore(storage: StorageLike | null) {
+  const damaged = storedIsCorrupt(storage);
+  if (damaged !== null) {
+    // Keep the damaged text so it is never lost to the next save.
+    try { storage?.setItem(`${STORAGE_KEY}:corrupt-${new Date().toISOString()}`, damaged); } catch { /* best effort */ }
+  }
   let state = loadState(storage);
   let ok = storage !== null;
   const listeners = new Set<() => void>();
@@ -68,6 +82,7 @@ export function createProgressStore(storage: StorageLike | null) {
   return {
     getState: () => state,
     storageOk: () => ok,
+    corrupt: () => damaged !== null,
     subscribe(l: () => void) { listeners.add(l); return () => { listeners.delete(l); }; },
     isDone: (id: string) => state.done[id] === true,
     toggle(id: string) {
@@ -129,6 +144,7 @@ export function useProgress(store: ProgressStore = getDefaultStore()) {
     clearPinOverride: store.clearPinOverride,
     overrides: state.pinOverrides,
     storageOk: store.storageOk(),
+    corrupt: store.corrupt(),
     exportBackup: store.exportBackup,
     importBackup: store.importBackup,
   };

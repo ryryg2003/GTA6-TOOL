@@ -22,6 +22,13 @@ export function runMerge(dataDir: string, incomingDir: string, today: string): {
     let incoming: unknown;
     try { incoming = JSON.parse(readFileSync(join(incomingDir, f), 'utf8')); } catch (e) { errors.push(`incoming/${f}: not valid JSON (${e})`); continue; }
     if (!Array.isArray(incoming)) { errors.push(`incoming/${f}: must be a JSON array`); continue; }
+    const seenIds = new Set<string>();
+    const dups = (incoming as { id?: string }[]).map((x) => x?.id).filter((id): id is string => {
+      if (typeof id !== 'string') return false;
+      if (seenIds.has(id)) return true;
+      seenIds.add(id); return false;
+    });
+    if (dups.length) { errors.push(`incoming/${f}: id ${[...new Set(dups)].join(', ')} appears more than once`); continue; }
     const r = mergeEntries(files[section] as Base[], incoming as Base[], today);
     files[section] = r.merged;
     summary.push({ date: today, section, added: r.added, updated: r.updated });

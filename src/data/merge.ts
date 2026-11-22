@@ -8,7 +8,7 @@ export function mergeEntries<T extends Base>(existing: T[], incoming: T[], today
     const prev = byId.get(inc.id);
     const sources = new Map<string, Source>();
     for (const s of [...(prev?.sources ?? []), ...inc.sources]) sources.set(s.url, s);
-    byId.set(inc.id, { ...inc, sources: [...sources.values()], last_verified: today });
+    byId.set(inc.id, { ...prev, ...inc, sources: [...sources.values()], last_verified: today } as T);
     (prev ? updated : added).push(inc.id);
   }
   const merged = [...byId.values()].sort((a, b) => a.id.localeCompare(b.id));

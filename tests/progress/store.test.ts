@@ -93,3 +93,17 @@ test('useProgress re-renders subscribers on toggle', () => {
   act(() => result.current.toggle('m'));
   expect(result.current.isDone('m')).toBe(true);
 });
+
+test('corrupt stored progress is flagged and kept in a side copy before any overwrite', () => {
+  const st = new MemStorage();
+  st.setItem(STORAGE_KEY, '{"done":{"a":tru');
+  const store = createProgressStore(st);
+  expect(store.corrupt()).toBe(true);
+  store.toggle('b');
+  const side = [...st.data.keys()].find((k) => k.startsWith(STORAGE_KEY + ':corrupt-'));
+  expect(side && st.getItem(side)).toBe('{"done":{"a":tru');
+});
+
+test('healthy or empty storage is not flagged corrupt', () => {
+  expect(createProgressStore(new MemStorage()).corrupt()).toBe(false);
+});

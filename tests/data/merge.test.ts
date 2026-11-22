@@ -80,3 +80,19 @@ test('an empty incoming list leaves samples alone', () => {
   const r = mergeEntries([e('old-sample', { summary: 'SAMPLE: x' })], [], '2026-11-22');
   expect(r.merged).toHaveLength(1);
 });
+
+test('runMerge rejects an incoming file that repeats an id', () => {
+  const root = sandbox();
+  const sample = JSON.parse(readFileSync('data/weapons.json', 'utf8'))[0];
+  writeFileSync(join(root, 'incoming', 'weapons.json'), JSON.stringify([{ ...sample, id: 'weapon-dup' }, { ...sample, id: 'weapon-dup', name: 'Other' }]));
+  const r = runMerge(join(root, 'data'), join(root, 'incoming'), '2026-11-22');
+  expect(r.ok).toBe(false);
+  expect(r.errors.join('\n')).toContain('weapon-dup');
+});
+
+test('an update that omits optional fields keeps the existing details and image', () => {
+  const r = mergeEntries([e('a', { details: 'Sources disagree on damage', image: '/x.png' })], [e('a', { summary: 'new' })], '2026-11-22');
+  expect(r.merged[0].details).toBe('Sources disagree on damage');
+  expect(r.merged[0].image).toBe('/x.png');
+  expect(r.merged[0].summary).toBe('new');
+});

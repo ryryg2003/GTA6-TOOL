@@ -26,9 +26,10 @@ function pinIcon(c: Category | undefined, pin: ShownPin, found: boolean, selecte
   });
 }
 
-function FlyTo({ target }: { target: L.LatLngTuple | null }) {
+/** Flies to a pin only when the target position actually changes (not on every re-render). */
+export function FlyTo({ x, y }: { x: number; y: number }) {
   const map = useMap();
-  useEffect(() => { if (target) map.flyTo(target, Math.max(map.getZoom(), 1), { duration: 0.5 }); }, [map, target]);
+  useEffect(() => { map.flyTo(toLatLng(x, y), Math.max(map.getZoom(), 1), { duration: 0.5 }); }, [map, x, y]);
   return null;
 }
 
@@ -90,7 +91,7 @@ export default function MapPage() {
               dragend: (e) => { const { x, y } = fromLatLng((e.target as L.Marker).getLatLng()); p.setPinOverride(pin.id, x, y); },
             }} />
         ))}
-        <FlyTo target={selected ? toLatLng(selected.x, selected.y) : null} />
+        {selected && <FlyTo key={selected.id} x={selected.x} y={selected.y} />}
       </MapContainer>
       {selected && (
         <PinSheet pin={selected} category={catById.get(selected.category)} found={p.isDone(selected.id)} fixing={fixing}

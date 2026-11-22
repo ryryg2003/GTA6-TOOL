@@ -30,3 +30,9 @@ test('Settings has an export button', () => {
   at('/settings');
   expect(screen.getByRole('button', { name: /export backup/i })).toBeInTheDocument();
 });
+
+test('Home warns when saved progress was damaged', () => {
+  localStorage.setItem('gta6-info-book:v1', 'garbage{');
+  at('/');
+  expect(screen.getByText(/saved progress was damaged/i)).toBeInTheDocument();
+});
