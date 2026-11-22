@@ -3,6 +3,21 @@
 Confidence tags: **CONFIRMED** = official Rockstar, or several reputable post-launch guides agree. **LIKELY** = one reputable post-launch guide. **RUMOR/LEAK** = forums, pre-release speculation, fan maps, or unreliable or conflicting fan sites.
 Dates are the publication dates of the sources, where visible. The game launched on 2026-11-19 ([Rockstar GTA VI page, "Now Available", Newswire post dated 2026-11-19](https://www.rockstargames.com/VI)). Most "guides" with dates of 2026-11-18 come from review or early-access play (for example, The Big Lead says it played for about 140 hours). So the data here is only 0–4 days old, and many totals are still unsettled.
 
+**Source types used:**
+- Official: Rockstar.
+- Guide sites: PowerPyx, GTA Boss, GTABase, The Big Lead and others.
+- Video: YouTube titles, descriptions and chapter timestamps, pulled with yt-dlp on 2026-11-22.
+- Forum: GTAForums, known from search snippets only.
+
+**Access limits on 2026-11-22:**
+- Reddit (r/GTA6) returned HTTP 403 to both JSON and HTML requests. Web search surfaced no r/GTA6 threads, so I could not cite any Reddit posts or screenshots.
+- The GTAForums mapping thread returned 403.
+- Game8 returned 402.
+- I did not try ResetEra or GameFAQs before rate limits hit; nothing from them is cited.
+- YouTube allowed one full transcript and 4 descriptions before returning HTTP 429 or "sign in to confirm you're not a bot". So most videos are cited only by title, channel and ID from search results.
+- The one transcript I got (the JFL stunt jump video) was music only, with no narration. Its value is in the chapter list.
+- I found no screenshot posts on Imgur or X that I could open.
+
 Method caveats: IGN and MapGenie blocked automated access to this researcher (both domains refused). The Fandom GTA wiki returned HTTP 402 / a Cloudflare challenge. I could therefore verify nothing from IGN, MapGenie or Fandom first-hand. I found no in-game coordinate system (x/y) published in any source. Sources give pins only as landmark descriptions.
 
 ## 1. Regions and cities of the map
@@ -34,6 +49,35 @@ Rockstar names six regions of the state of Leonida: Vice City, Leonida Keys, Gra
   - Source: [SVG, 2026-11-18](https://www.svg.com/2321164/gta-6-map-limitation/)
 - **Fog of war (LIKELY):** Visiting an area clears the fog over it. A fogged area is unexplored, not locked. games.gg says there is no confirmed region-by-region unlock sequence. — [games.gg, 2026-11-18](https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-map-unlock-how-to-reveal-full-map/)
 - **Progress Database (LIKELY):** The in-game map has a Progress Database under Map > Progress that tracks every category. Some subcategories stay hidden until you find the first item in them. — [PowerPyx, 2026-11-18](https://www.powerpyx.com/gta-6-collectible-guide/)
+
+- **Size, from Rockstar via Edge magazine (LIKELY, close to official):**
+  - Edge visited Rockstar North. It reports Leonida as roughly twice the size of GTA V's map.
+  - It also reports the landmass as nearly as large as the GTA IV, GTA V and RDR2 maps combined, and says there are more interiors than in earlier Rockstar games.
+  - No km² figure is given.
+  - Source: [TweakTown summarising Edge, 2026-10-29](https://www.tweaktown.com/news/114382/gta-6s-map-is-roughly-twice-gta-5s-and-almost-as-big-as-gta-4-gta-5-and-rdr2-combined/index.html)
+  - Other outlets repeat "twice GTA V" from Rockstar, which makes that claim **CONFIRMED**. — [IBTimes](https://www.ibtimes.co.uk/gta-6-update-rockstar-confirms-map-twice-size-gta-5-1829061)
+  - The figure of 83 km² comes from the 2022 leak or fan measurement (RUMOR/LEAK). — [Dexerto wiki](https://www.dexerto.com/wikis/gta-6/leonida-map-size/)
+- **Counties are in the game (LIKELY, two independent post-launch sources):**
+  - Post-launch sources use county names as in-game area labels.
+  - PowerPyx's Cocaine Flamingo guide groups locations under "Mariana County", with Belpoint and Watson Bay as sub-areas, and under "Vice City", with La Perle as a sub-area. — [PowerPyx flamingos, 2026-11-18](https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/)
+  - A flamingo route video is titled "First 17 Pink Flamingo Locations in Mariana County". — [YouTube mZ8IdeSzZUU, vassillios16](https://www.youtube.com/watch?v=mZ8IdeSzZUU) (video)
+  - The JFL stunt jump video's chapters use South/West Vice-Dale County, North/South Leonard County, North Mariana County, and North/South Kelly County. — [YouTube uq5T0aZgjFA, JFL VIDEOS, uploaded 2026-11-20](https://www.youtube.com/watch?v=uq5T0aZgjFA) (video chapters; the description credits MapGenie's map for the location data, so it is not independent of MapGenie)
+  - The 2022 leak shows five counties: Kelly, Lummox, Leonard, Vice Dale and Mariana. — [Beebom](https://beebom.com/full-gta-6-map-leaked-online-and-its-massive/) (RUMOR/LEAK, but now matched by the post-launch labels above, except Lummox)
+- **In-game sub-area names**, taken from the JFL stunt jump chapter list (video, 2026-11-20; LIKELY, single source that derives from MapGenie). Grouping into regions is my own inference from the chapter order and from other sources:
+  - *Vice City area:* Balsero, Bayside, Bluegrass, Crosstown, Dalton Island, Decor District, Downtown, Hamlet, La Perle, Little Cuba, Ocean Beach, Penmarch Isle, Port VC, Salton, Southside, Tequesta, Tequesta Retreat, VCIA (Vice City International Airport) and VCIA Terminals, Washington Beach, plus South/West Vice-Dale County.
+  - *Leonida Keys area:* Abismo Key, Breakwater Quarry, Corsair Key, Key Lento, Mile Zero Air Station.
+  - *Grassrivers:* listed under that name.
+  - *Mariana and Leonard counties:* North Mariana County, Mount Hailes Country Club, North/South Leonard County, Richard Barebone National Park, Waning Sands.
+  - *Ambrosia and Port Gellhorn area:* Ambrosia, Draper Island, Emerald Springs, Frogswater, Gellhorn, Manifest Canyon, Port Gellhorn, North/South Kelly County, Thrillbilly Mud Club, Wild Hog Point, Bonanza, Dawson Dam, Grayson.
+  - *Mount Kalaga:* Kalaga National Park, MacAlister Gold Mine, Millport, Moreau.
+  - Source: [YouTube uq5T0aZgjFA](https://www.youtube.com/watch?v=uq5T0aZgjFA)
+- **Places confirmed by two sources:**
+  - Hamlet: JFL stunt chapters and the GTABoom card location.
+  - Key Lento: JFL, The Big Lead and PowerPyx.
+  - Port Gellhorn: JFL and The Big Lead.
+  - Watson Bay: PowerPyx and The Big Lead.
+  - Draper Island: JFL, and a Nine1Nine card in a warehouse office in Draper Island's restricted area. — [The Big Lead via search snippet](https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/)
+  - These can be tagged **CONFIRMED** as place names.
 
 ### Inferences
 - The Keys, then Vice City, then the north is the natural order for the app to present regions. The app should not mark regions as locked; a "fog/unexplored" toggle per region fits better.

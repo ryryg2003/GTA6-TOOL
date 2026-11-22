@@ -1,8 +1,22 @@
 # Grand Theft Auto VI Weapons (as of November 22, 2026)
 
-Researched 2026-11-22. GTA VI launched November 19, 2026, single-player only, to a Metacritic score of 99 ([Al Jazeera, 2026-11-19](https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait); [Push Square, 2025-11, delay to Nov 19 2026](https://www.pushsquare.com/news/2025/11/gta-6-delayed-again-pushed-back-to-november-2026)). It has been out for three days, so post-launch weapon data is thin and comes mostly from one wiki (Dexerto). Many "guides" ranking high in search were written before launch and are still up; each is flagged below.
+Researched 2026-11-22. GTA VI launched November 19, 2026, single-player only, to a Metacritic score of 99 ([Al Jazeera, 2026-11-19](https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait); [Push Square, 2025-11, delay to Nov 19 2026](https://www.pushsquare.com/news/2025/11/gta-6-delayed-again-pushed-back-to-november-2026)). It has been out for three days. Many "guides" ranking high in search were written before launch and are still up; each is flagged below.
 
-Confidence tags: **CONFIRMED** = official, or several reputable guides agree after launch. **LIKELY** = one reputable post-launch source. **RUMOR/LEAK** = trailer or leak analysis, pre-launch speculation, or a low-reputation or conflicting fan guide.
+**Wave 2 (sources widened, per the user):** this round added two fan stat databases (NiaMeowDB, Playday.one), a community wiki (gta.wiki), and a YouTube "every gun" video transcript pulled with yt-dlp, with timestamps. With these, menu stat values can now be cross-checked for about 50 base weapons.
+
+Searches and fetch attempts for r/GTA6, GTAForums and GameFAQs found nothing:
+- The Reddit search API returned no usable response.
+- Web searches limited to Reddit, GTAForums and GameFAQs returned no threads.
+- No screenshot posts of stat screens or shop menus could be found or linked.
+- Two more YouTube transcripts (Z3XMnmhj7xY "Weapon Tier List", ESoMYxEE7Jw "Complete Ammu-Nation Showcase") were blocked by YouTube's 429 rate limit and its "confirm you're not a bot" check.
+- No TikTok sources were attempted.
+
+Confidence tags:
+- **CONFIRMED**: Dexerto (a reputable wiki) plus at least one independent source agree to the decimal, or the source is official.
+- **LIKELY**: two fan sources agree but no reputable outlet does, or a single reputable source.
+- **RUMOR/LEAK**: single fan source, conflicting sources, pre-launch speculation, or trailer/leak analysis.
+- **Source type** is recorded as wiki, fan DB, guide, video+timestamp, or forum.
+- **Independence caveat:** none of the stat sites name where their numbers came from. Agreement to the decimal fits either independent reading of the same in-game menu or copying from each other, so "CONFIRMED" here is weaker than a reputable-outlet stat screen.
 
 ---
 

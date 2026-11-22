@@ -4,6 +4,22 @@ Confidence tags: **CONFIRMED** = Rockstar/platform-holder official, or several r
 
 Research caveats: GameSpot (403) and the Rockstar Support pre-order page (503) blocked fetches, and RockstarINTEL rate-limited them (429). Facts from those pages come from search snippets only. Wikipedia figures are as of about Nov 21, 2026 and cite underlying outlets. Treat Wikipedia as a secondary source.
 
+Source-type labels (added in the second pass, after the request to widen sources): [official] [review] [news] [guide] [forum] [screenshot] [video] [store] [trophy-list]. A fact is CONFIRMED only when two or more independent sources agree, or the source is official.
+
+Second-pass access log: these routes were tried and failed, so they produced no data.
+- **YouTube transcripts:** yt-dlp 2026.10.26 retrieved metadata only. Captions were blocked by YouTube's "Sign in to confirm you're not a bot" check (HTTP 403), and youtubetranscript.com returned an empty page.
+- **Reddit:** the JSON API returned non-JSON (blocked), and search engines surfaced no specific r/GTA6 threads.
+- **Wayback Machine:** fetch is blocked for this tool.
+- **PlayStation Store concept page:** loaded without product data.
+- **GTAForums review hub:** 403.
+
+Videos identified but not transcribed (titles and dates from yt-dlp metadata):
+- gameranx, "GTA 6: 10 Things The Game DOESN'T TELL YOU" (Nov 19, 2026) — https://www.youtube.com/watch?v=1yBSK22csvI
+- outsidexbox, "GTA VI: 8 Things the Game Doesn't Tell You" (Nov 20, 2026) — https://www.youtube.com/watch?v=QkCskWtn3kQ
+- MrDalekJD, "28 Tips & Tricks The Game NEVER Tells You" (Nov 21, 2026) — https://www.youtube.com/watch?v=5Z7T-ppd0gY
+
+Because no transcripts could be pulled, **there are no video-timestamped facts in these notes.**
+
 ---
 
 ## 1. Launch status: date, platforms, editions, price, size, PC
@@ -30,8 +46,42 @@ GTA VI launched on schedule on **Nov 19, 2026**, for **PS5 and Xbox Series X|S o
 - CONFIRMED: Release-date history. Rockstar first targeted 2025. The game was delayed to May 26, 2026 (announced May 2025), then on **Nov 6, 2025** to Nov 19, 2026. It held that date. — [Endgame Tools [community]](https://endgametools.com/en/gta-6/news/gta-6-release-date-latest-news); [Wikipedia, citing The Independent May 6 2025](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI)
 - RUMOR: Aggregators disagreed on when pre-load opened, giving either Nov 10 or Nov 12. — [search summary of aggregator sites](https://www.whengta6.com/guides/gta-6-release-date/)
 
+**Second pass: stores, editions, reviews, forums, screenshots**
+- CONFIRMED: The Ultimate Edition is **$99.99**, a $20 upgrade over the $79.99 Standard Edition. Forbes, Vice and Dot Esports agree on this.
+  - Regional store prices (store listings as reported by an aggregator, LIKELY): Standard CA$109.99 / Ultimate CA$139.99, and A$129.95 / A$159.95.
+  - Ultimate contents, as listed in the guides:
+    - Vehicles: '95 Grotti Cheetah, '67 Vapid Dominator Buggy, Shitzu Squalo boat, and a Classic Car Collection.
+    - Weapons: Hawk and Little Morgan revolvers, plus personalized Girardi ES9 and Klose K17 pistols.
+    - Five shops exclusive to the edition.
+    - More than 50 FAILE-designed tattoos.
+  - Item counts differ between sources.
+  - Standard owners can upgrade at any time.
+  - The **Vintage Vice City Pack** pre-order bonus contains a '55 Vapid Stanier with its own garage, two outfits and a weapon pattern. It applies to both editions. Sources give the pre-order cutoff as either Nov 19 or Nov 20.
+  - Sources: [Forbes, Oct 30 2026] [news](https://www.forbes.com/sites/brianmazique/2026/10/30/what-gta-vis-20-ultimate-edition-upgrade-actually-buys-you/); [Vice] [news](https://www.vice.com/en/article/gta-6-pre-order-bonuses-ultimate-edition/); [Dot Esports] [guide](https://dotesports.com/gta/guides/gta-6-ultimate-edition-gta-plus-bonuses)
+- CONFIRMED: The OpenCritic aggregate is 99. — [OpenCritic reviews list] [review aggregate](https://opencritic.com/game/15398/grand-theft-auto-vi/reviews)
+  - Perfect scores: IGN (Luke Reilly) 10/10, GameSpot (Tamoor Hussain) 10/10, Eurogamer (Chris Tapsell) 5/5. All three published Nov 18, 2026.
+  - Mechanics and criticisms in the review blurbs:
+    - Easy Allies: best police chases in the series, a rewarding economy, and multiple endings.
+    - Gamemeca: expanded interiors and police pursuits. Criticisms are a long intro, repetitive actions and some untranslated Korean text.
+    - Videogiocare.it: praises the heists. Criticisms are pacing and the locked 30 FPS.
+    - TheSixthAxis (9/10): constant escalation of stakes dulls the long story.
+    - VGC: minor performance issues.
+    - Hardcore Gamer: an "action game turned life sim".
+- LIKELY [forum]: Kotaku criticizes occasionally clunky controls, a plot that loses steam in its back half, and frame dips in large shootouts. DualShockers says it is easy to forget which button does what. Both are as summarized in the GTAForums review hub. — [GTAForums review hub] [forum](https://gtaforums.com/topic/1008028-spoilers-grand-theft-auto-vi-review-hub-and-discussion/)
+- LIKELY [forum, citing Digital Foundry]: The PS5 Pro holds a solid 30 fps. The base PS5 has drops to about 25–27 fps during heavy destruction. — [ResetEra OT] [forum](https://www.resetera.com/threads/grand-theft-auto-vi-ot-miami-vice.1689615/page-47)
+  - The Digital Foundry piece was not found directly, so this stays LIKELY.
+  - User impressions in the same thread (RUMOR/opinion): driving is praised, shooting less so, and committing crimes is described as deliberately cumbersome.
+- LIKELY [screenshot]: ViceManual posted launch-night PS5 captures from a New Zealand account. — [ViceManual screenshot gallery, Nov 18 2026] [screenshot](https://vicemanual.com/gta-6-screenshots)
+  - The game menu shows **build 930.048.020**.
+  - The Display settings have 12 options and **no performance/quality mode toggle**. This is consistent with the 30 FPS lock.
+  - The pause menu tabs are Map / Game / Store / Help / Photo Studio / Settings.
+  - Accessibility options include Accessible Combat, Reduced Vehicle Damage and a colorblind focus trail.
+  - There is a "Mute Licensed Music" audio option for streamers.
+  - On-foot controls: run on L3, jump/climb on X, crouch on Circle, map on the touchpad.
+
 ### Inferences
 - No source reports regional launch differences beyond the staggered local-midnight unlocks.
+- The ViceManual build string (930.048.020) is an internal build number. It is separate from the store title-update version (01.002.001).
 - For the app, the "PC" field should read "Not announced (Q1 2027 rumored)".
 
 ### Gaps
@@ -53,6 +103,8 @@ As of Nov 20–22, 2026, there are two console updates, **01.002.000** and **01.
 - LIKELY: Rockstar Support had published no title update notes for GTA VI as of Nov 20, 2026. — [FpsGen [aggregator]](https://fpsgen.com/games/gta-6/updates)
 - RUMOR: A post on X claimed Rockstar apologized and scheduled a fix for Nov 25. Nothing on Rockstar's official channels supports this. — [dLcompare](https://www.dlcompare.com/gaming-news/gta-6-day-one-patch-two-silent-updates-and-a-psn-outage)
 - UNVERIFIED: RockstarINTEL published "New GTA VI update released and not everyone has gotten it." The fetch was rate-limited, so the version and date are unknown. Check this before adding an entry. — [RockstarINTEL](https://rockstarintel.com/new-gta-vi-update-released-and-not-everyone-has-gotten-it-heres-why/)
+
+- Second pass: no patch-note archive, forum thread or store changelog surfaced any update after 01.002.001 as of Nov 22. The RockstarINTEL item still could not be verified.
 
 ### Inferences
 - Patch entries in the app should store version, date and per-platform size, with a "notes: none published" flag.
@@ -83,6 +135,21 @@ There are two playable leads, **Jason Duval** (voiced by Dylan Rourke) and **Luc
   - Further guides: [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/), [VGC](https://www.videogameschronicle.com/guide/how-to-change-characters-in-gta-6/)
 - LIKELY: Some missions lock you to one character. A greyed-out partner on the switch wheel is busy elsewhere. There is also a partner-command function. — [KeenGamer](https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/); [Dork](https://readdork.com/features/how-do-you-switch-between-jason-lucia)
 - LIKELY: There are multiple endings. After the credits, the game returns to just before the final choice so you can replay the finale. Earlier chapters cannot be replayed. — [Wikipedia, citing Vice Nov 19 and Kotaku Nov 18 2026](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI)
+
+**Second pass: character differences and partner mechanics**
+- LIKELY [guide]: The partner and the two characters differ in these ways. — [Red Bull Gaming, Phil Briel, Nov 19 2026] [guide](https://www.redbull.com/int-en/gta-6-beginners-guide)
+  - Each character has their **own Criminal Profile**. The character you are not controlling behaves according to their profile.
+  - Jason has a pet snake, **Dolores**, which gives a small Focus buff when fed.
+  - The idle partner usually waits near the current safehouse.
+  - You can't play both characters until later in the story.
+- CONFIRMED (Red Bull [guide] and BGR [news] agree): Partner controls.
+  - Press **D-pad right then Circle/B** to pass stash bags to your partner.
+  - Press **Triangle/Y on a map icon** to invite the other character to a robbery.
+  - Police can track the duo as a pair through the double-silhouette Heat icon, and **splitting up** clears it.
+  - Sources: [Red Bull](https://www.redbull.com/int-en/gta-6-beginners-guide); [BGR, Nov 20 2026](https://www.bgr.com/2322599/gta-6-new-heat-system-cop-memory-explained/)
+- LIKELY [screenshot]: The Jason & Lucia stats tab shows Jason Duval with a "Hardened" profile, 6 ft 1 in and 217 lb. — [ViceManual](https://vicemanual.com/gta-6-screenshots)
+  - A guide snippet also mentions sleep, nutrition and body stats on this tab. — [gta6activities [community]](https://www.gta6activities.com/stats)
+- LIKELY [trophy-list]: A trophy requires defeating **Cal** in a fishing challenge, which places Cal as a fishing companion. Another involves hunting a unique animal for **Bret**. — [KeenGamer trophy guide, Nov 19 2026](https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/)
 
 ### Inferences
 - The app should store switch controls as "disputed" until it can be checked against the in-game prompt. The difference may come from control-scheme settings.
