@@ -20,3 +20,15 @@ button.primary { background: var(--accent); color: #0e0f13; border-color: var(--
 .section-link { display: flex; flex-direction: column; justify-content: center; padding: 14px 16px; background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--accent); border-radius: 12px; text-decoration: none; color: var(--text); }
 .section-label { font-size: 1.15rem; font-weight: 700; }
 .section-hint { color: var(--muted); font-size: .9rem; }
+.searchbar { flex: 1; min-width: 0; border-radius: 999px; padding: 8px 14px; }
+.badge { display: inline-flex; align-items: center; font-size: .78rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; white-space: nowrap; }
+.badge-confirmed { background: rgba(61,220,132,.15); color: var(--good); }
+.badge-likely { background: rgba(90,169,255,.15); color: #8cc4ff; }
+.badge-unverified { background: rgba(255,176,32,.15); color: var(--warn); }
+.entry-meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: .9rem; margin: 6px 0 12px; }
+.stale { color: var(--warn); font-weight: 600; }
+.sources h3 { font-size: 1rem; margin: 20px 0 6px; }
+.sources ul { padding-left: 18px; margin: 0; }
+.sources li { margin: 4px 0; }
+.row { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 10px 14px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; color: var(--text); text-decoration: none; }
+.row-main { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
