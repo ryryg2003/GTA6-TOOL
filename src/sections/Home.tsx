@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { needsBackupReminder, useProgress } from '../progress/store';
 
 export const SECTIONS = [
   { to: '/map', label: 'Map', hint: 'Pins for collectibles, stores, safes' },
@@ -9,8 +10,13 @@ export const SECTIONS = [
 ];
 
 export default function Home() {
+  const p = useProgress();
   return (
     <main className="page">
+      {!p.storageOk && <p className="warn-box">Progress can't be saved in this browser. Checkmarks will be lost when you close it.</p>}
+      {p.storageOk && needsBackupReminder(p.state, new Date()) && (
+        <p className="warn-box">It's been a while: <Link to="/settings">back up your progress</Link> so a cleared browser can't wipe it.</p>
+      )}
       <ul className="section-list">
         {SECTIONS.map((s) => (
           <li key={s.to}>
@@ -21,6 +27,7 @@ export default function Home() {
           </li>
         ))}
       </ul>
+      <p className="footer-links"><Link to="/settings">Settings &amp; backup</Link></p>
     </main>
   );
 }

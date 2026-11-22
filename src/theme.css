@@ -51,3 +51,9 @@ h3 { font-size: 1.05rem; margin: 18px 0 6px; }
 .compare th, .compare td { text-align: left; padding: 10px 6px; border-bottom: 1px solid var(--border); }
 .compare thead th { font-size: .95rem; }
 .win { color: var(--good); font-weight: 800; }
+.warn-box, .ok-box { padding: 10px 14px; border-radius: 12px; margin: 0 0 12px; }
+.warn-box { background: rgba(255,176,32,.12); border: 1px solid rgba(255,176,32,.4); }
+.ok-box { background: rgba(61,220,132,.12); border: 1px solid rgba(61,220,132,.4); }
+.file-btn { display: inline-flex; align-items: center; padding: 8px 12px; min-height: 44px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface-2); cursor: pointer; }
+.file-btn input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+.footer-links { margin-top: 20px; text-align: center; }

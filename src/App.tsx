@@ -5,6 +5,7 @@ import SearchBar from './ui/SearchBar';
 import StatList from './sections/stats/StatList';
 import StatDetail from './sections/stats/StatDetail';
 import Compare from './sections/stats/Compare';
+import Settings from './sections/Settings';
 
 function ComingSoon() {
   return <main className="page"><p className="muted">Coming soon.</p></main>;
@@ -25,6 +26,7 @@ export function AppRoutes() {
         <Route path="/weapons/:id" element={<StatDetail section="weapons" />} />
         <Route path="/vehicles/:id" element={<StatDetail section="vehicles" />} />
         <Route path="/compare/:section/:a/:b" element={<Compare />} />
+        <Route path="/settings" element={<Settings />} />
         <Route path="*" element={<ComingSoon />} />
       </Routes>
     </>
