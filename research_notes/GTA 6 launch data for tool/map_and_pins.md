@@ -255,6 +255,74 @@ The Big Lead names two unique dogs: Festive Poodle and Cartoon Labrador. — [Th
 - **Vehicle:** the Wyman kit car is in a garage in Capri.
 - **Weapon:** the Patriarch DRX pistol is underwater, near a submerged car wreck south of Kalaga Reservoir.
 
+**Stunt jump breakdown by area:** from the JFL VIDEOS chapter list, uploaded 2026-11-20, total 130 (video timestamps; LIKELY, derived from MapGenie). The total of 130 matches PowerPyx, so the count is **CONFIRMED**. Two other 130-jump videos also exist: [100% Guides 0Ch6SCp4DHU](https://www.youtube.com/watch?v=0Ch6SCp4DHU) and [Drifty qtGknA7IP14](https://www.youtube.com/watch?v=qtGknA7IP14), titles only. Source for the table: [YouTube uq5T0aZgjFA](https://www.youtube.com/watch?v=uq5T0aZgjFA).
+
+| Timestamp | Area | Jumps |
+|---|---|---|
+| 0:00 | Balsero, Bayside, Bluegrass | #1–4 |
+| 0:28 | Crosstown, Dalton Island, Decor District | #5–8 |
+| 0:54 | Downtown | #9–11 |
+| 1:14 | Hamlet | #12–13 |
+| 1:27 | La Perle | #14–16 |
+| 1:46 | Little Cuba | #17–18 |
+| 1:59 | Ocean Beach + Penmarch Isle | #19–31 (13 jumps, the densest cluster) |
+| 3:24 | Port VC + Salton | #32–34 |
+| 3:43 | South Vice-Dale County + Southside | #35–38 |
+| 4:09 | Tequesta + Tequesta Retreat | #39–42 |
+| 4:35 | VCIA | #43–48 |
+| 5:14 | VCIA Terminals + Washington Beach | #49–51 |
+| 5:34 | West Vice-Dale County | #52–54 |
+| 5:53 | Abismo Key | #55–56 |
+| 6:06 | Breakwater Quarry + Corsair Key | #57–61 |
+| 6:39 | Grassrivers | #62–64 |
+| 6:58 | Key Lento | #65–66 |
+| 7:11 | Mile Zero Air Station | #67–69 |
+| 7:31 | North Mariana County + Mount Hailes Country Club | #70–72 |
+| 7:50 | North Leonard County | #73–74 |
+| 8:03 | Richard Barebone National Park | #75–76 |
+| 8:16 | South Leonard County | #77–80 |
+| 8:42 | Waning Sands | #81–83 |
+| 9:02 | Ambrosia | #84–88 |
+| 9:34 | Draper Island | #89–90 |
+| 9:47 | Emerald Springs | #91–92 |
+| 10:00 | Frogswater | #93–94 |
+| 10:13 | Gellhorn | #95–100 |
+| 10:52 | Manifest Canyon | #101–103 |
+| 11:12 | North Kelly County | #104–106 |
+| 11:31 | Port Gellhorn | #107–109 |
+| 11:51 | South Kelly County, Thrillbilly Mud Club, Wild Hog Point, Bonanza, Dawson Dam, Grayson | #110–117 |
+| 12:43 | Kalaga National Park | #118–122 |
+| 13:15 | MacAlister Gold Mine | #123–127 |
+| 13:48 | Millport + Moreau | #128–130 |
+
+Vice City (#1–54) holds about 42% of all jumps.
+
+**Cocaine Flamingos in detail:** from [PowerPyx, 2026-11-18](https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/) (LIKELY; the guide is a work in progress with 8 of 125 listed).
+- **Count:** 125 total, and any 100 count toward the 100% checklist. Two sources plus the video title give 125 → **CONFIRMED**. — [YouTube tzCkxqF9tI0, "ALL 125 Cocaine Flamingo Locations", How to Everything](https://www.youtube.com/watch?v=tzCkxqF9tI0) (title only; no transcript because of the 429 error)
+- **Reward:** Shooting or destroying a flamingo drops a cocaine package. You sell the package to a fence for cash.
+- **Listed spots:**
+  - *Mariana County, Belpoint (6):*
+    - the southeast docks
+    - two at the houses in the southeast where flamingos are being burned, one by the big white house and one by the small white house
+    - inside the burning flamingo container on the beach
+    - by the beach fire, next to a body and a camping chair
+    - on a yellow container in the water
+  - *Mariana County, Watson Bay (1):* the southwest corner of a motel on the eastern edge, among trash.
+  - *Vice City, La Perle (1):* ground level, in the middle of the C-shaped building northwest of Tyrone's apartment.
+- A 17-flamingo early route through Mariana County also exists. Its description credits GTABase, PowerPyx and game-checklists.com, so it is derivative, not independent. — [YouTube mZ8IdeSzZUU](https://www.youtube.com/watch?v=mZ8IdeSzZUU)
+
+**Smash 'n' Grab robberies:**
+- GTABase's map has 35 Smash 'n' Grab locations, and 34 of 35 are needed for 100%. — [GTABase](https://www.gtabase.com/gta-6/map/?feature=smash-n-grab)
+- This matches PowerPyx's 20 jewelry stores plus 15 pawn shops, which is 35. → **CONFIRMED (count)**
+
+**Other collectible videos found** (titles only, LIKELY; they show that the counts below exist):
+- 18 meditation spots, tied to the trophy "Positive Mental Attitude". — [Maka91 WZ9EM_i_W38](https://www.youtube.com/watch?v=WZ9EM_i_W38), [Skryux hWnu-_A7rRE](https://www.youtube.com/watch?v=hWnu-_A7rRE), [PS5Trophies Bzcfg2Tce3U](https://www.youtube.com/watch?v=Bzcfg2Tce3U). Combined with PowerPyx and GTA Boss, the count of 18 is **CONFIRMED**.
+- Card sets:
+  - "All 36 Jack of Hearts Dancers Cards" — [LTbw8B0DQHA](https://www.youtube.com/watch?v=LTbw8B0DQHA)
+  - "All 18 Delights Cards" — [dNvl2L4EH4Y](https://www.youtube.com/watch?v=dNvl2L4EH4Y)
+  - "12 Cards in Key Lento" — [viEEzDdkmuA](https://www.youtube.com/watch?v=viEEzDdkmuA)
+  - The 36-card set matches PowerPyx's maximum set size of 36.
+
 **Rewards:** Most sources do not describe rewards beyond the item itself (the card, cosmetic, vehicle or weapon). The known exceptions are the Kenton finder's fee and cards sold at pawn shops. — [GTA Boss](https://www.gtaboss.gg/gta-6/collectibles); [PowerPyx](https://www.powerpyx.com/gta-6-collectible-guide/)
 
 **100%:** Only some categories count toward 100% completion. — [PowerPyx](https://www.powerpyx.com/gta-6-collectible-guide/)
@@ -290,6 +358,38 @@ A few fixed codes are circulating, but sources disagree on whether robbery safes
   - Explosives such as sticky bombs from Ammu-Nation also open safes, but they hurt your standing with police.
   - Story-mission safes are fixed; store safes are random.
   - Sources: [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/); [PlayNews](https://www.playnews.gg/en/guides/gta-6-safe-codes-where-to-find-them-and-what-to-do-without-them) (LIKELY)
+
+- **Video cross-check:** "GTA 6 Safe Codes: Why Robbery Codes Are Random + 6 Fixed Codes That Work". The description contains spoilers from Chapters 1–3. — [YouTube -eLZbZSZizU](https://www.youtube.com/watch?v=-eLZbZSZizU) (video description; LIKELY)
+  - **What it adds:** It says ordinary robbery safes are randomised every time. This agrees with PC Gamer and the Port Gellhorn guide, so **randomisation is CONFIRMED** across 3 or more sources.
+  - **Its six fixed safe codes:**
+
+    | Code | Location | Status |
+    |---|---|---|
+    | 2008 | Delights club office, Port Gellhorn ("Afternoon Delight" mission) | single source |
+    | 1680 | Casa de Empeño (Yasmani's Jewelry Jobs) | single source |
+    | 6815 | Richardson Jewelry (Yasmani's Jewelry Jobs) | single source |
+    | 0104 | Donovan Banks and Co. (Yasmani's Jewelry Jobs; keep the leading zero) | single source |
+    | 0072 | Pelican Valley crab research outpost | single source |
+    | 6823 | Brooks Boatworks, the Kolt and Associates hideout in Port Gellhorn | **CONFIRMED**: also in xboxplay.games |
+
+  - **Keypad codes from the video:**
+    - **0420** opens the Key Lento lab door ("Lab Fees" mission). Roonby called this the "Moonstone Boutique room", so the label conflicts but the code matches → LIKELY.
+    - **7700** opens Brian's lockup ("Lab Fees"). Roonby and Beebom give the same code → **CONFIRMED**.
+    - **0212** opens the Pelican Valley boat garage; the note is inside the 0072 safe.
+  - **Kingpin Bowling:** The video gives no confirmed code; it says to use a sticky bomb on the northeast office safe. The 0300 claim from xboxplay is therefore still single-source RUMOR.
+  - **Other means:**
+    - In-game, Focus Mode (press L3 and R3) highlights clues.
+    - Small safes can be picked.
+    - Lockboxes open with a Snap Gun.
+    - Some hideout safes have an "Open with Explosive" prompt.
+- **Not cross-checked:** 44017 (Cottonmouth Lake trailer) and 7777 (Nova Auto Junkyard) appear in only one cluster of sites → RUMOR.
+- **Other safe-code videos** (titles only, not reviewed):
+  - "All 14 Safe Codes From Illegal Operations (Kingpin Bowling, Sunrise RV & More)" — [_bM4rxLlmp8](https://www.youtube.com/watch?v=_bM4rxLlmp8)
+  - Janjak Garage — [357HrnAdP_M](https://www.youtube.com/watch?v=357HrnAdP_M)
+  - Burned Houses trailer — [rPM5EVlsSl8](https://www.youtube.com/watch?v=rPM5EVlsSl8)
+  - Chatfield Storage & Logistics — [JBRUQw47ZKw](https://www.youtube.com/watch?v=JBRUQw47ZKw)
+  - La Cascara Motel — [Ew_tcjbaN_4](https://www.youtube.com/watch?v=Ew_tcjbaN_4)
+  - These suggest each "illegal operation" hideout has its own safe.
 
 ### Inferences
 - The app should store fixed codes only for mission or unique safes, flagged "community-reported". It should give tips only, not codes, for randomised store safes.
@@ -327,6 +427,19 @@ Several interactive maps exist. Only the in-game-tracker-based guides (PowerPyx)
 - **Fan reconstruction maps from before launch:**
   - The "State of Leonida" / GTA6 mapping project had about 1,600 markers, built from trailers, screenshots and leaks. Its makers say it is only a reconstruction. — [GamingBible](https://www.gamingbible.com/news/gta-6-interactive-map-project-896423-20250521); [Insider Gaming](https://insider-gaming.com/full-gta-6-map-put-together-interactive-site/); [Notebookcheck](https://www.notebookcheck.net/Community-GTA-6-map-uses-Netflix-trailer-and-leaks-to-accurately-chart-Leonida.1390940.0.html) (RUMOR/LEAK)
   - Also gmtreks.com, timesaver.gg and promptowy.com. — [gmtreks](https://gmtreks.com/gta6)
+- **MapGenie's GTA 6 map URL:** `https://mapgenie.io/grand-theft-auto-6/maps/leonida`.
+  - The JFL video description credits it as the location source for its 130 stunt jumps, which shows MapGenie's map has post-launch stunt-jump data.
+  - I did not fetch it; its robots.txt bans automated retrieval, and I did not use a Wayback snapshot for the same reason.
+  - Category names and counts are therefore unverified here.
+  - Source: [YouTube uq5T0aZgjFA](https://www.youtube.com/watch?v=uq5T0aZgjFA)
+- **Other trackers:**
+  - Game8 has an interactive map of Leonida and Vice City (HTTP 402 to this researcher). — [Game8](https://game8.co/games/GTA-6/archives/638636)
+  - game-checklists.com has a Cocaine Flamingo checklist. — cited in [YouTube mZ8IdeSzZUU](https://www.youtube.com/watch?v=mZ8IdeSzZUU)
+  - GTADB and the Vimap fan maps are listed by [GTABites](https://gtabites.pages.dev/maps) (RUMOR/LEAK, pre-launch).
+  - GTABase's main map uses the six official regions. It has a "Personal" layer for user markers, safehouses and garages. — [GTABase](https://www.gtabase.com/gta-6/map/)
+- **Community mapping forum:**
+  - GTAForums' "Mapping Vice City / Map Discussion Thread (NO LEAK FOOTAGE ALLOWED)" runs past 334 pages and about 11k posts. It is the main pre-release fan mapping effort. — [GTAForums p.334](https://gtaforums.com/topic/985670-mapping-vice-city-map-discussion-thread-no-leak-footage-allowed/page/334/) (forum; 403 to this researcher, known from search snippet); [PC Gamer on the mapping effort](https://www.pcgamer.com/games/action/speculatively-plotting-gta-6s-map-is-a-painstaking-exhausting-and-heroic-effort-we-had-10-people-search-every-street-in-streetview-this-took-weeks-and-failed); [Rockstar Intel](https://rockstarintel.com/exclusive-mapping-gta-6-how-fans-uncover-rockstars-fictional-florida-one-screenshot-at-a-time/)
+  - I could not read any post-launch posts from it.
 - **Fandom GTA wiki:** blocked by Cloudflare; terms not checked. Fandom wikis are normally CC BY-SA, but I did not verify that here.
 
 ### Inferences

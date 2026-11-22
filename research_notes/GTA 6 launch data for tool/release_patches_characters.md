@@ -186,6 +186,23 @@ GTA VI drops GTA V's seven-skill system. Each protagonist has **three stats: Str
 - LIKELY: There are fitness challenges called **"Strength Regime"** and **"Cardio Regime"**. Both require both characters to hold Level 4 in that stat for five consecutive in-game days. — [Dexerto](https://www.dexerto.com/wikis/gta-6/workout-guide/)
 - LIKELY: Body weight can go up or down, and staying awake for days shows on a character's face. — [Wikipedia, citing Eurogamer Aug 27 2026](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI)
 
+**Second pass: cross-checks**
+- CONFIRMED (Dexerto, Push Square, Red Bull and the ViceManual screenshot are independent and all agree):
+  - There are three stats, Strength/Health, Cardio/Stamina and Focus, with **4 levels each**.
+  - Strength and Cardio regress if you miss Workout Windows. **Focus never regresses.**
+  - Sources: [Push Square, Sammy Barker] [guide](https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them); [Red Bull] [guide](https://www.redbull.com/int-en/gta-6-beginners-guide); [ViceManual] [screenshot](https://vicemanual.com/gta-6-screenshots); [Dexerto] [guide](https://www.dexerto.com/wikis/gta-6/workout-guide/)
+- LIKELY [guide]: The Fitness app tracks **Hunger, Strength level, Cardio level, Focus level and Body Composition** (muscle and body fat). — [Push Square](https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them)
+  - **Down on the D-pad** shows the stat meters in gameplay.
+  - Weight follows calorie surplus or deficit. Overeating at the Marbles fast-food chain leads to an "Overweight" body.
+- LIKELY [screenshot]: The Fitness app shows Strength at 3/4, Cardio and Focus at 1/4, and the body type "Ripped". — [ViceManual](https://vicemanual.com/gta-6-screenshots)
+- LIKELY [guide]: Eating, sleeping and **showering** give temporary buffs that last until the end of the session or until death. Kayaking counts as cardio, and fishing and pool count toward Focus. — [Red Bull](https://www.redbull.com/int-en/gta-6-beginners-guide)
+- LIKELY [guide]: **Combat Focus** is activated by clicking both sticks. It slows time and also highlights objectives and safe codes. — [Red Bull](https://www.redbull.com/int-en/gta-6-beginners-guide); [ViceManual](https://vicemanual.com/gta-6-screenshots)
+- Conflict, LIKELY [trophy-list]: The trophy list includes stat-related trophies. — [KeenGamer](https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/)
+  - "Personal Best": max the Strength stat for both characters.
+  - "Gunslinger": take down 5 enemies during a single Combat Focus activation.
+  - "Positive Mental Attitude": meditate at all 18 spots. This is potentially missable and tied to Chapter 1.
+  - Push Square instead ties "Personal Best" to reaching an Overweight body. — [Push Square](https://www.pushsquare.com/guides/gta-6-workouts-explained-and-why-to-do-them)
+
 ### Inferences
 - There is no evidence of separate Shooting, Driving, Flying, Stealth or Lung Capacity stats in GTA VI. Guides that list them are describing GTA Online or GTA V. — [Fandom: GTA Online skills, for contrast](https://gta.fandom.com/wiki/Skills_in_GTA_Online)
 
@@ -213,8 +230,67 @@ GTA VI pairs the familiar star-based wanted level with a persistent **Criminal P
 - LIKELY: **Snapmatic** returns as the in-game social media app, parodying TikTok and Instagram. The phone plays radio and on-demand podcasts on foot (the podcasts are CONFIRMED by PlayStation Blog). The phone also has a Fitness app. — [Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI); [PlayStation Blog](https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/); [Dexerto](https://www.dexerto.com/wikis/gta-6/workout-guide/)
 - LIKELY: Activities include skydiving, wrestling, basketball, exercising, kayaking, scuba diving, golf, pool and fishing. The weather simulates tropical storms and hurricanes (IGN, Sep 29 2026). NPCs have about 600k animations, compared with 55k in GTA V (GamesRadar+). — [Wikipedia](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI)
 
+**Second pass: wanted, Heat, robberies, phone, trophies**
+- CONFIRMED (BGR [news] and the ViceManual HUD screenshot agree): The wanted level goes up to **six stars**, compared with five in GTA V. — [BGR, Marcus Mears III, Nov 20 2026](https://www.bgr.com/2322599/gta-6-new-heat-system-cop-memory-explained/); [ViceManual](https://vicemanual.com/gta-6-screenshots)
+  - Stars flash grey and then turn red when police lose sight of you but are still looking for your description.
+- CONFIRMED (BGR [news], Red Bull [guide], GameLeap [guide] and Game Rant agree): **Heat** icons show what police know about you.
+  - The six icons are clothing (hanger), face (single silhouette), the duo together (double silhouette), weapon (handgun), CCTV (camera) and vehicle (car).
+  - A red **Heat zone** circle appears on the map, and you must leave it.
+  - How to clear each:
+    - Clothing: change outfit.
+    - Face: haircut, mask or helmet.
+    - Duo: split up.
+    - Weapon: stow it.
+    - Vehicle: swap cars or use Pay 'n' Spray.
+    - CCTV: destroy the camera, or keep witnesses from getting away.
+  - Sources: [BGR](https://www.bgr.com/2322599/gta-6-new-heat-system-cop-memory-explained/); [Red Bull](https://www.redbull.com/int-en/gta-6-beginners-guide); [GameLeap](https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained); [Game Rant](https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid)
+- LIKELY [screenshot]: Clothing-store outfits are tagged "Will remove outfit heat". Your car's trunk works as a wardrobe with 5 outfit slots. — [ViceManual](https://vicemanual.com/gta-6-screenshots)
+- LIKELY [news]: Police dispatch from real stations and act only on what they currently know. A blue detection meter fills over officers' heads. Police chatter reports your last known location and casualties, and ambulances are sent for wounded NPCs. — [BGR](https://www.bgr.com/2322599/gta-6-new-heat-system-cop-memory-explained/)
+- LIKELY [guide]: The **Criminal Profile tiers** (Red Bull) are:
+  - Professional (yellow)
+  - Hardened (orange)
+  - Violent (purple)
+  - Psycho (light grey): you can no longer surrender
+  - Irredeemable (dark grey): permanent, reached by staying Psycho too long
+  - Notes:
+    - The tiers are driven mainly by how often you kill.
+    - The "Hardened" label is corroborated by the ViceManual screenshot, which makes that tier CONFIRMED.
+    - Older guides used the tier name "Aggressive", which conflicts with "Hardened".
+    - The trophy "Actions Speak Louder" requires 500 Criminal-Profile-affecting actions.
+  - Sources: [Red Bull](https://www.redbull.com/int-en/gta-6-beginners-guide); [KeenGamer](https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/)
+- LIKELY [guide]: **Robberies and money.** — [Red Bull](https://www.redbull.com/int-en/gta-6-beginners-guide)
+  - Scouting a target shows the take and the security tier. Medium and high security are easier with both characters.
+  - A snap gun opens back doors without setting off alarms.
+  - Safe codes are randomized and can be found with Focus. Some safes are blown with sticky bombs.
+  - Dye packs require a jammer, unlocked in Chapter 3.
+  - **Stash bags:** each character carries 2, vans and trucks hold 8, and motorcycles hold 0. You lose carried bags and cash if you die.
+  - Pocket cash is lost on death or arrest until you open a bank account (mission "Buck Me"). Before that, cash can be hidden under the floorboards in Jason's bedroom.
+  - **Fences** buy three loot types: narcotics, jewelry and marked bills. Yasmani in Little Cuba takes jewelry and marked bills, and Tyrone takes narcotics.
+  - Garages, buyable after leaving Key Lento, store cars and weapon loadouts.
+- LIKELY [trophy-list]: The trophy list exposes more systems. — [KeenGamer, Nov 19 2026](https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/)
+  - Overall: 55 trophies (1 Platinum, 2 Gold, 6 Silver, 46 Bronze), all offline. A guide estimates about 200 h to Platinum. There is no mission replay or New Game+.
+  - **Robbery types:** jewelry stores (stealth), bank vaults, armored trucks, shop chains, a bowling alley, and Illegal Operations for **9 gangs**.
+  - **Money:** laundering marked bills ($250k for the trophy) and buying **8 garage properties**.
+  - **Activities:** 9 activity types, 42 shooting-range gold medals, drone races at 14 locations, races, arcade games, collectible card sets, 50 Challenges, 250 stunts, map discovery, and discovering 100 vehicles.
+  - **Phone apps:** WAiNK (used at 100 locations) and Scooter Bros (register vehicles).
+  - A second list also counts 55 trophies, 28 of them hidden. This conflicts with KeenGamer's count of 2 hidden. — [GGRecon](https://www.ggrecon.com/articles/gta-6-trophies-achievements-list-platinum/)
+- CONFIRMED (Red Bull, the KeenGamer trophy list and the ViceManual screenshot agree): **Phone apps** found across sources.
+  - The phone opens with **up on the D-pad** and has **about 10 apps**:
+    - **WhatUp:** messages
+    - **RydeMe:** ride-hail; $100 extra to skip the ride
+    - **WAiNK:** shows a car's security, sale value and registration cost; hold D-pad up
+    - **Scooter Bros:** delivers a registered car to you
+    - **Fitness**
+    - **Weather:** hourly forecast and sunset time
+    - **News:** Weazel News, The Leonida Journal, Vice City Horn
+    - A **social feed:** posts with likes, comments and locations (Snapmatic per Wikipedia)
+  - Sources: [Red Bull](https://www.redbull.com/int-en/gta-6-beginners-guide); [ViceManual](https://vicemanual.com/gta-6-screenshots); [KeenGamer](https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/)
+- LIKELY [screenshot]: The map starts as an outline labeled **Mariana County**. Named counties include **Lummox, Leonard and Kelly**. — [ViceManual](https://vicemanual.com/gta-6-screenshots)
+- LIKELY [forum]: The endgame branching prompt appears once you reach about 70% completion, attributed to IGN. This is a SPOILER-adjacent detail. — [GTAForums "post-game details from Kotaku"](https://gtaforums.com/topic/1008043-post-game-details-from-kotaku/)
+
 ### Gaps
 - No reliable sourced detail on cover-system changes, heist planning structure, or armor values.
+- Second pass: armor is still unconfirmed. Red Bull does not mention an armor stat.
 
 ---
 

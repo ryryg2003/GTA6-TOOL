@@ -118,8 +118,36 @@ As of Nov 22 nobody has measured top speeds (no Broughy1322-style mph tests foun
 - One guide gives an estimated 155 mph for a "Principe Alvino V1" motorcycle. This is unmeasured. **RUMOR/LEAK** — [search summary](https://www.gtabase.com/articles/gta-6/gta-6-fastest-cars-ranked-list-by-top-speed)
 - Some "fastest" pages show GTA V stock speeds (for example Itali GTO 117 mph), and RankedBoost warns that these don't carry over. **Do not use.** — [RankedBoost](https://rankedboost.com/gta/fastest-cars/)
 
+**Widened sources (forums, YouTube, aggregators; added in a second pass)**
+- **Timesaver.gg fastest-by-Speed-stat** (aggregator compiled from GTABase, nettoge (JP) and IGN; updated and checked 2026-11-21). It says only 10 of 74 Speed values are confirmed by 2 guides and flags single-source values. Source type: aggregator. — [timesaver.gg](https://timesaver.gg/tools/gta-6/cars/fastest)
+
+| # | Vehicle | Speed | Accel | Handling | Cross-check vs meowdb | Tag |
+|---|---|---|---|---|---|---|
+| 1 | Progen Emerus | 8.3 | 8.3 | 8.4 | not in meowdb | LIKELY |
+| 2 | Pegassi Vitello | 8.2 | 8.4 | 8.2 | identical | **CONFIRMED** |
+| 3 | Piccia Furia | 7.8 | 8.2 | 7.3 | identical | **CONFIRMED** |
+| 4 | Bravado Gauntlet Hellfire | 7.8 | 7.8 | n/a | identical | **CONFIRMED** |
+| 5 | Pfister Comet S2 | 7.7 | 8.0 | 7.6 | not in meowdb, and timesaver flags it single-source | RUMOR |
+| 6 | Pegassi Tempesta | 7.6 | 7.8 | 6.9 | identical | **CONFIRMED** |
+| 7 | Grotti Itali RSX | 7.5 | 8.1 | 7.0 | not in meowdb | LIKELY |
+| 8 | Granforma Zorrusso | 7.5 | 7.8 | 7.1 | identical | **CONFIRMED** |
+| 9 | Pfister Neon | 7.1 | 7.4 | 5.9 | identical | CONFIRMED (timesaver itself says single-source, so this may be the same upstream source) |
+| 10 | '96 Pegassi Infernus (stock) | 7.1 | 7.3 | 6.5 | meowdb's 8.6/8.4/6.9 is **modded** | LIKELY (stock) |
+| Bike 1 | Nagasaki SFB 1000 | 7.1 | 8.1 | 8.1 | identical | CONFIRMED (same caveat) |
+| Bike 2 | Principe Alvino V1 | 6.9 | 7.9 | 7.9 | n/a | RUMOR (single source) |
+| Bike 3 | Nagasaki Carbon RS | 6.7 | 7.7 | 7.6 | n/a | LIKELY |
+
+- On the Infernus: timesaver's stock value (7.1) and meowdb's modded value (8.6) together show that tuning raises the Speed bar substantially. The app should store stock and modded values separately.
+- **Truffade Thrax**: guides say it leads with a stock Speed of 8.7/10. This comes from a search snippet of a guide aggregator and isn't on timesaver or meowdb. **RUMOR** — [search summary (tech2geek / grandtheft.gg etc.)](https://www.tech2geek.net/gta-6-fastest-cars-top-10-vehicles-ranked-by-speed/)
+- **"123.75 mph"** figures attached to the Thrax and others are **GTA Online test results recycled into GTA 6 articles**. Do not use them. — [search summary](https://grandtheft.gg/gta-6-fastest-cars/)
+- The "~175 mph Infernus" claim comes from demo-build footage about 5 months old. **RUMOR/LEAK** — [gta-atlas](https://gta-atlas.com/guides/fastest-cars-in-gta-6)
+- gtaaddict says no one had published a tested top speed for any GTA 6 car as of 2026-11-21. **LIKELY** (source type: fan site) — [gtaaddict](https://gtaaddict.com/gta-6/vehicles/fastest/)
+- **YouTube speed tests** (source type: video). A yt-dlp search found "GTA 6 Supercar Top Speed Test! 400+ KM/H?" (GTA Beast, uploaded 2026-11-18, before launch and clickbait-titled) at https://www.youtube.com/watch?v=dx1hrfbkRhc, and "EASILY own the FASTEST car in GTA 6 (Speed Test + Customization)" (Mayonnaise) at https://www.youtube.com/watch?v=w4aixnkv4VI. **No transcripts were retrieved**: the first video has no captions, and YouTube returned "Sign in to confirm you're not a bot" or HTTP 429 for the others. No speed figures were extracted, so treat both as unverified leads only.
+- GameSpot has a fastest-cars article ("Don't Blink: These Are The Fastest Cars In GTA 6"), but it returned 403 and its content wasn't verified. — [GameSpot](https://www.gamespot.com/articles/dont-blink-these-are-the-fastest-cars-in-gta-6/)
+
 ### Inferences
 - Until a GPS or speedometer-tested community list appears, the app should rank by the Speed bar or road rating and label the result "in-game rating, not mph".
+- Five Speed/Accel/Handling triples (Vitello, Furia, Hellfire, Tempesta, Zorrusso) match exactly between meowdb and the timesaver aggregator (which draws on GTABase, IGN and nettoge). That makes them the most trustworthy stat rows to seed the database with.
 
 ### Gaps
 - No community-tested mph/km/h data. No fastest boat, plane or helicopter data.
@@ -161,11 +189,53 @@ Rare cars are mostly "Standout" variants and targets from **Randy's Wish List**,
   - Sources: [EGW](https://egamersworld.com/blog/gta-6-standout-vehicles-all-rare-car-types-and-whe-dha39M0YT8), [Detonated](https://detonated.com/gta-6-best-car-locations/)
 - GTABase's interactive map lists 39 "vehicle spawn" markers. **LIKELY** — [GTABase map](https://www.gtabase.com/gta-6/map/?feature=vehicle-spawn)
 
+**Widened sources: Randy's Wish List and the Thrax**
+- **Unlock:** the Wish List and the Key Cloner app come from the Ch. 3 main mission "Clonin' Keys, Makin' GS" (stealing the Zorrusso for Randy). Two independent sources agree. **CONFIRMED** — [Perfect Score YouTube description, 2026-11-21](https://www.youtube.com/watch?v=doFaJV-CNLw) (source type: video); [timesaver.gg citing PowerPyx/AlcastHQ/FandomWire, 2026-11-18](https://timesaver.gg/tools/gta-6/money/randy-wish-list) (aggregator)
+- **Payout:** usually $30,000+ per car (PowerPyx) or $35,000+ (GTABase/FandomWire). Damage lowers the price, per timesaver. Perfect Score says there's a bonus depending on condition. The amount is **LIKELY** (sources conflict); the condition mechanic is **CONFIRMED**. — [timesaver.gg](https://timesaver.gg/tools/gta-6/money/randy-wish-list); [Perfect Score](https://www.youtube.com/watch?v=doFaJV-CNLw)
+- **List size:** sources give 15, 16, 18 or 22 cars, and they conflict. **UNRESOLVED** — [timesaver.gg](https://timesaver.gg/tools/gta-6/money/randy-wish-list); [Push Square](https://www.pushsquare.com/guides/gta-6-randys-wish-list-vehicle-locations); [egamers.io](https://egamers.io/gta-6-randys-wish-list-every-car-and-how-to-earn-supply-demand/)
+- **Trophy:** finishing the list unlocks "Supply & Demand" (one guide says it's a hidden bronze worth 20G). The trophy name is **CONFIRMED** (Perfect Score plus egamers.io); the bronze/20G detail is RUMOR. — [Perfect Score](https://www.youtube.com/watch?v=doFaJV-CNLw); [egamers.io](https://egamers.io/gta-6-randys-wish-list-every-car-and-how-to-earn-supply-demand/)
+- **Wish List cars in the Perfect Score video**, with timestamps from the video description and the channel's own real-car comparisons (source type: video, **LIKELY** for membership, **RUMOR** for the real-car basis). Video: [youtube.com/watch?v=doFaJV-CNLw](https://www.youtube.com/watch?v=doFaJV-CNLw)
+  - 0:00 Ascot Paragon (Bentley Continental GT)
+  - 0:27 Grotti Itali RSX (Ferrari SF90 Stradale)
+  - 0:58 Übermacht Cypher (BMW M2)
+  - 1:23 Pegassi Tempesta (Lamborghini Huracán)
+  - 1:51 Pegassi Toros (Lamborghini Urus)
+  - 2:17 Bravado Gauntlet Hellfire (Dodge Challenger SRT)
+  - 2:34 Piccia Furia (Pininfarina Battista; The Tab says Ferrari 488 Pista, a **conflict**)
+  - 3:02 Pfister Growler (Porsche 718 Cayman)
+  - 3:32 Buckingham Windsor Drop (Rolls-Royce Dawn)
+  - 4:17 Grotti Carbonizzare (Ferrari California/Portofino)
+  - 5:12 Pegassi '96 Infernus (Lamborghini Diablo)
+  - 5:39 Gallivanter Baller ST-D (Range Rover)
+  - 6:05 Ocelot Jugular (Jaguar XE SV)
+  - 6:41 Benefactor Dubsta (G-Wagon)
+  - 7:01 Pfister Neon (Porsche Taycan)
+  - 7:32 Pegassi Vitello (Lamborghini Aventador)
+  - 8:03 Buckingham Jubilee (Rolls-Royce Cullinan)
+  - 8:24 Bravado Banshee (Dodge Viper)
+  - 9:12 Truffade Thrax (Bugatti Divo)
+  - Cross-check with Push Square: Tempesta, Toros, Hellfire, Furia, Growler, Windsor Drop, Infernus, Jugular, Vitello, Jubilee, Banshee and Paragon appear in both, so Wish List membership for those is **CONFIRMED**. Itali RSX, Cypher, Carbonizzare, Baller ST-D, Dubsta, Neon and Thrax appear only in Perfect Score (**LIKELY**).
+  - Video transcript was not retrievable (no captions available), so the spawn spots in the video weren't extracted.
+- **Truffade Thrax (Bugatti Divo-like hypercar):** it's the final Wish List job, "Thrax Mansion", which unlocks after every other car is delivered. Take the ferry from Waxman Island to Dalton Island, steal it from the car park behind the Dalton Island Club, avoid the golf-cart roadblocks, lose the police on the mainland, and deliver it to Bayside Drive Garage. Two independent sources agree. **CONFIRMED** — [Cultured Vultures, Jimmy Donnellan, 2026-11-19](https://culturedvultures.com/gta-6-where-to-find-the-truffade-thrax/); [gta6-japan](https://gta6-japan.com/en/missions/randy-final-thrax-dalton-island/)
+  - Payout is about $18,000. You **can't keep** the mission Thrax or respray it. **LIKELY** (Cultured Vultures; one other source agrees on $18k per search snippet) — [Cultured Vultures](https://culturedvultures.com/gta-6-where-to-find-the-truffade-thrax/)
+  - Other Thrax sources: "Andrew Node's" untracked Thrax parked on Starfish Island (so it may be registrable), a free respawning Thrax on a trailer at Boone Speedway (Hamlet), and a spawn cheat after finishing the story plus all Shopping or vehicle challenges. All **RUMOR** (fan sites, details conflict). — [thebestmods](https://thebestmods.com/gta-6/thrax-location/); [gta6tracker](https://gta6tracker.org/l/truffade-andrew-nodes-thrax); [gta-xtreme](https://www.gta-xtreme.com/en/gta-6-truffade-thrax-location); [timesaver (cheat note)](https://timesaver.gg/tools/gta-6/cars/fastest)
+  - Thrax price: one site lists $2,325,000, but that's the GTA Online price. **Do not use.** — [retrogems](https://retrogems.fr/en/gta-6/vehicles/thrax/)
+
+**Widened sources: Standout / secret cars from YouTube** (descriptions and timestamps only; transcripts were blocked by YouTube bot checks and 429s; source type: video; **RUMOR** unless cross-checked)
+- WiLLiSGaming, "10 SECRET Rare Cars You Can Get for FREE": 0:27 Progen Royal Ruby Emerus; 1:40 Progen Purple Drank Emerus; 2:13 Pegassi Charred Toros; 2:52 Bravado Copperheads Gauntlet; 3:25 Bravado Devil's Rope Gauntlet; 4:00 Vapid Brimstone Golfer; 4:28 Annis Drifter Elegy; 5:25 Maibatsu Royal Sanchez; 5:55 Declasse Caliente Picador; 6:35 Maibatsu '97 Penumbra FF; 7:13 Annis Venturas BLVD Elegy (**GTA+ bonus car**). — [YouTube lP_qmubhm1E](https://www.youtube.com/watch?v=lP_qmubhm1E)
+  - Royal Ruby Emerus and Penumbra FF also appear in EGW/Detonated, so their existence as obtainable standouts is **CONFIRMED** (exact spots still conflict). The Charred Toros matches Detonated's "gold Charred Torus", likely a typo there (**LIKELY**).
+- TGG, "BEST Rare Cars You Can Get EARLY": 0:00 Unlock Moses; 1:40 Penumbra FF; 3:19 Caracara 4x4; 5:12 Dominator; 6:08 LCC Avarus (motorcycle). — [YouTube A1M3P0tVLms](https://www.youtube.com/watch?v=A1M3P0tVLms)
+- KackisHD, "SECRET SUPERCAR LOCATIONS! (GOLD LAMBO, NO TRACKERS)": the description claims a gold-plated Pegassi and an early-game supercar without a tracker. This lines up with the Charred Toros / untracked Thrax claims. **RUMOR** — [YouTube I5fpc1830d4](https://www.youtube.com/watch?v=I5fpc1830d4)
+- LunarGaming, "21 Rare Cars & Legendary Gun Locations" (part 1 of a series it says covers 400+ special vehicles and weapons): areas covered are Riquezas Key 0:10, Permit Keys 0:40, Key Lento 1:46, Gambit Bay 4:38 and Grassrivers 5:09. The specific cars weren't listed in the description. — [YouTube z7ORZ1xC35s](https://www.youtube.com/watch?v=z7ORZ1xC35s)
+- Other rare-car videos found but not extracted (no description detail or transcript): T5G "50 RARE CARS You CAN KEEP" (RMGdwkZ5VFw), Nerpah "ALL 22 RARE CAR LOCATIONS" (8Ost1vByu3s), Imack Studios (8ioFGPmXTAw, generic description).
+
 ### Inferences
 - Randy's Wish List is the main structured route to the fastest supercars, since it covers Vitello, Furia, Tempesta, Infernus and Zorrusso. Several of these also top the Speed-bar ranking.
 
 ### Gaps
-- Randy's payouts, the full 15/22 list, and whether Wish List cars can be kept or registered after delivery.
+- The exact Randy payout per car is still disputed ($30k+ vs $35k+). The total list length (15–22) is unresolved. Delivered cars appear not to be keepable (based on the Thrax report only).
+- **Forums:** r/GTA6 couldn't be reached, because the search tool blocks reddit.com and Reddit's JSON endpoint returned non-JSON. No GTAForums GTA VI vehicle-stats thread surfaced (only GTA Online threads did) ([GTAForums GTA VI board](https://gtaforums.com/forum/396-gta-vi/)). No GameFAQs page surfaced. No screenshot posts of in-game listings with prices or stat bars were found or verified, so none are described here.
+- **YouTube transcripts:** yt-dlp auto-subs failed. Two videos have no captions, and the rest returned "Sign in to confirm you're not a bot" or HTTP 429. Only descriptions and chapter timestamps were used. A transcript site or cookie-authenticated yt-dlp run could recover spoken prices and spawn spots later.
 - No verified secret or easter-egg vehicles (UFO-type) were found.
 
 ---

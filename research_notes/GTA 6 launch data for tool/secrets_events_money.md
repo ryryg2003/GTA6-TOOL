@@ -5,6 +5,19 @@ Context: GTA VI launched on November 19, 2026 (PS5 / Xbox Series X|S, single-pla
 - LIKELY: a single reputable source.
 - RUMOR/THEORY: forums or unverified sources.
 
+Source types used, as labelled inline:
+- [press]: established outlet.
+- [guide]: guide or fan site.
+- [forum]: ResetEra, Reddit via press.
+- [video]: YouTube title or metadata.
+- [social]: X/TikTok.
+
+Widened sweep (2026-11-22, done at the user's request):
+- **ResetEra:** the tips thread was readable directly.
+- **Reddit:** blocked to direct fetch (JSON and HTML). Reddit posts are cited through press write-ups, with the original thread URL wherever an outlet gave it.
+- **YouTube transcripts:** not obtained. yt-dlp ran a YouTube search fine, but subtitle downloads failed with "Sign in to confirm you're not a bot" and HTTP 429/403. The transcript site youtubetotranscript.com returned 403. So videos are listed by title, channel and view count only, with no timestamps.
+- **Not reached:** GameFAQs and GTAForums did not surface any GTA VI secret threads. TikTok searches surfaced only pre-launch leak debunks.
+
 Source-quality warning: search results are flooded with low-quality or SEO fan sites (e.g. gtabites.com, gta6cheatcodes.net, vicecityhustle.com, mapmaster.io, plus many "GTA 6 wiki" clones). Some of them recycle GTA V cheat codes (PAINKILLER, TURTLE) or contain garbled text. They are excluded, or tagged RUMOR where used. Reputable outlets I could actually read: VICE, Dexerto, Insider Gaming, PowerPyx, TweakTown, GamingBible. GameSpot returned HTTP 403. The GamesRadar article was truncated and could not be read. I found no IGN coverage on these topics.
 
 ## Random / world events (strangers, encounters, crimes in progress)
@@ -32,6 +45,17 @@ Random events are unmarked on the map, and interactive ones reportedly never res
   - Ch4: Eddie Acosta's party; Pilot Pete (The Last Mile, Pete's Deliveries, Southpoint Airfield; Jason-only); Shayna ("This is a Free Call From…", Lucia-only, **time-sensitive and MISSABLE**).
   - Missable strands do not count toward the Strangers & Freaks silver trophy or 100%. Questlines persist into post-story free roam, and follow-ups can take weeks of in-game time to appear.
 - **Missables conflict:** One guide puts "Race Against Yago" in Chapter 1 instead of Chapter 3. It also flags a Chapter 1 meditation at Jason's house, and Lucia's balcony meditation as possibly the only missable trophy — [cutscenewire](https://cutscenewire.com/games/gta-6/trophies/gta-6-missable-trophies-collectibles-and-content/) (RUMOR, accessed 2026-11-22). PowerPyx says Chapter 3.
+
+- **Forum additions (ResetEra tips thread, posts dated Fri 2026-11-20 to Sun 2026-11-22) [forum]** — [ResetEra p.1](https://www.resetera.com/threads/gta-vi-tips-and-tricks-thread-mark-spoilers-or-keep-them-vague.1693481/), [ResetEra p.5](https://www.resetera.com/threads/gta-vi-tips-and-tricks-thread-mark-spoilers-or-keep-them-vague.1693481/page-5):
+  - Stun gun obtainable in Chapter 1 by incapacitating a police officer during a random chase (user Jimnymebob) — RUMOR (single forum post).
+  - A cat outside a Pay 'n' Spray in Chapter 3 keeps trying to get run over (Dangerfruit) — RUMOR.
+  - Running over animals, especially birds, damages your criminal-profile rating (Loudninja). Kills, even on missions, reportedly worsen the profile, which may affect the ending (poklane; Bucca/Irrelevant_Replicant) — RUMOR.
+  - Gang hideouts can be cleared methodically; enemies only respawn if too much time passes or police arrive. Examples given: Brooks Boatworks, La Cascara motel (Trigger) — RUMOR.
+  - Snapmatic posts by NPCs can reveal their location (Glasfrut) — RUMOR.
+  - Map legend: dark-blue buildings have enterable interiors, often holding cash, drugs or custom weapons; light-blue ones are scenery; full-colour ones are hideouts or "friends & family" locations (Xando, Skade). Focus colour-codes doors, and red means a specific lockpick method is needed (Yerffej) — LIKELY as a discovery mechanic (multiple posters agree, but no press corroboration).
+  - Reading books, magazines and pamphlets marks locations and activities on the map (Manta_Breh) — RUMOR.
+  - Phone reminders: calling the people listed unlocks extra story bits (dakun, JBoogieG) — RUMOR (two posters).
+- **Video evidence (titles only, transcripts blocked) [video]:** "12 Rare Random Events In GTA 6 Almost Nobody Has Seen Yet" (Zancudo, ~11k views, https://www.youtube.com/watch?v=JnTgyd4DIlg); "GTA 6 - RANDOM Details I Found in the OPEN WORLD" (Bombastic, ~59k, https://www.youtube.com/watch?v=Tgfo_s87AUA); "TOP CRAZIEST Moments in GTA 6 | Aliens, UFOs, Brutal Animal Attacks and SAW Easter Egg!" (ENFANT TERRIBLE, https://www.youtube.com/watch?v=l8Zci0mICVA). The "SAW" easter egg in that title has no text corroboration — RUMOR.
 
 ### Inferences
 - Because encounters are reportedly one-time, the app should let users mark events "done" and warn that saves cannot re-trigger them. Re-verify this once a reputable outlet confirms it.
