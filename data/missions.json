@@ -1,0 +1,85 @@
+[
+  {
+    "id": "mission-sample-intro",
+    "name": "Prologue (sample)",
+    "section": "missions",
+    "summary": "SAMPLE: Placeholder first story mission.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 1,
+    "giver": null,
+    "objective": "Placeholder objective.",
+    "steps": [
+      "Step one",
+      "Step two"
+    ],
+    "tips": [
+      "Tip"
+    ],
+    "missables": [],
+    "rewards": null,
+    "unlocks": []
+  },
+  {
+    "id": "mission-sample-second",
+    "name": "Second Mission (sample)",
+    "section": "missions",
+    "summary": "SAMPLE: Placeholder with a missable.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 2,
+    "giver": null,
+    "objective": "Placeholder objective.",
+    "steps": [
+      "Step one"
+    ],
+    "tips": [],
+    "missables": [
+      "Placeholder missable collectible"
+    ],
+    "rewards": "$0",
+    "unlocks": [
+      "mission-sample-intro"
+    ]
+  },
+  {
+    "id": "mission-sample-side",
+    "name": "Side Job (sample)",
+    "section": "missions",
+    "summary": "SAMPLE: Placeholder side mission.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": null,
+    "giver": null,
+    "objective": "Placeholder.",
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": []
+  }
+]

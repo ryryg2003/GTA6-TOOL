@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pin-sample-safe-vice",
+    "name": "Safe (sample)",
+    "section": "map_pins",
+    "summary": "SAMPLE: Placeholder safe.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "safe-codes",
+    "x": 720,
+    "y": 700,
+    "location_precision": "approximate",
+    "area_name": "Vice City",
+    "how_to_reach": "Placeholder",
+    "code": "00-00-00"
+  },
+  {
+    "id": "pin-sample-card-1",
+    "name": "Card #1 (sample)",
+    "section": "map_pins",
+    "summary": "SAMPLE: Placeholder card.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "collectible-cards",
+    "x": 262,
+    "y": 318,
+    "location_precision": "exact",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": null,
+    "code": null
+  },
+  {
+    "id": "pin-sample-mechanic",
+    "name": "Mechanic (sample)",
+    "section": "map_pins",
+    "summary": "SAMPLE: Placeholder mechanic.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "mechanics",
+    "x": 500,
+    "y": 330,
+    "location_precision": "approximate",
+    "area_name": "Ambrosia",
+    "how_to_reach": null,
+    "code": null
+  }
+]
