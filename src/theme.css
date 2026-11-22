@@ -57,3 +57,13 @@ h3 { font-size: 1.05rem; margin: 18px 0 6px; }
 .file-btn { display: inline-flex; align-items: center; padding: 8px 12px; min-height: 44px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface-2); cursor: pointer; }
 .file-btn input { position: absolute; width: 1px; height: 1px; opacity: 0; }
 .footer-links { margin-top: 20px; text-align: center; }
+.tabs { display: flex; gap: 8px; margin-bottom: 8px; }
+.tab { flex: 1; }
+.tab.active { background: var(--accent); color: #0e0f13; border-color: var(--accent); font-weight: 700; }
+.pill-warn { margin-left: 8px; font-size: .75rem; font-weight: 700; color: var(--warn); border: 1px solid rgba(255,176,32,.5); border-radius: 999px; padding: 1px 7px; }
+.done-mark { color: var(--good); font-weight: 900; font-size: 1.2rem; }
+.chev { color: var(--muted); font-size: 1.3rem; }
+.done-btn { background: rgba(61,220,132,.15); color: var(--good); border-color: rgba(61,220,132,.5); font-weight: 700; }
+.missable { margin-top: 14px; }
+.missable ul { margin: 6px 0 0; padding-left: 18px; }
+.steps li { margin: 6px 0; }
