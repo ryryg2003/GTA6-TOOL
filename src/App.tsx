@@ -9,6 +9,7 @@ import Settings from './sections/Settings';
 import MissionList from './sections/missions/MissionList';
 import MissionDetail from './sections/missions/MissionDetail';
 import ProgressPage from './sections/progress/ProgressPage';
+import MapPage from './sections/map/MapPage';
 
 function ComingSoon() {
   return <main className="page"><p className="muted">Coming soon.</p></main>;
@@ -33,6 +34,7 @@ export function AppRoutes() {
         <Route path="/missions" element={<MissionList />} />
         <Route path="/missions/:id" element={<MissionDetail />} />
         <Route path="/progress" element={<ProgressPage />} />
+        <Route path="/map" element={<MapPage />} />
         <Route path="*" element={<ComingSoon />} />
       </Routes>
     </>

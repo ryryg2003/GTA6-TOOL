@@ -76,3 +76,25 @@ h3 { font-size: 1.05rem; margin: 18px 0 6px; }
 .check-row { display: flex; align-items: center; gap: 10px; min-height: 44px; flex: 1; padding: 0 6px; }
 .check-row input { width: 22px; height: 22px; min-height: 0; accent-color: var(--good); }
 .open-link { display: flex; align-items: center; padding: 0 10px; text-decoration: none; }
+.small { font-size: .85rem; }
+.map-page { position: relative; height: calc(100dvh - 61px); display: flex; flex-direction: column; }
+.map-toolbar { display: flex; align-items: center; gap: 10px; padding: 8px 12px; background: var(--bg); border-bottom: 1px solid var(--border); }
+.switch { display: flex; align-items: center; gap: 6px; }
+.switch input { width: 20px; height: 20px; min-height: 0; accent-color: var(--accent); }
+.filter-drawer { padding: 10px 12px; background: var(--surface); border-bottom: 1px solid var(--border); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { display: inline-flex; align-items: center; gap: 4px; min-height: 40px; padding: 4px 10px; border: 2px solid; border-radius: 999px; opacity: .5; cursor: pointer; }
+.chip.on { opacity: 1; background: var(--surface-2); }
+.chip input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.map { flex: 1; background: #0d2238; }
+.pin { width: 36px; height: 36px; border-radius: 50%; background: #0e0f13; border: 3px solid var(--pin); display: flex; align-items: center; justify-content: center; font-size: 17px; box-shadow: 0 2px 6px rgba(0,0,0,.5); }
+.pin-approx { border-style: dashed; }
+.pin-found { opacity: .45; filter: grayscale(.7); }
+.pin-selected { transform: scale(1.25); box-shadow: 0 0 0 4px rgba(255,255,255,.35); }
+.sheet { position: absolute; left: 0; right: 0; bottom: 0; z-index: 1000; max-height: 60%; overflow-y: auto; background: var(--surface); border-top: 1px solid var(--border); border-radius: 18px 18px 0 0; padding: 14px 16px calc(16px + env(safe-area-inset-bottom)); box-shadow: 0 -8px 30px rgba(0,0,0,.5); }
+.sheet-head { display: flex; align-items: center; gap: 10px; }
+.sheet-title { flex: 1; min-width: 0; }
+.sheet-title h2 { font-size: 1.2rem; margin: 0; }
+.sheet-icon { width: 40px; height: 40px; border-radius: 50%; border: 3px solid; display: flex; align-items: center; justify-content: center; font-size: 18px; flex: none; }
+.icon-btn { min-width: 44px; }
+.code { font-size: 1.1rem; background: var(--surface-2); padding: 8px 12px; border-radius: 10px; }
