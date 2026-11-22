@@ -20,7 +20,7 @@ This folder holds the app's data. Any Claude Code session working on this repo c
 | `trophies.json` | 55 | Every trophy, with grade, requirement and a missable flag |
 | `map_pins.json` | 116 | Safe codes, secrets, random events, free weapons, Wish List cars, stunt-jump groups and example collectibles |
 | `categories.json` | 18 | Pin categories: the 8 spec defaults plus 10 added from research |
-| `areas.json` | about 80 | 6 official regions, a "Mariana and Leonard counties" group and about 70 sub-areas |
+| `areas.json` | 75 | 6 official regions, a "Mariana and Leonard counties" group and about 70 sub-areas |
 | `changelog.json` | 1 | The seed run |
 
 ### `later/`: sections for later app versions
