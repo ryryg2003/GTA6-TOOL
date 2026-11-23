@@ -32,3 +32,6 @@ Follow `research/instructions.md` exactly.
 ## The owner
 A beginner who builds with AI. Explain changes in plain English, give copy-paste commands,
 and say how to check each thing worked.
+
+## Working preferences
+- Before treating something as blocked or impossible, research deeper (extended web search, GitHub for open-licensed data and tools, alternative sources) for a way to do what was asked.
