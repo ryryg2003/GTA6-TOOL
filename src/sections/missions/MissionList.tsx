@@ -2,6 +2,8 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { getSection } from '../../data/load';
 import { useProgress } from '../../progress/store';
+import Icon from '../../ui/Icon';
+import PageHeader from '../../ui/PageHeader';
 import { sortEntries } from '../stats/sortEntries';
 
 export default function MissionList() {
@@ -13,7 +15,7 @@ export default function MissionList() {
 
   return (
     <main className="page">
-      <h1>Missions &amp; Guides</h1>
+      <PageHeader title="Missions & Guides" right={`${doneCount} of ${all.length} done`} />
       <div role="tablist" className="tabs">
         {(['story', 'side'] as const).map((t) => (
           <button key={t} role="tab" aria-selected={tab === t} className={tab === t ? 'tab active' : 'tab'} onClick={() => setTab(t)}>
@@ -21,7 +23,6 @@ export default function MissionList() {
           </button>
         ))}
       </div>
-      <p className="muted">{doneCount} of {all.length} done</p>
       <ul className="rows">
         {rows.map((m) => (
           <li key={m.id}>
@@ -30,8 +31,9 @@ export default function MissionList() {
                 {tab === 'story' && m.order !== null && <span className="muted">{m.order}. </span>}
                 <strong data-testid="mission-name">{m.name}</strong>
                 {m.missables.length > 0 && <span className="pill-warn">Missable</span>}
+                {m.steps.length === 0 && <span className="muted small"> · walkthrough coming</span>}
               </span>
-              {p.isDone(m.id) ? <span aria-label="Done" className="done-mark">✓</span> : <span className="chev">›</span>}
+              {p.isDone(m.id) ? <span aria-label="Done" className="done-mark"><Icon name="check" /></span> : <span className="chev"><Icon name="chevron" /></span>}
             </Link>
           </li>
         ))}

@@ -55,3 +55,23 @@ export function loadFilters(defaultIds: string[]): Filters {
 export function saveFilters(f: Filters): void {
   try { localStorage.setItem(FILTER_KEY, JSON.stringify({ enabled: [...f.enabled], hideFound: f.hideFound })); } catch { /* per-device convenience only */ }
 }
+
+/** "Find a pin…": name/area/code matches, best first (name starts with the text, then contains it). */
+export function findPins<T extends MapPin>(pins: T[], query: string, limit = 30): T[] {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+  const scored: [number, T][] = [];
+  for (const p of pins) {
+    const name = p.name.toLowerCase();
+    const s = name.startsWith(q) ? 0 : name.includes(q) ? 1 : (p.area_name ?? '').toLowerCase().includes(q) || p.code === q ? 2 : -1;
+    if (s >= 0) scored.push([s, p]);
+  }
+  return scored.sort((a, b) => a[0] - b[0] || a[1].name.localeCompare(b[1].name)).slice(0, limit).map(([, p]) => p);
+}
+
+/** Pins per category (placed or not), for the filter chips. */
+export function countByCategory(pins: MapPin[]): Map<string, number> {
+  const m = new Map<string, number>();
+  for (const p of pins) m.set(p.category, (m.get(p.category) ?? 0) + 1);
+  return m;
+}

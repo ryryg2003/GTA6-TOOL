@@ -8,3 +8,10 @@ export function summarize(groups: Group[], isDone: (id: string) => boolean): Gro
     return { label, done, total, percent: total === 0 ? 0 : Math.floor((done / total) * 100) };
   });
 }
+
+/** Not-yet-done missions with missable content, and trophies marked missable. */
+export function missableItems<M extends { id: string; missables: string[] }, T extends { id: string; missable: boolean }>(
+  missions: M[], trophies: T[], isDone: (id: string) => boolean,
+): (M | T)[] {
+  return [...missions.filter((m) => m.missables.length > 0 && !isDone(m.id)), ...trophies.filter((t) => t.missable && !isDone(t.id))];
+}

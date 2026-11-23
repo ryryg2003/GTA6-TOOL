@@ -38,6 +38,8 @@ export const WeaponSchema = BaseSchema.extend({
   section: z.literal('weapons'),
   category: z.string().min(1),
   damage: bar, fire_rate: bar, range: bar, accuracy: bar,
+  /** The store menu's Handling bar (0-10 x 10). */
+  handling: bar.optional(),
   clip_size: amount, price: amount,
   unlock_how: z.string().nullable(),
 });
@@ -46,8 +48,11 @@ export type Weapon = z.infer<typeof WeaponSchema>;
 export const VehicleSchema = BaseSchema.extend({
   section: z.literal('vehicles'),
   class: z.string().min(1),
+  /** Measured top speed. Menu bars are NOT mph, so this stays null until someone tests it. */
   top_speed_mph: amount,
   acceleration: bar, handling: bar, braking: bar,
+  /** WAiNK menu bars (0-10 x 10): Speed, Off-road handling, Strength. `handling` is the Asphalt handling bar. */
+  speed: bar.optional(), offroad_handling: bar.optional(), strength: bar.optional(),
   seats: amount, price: amount,
   where_to_find: z.string().nullable(),
 });
@@ -64,6 +69,9 @@ export const MissionSchema = BaseSchema.extend({
   missables: z.array(z.string()),
   rewards: z.string().nullable(),
   unlocks: z.array(z.string()),
+  chapter: z.number().int().nonnegative().nullable().optional(),
+  /** Objective text gives away story; hidden behind a tap. */
+  spoiler: z.boolean().optional(),
 });
 export type Mission = z.infer<typeof MissionSchema>;
 
@@ -76,6 +84,8 @@ export const MapPinSchema = BaseSchema.extend({
   area_name: z.string().nullable(),
   how_to_reach: z.string().nullable(),
   code: z.string().nullable(),
+  /** The safe gets a new code each playthrough, so `code` is null and how_to_reach says how to get it. */
+  randomized: z.boolean().optional(),
 });
 export type MapPin = z.infer<typeof MapPinSchema>;
 

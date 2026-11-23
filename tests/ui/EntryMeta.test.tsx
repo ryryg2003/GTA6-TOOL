@@ -18,7 +18,7 @@ test('isStale is true past 30 days', () => {
 test('EntryMeta shows Unverified for unverified entries', () => {
   render(<EntryMeta entry={entry({})} today={new Date('2026-11-22')} />);
   expect(screen.getByText('Unverified')).toBeInTheDocument();
-  expect(screen.getByText(/Last checked/)).toHaveTextContent('2026-11-20');
+  expect(screen.getByText(/Last checked/)).toHaveTextContent('Nov 20, 2026');
 });
 
 test('EntryMeta shows May be outdated for stale entries', () => {
@@ -26,11 +26,12 @@ test('EntryMeta shows May be outdated for stale entries', () => {
   expect(screen.getByText(/May be outdated/)).toBeInTheDocument();
 });
 
-test('search box appears in the header on every screen', () => {
-  for (const path of ['/', '/weapons']) {
-    window.location.hash = '#' + path;
-    const { unmount } = render(<HashRouter><AppRoutes /></HashRouter>);
-    expect(screen.getByRole('searchbox')).toBeInTheDocument();
-    unmount();
-  }
+test('Home has a search box; other screens have a search button', () => {
+  window.location.hash = '#/';
+  const { unmount } = render(<HashRouter><AppRoutes /></HashRouter>);
+  expect(screen.getByRole('searchbox')).toBeInTheDocument();
+  unmount();
+  window.location.hash = '#/weapons';
+  render(<HashRouter><AppRoutes /></HashRouter>);
+  expect(screen.getByRole('link', { name: 'Search' })).toHaveAttribute('href', '#/search');
 });

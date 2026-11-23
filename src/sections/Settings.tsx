@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { localDay, useProgress } from '../progress/store';
+import PageHeader from '../ui/PageHeader';
 
 function readText(file: File): Promise<string> {
   return new Promise((resolve, reject) => {
@@ -63,8 +64,8 @@ export default function Settings() {
 
   return (
     <main className="page">
-      <h1>Settings</h1>
-      <h3>Progress backup</h3>
+      <PageHeader title="Settings" />
+      <h3 style={{ margin: 0 }}>Progress backup</h3>
       <p className="muted">Your checkmarks live only in this browser. Clearing browser data erases them, so export a backup now and then.</p>
       {!p.storageOk && <p className="warn-box">This browser is not saving progress (private mode?). Export a backup before closing.</p>}
       <p className="muted">Last backup: {p.state.lastBackup ?? 'never'}</p>
