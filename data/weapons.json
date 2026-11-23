@@ -4,34 +4,44 @@
     "name": "ADB FRA",
     "section": "weapons",
     "summary": "Battle rifle. Magazine 20, $2,900 at Big Shots.",
-    "details": "In-game menu values (0-10): Damage 5.8, Accuracy 5.0, Handling 5.3, Range 6.9. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.8, Accuracy 5.0, Handling 5.3, Range 6.9. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 3 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/adb-fra/",
+        "title": "Dexerto GTA 6 wiki: ADB FRA",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Battle rifle",
-    "damage": 58.0,
+    "damage": 58,
     "fire_rate": null,
-    "range": 69.0,
-    "accuracy": 50.0,
+    "range": 69,
+    "accuracy": 50,
     "clip_size": 20,
     "price": 2900,
     "unlock_how": "Buy at Big Shots",
-    "handling": 53.0,
+    "handling": 53,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -39,34 +49,44 @@
     "name": "ADB M350",
     "section": "weapons",
     "summary": "LMG. Magazine 100, $10,000 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 6.5, Accuracy 3.0, Handling 3.2, Range 6.2. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 6.5, Accuracy 3.0, Handling 3.2, Range 6.2. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/machine-guns/adb-m350/",
+        "title": "Dexerto GTA 6 wiki: ADB M350",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "LMG",
-    "damage": 65.0,
+    "damage": 65,
     "fire_rate": null,
-    "range": 62.0,
-    "accuracy": 30.0,
+    "range": 62,
+    "accuracy": 30,
     "clip_size": 100,
     "price": 10000,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 32.0,
+    "handling": 32,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -74,34 +94,44 @@
     "name": "ADB PD-90",
     "section": "weapons",
     "summary": "SMG. Magazine 30, $3,350 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 4.8, Handling 6.6, Range 4.2. Report tags: stats LIKELY (P spells \"PD-80\"); price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 4.8, Handling 6.6, Range 4.2. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/adb-pd-90/",
+        "title": "Dexerto GTA 6 wiki: ADB PD-90",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 42.0,
-    "accuracy": 48.0,
+    "range": 42,
+    "accuracy": 48,
     "clip_size": 30,
     "price": 3350,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 66.0,
+    "handling": 66,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -113,21 +143,26 @@
     "confidence": "likely",
     "sources": [
       {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/assassin-nipper-38/",
+        "title": "Dexerto GTA 6 wiki: Assassin Nipper .38",
+        "accessed": "2026-11-23"
+      },
+      {
         "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-assassin-pistol-smuggler-shotgun-locations/",
         "title": "games.gg",
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 28.0,
+    "damage": 28,
     "fire_rate": null,
-    "range": 27.0,
-    "accuracy": 35.0,
-    "clip_size": null,
+    "range": 27,
+    "accuracy": 35,
+    "clip_size": 8,
     "price": 0,
     "unlock_how": "Derelict spy vessel, Permit Keys",
-    "handling": 87.0,
+    "handling": 87,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -136,13 +171,13 @@
     "name": "Backdoor Hobo",
     "section": "weapons",
     "summary": "Unique display-case variant of the Hobo, sold at Zenon's Pawn Shop for $2,780.",
-    "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase). Dexerto lists $2,502 instead.",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/backdoor-hobo/",
+        "title": "Dexerto GTA 6 wiki: Backdoor Hobo",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -150,16 +185,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 80.0,
+    "damage": 80,
     "fire_rate": null,
-    "range": 20.0,
-    "accuracy": 36.0,
-    "clip_size": null,
+    "range": 20,
+    "accuracy": 36,
+    "clip_size": 2,
     "price": 2780,
     "unlock_how": "Buy at Zenon's Pawn Shop",
-    "handling": 64.0,
+    "handling": 64,
     "base_weapon": "Hobo",
     "is_unique_variant": true,
     "modded_preset": false,
@@ -171,24 +206,29 @@
     "section": "weapons",
     "summary": "Free pickup: not given.",
     "details": "Stats shown with parts fitted. Stats field from source: 6.2/9.5/4.1/7.5* (highest accuracy in M)",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
+      {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/tactical-rifles/black-eagle-import-m306-tmr/",
+        "title": "Dexerto GTA 6 wiki: Black Eagle Import M306 TMR",
+        "accessed": "2026-11-23"
+      },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 62.0,
+    "damage": 62,
     "fire_rate": null,
-    "range": 75.0,
-    "accuracy": 95.0,
-    "clip_size": null,
+    "range": 75,
+    "accuracy": 95,
+    "clip_size": 20,
     "price": 0,
     "unlock_how": "not given",
-    "handling": 41.0,
+    "handling": 41,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -198,12 +238,12 @@
     "section": "weapons",
     "summary": "Unique display-case variant of the Super400, sold at Vice City Gun & Pawn for $5,930.",
     "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/bruiser-super400/",
+        "title": "Dexerto GTA 6 wiki: Bruiser Super400",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -211,16 +251,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 74.0,
+    "damage": 74,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 42.0,
-    "clip_size": null,
+    "range": 25,
+    "accuracy": 42,
+    "clip_size": 7,
     "price": 5930,
     "unlock_how": "Buy at Vice City Gun & Pawn",
-    "handling": 53.0,
+    "handling": 53,
     "base_weapon": "Super400",
     "is_unique_variant": true,
     "modded_preset": false,
@@ -231,34 +271,44 @@
     "name": "BZI Vatra",
     "section": "weapons",
     "summary": "SMG. Magazine 20, $1,200 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 3.8, Handling 6.5, Range 4.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 3.8, Handling 6.5, Range 4.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/bzi-vatra/",
+        "title": "Dexerto GTA 6 wiki: BZI Vatra",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 40.0,
-    "accuracy": 38.0,
+    "range": 40,
+    "accuracy": 38,
     "clip_size": 20,
     "price": 1200,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 65.0,
+    "handling": 65,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -266,13 +316,13 @@
     "name": "Caminos Signature K17",
     "section": "weapons",
     "summary": "Free pickup: Ultimate Edition, given to Lucia in Ch2.",
-    "details": "Stats shown with parts fitted. Stats field from source: 4.0/4.5/8.4/3.8*",
+    "details": "Ultimate Edition bonus. Dexerto shows base bars 4.0/4.2/8.5/3.8 (Damage/Accuracy/Handling/Range); the numbers here (4.0/4.5/8.4/3.8) are reported with parts fitted, so they differ.",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/caminos-signature-k17/",
+        "title": "Dexerto GTA 6 wiki: Caminos Signature K17",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -280,48 +330,90 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 40.0,
+    "damage": 40,
     "fire_rate": null,
-    "range": 38.0,
-    "accuracy": 45.0,
+    "range": 38,
+    "accuracy": 45,
     "clip_size": null,
     "price": 0,
     "unlock_how": "Ultimate Edition, given to Lucia in Ch2",
-    "handling": 84.0,
+    "handling": 84,
     "is_unique_variant": true,
     "game_version": "01.002.001"
+  },
+  {
+    "id": "weapon-clunker-556",
+    "name": "Clunker 556",
+    "section": "weapons",
+    "summary": "Unique Duke Arms 556 variant. Free pickup in the Brooks Boatworks robbery, Port Gellhorn.",
+    "details": "Menu bars (0-10) per GTABase: Damage 5.0, Accuracy 5.8, Handling 6.8, Range 5.8. Not the same as the store Duke 556 (5.0/6.0/5.8/6.2): don't copy one onto the other. GTABase says it cannot be modified. VGC calls it an assault rifle, PC Gamer a carbine. Magazine 30 per GTABase.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gtabase.com/gta-6/weapons/clunker-556",
+        "title": "GTABase: Clunker 556",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.videogameschronicle.com/guide/gta-6-brooks-boatworks-safe-code-and-location-how-to-find-and-open-the-safe/",
+        "title": "VGC: Brooks Boatworks safe code and location",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
+        "title": "PC Gamer: Brooks Boatworks safe",
+        "accessed": "2026-11-23"
+      }
+    ],
+    "last_verified": "2026-11-23",
+    "category": "Unique variant",
+    "damage": 50,
+    "fire_rate": null,
+    "range": 58,
+    "accuracy": 58,
+    "clip_size": 30,
+    "price": null,
+    "unlock_how": "Brooks Boatworks robbery (Kolt & Associates), north Port Gellhorn: in a case in the second-floor office of the small two-storey building.",
+    "handling": 68,
+    "base_weapon": "Duke 556",
+    "is_unique_variant": true
   },
   {
     "id": "weapon-darknite-drifter-modded",
     "name": "Darknite Drifter (modded)",
     "section": "weapons",
     "summary": "Unique display-case variant of the Drifter, sold at Gellhorn Outfitters for $2,420.",
-    "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 8.0, Accuracy 4.7, Handling 4.7, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/darknite-drifter/",
+        "title": "Dexerto GTA 6 wiki: Darknite Drifter",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 80.0,
+    "damage": 80,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 47.0,
-    "clip_size": null,
+    "range": 25,
+    "accuracy": 47,
+    "clip_size": 2,
     "price": 2420,
     "unlock_how": "Buy at Gellhorn Outfitters",
-    "handling": 47.0,
+    "handling": 47,
     "base_weapon": "Drifter",
     "is_unique_variant": true,
     "modded_preset": true,
@@ -332,34 +424,44 @@
     "name": "Deever Tech DSG",
     "section": "weapons",
     "summary": "SMG. Magazine 30, $1,950 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 4.2, Handling 6.9, Range 4.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 4.2, Handling 6.9, Range 4.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought). Price corrected from $1950 to $1,350 (store captures).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/deever-tech-dsg/",
+        "title": "Dexerto GTA 6 wiki: Deever Tech DSG",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 40.0,
-    "accuracy": 42.0,
+    "range": 40,
+    "accuracy": 42,
     "clip_size": 30,
-    "price": 1950,
+    "price": 1350,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 69.0,
+    "handling": 69,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -367,13 +469,13 @@
     "name": "Deever Tech GLR40",
     "section": "weapons",
     "summary": "Grenade launcher. Magazine 6, $15,500 at expanded.",
-    "details": "In-game menu values (0-10): Damage 9.2, Accuracy 6.0, Handling 5.0, Range 4.0. Report tags: stats LIKELY; price LIKELY. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
+    "details": "",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/launchers/deever-tech-glr40/",
+        "title": "Dexerto GTA 6 wiki: Deever Tech GLR40",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -381,16 +483,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Grenade launcher",
-    "damage": 92.0,
+    "damage": 92,
     "fire_rate": null,
-    "range": 40.0,
-    "accuracy": 60.0,
+    "range": 40,
+    "accuracy": 60,
     "clip_size": 6,
     "price": 15500,
     "unlock_how": "Buy at expanded",
-    "handling": 50.0,
+    "handling": 50,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
     "stats_confidence": "likely",
@@ -402,34 +504,44 @@
     "name": "Duke 1922",
     "section": "weapons",
     "summary": "Pistol. Magazine 8, $1,050 at Chuck's.",
-    "details": "In-game menu values (0-10): Damage 5.5, Accuracy 4.8, Handling 8.0, Range 4.6. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.5, Accuracy 4.8, Handling 8.0, Range 4.6. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Requires a bank account\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/duke-1922/",
+        "title": "Dexerto GTA 6 wiki: Duke 1922",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Pistol",
-    "damage": 55.0,
+    "damage": 55,
     "fire_rate": null,
-    "range": 46.0,
-    "accuracy": 48.0,
+    "range": 46,
+    "accuracy": 48,
     "clip_size": 8,
     "price": 1050,
     "unlock_how": "Buy at Chuck's",
-    "handling": 80.0,
+    "handling": 80,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -437,30 +549,40 @@
     "name": "Duke 556",
     "section": "weapons",
     "summary": "Assault rifle (5.56, full auto). Magazine 30, $1,450 (needs bank account) at Chuck's; Big Shots.",
-    "details": "In-game menu values (0-10): Damage 5.0, Accuracy 6.0, Handling 5.8, Range 6.2. Report tags: stats CONFIRMED; price CONFIRMED.",
+    "details": "Store menu (0-10): Damage 5.0, Accuracy 6.0, Handling 5.8, Range 6.2. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Requires a bank account\"; that depends on the save (stock, money, guns bought). The store files it as a \"Carbine rifle\" under Assault rifles. Not the same gun as the Clunker 556, a unique variant with its own bars.",
     "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/duke-556/",
+        "title": "Dexerto GTA 6 wiki: Duke 556",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Assault rifle",
-    "damage": 50.0,
+    "damage": 50,
     "fire_rate": null,
-    "range": 62.0,
-    "accuracy": 60.0,
+    "range": 62,
+    "accuracy": 60,
     "clip_size": 30,
     "price": 1450,
     "unlock_how": "Buy at Chuck's; Big Shots",
-    "handling": 58.0,
+    "handling": 58,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
     "stats_confidence": "confirmed",
@@ -472,34 +594,44 @@
     "name": "Duke Mustang .357",
     "section": "weapons",
     "summary": "Revolver. Magazine 6, $1,800 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 5.7, Accuracy 4.5, Handling 8.0, Range 5.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.7, Accuracy 4.5, Handling 8.0, Range 5.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 3 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/revolvers/duke-mustang-357/",
+        "title": "Dexerto GTA 6 wiki: Duke Mustang .357",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Revolver",
-    "damage": 57.0,
+    "damage": 57,
     "fire_rate": null,
-    "range": 55.0,
-    "accuracy": 45.0,
+    "range": 55,
+    "accuracy": 45,
     "clip_size": 6,
     "price": 1800,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 80.0,
+    "handling": 80,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -511,6 +643,11 @@
     "confidence": "likely",
     "sources": [
       {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/duval-signature-es9/",
+        "title": "Dexerto GTA 6 wiki: Duval Signature ES9",
+        "accessed": "2026-11-23"
+      },
+      {
         "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-weapons-locations-unlocks/",
         "title": "games.gg",
         "accessed": "2026-11-22"
@@ -521,16 +658,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 47.0,
-    "accuracy": 55.0,
-    "clip_size": null,
+    "range": 47,
+    "accuracy": 55,
+    "clip_size": 15,
     "price": 0,
     "unlock_how": "Ultimate Edition, Jason's locker from Ch1",
-    "handling": 82.0,
+    "handling": 82,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -539,33 +676,43 @@
     "name": "Fairview FF-50",
     "section": "weapons",
     "summary": "Sniper (anti-materiel). Magazine 5, $3,975 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage ?, Accuracy 7.8, Handling 2.5, Range ?. Report tags: stats RUMOR (conflict); price CONFIRMED. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 8.5, Accuracy 7.8, Handling 2.5, Range 8.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/sniper-rifles/fairview-ff-50/",
+        "title": "Dexerto GTA 6 wiki: Fairview FF-50",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Sniper",
-    "damage": null,
+    "damage": 85,
     "fire_rate": null,
-    "range": null,
-    "accuracy": 78.0,
+    "range": 85,
+    "accuracy": 78,
     "clip_size": 5,
     "price": 3975,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 25.0,
+    "handling": 25,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
+    "stats_confidence": "confirmed",
     "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
@@ -574,34 +721,44 @@
     "name": "Fairview FF-SR",
     "section": "weapons",
     "summary": "Sniper. Magazine 10, $2,950 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage ?, Accuracy 8.3, Handling 2.9, Range ?. Report tags: stats RUMOR (conflict); price LIKELY. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 8.0, Accuracy 8.3, Handling 2.9, Range 8.4. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/sniper-rifles/fairview-ff-sr/",
+        "title": "Dexerto GTA 6 wiki: Fairview FF-SR",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Sniper",
-    "damage": null,
+    "damage": 80,
     "fire_rate": null,
-    "range": null,
-    "accuracy": 83.0,
+    "range": 84,
+    "accuracy": 83,
     "clip_size": 10,
     "price": 2950,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 29.0,
+    "handling": 29,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
-    "price_confidence": "likely",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -609,34 +766,44 @@
     "name": "Fairview Kalinga .50",
     "section": "weapons",
     "summary": "Pistol (.50). Magazine 7, $3,100 at Prestige.",
-    "details": "In-game menu values (0-10): Damage 7.0, Accuracy 4.0, Handling 7.8, Range 5.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.0, Accuracy 4.0, Handling 7.8, Range 5.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/fairview-kalinga-50/",
+        "title": "Dexerto GTA 6 wiki: Fairview Kalinga .50",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Pistol",
-    "damage": 70.0,
+    "damage": 70,
     "fire_rate": null,
-    "range": 50.0,
-    "accuracy": 40.0,
+    "range": 50,
+    "accuracy": 40,
     "clip_size": 7,
     "price": 3100,
     "unlock_how": "Buy at Prestige",
-    "handling": 78.0,
+    "handling": 78,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -644,34 +811,39 @@
     "name": "Fortune & Son Gorse 425",
     "section": "weapons",
     "summary": "Shotgun. Magazine 5, $850 at Big Shots.",
-    "details": "In-game menu values (0-10): Damage 7.5, Accuracy 3.8, Handling 6.2, Range 2.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.5, Accuracy 3.8, Handling 6.2, Range 2.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Not enough cash\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/fortune-son-gorse-425/",
+        "title": "Dexerto GTA 6 wiki: Fortune & Son Gorse 425",
+        "accessed": "2026-11-23"
       },
       {
-        "url": "https://meowdb.com/gta6/weapons",
-        "title": "NiaMeowDB, Nov 22",
-        "accessed": "2026-11-22"
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 75.0,
+    "damage": 75,
     "fire_rate": null,
-    "range": 20.0,
-    "accuracy": 38.0,
+    "range": 20,
+    "accuracy": 38,
     "clip_size": 5,
     "price": 850,
     "unlock_how": "Buy at Big Shots",
-    "handling": 62.0,
+    "handling": 62,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -679,33 +851,43 @@
     "name": "Fortune & Son Laird 350",
     "section": "weapons",
     "summary": "Sniper. Magazine 5, $950 at Chuck's (M); expanded (E).",
-    "details": "In-game menu values (0-10): Damage ?, Accuracy 8.8, Handling 3.6, Range ?. Report tags: stats RUMOR (conflict); price CONFIRMED (M + E + V). Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 6.5, Accuracy 8.8, Handling 3.6, Range 8.4. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Not enough cash\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/sniper-rifles/fortune-son-laird-350/",
+        "title": "Dexerto GTA 6 wiki: Fortune & Son Laird 350",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Sniper",
-    "damage": null,
+    "damage": 65,
     "fire_rate": null,
-    "range": null,
-    "accuracy": 88.0,
+    "range": 84,
+    "accuracy": 88,
     "clip_size": 5,
     "price": 950,
     "unlock_how": "Buy at Chuck's (M); expanded (E)",
-    "handling": 36.0,
+    "handling": 36,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
+    "stats_confidence": "confirmed",
     "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
@@ -714,34 +896,39 @@
     "name": "Fortune & Son Moreland 850",
     "section": "weapons",
     "summary": "Shotgun (pump). Magazine 5, M $700 vs V $350 (V is the \"Gear Up\" mission shop, maybe a mission price) at Chuck's.",
-    "details": "In-game menu values (0-10): Damage 7.5, Accuracy 4.2, Handling 5.6, Range 2.5. Report tags: stats LIKELY; price RUMOR (conflict). Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.5, Accuracy 4.2, Handling 5.6, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/fortune-son-moreland-850/",
+        "title": "Dexerto GTA 6 wiki: Fortune & Son Moreland 850",
+        "accessed": "2026-11-23"
       },
       {
-        "url": "https://meowdb.com/gta6/weapons",
-        "title": "NiaMeowDB, Nov 22",
-        "accessed": "2026-11-22"
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 75.0,
+    "damage": 75,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 42.0,
+    "range": 25,
+    "accuracy": 42,
     "clip_size": 5,
     "price": 700,
     "unlock_how": "Buy at Chuck's",
-    "handling": 56.0,
+    "handling": 56,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -749,34 +936,44 @@
     "name": "Girardi AZ1200",
     "section": "weapons",
     "summary": "Shotgun. Magazine 5, $2,300 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 7.4, Accuracy 4.5, Handling 5.8, Range 2.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.4, Accuracy 4.5, Handling 5.8, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 5 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/girardi-az1200/",
+        "title": "Dexerto GTA 6 wiki: Girardi AZ1200",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 74.0,
+    "damage": 74,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 45.0,
+    "range": 25,
+    "accuracy": 45,
     "clip_size": 5,
     "price": 2300,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 58.0,
+    "handling": 58,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -784,34 +981,44 @@
     "name": "Girardi ES18",
     "section": "weapons",
     "summary": "Pistol (3-round burst). Magazine 30, $1,550 at Prestige Firearms.",
-    "details": "In-game menu values (0-10): Damage ?, Accuracy 4.6, Handling 7.7, Range ?. Report tags: stats RUMOR (conflict); price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 4.6, Handling 7.7, Range 4.8. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/girardi-es18/",
+        "title": "Dexerto GTA 6 wiki: Girardi ES18",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Pistol",
-    "damage": null,
+    "damage": 42,
     "fire_rate": null,
-    "range": null,
-    "accuracy": 46.0,
+    "range": 48,
+    "accuracy": 46,
     "clip_size": 30,
     "price": 1550,
     "unlock_how": "Buy at Prestige Firearms",
-    "handling": 77.0,
+    "handling": 77,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -819,33 +1026,43 @@
     "name": "Girardi ES9",
     "section": "weapons",
     "summary": "Pistol. Magazine 15, $700 at Chuck's.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 5.2, Handling 8.4, Range 4.4. Report tags: stats LIKELY; price LIKELY. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "likely",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 5.2, Handling 8.4, Range 4.4. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Equipped\"; that depends on the save (stock, money, guns bought). Jason starts with it, so the store showed it as owned with no price. The $700 price comes from a fan database only.",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/girardi-es9/",
+        "title": "Dexerto GTA 6 wiki: Girardi ES9",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Pistol",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 44.0,
-    "accuracy": 52.0,
+    "range": 44,
+    "accuracy": 52,
     "clip_size": 15,
     "price": 700,
     "unlock_how": "Buy at Chuck's",
-    "handling": 84.0,
+    "handling": 84,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
+    "stats_confidence": "confirmed",
     "price_confidence": "likely",
     "game_version": "01.002.001"
   },
@@ -854,34 +1071,44 @@
     "name": "Girardi Super400",
     "section": "weapons",
     "summary": "Shotgun. Magazine 7, $2,825 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 7.4, Accuracy 4.2, Handling 5.3, Range 2.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.4, Accuracy 4.2, Handling 5.3, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/girardi-super400/",
+        "title": "Dexerto GTA 6 wiki: Girardi Super400",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 74.0,
+    "damage": 74,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 42.0,
+    "range": 25,
+    "accuracy": 42,
     "clip_size": 7,
     "price": 2825,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 53.0,
+    "handling": 53,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -889,34 +1116,44 @@
     "name": "Girardi Verro",
     "section": "weapons",
     "summary": "Shotgun. Magazine 5, $2,700 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 7.4, Accuracy 3.9, Handling 6.5, Range 2.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.4, Accuracy 3.9, Handling 6.5, Range 2.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 5 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/girardi-verro/",
+        "title": "Dexerto GTA 6 wiki: Girardi Verro",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 74.0,
+    "damage": 74,
     "fire_rate": null,
-    "range": 20.0,
-    "accuracy": 39.0,
+    "range": 20,
+    "accuracy": 39,
     "clip_size": 5,
     "price": 2700,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 65.0,
+    "handling": 65,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -924,34 +1161,44 @@
     "name": "Goodwin Comshot 12",
     "section": "weapons",
     "summary": "Shotgun. Magazine 7, $3,825 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 7.7, Accuracy 4.2, Handling 4.0, Range 2.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.7, Accuracy 4.2, Handling 4.0, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/goodwin-comshot-12/",
+        "title": "Dexerto GTA 6 wiki: Goodwin Comshot 12",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 77.0,
+    "damage": 77,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 42.0,
+    "range": 25,
+    "accuracy": 42,
     "clip_size": 7,
     "price": 3825,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 40.0,
+    "handling": 40,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -959,33 +1206,28 @@
     "name": "Goodwin LMG 6",
     "section": "weapons",
     "summary": "LMG. Magazine 100, price unknown at unknown.",
-    "details": "Stat note: P only In-game menu values (0-10): Damage 6.8, Accuracy 2.8, Handling 2.8, Range 6.5. Report tags: stats RUMOR; price n/a. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
-      {
-        "url": "https://meowdb.com/gta6/weapons",
-        "title": "NiaMeowDB, Nov 22",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/machine-guns/goodwin-lmg-6/",
+        "title": "Dexerto GTA 6 wiki: Goodwin LMG 6",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "LMG",
-    "damage": 68.0,
+    "damage": 68,
     "fire_rate": null,
-    "range": 65.0,
-    "accuracy": 28.0,
+    "range": 65,
+    "accuracy": 28,
     "clip_size": 100,
-    "price": null,
+    "price": 15250,
     "unlock_how": null,
-    "handling": 28.0,
+    "handling": 28,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
+    "stats_confidence": "likely",
     "price_confidence": null,
     "game_version": "01.002.001"
   },
@@ -994,33 +1236,28 @@
     "name": "Hauners H-AT",
     "section": "weapons",
     "summary": "Rocket launcher. Magazine 1, $16,000 at expanded.",
-    "details": "In-game menu values (0-10): Damage 9.6, Accuracy 4.5, Handling 3.0, Range 8.0. Report tags: stats LIKELY (damage, Metaforge agrees); RUMOR (rest); price CONFIRMED. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
-      {
-        "url": "https://meowdb.com/gta6/weapons",
-        "title": "NiaMeowDB, Nov 22",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/launchers/hauners-h-at/",
+        "title": "Dexerto GTA 6 wiki: Hauners H-AT",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Rocket launcher",
-    "damage": 96.0,
+    "damage": 96,
     "fire_rate": null,
-    "range": 80.0,
-    "accuracy": 45.0,
+    "range": 80,
+    "accuracy": 45,
     "clip_size": 1,
     "price": 16000,
     "unlock_how": "Buy at expanded",
-    "handling": 30.0,
+    "handling": 30,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
+    "stats_confidence": "likely",
     "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
@@ -1029,34 +1266,44 @@
     "name": "Hawk & Little .38",
     "section": "weapons",
     "summary": "Revolver. Magazine 6, $1,075 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 2.5, Accuracy 5.0, Handling 8.6, Range 4.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 2.5, Accuracy 5.0, Handling 8.6, Range 4.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 5 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/revolvers/hawk-little-38/",
+        "title": "Dexerto GTA 6 wiki: Hawk & Little .38",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Revolver",
-    "damage": 25.0,
+    "damage": 25,
     "fire_rate": null,
-    "range": 45.0,
-    "accuracy": 50.0,
+    "range": 45,
+    "accuracy": 50,
     "clip_size": 6,
     "price": 1075,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 86.0,
+    "handling": 86,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1064,34 +1311,44 @@
     "name": "Hawk & Little Mediator",
     "section": "weapons",
     "summary": "Tactical rifle. Magazine 17, $900 at Martez Empeños.",
-    "details": "In-game menu values (0-10): Damage 4.8, Accuracy 7.8, Handling 5.6, Range 7.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.8, Accuracy 7.8, Handling 5.6, Range 7.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/tactical-rifles/hawk-little-mediator/",
+        "title": "Dexerto GTA 6 wiki: Hawk & Little Mediator",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Tactical rifle",
-    "damage": 48.0,
+    "damage": 48,
     "fire_rate": null,
-    "range": 70.0,
-    "accuracy": 78.0,
+    "range": 70,
+    "accuracy": 78,
     "clip_size": 17,
     "price": 900,
     "unlock_how": "Buy at Martez Empeños",
-    "handling": 56.0,
+    "handling": 56,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1099,13 +1356,13 @@
     "name": "Hawk & Little Morgan",
     "section": "weapons",
     "summary": "Revolver (Ultimate Edition). Magazine 6, edition reward at n/a.",
-    "details": "In-game menu values (0-10): Damage 5.7, Accuracy 5.4, Handling 7.8, Range 6.0. Report tags: stats LIKELY; price n/a. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
+    "details": "",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/revolvers/hawk-little-morgan/",
+        "title": "Dexerto GTA 6 wiki: Hawk & Little Morgan",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -1113,16 +1370,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Revolver",
-    "damage": 57.0,
+    "damage": 57,
     "fire_rate": null,
-    "range": 60.0,
-    "accuracy": 54.0,
+    "range": 60,
+    "accuracy": 54,
     "clip_size": 6,
     "price": null,
     "unlock_how": "Buy at n/a",
-    "handling": 78.0,
+    "handling": 78,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
     "stats_confidence": "likely",
@@ -1134,33 +1391,43 @@
     "name": "Hillinger Boomer",
     "section": "weapons",
     "summary": "Grenade launcher. Magazine 1, $12,000 at expanded.",
-    "details": "In-game menu values (0-10): Damage 9.2, Accuracy 5.0, Handling 6.0, Range 4.0. Report tags: stats LIKELY; price CONFIRMED. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "likely",
+    "details": "Store menu (0-10): Damage 9.2, Accuracy 5.0, Handling 6.0, Range 4.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/launchers/hillinger-boomer/",
+        "title": "Dexerto GTA 6 wiki: Hillinger Boomer",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Grenade launcher",
-    "damage": 92.0,
+    "damage": 92,
     "fire_rate": null,
-    "range": 40.0,
-    "accuracy": 50.0,
+    "range": 40,
+    "accuracy": 50,
     "clip_size": 1,
     "price": 12000,
     "unlock_how": "Buy at expanded",
-    "handling": 60.0,
+    "handling": 60,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
+    "stats_confidence": "confirmed",
     "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
@@ -1169,34 +1436,44 @@
     "name": "Hillinger Heathen",
     "section": "weapons",
     "summary": "Assault rifle. Magazine unknown (P says 3, likely a typo), $2,450 at Big Shots.",
-    "details": "In-game menu values (0-10): Damage 5.0, Accuracy 6.2, Handling 5.8, Range 6.2. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.0, Accuracy 6.2, Handling 5.8, Range 6.2. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/hillinger-heathen/",
+        "title": "Dexerto GTA 6 wiki: Hillinger Heathen",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Assault rifle",
-    "damage": 50.0,
+    "damage": 50,
     "fire_rate": null,
-    "range": 62.0,
-    "accuracy": 62.0,
-    "clip_size": null,
+    "range": 62,
+    "accuracy": 62,
+    "clip_size": 30,
     "price": 2450,
     "unlock_how": "Buy at Big Shots",
-    "handling": 58.0,
+    "handling": 58,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1204,34 +1481,44 @@
     "name": "Hillinger M306",
     "section": "weapons",
     "summary": "Tactical rifle. Magazine 20, $2,375 at Big Shots.",
-    "details": "In-game menu values (0-10): Damage 6.2, Accuracy 7.5, Handling 4.8, Range 7.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 6.2, Accuracy 7.5, Handling 4.8, Range 7.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 5 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/tactical-rifles/hillinger-m306/",
+        "title": "Dexerto GTA 6 wiki: Hillinger M306",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Tactical rifle",
-    "damage": 62.0,
+    "damage": 62,
     "fire_rate": null,
-    "range": 75.0,
-    "accuracy": 75.0,
+    "range": 75,
+    "accuracy": 75,
     "clip_size": 20,
     "price": 2375,
     "unlock_how": "Buy at Big Shots",
-    "handling": 48.0,
+    "handling": 48,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1239,34 +1526,44 @@
     "name": "Hillinger M306 TMR",
     "section": "weapons",
     "summary": "Tactical rifle. Magazine 20, $2,550 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 6.2, Accuracy 7.8, Handling 5.5, Range 7.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 6.2, Accuracy 7.8, Handling 5.5, Range 7.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Get gold in all ranges\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/tactical-rifles/hillinger-m306-tmr/",
+        "title": "Dexerto GTA 6 wiki: Hillinger M306 TMR",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Tactical rifle",
-    "damage": 62.0,
+    "damage": 62,
     "fire_rate": null,
-    "range": 75.0,
-    "accuracy": 78.0,
+    "range": 75,
+    "accuracy": 78,
     "clip_size": 20,
     "price": 2550,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 55.0,
+    "handling": 55,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1275,12 +1572,12 @@
     "section": "weapons",
     "summary": "Unique display-case variant of the Mustang .357, sold at Phil's Ammu-Nation for $3,780.",
     "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/revolvers/honky-tonk-mustang-357/",
+        "title": "Dexerto GTA 6 wiki: Honky Tonk Mustang .357",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -1288,16 +1585,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 57.0,
+    "damage": 57,
     "fire_rate": null,
-    "range": 59.0,
-    "accuracy": 50.0,
-    "clip_size": null,
+    "range": 59,
+    "accuracy": 50,
+    "clip_size": 6,
     "price": 3780,
     "unlock_how": "Buy at Phil's Ammu-Nation",
-    "handling": 72.0,
+    "handling": 72,
     "base_weapon": "Mustang .357",
     "is_unique_variant": true,
     "modded_preset": true,
@@ -1317,16 +1614,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 65.0,
+    "damage": 65,
     "fire_rate": null,
-    "range": 80.0,
-    "accuracy": 88.0,
+    "range": 80,
+    "accuracy": 88,
     "clip_size": null,
     "price": 0,
     "unlock_how": "Conflict: abandoned motel south of Hamlet, or random encounter in western Grassrivers",
-    "handling": 40.0,
+    "handling": 40,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -1335,8 +1632,8 @@
     "name": "Killtelligence SM-69",
     "section": "weapons",
     "summary": "Free pickup: Bret's first hunting quest.",
-    "details": "Stats field from source: 6.8/8.4/2.7/8.4",
-    "confidence": "confirmed",
+    "details": "Stats field from source: 6.8/8.4/2.7/8.4 Dexerto's Killtelligence SM-69 page shows different menu bars (68/92/18/93); not used.",
+    "confidence": "likely",
     "sources": [
       {
         "url": "https://egamers.io/gta-6-weapons-guide-every-class-launcher-and-sniper-prices-and-which-ammu-nation-stores-sell-them/",
@@ -1349,16 +1646,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 68.0,
+    "damage": 68,
     "fire_rate": null,
-    "range": 84.0,
-    "accuracy": 84.0,
+    "range": 84,
+    "accuracy": 84,
     "clip_size": null,
     "price": 0,
     "unlock_how": "Bret's first hunting quest",
-    "handling": 27.0,
+    "handling": 27,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -1367,30 +1664,25 @@
     "name": "Kingfisher W-22 and Kingfisher's Laird 350",
     "section": "weapons",
     "summary": "Free pickup: Gated Kingfisher compound, Grassrivers.",
-    "details": "Stats shown with parts fitted. Stats field from source: 1.5/8.4/5.4/6.7; 6.5/7.8/4.8/7.5*",
+    "details": "Only a fan database lists these numbers so far; treat them as unchecked. Stats shown with parts fitted. Stats field from source: 1.5/8.4/5.4/6.7; 6.5/7.8/4.8/7.5*",
     "confidence": "unverified",
     "sources": [
-      {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 15.0,
+    "damage": 15,
     "fire_rate": null,
     "range": null,
-    "accuracy": 84.0,
+    "accuracy": 84,
     "clip_size": null,
     "price": 0,
     "unlock_how": "Gated Kingfisher compound, Grassrivers",
-    "handling": 54.0,
+    "handling": 54,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -1399,30 +1691,40 @@
     "name": "Klose K17",
     "section": "weapons",
     "summary": "Pistol (9mm, semi). Magazine 17, $975 at Chuck's; Big Shots (D); Prestige (M).",
-    "details": "In-game menu values (0-10): Damage 4.0, Accuracy 4.2, Handling 8.5, Range 3.8. Report tags: stats CONFIRMED; price CONFIRMED.",
+    "details": "Store menu (0-10): Damage 4.0, Accuracy 4.2, Handling 8.5, Range 3.8. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Not enough cash\"; that depends on the save (stock, money, guns bought).",
     "confidence": "confirmed",
     "sources": [
       {
         "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "title": "Dexerto GTA 6 wiki: Klose K17",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Pistol",
-    "damage": 40.0,
+    "damage": 40,
     "fire_rate": null,
-    "range": 38.0,
-    "accuracy": 42.0,
+    "range": 38,
+    "accuracy": 42,
     "clip_size": 17,
     "price": 975,
     "unlock_how": "Buy at Chuck's; Big Shots (D); Prestige (M)",
-    "handling": 85.0,
+    "handling": 85,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
     "stats_confidence": "confirmed",
@@ -1434,34 +1736,44 @@
     "name": "Klose K17 MCD",
     "section": "weapons",
     "summary": "Pistol (full auto). Magazine 24, $1,700 at Prestige.",
-    "details": "In-game menu values (0-10): Damage 4.0, Accuracy 3.2, Handling ?, Range 4.2. Report tags: stats RUMOR (conflict); price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.0, Accuracy 3.2, Handling 7.7, Range 4.2. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17-mcd/",
+        "title": "Dexerto GTA 6 wiki: Klose K17 MCD",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Pistol",
-    "damage": 40.0,
+    "damage": 40,
     "fire_rate": null,
-    "range": 42.0,
-    "accuracy": 32.0,
+    "range": 42,
+    "accuracy": 32,
     "clip_size": 24,
     "price": 1700,
     "unlock_how": "Buy at Prestige",
-    "handling": null,
+    "handling": 77,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1469,34 +1781,44 @@
     "name": "Kozlov Hind",
     "section": "weapons",
     "summary": "Assault rifle. Magazine 30, $1,700 at n/a.",
-    "details": "In-game menu values (0-10): Damage ?, Accuracy 3.5, Handling 7.1, Range ?. Report tags: stats RUMOR (conflict); price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.4, Accuracy 3.5, Handling 7.1, Range 4.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/kozlov-hind/",
+        "title": "Dexerto GTA 6 wiki: Kozlov Hind",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Assault rifle",
-    "damage": null,
+    "damage": 54,
     "fire_rate": null,
-    "range": null,
-    "accuracy": 35.0,
+    "range": 45,
+    "accuracy": 35,
     "clip_size": 30,
     "price": 1700,
     "unlock_how": "Buy at n/a",
-    "handling": 71.0,
+    "handling": 71,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1504,34 +1826,44 @@
     "name": "Kozlov KVGA-12",
     "section": "weapons",
     "summary": "Shotgun (full auto). Magazine 8, $3,650 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 7.2, Accuracy 4.5, Handling 5.1, Range 2.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 7.2, Accuracy 4.5, Handling 5.1, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/kozlov-kvga-12/",
+        "title": "Dexerto GTA 6 wiki: Kozlov KVGA-12",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 72.0,
+    "damage": 72,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 45.0,
+    "range": 25,
+    "accuracy": 45,
     "clip_size": 8,
     "price": 3650,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 51.0,
+    "handling": 51,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1539,34 +1871,44 @@
     "name": "Kozlov KZ-59",
     "section": "weapons",
     "summary": "Assault rifle (AK-style). Magazine 30, $1,250 at Big Shots.",
-    "details": "In-game menu values (0-10): Damage 5.4, Accuracy 5.2, Handling 5.2, Range 6.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.4, Accuracy 5.2, Handling 5.2, Range 6.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 3 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/kozlov-kz-59/",
+        "title": "Dexerto GTA 6 wiki: Kozlov KZ-59",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Assault rifle",
-    "damage": 54.0,
+    "damage": 54,
     "fire_rate": null,
-    "range": 65.0,
-    "accuracy": 52.0,
+    "range": 65,
+    "accuracy": 52,
     "clip_size": 30,
     "price": 1250,
     "unlock_how": "Buy at Big Shots",
-    "handling": 52.0,
+    "handling": 52,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1574,30 +1916,30 @@
     "name": "Mahi Nipper .38",
     "section": "weapons",
     "summary": "Unique display-case variant of the Nipper .38, sold at Chuck's Tackle & Shot for $1,160.",
-    "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 2.8, Accuracy 3.0, Handling 9.0, Range 3.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
+    "confidence": "likely",
     "sources": [
-      {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 28.0,
+    "damage": 28,
     "fire_rate": null,
-    "range": 30.0,
-    "accuracy": 30.0,
+    "range": 30,
+    "accuracy": 30,
     "clip_size": null,
     "price": 1160,
     "unlock_how": "Buy at Chuck's Tackle & Shot",
-    "handling": 90.0,
+    "handling": 90,
     "base_weapon": "Nipper .38",
     "is_unique_variant": true,
     "modded_preset": false,
@@ -1622,16 +1964,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 80.0,
+    "damage": 80,
     "fire_rate": null,
-    "range": 20.0,
-    "accuracy": 36.0,
+    "range": 20,
+    "accuracy": 36,
     "clip_size": null,
     "price": 0,
     "unlock_how": "Industrial storage building south of Hamlet",
-    "handling": 64.0,
+    "handling": 64,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -1640,34 +1982,44 @@
     "name": "Mason & Keen Longshot",
     "section": "weapons",
     "summary": "Shotgun. Magazine 2, $1,425 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 8.0, Accuracy 4.1, Handling 5.0, Range 2.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 8.0, Accuracy 4.1, Handling 5.0, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 3 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/mason-keen-longshot/",
+        "title": "Dexerto GTA 6 wiki: Mason & Keen Longshot",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 80.0,
+    "damage": 80,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 41.0,
+    "range": 25,
+    "accuracy": 41,
     "clip_size": 2,
     "price": 1425,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 50.0,
+    "handling": 50,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1675,34 +2027,44 @@
     "name": "Mason & Keen Shortstraw",
     "section": "weapons",
     "summary": "Shotgun. Magazine 2, $1,625 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 8.0, Accuracy 3.6, Handling 6.4, Range 2.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 8.0, Accuracy 3.6, Handling 6.4, Range 2.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 3 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/mason-keen-shortstraw/",
+        "title": "Dexerto GTA 6 wiki: Mason & Keen Shortstraw",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 80.0,
+    "damage": 80,
     "fire_rate": null,
-    "range": 20.0,
-    "accuracy": 36.0,
+    "range": 20,
+    "accuracy": 36,
     "clip_size": 2,
     "price": 1625,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 64.0,
+    "handling": 64,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1711,12 +2073,12 @@
     "section": "weapons",
     "summary": "Unique display-case variant of the KZ-59, sold at Rodgers Ranch for $2,630.",
     "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/nightmare-kz-59/",
+        "title": "Dexerto GTA 6 wiki: Nightmare KZ-59",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -1724,16 +2086,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 54.0,
+    "damage": 54,
     "fire_rate": null,
-    "range": 59.0,
-    "accuracy": 63.0,
+    "range": 59,
+    "accuracy": 63,
     "clip_size": null,
     "price": 2630,
     "unlock_how": "Buy at Rodgers Ranch",
-    "handling": 48.0,
+    "handling": 48,
     "base_weapon": "KZ-59",
     "is_unique_variant": true,
     "modded_preset": false,
@@ -1748,26 +2110,21 @@
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
-      {
-        "url": "https://meowdb.com/gta6/weapons",
-        "title": "NiaMeowDB, Nov 22",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/the-patriarch-drx/",
+        "title": "Dexerto GTA 6 wiki: The Patriarch DRX",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": null,
+    "damage": 40,
     "fire_rate": null,
-    "range": null,
-    "accuracy": null,
-    "clip_size": null,
+    "range": 42,
+    "accuracy": 49,
+    "clip_size": 21,
     "price": 0,
     "unlock_how": "Underwater south of Kalaga Reservoir",
-    "handling": null,
+    "handling": 72,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -1776,30 +2133,25 @@
     "name": "Pocketblast DSG (modded)",
     "section": "weapons",
     "summary": "Unique display-case variant of the DSG, sold at Griffin Shooting Range for $2,840.",
-    "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
+    "details": "Only a fan database lists these numbers so far; treat them as unchecked. Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
     "confidence": "unverified",
     "sources": [
-      {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 44.0,
-    "accuracy": 52.0,
+    "range": 44,
+    "accuracy": 52,
     "clip_size": null,
     "price": 2840,
     "unlock_how": "Buy at Griffin Shooting Range",
-    "handling": 59.0,
+    "handling": 59,
     "base_weapon": "DSG",
     "is_unique_variant": true,
     "modded_preset": true,
@@ -1810,7 +2162,7 @@
     "name": "Russo's 1922 Pistol, Cold War 556",
     "section": "weapons",
     "summary": "Free pickup: President's bunkers.",
-    "details": "Stats field from source: unknown Marked likely, not confirmed: only one non-official source so far.",
+    "details": "Stats field from source: unknown",
     "confidence": "likely",
     "sources": [
       {
@@ -1819,7 +2171,7 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
     "damage": null,
     "fire_rate": null,
@@ -1838,12 +2190,12 @@
     "section": "weapons",
     "summary": "Unique display-case variant of the ES9, sold at Big Shots for $1,470.",
     "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/sand-storm-es9/",
+        "title": "Dexerto GTA 6 wiki: Sand Storm ES9",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -1851,16 +2203,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 44.0,
-    "accuracy": 52.0,
-    "clip_size": null,
+    "range": 44,
+    "accuracy": 52,
+    "clip_size": 15,
     "price": 1470,
     "unlock_how": "Buy at Big Shots",
-    "handling": 84.0,
+    "handling": 84,
     "base_weapon": "ES9",
     "is_unique_variant": true,
     "modded_preset": false,
@@ -1871,34 +2223,44 @@
     "name": "Schlamm DW-9",
     "section": "weapons",
     "summary": "SMG. Magazine 30, $1,750 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 4.5, Handling 6.8, Range 4.0. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 4.5, Handling 6.8, Range 4.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/schlamm-dw-9/",
+        "title": "Dexerto GTA 6 wiki: Schlamm DW-9",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 40.0,
-    "accuracy": 45.0,
+    "range": 40,
+    "accuracy": 45,
     "clip_size": 30,
     "price": 1750,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 68.0,
+    "handling": 68,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1906,30 +2268,40 @@
     "name": "Scorpio Akulus",
     "section": "weapons",
     "summary": "Revolver (.44 Magnum). Magazine 6, $3,000 at Big Shots (D); Iron & Oak (M).",
-    "details": "In-game menu values (0-10): Damage 7.0, Accuracy 4.2, Handling 7.6, Range 6.0. Report tags: stats CONFIRMED; price CONFIRMED (price).",
+    "details": "Store menu (0-10): Damage 7.0, Accuracy 4.2, Handling 7.6, Range 6.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
     "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/revolvers/scorpio-akulus/",
+        "title": "Dexerto GTA 6 wiki: Scorpio Akulus",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Revolver",
-    "damage": 70.0,
+    "damage": 70,
     "fire_rate": null,
-    "range": 60.0,
-    "accuracy": 42.0,
+    "range": 60,
+    "accuracy": 42,
     "clip_size": 6,
     "price": 3000,
     "unlock_how": "Buy at Big Shots (D); Iron & Oak (M)",
-    "handling": 76.0,
+    "handling": 76,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
     "stats_confidence": "confirmed",
@@ -1941,34 +2313,44 @@
     "name": "Scorpio Nipper .38",
     "section": "weapons",
     "summary": "Pistol (.380). Magazine 8, $550 at Chuck's Tackle & Shot.",
-    "details": "In-game menu values (0-10): Damage 2.8, Accuracy 3.0, Handling 9.0, Range 3.0. Report tags: stats LIKELY; price LIKELY. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "likely",
+    "details": "Store menu (0-10): Damage 2.8, Accuracy 3.0, Handling 9.0, Range 3.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Seen at Chuck’s only\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/scorpio-nipper-38/",
+        "title": "Dexerto GTA 6 wiki: Scorpio Nipper .38",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Pistol",
-    "damage": 28.0,
+    "damage": 28,
     "fire_rate": null,
-    "range": 30.0,
-    "accuracy": 30.0,
+    "range": 30,
+    "accuracy": 30,
     "clip_size": 8,
     "price": 550,
     "unlock_how": "Buy at Chuck's Tackle & Shot",
-    "handling": 90.0,
+    "handling": 90,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "likely",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -1976,34 +2358,44 @@
     "name": "Shrewsbury Drifter",
     "section": "weapons",
     "summary": "Shotgun. Magazine 2, $1,150 at Chuck's.",
-    "details": "In-game menu values (0-10): Damage 8.0, Accuracy 4.1, Handling 5.0, Range 2.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 8.0, Accuracy 4.1, Handling 5.0, Range 2.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Requires a bank account\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/shrewsbury-drifter/",
+        "title": "Dexerto GTA 6 wiki: Shrewsbury Drifter",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 80.0,
+    "damage": 80,
     "fire_rate": null,
-    "range": 25.0,
-    "accuracy": 41.0,
+    "range": 25,
+    "accuracy": 41,
     "clip_size": 2,
     "price": 1150,
     "unlock_how": "Buy at Chuck's",
-    "handling": 50.0,
+    "handling": 50,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2011,34 +2403,44 @@
     "name": "Shrewsbury Hobo (sawed-off)",
     "section": "weapons",
     "summary": "Shotgun. Magazine 2, $1,325 at Chuck's (M); Big Shots (V).",
-    "details": "In-game menu values (0-10): Damage 8.0, Accuracy 3.6, Handling 6.4, Range 2.0. Report tags: stats LIKELY; price LIKELY. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "likely",
+    "details": "Store menu (0-10): Damage 8.0, Accuracy 3.6, Handling 6.4, Range 2.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Requires a bank account\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/shrewsbury-hobo/",
+        "title": "Dexerto GTA 6 wiki: Shrewsbury Hobo",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Shotgun",
-    "damage": 80.0,
+    "damage": 80,
     "fire_rate": null,
-    "range": 20.0,
-    "accuracy": 36.0,
+    "range": 20,
+    "accuracy": 36,
     "clip_size": 2,
     "price": 1325,
     "unlock_how": "Buy at Chuck's (M); Big Shots (V)",
-    "handling": 64.0,
+    "handling": 64,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "likely",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2046,34 +2448,44 @@
     "name": "Shrewsbury SM-69",
     "section": "weapons",
     "summary": "Sniper. Magazine 5, $1,850 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage ?, Accuracy 8.4, Handling 3.1, Range ?. Report tags: stats RUMOR (conflict); price LIKELY. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 6.8, Accuracy 8.4, Handling 3.1, Range 8.4. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 3 more guns to unlock (Hamlet Traders)\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/sniper-rifles/shrewsbury-sm-69/",
+        "title": "Dexerto GTA 6 wiki: Shrewsbury SM-69",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Sniper",
-    "damage": null,
+    "damage": 68,
     "fire_rate": null,
-    "range": null,
-    "accuracy": 84.0,
+    "range": 84,
+    "accuracy": 84,
     "clip_size": 5,
     "price": 1850,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 31.0,
+    "handling": 31,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
-    "price_confidence": "likely",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2081,33 +2493,38 @@
     "name": "Shrewsbury SMS-01",
     "section": "weapons",
     "summary": "Sniper. Magazine unknown, $2,150, or free from Bret's 9th hunt at Iron & Oak.",
-    "details": "Stat note: M only In-game menu values (0-10): Damage 6.8, Accuracy 8.6, Handling 3.3, Range 8.4. Report tags: stats RUMOR; price LIKELY. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 6.8, Accuracy 8.6, Handling 3.3, Range 8.4. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar.",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/sniper-rifles/shrewsbury-sms-01/",
+        "title": "Dexerto GTA 6 wiki: Shrewsbury SMS-01",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Sniper",
-    "damage": 68.0,
+    "damage": 68,
     "fire_rate": null,
-    "range": 84.0,
-    "accuracy": 86.0,
-    "clip_size": null,
+    "range": 84,
+    "accuracy": 86,
+    "clip_size": 5,
     "price": 2150,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 33.0,
+    "handling": 33,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
+    "stats_confidence": "confirmed",
     "price_confidence": "likely",
     "game_version": "01.002.001"
   },
@@ -2116,30 +2533,25 @@
     "name": "Shrewsbury SMS-01",
     "section": "weapons",
     "summary": "Free pickup: Bret's 9th hunting quest.",
-    "details": "Stats field from source: 6.8/8.6/3.3/8.4",
-    "confidence": "confirmed",
+    "details": "Only a fan database lists these numbers so far; treat them as unchecked. Stats field from source: 6.8/8.6/3.3/8.4 Free copy of the Shrewsbury SMS-01 from Bret's hunting quests. The menu bars shown are the store version's; the free copy's bars have not been checked separately.",
+    "confidence": "unverified",
     "sources": [
-      {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 68.0,
+    "damage": 68,
     "fire_rate": null,
-    "range": 84.0,
-    "accuracy": 86.0,
+    "range": 84,
+    "accuracy": 86,
     "clip_size": null,
     "price": 0,
     "unlock_how": "Bret's 9th hunting quest",
-    "handling": 33.0,
+    "handling": 33,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -2152,6 +2564,11 @@
     "confidence": "likely",
     "sources": [
       {
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/shotguns/smuggler-gorse-425/",
+        "title": "Dexerto GTA 6 wiki: Smuggler Gorse 425",
+        "accessed": "2026-11-23"
+      },
+      {
         "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-weapons-locations-unlocks/",
         "title": "games.gg",
         "accessed": "2026-11-22"
@@ -2162,16 +2579,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
-    "damage": 75.0,
+    "damage": 75,
     "fire_rate": null,
-    "range": 20.0,
-    "accuracy": 38.0,
-    "clip_size": null,
+    "range": 20,
+    "accuracy": 38,
+    "clip_size": 5,
     "price": 0,
     "unlock_how": "Abandoned smuggler boat, northernmost Permit Keys island",
-    "handling": 62.0,
+    "handling": 62,
     "is_unique_variant": true,
     "game_version": "01.002.001"
   },
@@ -2181,12 +2598,12 @@
     "section": "weapons",
     "summary": "Unique display-case variant of the Duke 556, sold at Phil's Ammu-Nation for $3,050.",
     "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/star-spangled-556/",
+        "title": "Dexerto GTA 6 wiki: Star Spangled 556",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
@@ -2194,16 +2611,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 50.0,
+    "damage": 50,
     "fire_rate": null,
-    "range": 62.0,
-    "accuracy": 66.0,
-    "clip_size": null,
+    "range": 62,
+    "accuracy": 66,
+    "clip_size": 40,
     "price": 3050,
     "unlock_how": "Buy at Phil's Ammu-Nation",
-    "handling": 53.0,
+    "handling": 53,
     "base_weapon": "Duke 556",
     "is_unique_variant": true,
     "modded_preset": true,
@@ -2214,30 +2631,30 @@
     "name": "The Silver 1922",
     "section": "weapons",
     "summary": "Unique display-case variant of the Duke 1922, sold at Big Shots for $2,210.",
-    "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.5, Accuracy 5.1, Handling 8.1, Range 4.6. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
+    "confidence": "likely",
     "sources": [
-      {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 55.0,
+    "damage": 55,
     "fire_rate": null,
-    "range": 46.0,
-    "accuracy": 51.0,
+    "range": 46,
+    "accuracy": 51,
     "clip_size": null,
     "price": 2210,
     "unlock_how": "Buy at Big Shots",
-    "handling": 81.0,
+    "handling": 81,
     "base_weapon": "Duke 1922",
     "is_unique_variant": true,
     "modded_preset": false,
@@ -2257,7 +2674,7 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
     "damage": null,
     "fire_rate": null,
@@ -2284,7 +2701,7 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Free or hidden",
     "damage": null,
     "fire_rate": null,
@@ -2302,30 +2719,25 @@
     "name": "Vice City Heathen (modded)",
     "section": "weapons",
     "summary": "Unique display-case variant of the Heathen, sold at Prestige Firearms for $5,150.",
-    "details": "Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
+    "details": "Only a fan database lists these numbers so far; treat them as unchecked. Single fan database (NiaMeowDB). Unique variants reportedly cannot be modified (GTABase).",
     "confidence": "unverified",
     "sources": [
-      {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
-      },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Unique variant",
-    "damage": 50.0,
+    "damage": 50,
     "fire_rate": null,
-    "range": 62.0,
-    "accuracy": 74.0,
+    "range": 62,
+    "accuracy": 74,
     "clip_size": null,
     "price": 5150,
     "unlock_how": "Buy at Prestige Firearms",
-    "handling": 51.0,
+    "handling": 51,
     "base_weapon": "Heathen",
     "is_unique_variant": true,
     "modded_preset": true,
@@ -2336,34 +2748,44 @@
     "name": "Vom Feuer VF-G1",
     "section": "weapons",
     "summary": "Assault rifle. Magazine 30, $3,700 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 5.0, Accuracy 6.2, Handling 5.8, Range 6.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.0, Accuracy 6.2, Handling 5.8, Range 6.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/assault-rifles/vom-feuer-vf-g1/",
+        "title": "Dexerto GTA 6 wiki: Vom Feuer VF-G1",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Assault rifle",
-    "damage": 50.0,
+    "damage": 50,
     "fire_rate": null,
-    "range": 65.0,
-    "accuracy": 62.0,
+    "range": 65,
+    "accuracy": 62,
     "clip_size": 30,
     "price": 3700,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 58.0,
+    "handling": 58,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2371,34 +2793,44 @@
     "name": "Vom Feuer VF5",
     "section": "weapons",
     "summary": "SMG. Magazine 30, $2,325 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 5.0, Handling 6.7, Range 4.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 5.0, Handling 6.7, Range 4.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/vom-feuer-vf5/",
+        "title": "Dexerto GTA 6 wiki: Vom Feuer VF5",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 45.0,
-    "accuracy": 50.0,
+    "range": 45,
+    "accuracy": 50,
     "clip_size": 30,
     "price": 2325,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 67.0,
+    "handling": 67,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2406,34 +2838,44 @@
     "name": "Vom Feuer VF5C",
     "section": "weapons",
     "summary": "SMG. Magazine 30, $2,600 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage ?, Accuracy 4.0, Handling 7.9, Range ?. Report tags: stats RUMOR (conflict); price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 4.0, Handling 7.9, Range 4.0. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/vom-feuer-vf5c/",
+        "title": "Dexerto GTA 6 wiki: Vom Feuer VF5C",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": null,
+    "damage": 42,
     "fire_rate": null,
-    "range": null,
-    "accuracy": 40.0,
+    "range": 40,
+    "accuracy": 40,
     "clip_size": 30,
     "price": 2600,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 79.0,
+    "handling": 79,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "unverified",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2441,34 +2883,44 @@
     "name": "Wortham W-10",
     "section": "weapons",
     "summary": "SMG. Magazine 20, $825 at Big Shots.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 3.2, Handling 7.5, Range 3.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 3.2, Handling 7.5, Range 3.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/wortham-w-10/",
+        "title": "Dexerto GTA 6 wiki: Wortham W-10",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 35.0,
-    "accuracy": 32.0,
+    "range": 35,
+    "accuracy": 32,
     "clip_size": 20,
     "price": 825,
     "unlock_how": "Buy at Big Shots",
-    "handling": 75.0,
+    "handling": 75,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2476,34 +2928,44 @@
     "name": "Wortham W-14",
     "section": "weapons",
     "summary": "Tactical rifle. Magazine 20, $1,400 at Chuck's.",
-    "details": "In-game menu values (0-10): Damage 5.8, Accuracy 7.5, Handling 5.2, Range 7.2. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 5.8, Accuracy 7.5, Handling 5.2, Range 7.2. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Requires a bank account\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/tactical-rifles/wortham-w-14/",
+        "title": "Dexerto GTA 6 wiki: Wortham W-14",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Tactical rifle",
-    "damage": 58.0,
+    "damage": 58,
     "fire_rate": null,
-    "range": 72.0,
-    "accuracy": 75.0,
+    "range": 72,
+    "accuracy": 75,
     "clip_size": 20,
     "price": 1400,
     "unlock_how": "Buy at Chuck's",
-    "handling": 52.0,
+    "handling": 52,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2511,7 +2973,7 @@
     "name": "Wortham W-22",
     "section": "weapons",
     "summary": "Tactical rifle (.22). Magazine 15, Hunting-inventory stores only at n/a.",
-    "details": "Stat note: M lists only modded variants In-game menu values (0-10): Damage ?, Accuracy 8.0, Handling 5.8, Range 7.0. Report tags: stats RUMOR; price LIKELY ([games.gg](https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-secret-weapons-locations-unlocks/)). Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
+    "details": "Magazine size comes from a fan database only.",
     "confidence": "unverified",
     "sources": [
       {
@@ -2520,16 +2982,16 @@
         "accessed": "2026-11-22"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Tactical rifle",
     "damage": null,
     "fire_rate": null,
-    "range": 70.0,
-    "accuracy": 80.0,
+    "range": 70,
+    "accuracy": 80,
     "clip_size": 15,
     "price": null,
     "unlock_how": "Buy at n/a",
-    "handling": 58.0,
+    "handling": 58,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
     "stats_confidence": "unverified",
@@ -2541,34 +3003,44 @@
     "name": "Wortham WCR1",
     "section": "weapons",
     "summary": "Revolver. Magazine 5, $600 at Martez Empeños.",
-    "details": "In-game menu values (0-10): Damage 2.2, Accuracy 3.8, Handling 9.0, Range 4.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 2.2, Accuracy 3.8, Handling 9.0, Range 4.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Buy 5 more guns to unlock\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/revolvers/wortham-wcr1/",
+        "title": "Dexerto GTA 6 wiki: Wortham WCR1",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "Revolver",
-    "damage": 22.0,
+    "damage": 22,
     "fire_rate": null,
-    "range": 45.0,
-    "accuracy": 38.0,
+    "range": 45,
+    "accuracy": 38,
     "clip_size": 5,
     "price": 600,
     "unlock_how": "Buy at Martez Empeños",
-    "handling": 90.0,
+    "handling": 90,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   },
   {
@@ -2576,34 +3048,44 @@
     "name": "Zhang Wu Type 9",
     "section": "weapons",
     "summary": "SMG. Magazine 10 (looks low, unverified), $1,100 at Iron & Oak.",
-    "details": "In-game menu values (0-10): Damage 4.2, Accuracy 3.8, Handling 7.8, Range 3.5. Report tags: stats LIKELY; price RUMOR. Stats from fan databases NiaMeowDB and Playday.one, which do not name their data source.",
-    "confidence": "unverified",
+    "details": "Store menu (0-10): Damage 4.2, Accuracy 3.8, Handling 7.8, Range 3.5. These are the game's comparison bars, not damage per shot. The menu has no fire-rate bar. GTA Playbook's launch-day save showed \"Currently sold out\"; that depends on the save (stock, money, guns bought).",
+    "confidence": "confirmed",
     "sources": [
       {
-        "url": "https://www.dexerto.com/wikis/gta-6/weapons/pistols/klose-k17/",
-        "title": "Dexerto K17",
-        "accessed": "2026-11-22"
+        "url": "https://www.dexerto.com/wikis/gta-6/weapons/submachine-guns/zhang-wu-type-9/",
+        "title": "Dexerto GTA 6 wiki: Zhang Wu Type 9",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://meowdb.com/gta6/weapons",
         "title": "NiaMeowDB, Nov 22",
         "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gtaplaybook.com/gta6/guides/buying-weapons-and-ammo/",
+        "title": "GTA Playbook: weapon store menus (own PS5 capture, v1.002.001)",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.theleonida.com/weapons",
+        "title": "The Leonida: GTA 6 weapons list",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "SMG",
-    "damage": 42.0,
+    "damage": 42,
     "fire_rate": null,
-    "range": 35.0,
-    "accuracy": 38.0,
-    "clip_size": null,
+    "range": 35,
+    "accuracy": 38,
+    "clip_size": 10,
     "price": 1100,
     "unlock_how": "Buy at Iron & Oak",
-    "handling": 78.0,
+    "handling": 78,
     "stats_scale_note": "0-100 = in-game 0-10 x 10",
     "is_unique_variant": false,
-    "stats_confidence": "likely",
-    "price_confidence": "unverified",
+    "stats_confidence": "confirmed",
+    "price_confidence": "confirmed",
     "game_version": "01.002.001"
   }
 ]

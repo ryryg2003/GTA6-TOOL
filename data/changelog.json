@@ -22,5 +22,20 @@
       "Imported 3398 locations from Open GTA 6 Map (CC BY 4.0)"
     ],
     "updated": []
+  },
+  {
+    "date": "2026-11-23",
+    "section": "all",
+    "added": [
+      "Clunker 556 (unique weapon, Brooks Boatworks)",
+      "Avery Pawn safe (random code: how to get it)"
+    ],
+    "updated": [
+      "141 missions now list their objectives, giver and reward",
+      "Weapons now cite their own pages; 48 confirmed by two store-menu captures",
+      "Safe codes rechecked: Kingpin 0300 marked disputed",
+      "Trophy sources fixed; Positive Mental Attitude marked disputed, not missable",
+      "Car bars labelled as game ratings, not tested speeds"
+    ]
   }
 ]

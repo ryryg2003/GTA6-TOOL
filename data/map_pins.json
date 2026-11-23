@@ -76161,21 +76161,15 @@
     "name": "Safe code 0072 - Pelican Valley crab research outpost safe",
     "section": "map_pins",
     "summary": "Pelican Valley crab research outpost safe.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "likely",
+    "confidence": "unverified",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
-      },
-      {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
@@ -76184,33 +76178,33 @@
     "how_to_reach": "Pelican Valley crab research outpost safe",
     "code": "0072",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Only a community video so far; PC Gamer's safe-codes page, cited before, does not list it. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-010317-president-russo-bunker-1-door-sharktooth-is",
     "name": "Safe code 010317 - President Russo Bunker 1 door, Sharktooth Island (",
     "section": "map_pins",
     "summary": "President Russo Bunker 1 door, Sharktooth Island (Russo's birthday).",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "confirmed",
+    "confidence": "likely",
     "sources": [
       {
         "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
-        "title": "GameRant, Nov 21",
-        "accessed": "2026-11-21"
+        "title": "GameRant: President bunker codes",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
-        "title": "Beebom, Nov 22",
-        "accessed": "2026-11-22"
+        "title": "Beebom: secret bunker and tank",
+        "accessed": "2026-11-23"
       },
       {
-        "url": "https://www.youtube.com/watch?v=lrSeYhS5aJA",
-        "title": "YouTube lrSeYhS5aJA",
-        "accessed": "2026-11-22"
+        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 516.9,
     "y": 346.7,
@@ -76219,58 +76213,53 @@
     "how_to_reach": "President Russo Bunker 1 door, Sharktooth Island (Russo's birthday)",
     "code": "010317",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "GameRant and Beebom list it. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-0104-donovan-banks-and-co",
     "name": "Safe code 0104 - Donovan Banks and Co",
     "section": "map_pins",
     "summary": "Donovan Banks and Co. (Yasmani's Jewelry Jobs); keep the leading zero.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
+        "url": "https://www.powerpyx.com/gta-6-yasmanis-jewelry-jobs-walkthrough/",
+        "title": "PowerPyx: Yasmani's Jewelry Jobs walkthrough",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
     "location_precision": "unknown",
     "area_name": "Unknown (placed at Vice City center)",
-    "how_to_reach": "Donovan Banks and Co. (Yasmani's Jewelry Jobs); keep the leading zero",
+    "how_to_reach": "Safe in the middle of the long back hallway room.",
     "code": "0104",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Part of Yasmani's Jewelry Jobs. Keep the leading zero. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-0212-pelican-valley-boat-garage-keypad-note-is-ins",
     "name": "Safe code 0212 - Pelican Valley boat garage keypad; note is inside ",
     "section": "map_pins",
     "summary": "Pelican Valley boat garage keypad; note is inside the 0072 safe.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "likely",
+    "confidence": "unverified",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
-      },
-      {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
@@ -76279,78 +76268,98 @@
     "how_to_reach": "Pelican Valley boat garage keypad; note is inside the 0072 safe",
     "code": "0212",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Only a community video so far; PC Gamer's safe-codes page, cited before, does not list it. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-0300-kingpin-bowling",
     "name": "Safe code 0300 - Kingpin Bowling",
     "section": "map_pins",
-    "summary": "Kingpin Bowling.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "unverified",
+    "summary": "Kingpin Bowling safe, Port Gellhorn (Hit Kingpin Bowling). Code disputed: 0300 is the best-supported value.",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://xboxplay.games/gta-6/gta-6-safe-codes-robberies-guide-all-combinations-77421",
-        "title": "xboxplay.games",
-        "accessed": "2026-11-22"
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/",
+        "title": "PC Gamer: Bowling Alley safe code",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+        "title": "GamesRadar: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
-    "x": 0,
-    "y": 0,
-    "location_precision": "unknown",
-    "area_name": "Unknown (placed at Vice City center)",
-    "how_to_reach": "Kingpin Bowling",
+    "x": 311.2,
+    "y": 394.4,
+    "location_precision": "approximate",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": "Port Gellhorn, during the Hit Kingpin Bowling robbery (Chapter 2). The clue is on the wall map in Brooks Boatworks; you can also blow the safe with a sticky bomb.",
     "code": "0300",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Conflict: PC Gamer says 0300 (and that it is fixed, about $3,400 inside); GamesRadar prints 0330. Try 0300 first, then 0330. All three Kolt codes (Boatworks, Kingpin, La Cascara) come from the same wall map in Brooks Boatworks, so guides agreeing is one clue, not independent proof. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-0420-key-lento-lab-door-lab-fees",
     "name": "Safe code 0420 - Key Lento lab door (\"Lab Fees\")",
     "section": "map_pins",
     "summary": "Key Lento lab door (\"Lab Fees\"). Roonby labels it \"Moonstone Boutique room\".",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "likely",
+    "confidence": "confirmed",
     "sources": [
       {
+        "url": "https://www.powerpyx.com/gta-6-lab-fees-collect-brians-rent-walkthrough/",
+        "title": "PowerPyx: Lab Fees walkthrough",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+        "title": "GamesRadar: GTA 6 safe codes",
+        "accessed": "2026-11-23"
+      },
+      {
         "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
-        "title": "Roonby, Nov 19",
-        "accessed": "2026-11-19"
+        "title": "Roonby: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 433.6,
     "y": 694.9,
     "location_precision": "approximate",
     "area_name": "Key Lento",
-    "how_to_reach": "Key Lento lab door (\"Lab Fees\"). Roonby labels it \"Moonstone Boutique room\"",
+    "how_to_reach": "Key Lento, story mission Lab Fees (Chapter 1). The clerk tells you, or read it on a notepad in the same room.",
     "code": "0420",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Story code, given to you in the mission. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-085355-bunker-2-tree-hatch-keypad-obsess-on-a-seve",
     "name": "Safe code 085355 - Bunker 2 tree-hatch keypad (\"OBSESS\" on a seven-se",
     "section": "map_pins",
     "summary": "Bunker 2 tree-hatch keypad (\"OBSESS\" on a seven-segment display).",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "confirmed",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
+        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
+        "title": "GameRant: President bunker codes",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
+        "title": "Beebom: secret bunker and tank",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
@@ -76359,28 +76368,28 @@
     "how_to_reach": "Bunker 2 tree-hatch keypad (\"OBSESS\" on a seven-segment display)",
     "code": "085355",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "GameRant and Beebom list it. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-1680-casa-de-empe-o-yasmanis-jewelry-jobs",
     "name": "Safe code 1680 - Casa de Empeño (Yasmani's Jewelry Jobs)",
     "section": "map_pins",
     "summary": "Casa de Empeño (Yasmani's Jewelry Jobs).",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
+        "url": "https://www.powerpyx.com/gta-6-yasmanis-jewelry-jobs-walkthrough/",
+        "title": "PowerPyx: Yasmani's Jewelry Jobs walkthrough",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
@@ -76389,58 +76398,63 @@
     "how_to_reach": "Casa de Empeño (Yasmani's Jewelry Jobs)",
     "code": "1680",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Part of Yasmani's Jewelry Jobs. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-2008-delights-club-office-port-gellhorn-afternoon",
     "name": "Safe code 2008 - Delights club office, Port Gellhorn (\"Afternoon De",
     "section": "map_pins",
     "summary": "Delights club office, Port Gellhorn (\"Afternoon Delight\").",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
+        "url": "https://www.powerpyx.com/gta-6-afternoon-delight-rob-vickis-boss-walkthrough/",
+        "title": "PowerPyx: Afternoon Delight walkthrough",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 311.2,
     "y": 394.4,
     "location_precision": "approximate",
     "area_name": "Port Gellhorn",
-    "how_to_reach": "Delights club office, Port Gellhorn (\"Afternoon Delight\")",
+    "how_to_reach": "Delights strip club back office, Port Gellhorn, during the story mission Afternoon Delight.",
     "code": "2008",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Story code. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-2341-protocol-2-clue-inside-bunker-1-orders-the-ra",
     "name": "Safe code 2341 - \"Protocol #2\" clue inside Bunker 1 (orders the rad",
     "section": "map_pins",
     "summary": "\"Protocol #2\" clue inside Bunker 1 (orders the radio numbers).",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "confirmed",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
+        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
+        "title": "GameRant: President bunker codes",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
+        "title": "Beebom: secret bunker and tank",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
@@ -76449,28 +76463,33 @@
     "how_to_reach": "\"Protocol #2\" clue inside Bunker 1 (orders the radio numbers)",
     "code": "2341",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "GameRant and Beebom list it. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-2975-bunker-1-safe",
     "name": "Safe code 2975 - Bunker 1 safe",
     "section": "map_pins",
     "summary": "Bunker 1 safe.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "confirmed",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
+        "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
+        "title": "GameRant: President bunker codes",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
+        "title": "Beebom: secret bunker and tank",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
@@ -76479,192 +76498,208 @@
     "how_to_reach": "Bunker 1 safe",
     "code": "2975",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "GameRant and Beebom list it. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-44017-cottonmouth-lake-trailer",
     "name": "Safe code 44017 - Cottonmouth Lake trailer",
     "section": "map_pins",
     "summary": "Cottonmouth Lake trailer.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
-        "title": "Roonby, Nov 19",
-        "accessed": "2026-11-19"
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+        "title": "GamesRadar: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://beebom.com/gta-6-safe-codes/",
-        "title": "Beebom",
-        "accessed": "2026-11-22"
+        "title": "Beebom: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       },
       {
-        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
-        "title": "Beebom, Nov 22",
-        "accessed": "2026-11-22"
+        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
+        "title": "Roonby: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 403.2,
     "y": 661.6,
     "location_precision": "approximate",
     "area_name": "Cottonmouth Lake",
-    "how_to_reach": "Cottonmouth Lake trailer",
+    "how_to_reach": "Trailer south of Grassrivers near Cottonmouth Lake. The digits are hidden in postcards on the trailer wall. Five digits.",
     "code": "44017",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-6815-richardson-jewelry-yasmanis-jewelry-jobs",
     "name": "Safe code 6815 - Richardson Jewelry (Yasmani's Jewelry Jobs)",
     "section": "map_pins",
     "summary": "Richardson Jewelry (Yasmani's Jewelry Jobs).",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/",
-        "title": "PC Gamer",
-        "accessed": "2026-11-22"
+        "url": "https://www.powerpyx.com/gta-6-yasmanis-jewelry-jobs-walkthrough/",
+        "title": "PowerPyx: Yasmani's Jewelry Jobs walkthrough",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "title": "YouTube safe-code video (community)",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
     "location_precision": "unknown",
     "area_name": "Unknown (placed at Vice City center)",
-    "how_to_reach": "Richardson Jewelry (Yasmani's Jewelry Jobs)",
+    "how_to_reach": "Safe in the northeast corner of the central room.",
     "code": "6815",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Part of Yasmani's Jewelry Jobs. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-6823-brooks-boatworks-kolt-and-associates-hideout",
     "name": "Safe code 6823 - Brooks Boatworks, Kolt and Associates hideout, Por",
     "section": "map_pins",
-    "summary": "Brooks Boatworks, Kolt and Associates hideout, Port Gellhorn.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed. Marked likely, not confirmed: only one non-official source so far.",
+    "summary": "Brooks Boatworks warehouse safe (Kolt & Associates hideout), Port Gellhorn.",
     "confidence": "likely",
     "sources": [
       {
-        "url": "https://xboxplay.games/gta-6/gta-6-safe-codes-robberies-guide-all-combinations-77421",
-        "title": "xboxplay.games",
-        "accessed": "2026-11-22"
+        "url": "https://www.videogameschronicle.com/guide/gta-6-brooks-boatworks-safe-code-and-location-how-to-find-and-open-the-safe/",
+        "title": "VGC: Brooks Boatworks safe code",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-brooks-boatworks-safe-code/",
+        "title": "PC Gamer: Brooks Boatworks safe",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+        "title": "GamesRadar: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 311.2,
     "y": 394.4,
     "location_precision": "approximate",
     "area_name": "Port Gellhorn",
-    "how_to_reach": "Brooks Boatworks, Kolt and Associates hideout, Port Gellhorn",
+    "how_to_reach": "North Port Gellhorn. The safe is in the office off the ground floor (pool table with drugs). The code works without collecting the clue; the clue map is upstairs in the small building with the outside staircase.",
     "code": "6823",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "VGC, PC Gamer and GamesRadar all say 6823. All three Kolt codes (Boatworks, Kingpin, La Cascara) come from the same wall map in Brooks Boatworks, so guides agreeing is one clue, not independent proof. Same compound: the unique Clunker 556 and a Smuggler Caracara. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-6969-la-cascara-motel",
     "name": "Safe code 6969 - La Cascara Motel",
     "section": "map_pins",
-    "summary": "La Cascara Motel.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "unverified",
+    "summary": "La Cascara Motel safe, top floor, Port Gellhorn.",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://xboxplay.games/gta-6/gta-6-safe-codes-robberies-guide-all-combinations-77421",
-        "title": "xboxplay.games",
-        "accessed": "2026-11-22"
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/",
+        "title": "PC Gamer: La Cascara Motel safe code",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+        "title": "GamesRadar: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
-    "x": 0,
-    "y": 0,
-    "location_precision": "unknown",
-    "area_name": "Unknown (placed at Vice City center)",
-    "how_to_reach": "La Cascara Motel",
+    "x": 311.2,
+    "y": 394.4,
+    "location_precision": "approximate",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": "Port Gellhorn. The safe is on the top floor of the ruined motel. PC Gamer says the Scrapped VF5C is in the next room.",
     "code": "6969",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "PC Gamer and GamesRadar (which spells it \"La Cascera\") say 6969, fixed. All three Kolt codes (Boatworks, Kingpin, La Cascara) come from the same wall map in Brooks Boatworks, so guides agreeing is one clue, not independent proof. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-7700-brians-lockup-mission-lab-fees",
     "name": "Safe code 7700 - Brian's lockup (mission \"Lab Fees\")",
     "section": "map_pins",
     "summary": "Brian's lockup (mission \"Lab Fees\").",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "confirmed",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
-        "title": "Roonby, Nov 19",
-        "accessed": "2026-11-19"
+        "url": "https://www.powerpyx.com/gta-6-lab-fees-collect-brians-rent-walkthrough/",
+        "title": "PowerPyx: Lab Fees walkthrough",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://beebom.com/gta-6-safe-codes/",
-        "title": "Beebom",
-        "accessed": "2026-11-22"
+        "title": "Beebom: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       },
       {
-        "url": "https://www.youtube.com/watch?v=-eLZbZSZizU",
-        "title": "YouTube -eLZbZSZizU",
-        "accessed": "2026-11-22"
+        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
+        "title": "Roonby: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
     "location_precision": "unknown",
     "area_name": "Unknown (placed at Vice City center)",
-    "how_to_reach": "Brian's lockup (mission \"Lab Fees\")",
+    "how_to_reach": "Brian's Lockup (green icon on the map) during Lab Fees.",
     "code": "7700",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Story code. Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-safe-code-7777-nova-auto-junkyard",
     "name": "Safe code 7777 - Nova Auto Junkyard",
     "section": "map_pins",
     "summary": "Nova Auto Junkyard.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "unverified",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
-        "title": "Roonby, Nov 19",
-        "accessed": "2026-11-19"
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-safe-codes/",
+        "title": "GamesRadar: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       },
       {
         "url": "https://beebom.com/gta-6-safe-codes/",
-        "title": "Beebom",
-        "accessed": "2026-11-22"
+        "title": "Beebom: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       },
       {
-        "url": "https://beebom.com/gta-6-free-tank-secret-bunker-location/",
-        "title": "Beebom, Nov 22",
-        "accessed": "2026-11-22"
+        "url": "https://roonby.com/2026/11/19/gta-6-safe-codes-all-known-combinations-and-how-to-find-them/amp/",
+        "title": "Roonby: GTA 6 safe codes",
+        "accessed": "2026-11-23"
       }
     ],
-    "last_verified": "2026-11-22",
+    "last_verified": "2026-11-23",
     "category": "safe-codes",
     "x": 0,
     "y": 0,
     "location_precision": "unknown",
     "area_name": "Unknown (placed at Vice City center)",
-    "how_to_reach": "Nova Auto Junkyard",
+    "how_to_reach": "Nova Auto Junkyard. GamesRadar: the code is the licence plate of the lowrider in the junkyard garage.",
     "code": "7777",
     "game_version": "01.002.001",
-    "randomized": false
+    "randomized": false,
+    "details": "Some safes use a fixed code and some get a random one each playthrough. If a code fails, look for a written clue or threaten an employee for it."
   },
   {
     "id": "pin-shrewsbury-sms-01",
@@ -77781,7 +77816,7 @@
     "name": "Tenebrae Lux phone code",
     "section": "map_pins",
     "summary": "Randomized per playthrough. Guide examples 416643# and 424345# are NOT universal codes.",
-    "details": "Randomized per playthrough: no fixed code exists. Ordinary robbery safes get a new code every time; only story and landmark codes are fixed. Marked likely, not confirmed: only one non-official source so far.",
+    "details": "Randomized per playthrough: no fixed code exists.",
     "confidence": "likely",
     "sources": [
       {
@@ -78456,5 +78491,34 @@
     "how_to_reach": "Garage in Capri",
     "code": null,
     "game_version": "01.002.001"
+  },
+  {
+    "id": "pin-safe-avery-pawn",
+    "name": "Safe - Avery Pawn (random code)",
+    "section": "map_pins",
+    "summary": "Avery Pawn shop safe, Port Gellhorn. The code is random each playthrough.",
+    "details": "Randomized: VGC got 3156 and PowerPyx got 6499, so no single code works for everyone. Knocking out or killing the employee before asking removes the easy way to get it.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.videogameschronicle.com/guide/gta-6-avery-pawn-shop-safe-code-how-to-find-and-open-the-safe/",
+        "title": "VGC: Avery Pawn Shop safe code",
+        "accessed": "2026-11-23"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-hit-avery-pawn-walkthrough/",
+        "title": "PowerPyx: Hit Avery Pawn walkthrough",
+        "accessed": "2026-11-23"
+      }
+    ],
+    "last_verified": "2026-11-23",
+    "category": "safe-codes",
+    "x": 311.2,
+    "y": 394.4,
+    "location_precision": "approximate",
+    "area_name": "Port Gellhorn",
+    "how_to_reach": "During the Hit Avery Pawn robbery (Chapter 2), aim at an employee and keep threatening until \"Safe Code?\" appears. The safe is in the back office beside the desk.",
+    "code": null,
+    "randomized": true
   }
 ]
