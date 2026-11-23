@@ -16,8 +16,8 @@ export default defineConfig({
         name: 'GTA 6 Info Book',
         short_name: 'GTA6 Book',
         description: 'Personal GTA 6 companion: map, progress, weapons, cars, missions.',
-        theme_color: '#0e0f13',
-        background_color: '#0e0f13',
+        theme_color: '#0E1014',
+        background_color: '#0E1014',
         display: 'standalone',
         icons: [
           { src: 'icon.svg', sizes: 'any', type: 'image/svg+xml' },
@@ -25,8 +25,8 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,json}'],
-        // The app bundles all GTA data (~2.4 MB, ~300 KB compressed); keep it cached for offline use.
+        globPatterns: ['**/*.{js,css,html,svg,png,json,woff2}'],
+        // App code, data and fonts (~2.5 MB, map pins are their own chunk); all cached for offline use.
         maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
         // Keep map tiles and screenshots you've viewed, so the map works with no signal.
         runtimeCaching: [{

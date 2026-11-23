@@ -13,6 +13,9 @@
     "import:map": "tsx scripts/import-open-map.ts"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@fontsource/space-grotesk": "^5.3.0",
     "fuse.js": "^7.5.0",
     "leaflet": "1.9",
     "react": "^18.3.1",
