@@ -26,6 +26,8 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,json}'],
+        // The app bundles all GTA data (~2.4 MB, ~300 KB compressed); keep it cached for offline use.
+        maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
         // Keep map tiles and screenshots you've viewed, so the map works with no signal.
         runtimeCaching: [{
           urlPattern: /^https:\/\/fbritoferreira\.github\.io\/gta6\/(tiles|screenshots)\//,
