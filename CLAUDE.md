@@ -18,9 +18,10 @@ browser storage.
 - Unknown stats are `null`. Never guess a number.
 - Write facts in our own words with source links. Never paste whole articles.
 - Respect robots.txt; no login-only or paywalled pages.
-- No Rockstar logos. Map art lives behind `MAP_IMAGE` in `src/sections/map/pins.ts` (`public/map/`).
+- No Rockstar logos. Base map tiles come from Open GTA 6 Map (CC BY 4.0) via `TILE_URL` in `src/sections/map/pins.ts`; keep its on-map credit visible.
 - UI: dark theme, tap targets ≥44px, text ≥16px, ≤3 taps from home to any entry.
-- Map coordinates: 1000×1000 square, pins use `x, y` in [0, 1000].
+- Map coordinates: Open GTA 6 Map units, a 1024 square with y growing south; pins use `x, y` in [0, 1024].
+  `location_precision: "unknown"` pins are listed, not drawn. Re-import their locations with `npm run import:map`.
 
 ## Before every commit
 Run `npm test` and `npm run validate`. Never commit data that fails validation.
@@ -31,3 +32,6 @@ Follow `research/instructions.md` exactly.
 ## The owner
 A beginner who builds with AI. Explain changes in plain English, give copy-paste commands,
 and say how to check each thing worked.
+
+## Working preferences
+- Before treating something as blocked or impossible, research deeper (extended web search, GitHub for open-licensed data and tools, alternative sources) for a way to do what was asked.

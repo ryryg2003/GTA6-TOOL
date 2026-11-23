@@ -27,6 +27,9 @@ export default function PinSheet({ pin, category, found, fixing, onToggleFound, 
         <button className="icon-btn" aria-label="Close" onClick={onClose}>✕</button>
       </div>
       <EntryMeta entry={pin} />
+      {pin.location_precision === 'unknown' && !pin.corrected && (
+        <p className="muted small">No known spot yet, so it isn't on the map. Found it? Close this, pan to the spot, reopen it from “not placed” and use “Fix location”.</p>
+      )}
       {pin.location_precision === 'approximate' && !pin.corrected && (
         <p className="muted small">Approximate spot (area center). Found the real one? Use “Fix location”.</p>
       )}

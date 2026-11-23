@@ -124,5 +124,299 @@
     "icon": "flag",
     "color": "#66bb6a",
     "collectible": false
+  },
+  {
+    "id": "flamingo",
+    "label": "Cocaine flamingos",
+    "icon": "🦩",
+    "color": "#ff6fae",
+    "collectible": true
+  },
+  {
+    "id": "waink",
+    "label": "WAiNK scans",
+    "icon": "📷",
+    "color": "#7ae582",
+    "collectible": true
+  },
+  {
+    "id": "magazine",
+    "label": "Magazines, books and comics",
+    "icon": "📚",
+    "color": "#c77dff",
+    "collectible": true
+  },
+  {
+    "id": "meditation",
+    "label": "Meditation spots",
+    "icon": "🧘",
+    "color": "#4cc9f0",
+    "collectible": true
+  },
+  {
+    "id": "underwater",
+    "label": "Underwater discoveries",
+    "icon": "🐚",
+    "color": "#2a9df4",
+    "collectible": true
+  },
+  {
+    "id": "kenton",
+    "label": "Kenton sets",
+    "icon": "🎯",
+    "color": "#f4a261",
+    "collectible": true
+  },
+  {
+    "id": "playlist",
+    "label": "Unique playlists",
+    "icon": "🎵",
+    "color": "#e76f51",
+    "collectible": true
+  },
+  {
+    "id": "hoop",
+    "label": "Basketball hoops",
+    "icon": "🏀",
+    "color": "#fb8500",
+    "collectible": true
+  },
+  {
+    "id": "bret",
+    "label": "Bret's target decks",
+    "icon": "🦌",
+    "color": "#a3b18a",
+    "collectible": true
+  },
+  {
+    "id": "race",
+    "label": "Races",
+    "icon": "🏁",
+    "color": "#06d6a0",
+    "collectible": true
+  },
+  {
+    "id": "drone",
+    "label": "Drone time trials",
+    "icon": "🛸",
+    "color": "#90e0ef",
+    "collectible": true
+  },
+  {
+    "id": "range",
+    "label": "Shooting ranges",
+    "icon": "🔫",
+    "color": "#adb5bd",
+    "collectible": true
+  },
+  {
+    "id": "arcade",
+    "label": "Video games, pool and mini golf",
+    "icon": "🕹",
+    "color": "#b8c0ff",
+    "collectible": true
+  },
+  {
+    "id": "gang",
+    "label": "Gang operations",
+    "icon": "💀",
+    "color": "#d62828",
+    "collectible": true
+  },
+  {
+    "id": "bank",
+    "label": "Banks and vaults",
+    "icon": "🏦",
+    "color": "#e9c46a",
+    "collectible": true
+  },
+  {
+    "id": "smash",
+    "label": "Smash 'n' Grabs",
+    "icon": "💎",
+    "color": "#f77f00",
+    "collectible": true
+  },
+  {
+    "id": "store",
+    "label": "Stores to stick up",
+    "icon": "🏪",
+    "color": "#8ecae6",
+    "collectible": true
+  },
+  {
+    "id": "fence",
+    "label": "Fences and Pay n Spray",
+    "icon": "🔧",
+    "color": "#9a8c98",
+    "collectible": true
+  },
+  {
+    "id": "other",
+    "label": "Other",
+    "icon": "📍",
+    "color": "#ffffff",
+    "collectible": true
+  },
+  {
+    "id": "package",
+    "label": "Hidden packages",
+    "icon": "📦",
+    "color": "#ffb703",
+    "collectible": true
+  },
+  {
+    "id": "meteorite",
+    "label": "Meteorites",
+    "icon": "☄️",
+    "color": "#b5179e",
+    "collectible": true
+  },
+  {
+    "id": "treasure",
+    "label": "Treasures",
+    "icon": "💰",
+    "color": "#e0a100",
+    "collectible": true
+  },
+  {
+    "id": "bottle",
+    "label": "Messages in a bottle",
+    "icon": "🍾",
+    "color": "#48cae4",
+    "collectible": true
+  },
+  {
+    "id": "bookswap",
+    "label": "Book swaps",
+    "icon": "📖",
+    "color": "#9d4edd",
+    "collectible": true
+  },
+  {
+    "id": "mural",
+    "label": "1010 murals",
+    "icon": "🎨",
+    "color": "#ff5d8f",
+    "collectible": true
+  },
+  {
+    "id": "streetart",
+    "label": "Ahol Street Art",
+    "icon": "🖌️",
+    "color": "#06d6a0",
+    "collectible": true
+  },
+  {
+    "id": "bridge",
+    "label": "Under the bridge",
+    "icon": "🌉",
+    "color": "#4361ee",
+    "collectible": true
+  },
+  {
+    "id": "knife",
+    "label": "Knife flights",
+    "icon": "🔪",
+    "color": "#4895ef",
+    "collectible": true
+  },
+  {
+    "id": "basejump",
+    "label": "BASE jumps and parachuting",
+    "icon": "🪂",
+    "color": "#3a86ff",
+    "collectible": true
+  },
+  {
+    "id": "fishing",
+    "label": "Fishing spots",
+    "icon": "🎣",
+    "color": "#00b4d8",
+    "collectible": true
+  },
+  {
+    "id": "hunting",
+    "label": "Hunting",
+    "icon": "🏹",
+    "color": "#6a994e",
+    "collectible": true
+  },
+  {
+    "id": "towatm",
+    "label": "Towable ATMs",
+    "icon": "🏧",
+    "color": "#2ec4b6",
+    "collectible": true
+  },
+  {
+    "id": "payday",
+    "label": "Payday loans",
+    "icon": "💵",
+    "color": "#bc6c25",
+    "collectible": true
+  },
+  {
+    "id": "safehouse",
+    "label": "Safehouses",
+    "icon": "🏠",
+    "color": "#ffd60a",
+    "collectible": false
+  },
+  {
+    "id": "shop",
+    "label": "Shops and services",
+    "icon": "🛍",
+    "color": "#80ed99",
+    "collectible": false
+  },
+  {
+    "id": "food",
+    "label": "Food, bars and clubs",
+    "icon": "🍔",
+    "color": "#ff9f1c",
+    "collectible": false
+  },
+  {
+    "id": "hotel",
+    "label": "Hotels",
+    "icon": "🛏",
+    "color": "#f15bb5",
+    "collectible": false
+  },
+  {
+    "id": "transport",
+    "label": "Transport",
+    "icon": "🚉",
+    "color": "#00bbf9",
+    "collectible": false
+  },
+  {
+    "id": "civic",
+    "label": "Police, hospitals and government",
+    "icon": "🏛",
+    "color": "#577590",
+    "collectible": false
+  },
+  {
+    "id": "leisure",
+    "label": "Leisure and sport",
+    "icon": "🎡",
+    "color": "#9b5de5",
+    "collectible": false
+  },
+  {
+    "id": "nature",
+    "label": "Natural features",
+    "icon": "🌴",
+    "color": "#52b788",
+    "collectible": false
+  },
+  {
+    "id": "building",
+    "label": "Buildings and landmarks",
+    "icon": "🏢",
+    "color": "#ced4da",
+    "collectible": false
   }
 ]
