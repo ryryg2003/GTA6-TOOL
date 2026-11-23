@@ -28,7 +28,7 @@ test('Missable box appears only when there are missables', () => {
 test('Mark done shows a checkmark on the list row', async () => {
   const { unmount } = at('/missions/mission-sample-intro');
   await userEvent.click(screen.getByRole('button', { name: /mark done/i }));
-  expect(screen.getByRole('button', { name: /done ✓/i })).toBeInTheDocument();
+  expect(screen.getByRole('button', { name: /^done$/i })).toBeInTheDocument();
   unmount();
   at('/missions');
   const row = screen.getAllByRole('listitem')[0];
@@ -50,4 +50,9 @@ test('unlock links go to each entry\'s own route', () => {
 test('a mission with no known objective shows Unknown', () => {
   at('/missions/mission-sample-side');
   expect(screen.getByRole('heading', { name: 'Objective' }).nextElementSibling).toHaveTextContent('Unknown');
+});
+
+test('a mission with no steps says the walkthrough is coming', () => {
+  at('/missions/mission-sample-side');
+  expect(screen.getByText(/Walkthrough coming/)).toBeInTheDocument();
 });

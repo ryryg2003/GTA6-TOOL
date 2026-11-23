@@ -21,17 +21,20 @@ test('done ids outside any group do not change counts', () => {
 
 const at = (path: string) => render(<MemoryRouter initialEntries={[path]}><AppRoutes /></MemoryRouter>);
 
-test('tracker shows groups for missions, trophies and collectible map categories', () => {
+test('tracker shows groups for missions, trophies and collectible map categories', async () => {
   at('/progress');
-  for (const label of ['Story missions', 'Side missions', 'Trophies', 'Collectible Cards', 'Money Bags', 'Safe Codes', 'Drugs']) {
+  await screen.findByRole('button', { name: /Safe Codes/ });
+  for (const label of ['Story missions', 'Side missions', 'Trophies', 'Collectible Cards', 'Safe Codes']) {
     expect(screen.getByRole('button', { name: new RegExp(label) })).toBeInTheDocument();
   }
+  // collectible categories with nothing in them are hidden
+  for (const label of ['Money Bags', 'Drugs']) expect(screen.queryByRole('button', { name: new RegExp(label) })).toBeNull();
   expect(screen.queryByRole('button', { name: /Mechanics/ })).toBeNull();
 });
 
 test('ticking an item in the tracker marks it done in the shared store', async () => {
   at('/progress');
-  await userEvent.click(screen.getByRole('button', { name: /Safe Codes/ }));
+  await userEvent.click(await screen.findByRole('button', { name: /Safe Codes/ }));
   await userEvent.click(screen.getByRole('checkbox', { name: /Safe \(sample\)/ }));
   expect(getDefaultStore().isDone('pin-sample-safe-vice')).toBe(true);
   expect(screen.getByRole('button', { name: /Safe Codes.*1 \/ 1/ })).toBeInTheDocument();

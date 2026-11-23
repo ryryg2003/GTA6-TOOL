@@ -1,7 +1,7 @@
-import { applyOverrides, loadFilters, saveFilters, visiblePins } from '../../../src/sections/map/pins';
-import { getSection } from '../../../src/data/load';
+import { applyOverrides, countByCategory, findPins, loadFilters, saveFilters, visiblePins } from '../../../src/sections/map/pins';
+import { loadPins } from '../../../src/data/pins';
 
-const pins = getSection('map_pins');
+const pins = await loadPins();
 const allCats = new Set(['drugs', 'collectible-cards', 'money-bags', 'stores', 'paint-spray', 'mechanics', 'garages', 'safe-codes']);
 
 test('only enabled categories are visible', () => {
@@ -72,4 +72,16 @@ test('pins are small dots when zoomed out and full icons when zoomed in', () => 
   expect(pinStyle(2.5)).toBe('dot');
   expect(pinStyle(3)).toBe('icon');
   expect(pinStyle(6)).toBe('icon');
+});
+
+test('findPins matches names first, then areas, and ignores empty text', () => {
+  expect(findPins(pins, '')).toEqual([]);
+  const r = findPins(pins, 'safe');
+  expect(r.length).toBeGreaterThan(0);
+  expect(r[0].name.toLowerCase()).toContain('safe');
+});
+
+test('countByCategory counts every pin once', () => {
+  const c = countByCategory(pins);
+  expect([...c.values()].reduce((a, b) => a + b, 0)).toBe(pins.length);
 });

@@ -19,17 +19,18 @@ const rowNames = () => screen.getAllByTestId('row-name').map((n) => n.textConten
 
 test('choosing Damage sort reorders rows highest first, unknown last', async () => {
   at('/weapons');
-  await userEvent.selectOptions(screen.getByLabelText('Sort by'), 'damage');
+  await userEvent.click(screen.getByRole('button', { name: 'Sort by Damage' }));
   expect(rowNames()).toEqual(['Carbine Rifle', 'Pistol', 'Pump Shotgun']);
 });
 
 test('ticking two Compare boxes enables a compare link', async () => {
   at('/weapons');
-  expect(screen.queryByRole('link', { name: /Compare 2/ })).toBeNull();
+  expect(screen.queryByRole('link', { name: /^Compare$/ })).toBeNull();
   const boxes = screen.getAllByRole('checkbox');
   await userEvent.click(boxes[0]);
   await userEvent.click(boxes[1]);
-  expect(screen.getByRole('link', { name: /Compare 2/ }).getAttribute('href')).toMatch(/^\/compare\/weapons\/[a-z0-9-]+\/[a-z0-9-]+$/);
+  expect(screen.getByRole('region', { name: 'Compare picked' })).toHaveTextContent(/ vs /);
+  expect(screen.getByRole('link', { name: /^Compare$/ }).getAttribute('href')).toMatch(/^\/compare\/weapons\/[a-z0-9-]+\/[a-z0-9-]+$/);
 });
 
 test('a third compare tick is blocked', async () => {
@@ -67,4 +68,31 @@ test('real app route /vehicles/:id renders the car detail page', () => {
 test('compare refuses entries from another section', () => {
   at('/compare/weapons/weapon-sample-pistol/vehicle-sample-stinger');
   expect(screen.getByText(/not found/i)).toBeInTheDocument();
+});
+
+test('tapping the active sort again reverses it, with an arrow showing the direction', async () => {
+  at('/weapons');
+  await userEvent.click(screen.getByRole('button', { name: 'Sort by Damage' }));
+  const active = screen.getByRole('button', { name: /Sorted by Damage, highest first/ });
+  expect(active).toHaveAttribute('aria-pressed', 'true');
+  await userEvent.click(active);
+  expect(screen.getByRole('button', { name: /Sorted by Damage, lowest first/ })).toBeInTheDocument();
+  // unknown values stay last either way
+  expect(rowNames().at(-1)).toBe('Pump Shotgun');
+});
+
+test('category chips filter the list and show counts', async () => {
+  at('/weapons');
+  const all = screen.getByRole('button', { name: /^All \d+$/ });
+  expect(all).toHaveAttribute('aria-pressed', 'true');
+  const chips = screen.getByRole('group', { name: 'Weapon type' }).querySelectorAll('button');
+  await userEvent.click(chips[1]);
+  expect(rowNames().length).toBe(Number(chips[1].textContent!.match(/(\d+)$/)![1]));
+});
+
+test('detail shows price, clip and fire-rate tiles with Unknown for missing values', () => {
+  at('/weapons/weapon-sample-shotgun');
+  for (const k of ['price', 'clip_size', 'fire_rate']) expect(screen.getByTestId(`stat-${k}`)).toBeInTheDocument();
+  expect(screen.getByRole('link', { name: /on the map/ })).toHaveAttribute('href', expect.stringMatching(/^\/map\?find=/));
+  expect(screen.getByText(/Sources \(\d+\)/)).toBeInTheDocument();
 });

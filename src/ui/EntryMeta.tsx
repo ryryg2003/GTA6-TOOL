@@ -8,11 +8,19 @@ export function isStale(lastVerified: string, today: Date): boolean {
   return (today.getTime() - then) / 86_400_000 > STALE_DAYS;
 }
 
-export default function EntryMeta({ entry, today = new Date() }: { entry: Base; today?: Date }) {
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+/** "2026-11-22" → "Nov 22, 2026" */
+export function niceDate(iso: string): string {
+  const [y, m, d] = iso.split('-').map(Number);
+  return m ? `${MONTHS[m - 1]} ${d}, ${y}` : iso;
+}
+
+export default function EntryMeta({ entry, today = new Date(), children }: { entry: Base; today?: Date; children?: React.ReactNode }) {
   return (
     <div className="entry-meta">
-      <ConfidenceBadge confidence={entry.confidence} />
-      <span className="muted">Last checked {entry.last_verified}</span>
+      <ConfidenceBadge confidence={entry.confidence} sources={entry.sources.length} />
+      {children}
+      <span className="muted" title={entry.last_verified}>Last checked {niceDate(entry.last_verified)}</span>
       {isStale(entry.last_verified, today) && <span className="stale">May be outdated</span>}
     </div>
   );
