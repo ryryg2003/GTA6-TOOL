@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <!-- PLACEHOLDER map. Swap for a real map image (same 1000x1000 coordinate space) via MAP_IMAGE in src/sections/map/pins.ts -->
+  <defs><pattern id="g" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#1d3550" stroke-width="1"/></pattern></defs>
+  <rect width="1000" height="1000" fill="#0d2238"/>
+  <rect width="1000" height="1000" fill="url(#g)"/>
+  <path d="M120 120 C300 60 560 70 700 140 C820 200 840 330 800 460 C780 560 840 640 820 760 C800 840 700 860 640 820 C560 770 520 700 430 690 C320 680 230 620 190 520 C150 420 60 300 120 120 Z" fill="#23402f" stroke="#3a6b4f" stroke-width="3"/>
+  <path d="M600 860 C640 880 700 900 760 930" fill="none" stroke="#3a6b4f" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 22"/>
+  <g font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#e8eef5" fill-opacity=".85" text-anchor="middle" stroke="#0d2238" stroke-width="5" paint-order="stroke">
+  <text x="720" y="700">Vice City</text>
+  <text x="620" y="900">Leonida Keys</text>
+  <text x="520" y="620">Grassrivers</text>
+  <text x="250" y="330">Port Gellhorn</text>
+  <text x="500" y="330">Ambrosia</text>
+  <text x="400" y="140">Mount Kalaga</text>
+  </g>
+  <text x="500" y="985" font-family="Arial" font-size="18" fill="#8aa3bd" text-anchor="middle">Placeholder map: region positions approximate</text>
+</svg>

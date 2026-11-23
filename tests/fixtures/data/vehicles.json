@@ -1,0 +1,48 @@
+[
+  {
+    "id": "vehicle-sample-stinger",
+    "name": "Stinger",
+    "section": "vehicles",
+    "summary": "FIXTURE: Placeholder sports car.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Sports Classic",
+    "top_speed_mph": 120,
+    "acceleration": 70,
+    "handling": 65,
+    "braking": 60,
+    "seats": 2,
+    "price": 850000,
+    "where_to_find": "Placeholder"
+  },
+  {
+    "id": "vehicle-sample-pickup",
+    "name": "Pickup Truck",
+    "section": "vehicles",
+    "summary": "FIXTURE: Placeholder truck.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "class": "Off-Road",
+    "top_speed_mph": null,
+    "acceleration": 40,
+    "handling": 45,
+    "braking": 50,
+    "seats": 2,
+    "price": null,
+    "where_to_find": null
+  }
+]

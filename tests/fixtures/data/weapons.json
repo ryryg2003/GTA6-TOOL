@@ -1,0 +1,71 @@
+[
+  {
+    "id": "weapon-sample-pistol",
+    "name": "Pistol",
+    "section": "weapons",
+    "summary": "FIXTURE: Placeholder sidearm until research fills this section.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "Handgun",
+    "damage": 35,
+    "fire_rate": 40,
+    "range": 30,
+    "accuracy": 55,
+    "clip_size": 12,
+    "price": 500,
+    "unlock_how": "Placeholder"
+  },
+  {
+    "id": "weapon-sample-carbine",
+    "name": "Carbine Rifle",
+    "section": "weapons",
+    "summary": "FIXTURE: Placeholder rifle.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "Rifle",
+    "damage": 60,
+    "fire_rate": 70,
+    "range": 65,
+    "accuracy": 60,
+    "clip_size": 30,
+    "price": null,
+    "unlock_how": null
+  },
+  {
+    "id": "weapon-sample-shotgun",
+    "name": "Pump Shotgun",
+    "section": "weapons",
+    "summary": "FIXTURE: Placeholder shotgun with unknown stats.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Rockstar Games: Grand Theft Auto VI",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "category": "Shotgun",
+    "damage": null,
+    "fire_rate": 20,
+    "range": 15,
+    "accuracy": null,
+    "clip_size": 8,
+    "price": 1200,
+    "unlock_how": null
+  }
+]
