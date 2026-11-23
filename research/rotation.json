@@ -1,0 +1,4 @@
+{
+  "order": ["missions", "weapons", "vehicles", "map_pins", "trophies"],
+  "next": 0
+}

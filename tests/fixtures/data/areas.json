@@ -1,0 +1,38 @@
+[
+  {
+    "id": "vice-city",
+    "name": "Vice City",
+    "x": 720,
+    "y": 700
+  },
+  {
+    "id": "leonida-keys",
+    "name": "Leonida Keys",
+    "x": 620,
+    "y": 900
+  },
+  {
+    "id": "grassrivers",
+    "name": "Grassrivers",
+    "x": 520,
+    "y": 620
+  },
+  {
+    "id": "port-gellhorn",
+    "name": "Port Gellhorn",
+    "x": 250,
+    "y": 330
+  },
+  {
+    "id": "ambrosia",
+    "name": "Ambrosia",
+    "x": 500,
+    "y": 330
+  },
+  {
+    "id": "mount-kalaga",
+    "name": "Mount Kalaga",
+    "x": 400,
+    "y": 140
+  }
+]
