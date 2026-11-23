@@ -2,6 +2,7 @@ import type { Category } from '../../data/schema';
 import EntryMeta from '../../ui/EntryMeta';
 import SourceList from '../../ui/SourceList';
 import type { ShownPin } from './pins';
+import { iconFor } from './icons';
 
 type Props = {
   pin: ShownPin;
@@ -18,7 +19,7 @@ export default function PinSheet({ pin, category, found, fixing, onToggleFound, 
   return (
     <section className="sheet" role="dialog" aria-label={pin.name}>
       <div className="sheet-head">
-        <span className="sheet-icon" style={{ borderColor: category?.color }}>{category?.icon ?? '📍'}</span>
+        <span className="sheet-icon" style={{ borderColor: category?.color }}>{iconFor(category?.icon)}</span>
         <div className="sheet-title">
           <h2>{pin.name}</h2>
           <span className="muted">{category?.label}{pin.area_name ? ` · ${pin.area_name}` : ''}</span>

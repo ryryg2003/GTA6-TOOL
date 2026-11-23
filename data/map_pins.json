@@ -737,8 +737,8 @@
     "name": "Mount Chiliad conversation",
     "section": "map_pins",
     "summary": "Two patrons discuss Chiliad and a bunker with jetpacks and eggs.",
-    "details": "Report tag: CONFIRMED.",
-    "confidence": "confirmed",
+    "details": "Report tag: CONFIRMED. Marked likely, not confirmed: only one non-official source so far.",
+    "confidence": "likely",
     "sources": [
       {
         "url": "https://www.gamingbible.com/news/gta-6-gta-5-mount-chiliad-mystery-easter-egg-802897-20261120",
@@ -933,7 +933,7 @@
     "name": "Russo's 1922 Pistol, Cold War 556",
     "section": "map_pins",
     "summary": "Free weapon pickup: President's bunkers.",
-    "confidence": "confirmed",
+    "confidence": "likely",
     "sources": [
       {
         "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",
@@ -950,7 +950,8 @@
     "how_to_reach": "President's bunkers",
     "code": null,
     "game_version": "01.002.001",
-    "weapon_id": "weapon-russos-1922-pistol-cold-war-556"
+    "weapon_id": "weapon-russos-1922-pistol-cold-war-556",
+    "details": "Marked likely, not confirmed: only one non-official source so far."
   },
   {
     "id": "pin-safe-code-0072-pelican-valley-crab-research-outpost-safe",
@@ -1347,8 +1348,8 @@
     "name": "Safe code 6823 - Brooks Boatworks, Kolt and Associates hideout, Por",
     "section": "map_pins",
     "summary": "Brooks Boatworks, Kolt and Associates hideout, Port Gellhorn.",
-    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "confirmed",
+    "details": "Ordinary robbery safes get a new code every time; only story and landmark codes are fixed. Marked likely, not confirmed: only one non-official source so far.",
+    "confidence": "likely",
     "sources": [
       {
         "url": "https://xboxplay.games/gta-6/gta-6-safe-codes-robberies-guide-all-combinations-77421",
@@ -2577,8 +2578,8 @@
     "name": "Tenebrae Lux phone code",
     "section": "map_pins",
     "summary": "Randomized per playthrough. Guide examples 416643# and 424345# are NOT universal codes.",
-    "details": "Randomized per playthrough: no fixed code exists. Ordinary robbery safes get a new code every time; only story and landmark codes are fixed.",
-    "confidence": "confirmed",
+    "details": "Randomized per playthrough: no fixed code exists. Ordinary robbery safes get a new code every time; only story and landmark codes are fixed. Marked likely, not confirmed: only one non-official source so far.",
+    "confidence": "likely",
     "sources": [
       {
         "url": "https://gamerant.com/gta-6-tenebrae-lux-phone-puzzle-solution/",

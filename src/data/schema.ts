@@ -57,7 +57,7 @@ export const MissionSchema = BaseSchema.extend({
   type: z.enum(['story', 'side']),
   order: z.number().int().nonnegative().nullable(),
   giver: z.string().nullable(),
-  objective: z.string().min(1),
+  objective: z.string().min(1).nullable(),
   steps: z.array(z.string()),
   tips: z.array(z.string()),
   missables: z.array(z.string()),

@@ -1810,8 +1810,8 @@
     "name": "Russo's 1922 Pistol, Cold War 556",
     "section": "weapons",
     "summary": "Free pickup: President's bunkers.",
-    "details": "Stats field from source: unknown",
-    "confidence": "confirmed",
+    "details": "Stats field from source: unknown Marked likely, not confirmed: only one non-official source so far.",
+    "confidence": "likely",
     "sources": [
       {
         "url": "https://gamerant.com/gta-6-president-bunker-location-all-codes/",

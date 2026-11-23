@@ -98,3 +98,9 @@ test('confirmed with one official source, or two sources, is accepted', () => {
     { url: 'https://www.gamespot.com/y', title: 'GameSpot', accessed: '2026-11-22' }] });
   expect(validateAll(f).ok).toBe(true);
 });
+
+test('a mission with an unknown (null) objective is valid', () => {
+  const f = real();
+  (f.missions as any[])[0].objective = null;
+  expect(validateAll(f).errors).toEqual([]);
+});

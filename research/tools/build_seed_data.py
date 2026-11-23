@@ -294,7 +294,11 @@ categories = [
     ("rare-vehicles", "Rare and Wish List vehicles", "car", "#26c6da"),
     ("activities", "Activities", "flag", "#66bb6a"),
 ]
-categories = [OrderedDict(id=i, label=l, icon=ic, color=c) for i, l, ic, c in categories]
+# Categories the Progress Tracker counts as things to find and tick off (not shops/services).
+COLLECTIBLE = {"drugs", "collectible-cards", "money-bags", "safe-codes", "collectibles", "stunt-jumps",
+               "weapons", "secrets", "random-events", "rare-vehicles"}
+categories = [OrderedDict(id=i, label=l, icon=ic, color=c, collectible=i in COLLECTIBLE)
+              for i, l, ic, c in categories]
 CAT_IDS = {c["id"] for c in categories}
 
 # ---------------------------------------------------------------- weapons
@@ -645,6 +649,22 @@ for sec, entries in list(ALL_V1.items()) + list(later.items()):
 for p in pins:
     if p["category"] not in CAT_IDS or not (0 <= p["x"] <= 1000 and 0 <= p["y"] <= 1000):
         errors.append("pin %s bad category/coords" % p["id"])
+# Spec 9.3: "confirmed" needs an official source or 2+ independent sources. Otherwise it is "likely".
+OFFICIAL = ("rockstargames.com", "playstation.com", "xbox.com")
+
+
+def is_official(url):
+    host = re.sub(r"^https?://", "", url).split("/")[0].lower()
+    return any(host == d or host.endswith("." + d) for d in OFFICIAL)
+
+
+for entries in ALL_V1.values():
+    for e in entries:
+        if e["confidence"] == "confirmed" and len(e["sources"]) < 2 and not any(is_official(x["url"]) for x in e["sources"]):
+            e["confidence"] = "likely"
+            note = "Marked likely, not confirmed: only one non-official source so far."
+            e["details"] = (e.get("details", "") + " " + note).strip()
+
 if errors:
     print("\n".join(errors))
     sys.exit(1)

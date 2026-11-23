@@ -76,7 +76,7 @@
     "type": "side",
     "order": null,
     "giver": null,
-    "objective": "Placeholder.",
+    "objective": null,
     "steps": [],
     "tips": [],
     "missables": [],

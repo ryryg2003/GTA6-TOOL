@@ -7,6 +7,7 @@ import { MAP_SIZE, type Category } from '../../data/schema';
 import { useProgress } from '../../progress/store';
 import { applyOverrides, loadFilters, MAP_IMAGE, saveFilters, visiblePins, type Filters, type ShownPin } from './pins';
 import PinSheet from './PinSheet';
+import { iconFor } from './icons';
 
 const BOUNDS: L.LatLngBoundsExpression = [[0, 0], [MAP_SIZE, MAP_SIZE]];
 /** Our y grows downward; Leaflet's lat grows upward. */
@@ -20,7 +21,7 @@ function pinIcon(c: Category | undefined, pin: ShownPin, found: boolean, selecte
   const cls = ['pin', pin.location_precision === 'approximate' && !pin.corrected ? 'pin-approx' : '', found ? 'pin-found' : '', selected ? 'pin-selected' : ''].join(' ');
   return L.divIcon({
     className: '',
-    html: `<div class="${cls}" style="--pin:${c?.color ?? '#ffffff'}">${c?.icon ?? '📍'}</div>`,
+    html: `<div class="${cls}" style="--pin:${c?.color ?? '#ffffff'}">${iconFor(c?.icon)}</div>`,
     iconSize: [36, 36],
     iconAnchor: [18, 18],
   });
@@ -73,7 +74,7 @@ export default function MapPage() {
             {categories.map((c) => (
               <label key={c.id} className={`chip ${filters.enabled.has(c.id) ? 'on' : ''}`} style={{ borderColor: c.color }}>
                 <input type="checkbox" checked={filters.enabled.has(c.id)} onChange={() => toggleCat(c.id)} />
-                {c.icon} {c.label}
+                {iconFor(c.icon)} {c.label}
               </label>
             ))}
           </div>
