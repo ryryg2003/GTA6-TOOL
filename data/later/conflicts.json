@@ -1,0 +1,608 @@
+[
+  {
+    "id": "conflict-character-switch",
+    "name": "Character switch",
+    "section": "conflicts",
+    "summary": "Best current reading: Disputed; may be a control-scheme setting",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Hold D-pad right + R1/RB after \"Breakfast Run\" (KeenGamer)",
+    "value_b": "L1/LB after about 30% of story (GameSpot)"
+  },
+  {
+    "id": "conflict-hidden-trophies",
+    "name": "Hidden trophies",
+    "section": "conflicts",
+    "summary": "Best current reading: Disputed",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "28 (Insider Gaming, GGRecon)",
+    "value_b": "2 (KeenGamer)"
+  },
+  {
+    "id": "conflict-positive-mental-attitude",
+    "name": "Positive Mental Attitude",
+    "section": "conflicts",
+    "summary": "Best current reading: Do the Ch1 meditation anyway",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "No longer missable (Game-Checklists, Nov 21)",
+    "value_b": "Possibly missable (PowerPyx, GTABase)"
+  },
+  {
+    "id": "conflict-personal-best",
+    "name": "Personal Best",
+    "section": "conflicts",
+    "summary": "Best current reading: Disputed",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Max Strength for both (KeenGamer, PowerPyx)",
+    "value_b": "Reach Overweight (Push Square)"
+  },
+  {
+    "id": "conflict-race-against-yago",
+    "name": "Race Against Yago",
+    "section": "conflicts",
+    "summary": "Best current reading: Ch3 more likely (PowerPyx)",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Ch3 (PowerPyx)",
+    "value_b": "Ch1 (cutscenewire)"
+  },
+  {
+    "id": "conflict-mission-order",
+    "name": "Mission order",
+    "section": "conflicts",
+    "summary": "Best current reading: Order is flexible",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Lab Fees before Unwanted Attention (PowerPyx)",
+    "value_b": "Unwanted Attention first (two videos)"
+  },
+  {
+    "id": "conflict-garage-prices",
+    "name": "Garage prices",
+    "section": "conflicts",
+    "summary": "Best current reading: Both right: discount explains the gap",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "GameRant list prices",
+    "value_b": "GTABase 80% prices"
+  },
+  {
+    "id": "conflict-total-garages",
+    "name": "Total garages",
+    "section": "conflicts",
+    "summary": "Best current reading: Disputed",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "13 (PowerPyx tracker)",
+    "value_b": "14 + GTA+ 15th (GameRant)"
+  },
+  {
+    "id": "conflict-bunker-2-location",
+    "name": "Bunker 2 location",
+    "section": "conflicts",
+    "summary": "Best current reading: Unresolved; codes agree",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "South of highway Ammu-Nation, North Mariana County (GameRant)",
+    "value_b": "NW of Grassrivers, left of Big Pine (Beebom)"
+  },
+  {
+    "id": "conflict-weapon-count",
+    "name": "Weapon count",
+    "section": "conflicts",
+    "summary": "Best current reading: Use in-game tracker value per category",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "136 (Dexerto)",
+    "value_b": "196 (PowerPyx, video); 206 (GTABase); 50 of 66 for 100%"
+  },
+  {
+    "id": "conflict-vehicle-count",
+    "name": "Vehicle count",
+    "section": "conflicts",
+    "summary": "Best current reading: Use 277 base for 100%",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "557 (277 + 280)",
+    "value_b": "641 or about 300 (GTABase); 258"
+  },
+  {
+    "id": "conflict-magazines",
+    "name": "Magazines",
+    "section": "conflicts",
+    "summary": "Best current reading: Disputed",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "27",
+    "value_b": "34; GTA Boss list 29"
+  },
+  {
+    "id": "conflict-golf",
+    "name": "Golf",
+    "section": "conflicts",
+    "summary": "Best current reading: Possibly two different things",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "5 courses",
+    "value_b": "mini golf 3"
+  },
+  {
+    "id": "conflict-waink",
+    "name": "WAiNK",
+    "section": "conflicts",
+    "summary": "Best current reading: 108 (subcategories confirmed)",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "108",
+    "value_b": "112 (GTABoom)"
+  },
+  {
+    "id": "conflict-fast-food",
+    "name": "Fast food",
+    "section": "conflicts",
+    "summary": "Best current reading: Disputed",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "21 store pins",
+    "value_b": "23 robbable joints"
+  },
+  {
+    "id": "conflict-sniper-stats",
+    "name": "Sniper stats",
+    "section": "conflicts",
+    "summary": "Best current reading: Show both until a screenshot settles it",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "NiaMeowDB values",
+    "value_b": "Playday values"
+  },
+  {
+    "id": "conflict-moreland-850-price",
+    "name": "Moreland 850 price",
+    "section": "conflicts",
+    "summary": "Best current reading: Possibly a mission discount",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "$700",
+    "value_b": "$350 (mission shop)"
+  },
+  {
+    "id": "conflict-carry-limit",
+    "name": "Carry limit",
+    "section": "conflicts",
+    "summary": "Best current reading: 2 + 2",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "2 sidearms + 2 long guns (GTABase, video)",
+    "value_b": "2 long + 1 pistol + 1 melee (pre-launch)"
+  },
+  {
+    "id": "conflict-gun-store-tiers",
+    "name": "Gun store tiers",
+    "section": "conflicts",
+    "summary": "Best current reading: Disputed names",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "limited / standard / hunting / expanded",
+    "value_b": "every day / premium / hunting / pawn"
+  },
+  {
+    "id": "conflict-criminal-profile-names",
+    "name": "Criminal Profile names",
+    "section": "conflicts",
+    "summary": "Best current reading: Red Bull list (Hardened confirmed)",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Professional, Hardened, Violent, Psycho, Irredeemable",
+    "value_b": "\"Aggressive\" in older previews"
+  },
+  {
+    "id": "conflict-randy-payout-size",
+    "name": "Randy payout / size",
+    "section": "conflicts",
+    "summary": "Best current reading: Unresolved",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "$30k+ vs $35k+; 15, 16, 18 or 22 cars",
+    "value_b": ""
+  },
+  {
+    "id": "conflict-piccia-furia-lookalike",
+    "name": "Piccia Furia lookalike",
+    "section": "conflicts",
+    "summary": "Best current reading: Both RUMOR",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Ferrari 488 Pista (The Tab)",
+    "value_b": "Pininfarina Battista (Perfect Score)"
+  },
+  {
+    "id": "conflict-cheat-count",
+    "name": "Cheat count",
+    "section": "conflicts",
+    "summary": "Best current reading: 61",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "61",
+    "value_b": "59 tabulated (VICE); \"none found\" (Fandomwire)"
+  },
+  {
+    "id": "conflict-ps5-firmware-date",
+    "name": "PS5 firmware date",
+    "section": "conflicts",
+    "summary": "Best current reading: Minor",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Nov 18",
+    "value_b": "Nov 17"
+  },
+  {
+    "id": "conflict-pre-load-start",
+    "name": "Pre-load start",
+    "section": "conflicts",
+    "summary": "Best current reading: Nov 12 more often cited",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Nov 10",
+    "value_b": "Nov 12"
+  },
+  {
+    "id": "conflict-pre-order-cutoff",
+    "name": "Pre-order cutoff",
+    "section": "conflicts",
+    "summary": "Best current reading: Minor",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Nov 19",
+    "value_b": "Nov 20"
+  },
+  {
+    "id": "conflict-heist-payouts",
+    "name": "Heist payouts",
+    "section": "conflicts",
+    "summary": "Best current reading: Unconfirmed",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "Fan-site figures",
+    "value_b": "\"No outlet has published\" (GrindMap)"
+  },
+  {
+    "id": "conflict-arcade-game-name",
+    "name": "Arcade game name",
+    "section": "conflicts",
+    "summary": "Best current reading: Tenebrae Lux",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.keengamer.com/articles/guides/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "KeenGamer",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gamespot.com/articles/how-to-switch-between-jason-and-lucia-in-gta-6/",
+        "title": "GameSpot",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "value_a": "\"Tenebra Lux\" (video chapter)",
+    "value_b": "\"Tenebrae Lux\" (GameRant)"
+  }
+]

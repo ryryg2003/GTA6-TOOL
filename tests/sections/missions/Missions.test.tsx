@@ -46,3 +46,8 @@ test('unlock links go to each entry\'s own route', () => {
   expect(screen.getByRole('link', { name: 'Prologue (sample)' })).toHaveAttribute('href', '/missions/mission-sample-intro');
   expect(screen.getByRole('link', { name: 'Pistol' })).toHaveAttribute('href', '/weapons/weapon-sample-pistol');
 });
+
+test('a mission with no known objective shows Unknown', () => {
+  at('/missions/mission-sample-side');
+  expect(screen.getByRole('heading', { name: 'Objective' }).nextElementSibling).toHaveTextContent('Unknown');
+});

@@ -28,7 +28,7 @@ export default function MissionDetail() {
         </aside>
       )}
       <h3>Objective</h3>
-      <p>{m.objective}</p>
+      <p>{m.objective ?? 'Unknown'}</p>
       {m.steps.length > 0 && <><h3>Walkthrough</h3><ol className="steps">{m.steps.map((s, i) => <li key={i}>{s}</li>)}</ol></>}
       {m.tips.length > 0 && <><h3>Tips</h3><ul>{m.tips.map((t, i) => <li key={i}>{t}</li>)}</ul></>}
       <h3>Rewards</h3>

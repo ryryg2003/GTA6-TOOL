@@ -1,0 +1,112 @@
+[
+  {
+    "id": "profile-professional",
+    "name": "Professional",
+    "section": "criminal_profile",
+    "summary": "yellow tier. Limb shots reportedly keep you here (video only, RUMOR)",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "color": "yellow"
+  },
+  {
+    "id": "profile-hardened",
+    "name": "Hardened",
+    "section": "criminal_profile",
+    "summary": "orange tier. Seen on Jason's stats screenshot",
+    "details": "Report tag: CONFIRMED.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "color": "orange"
+  },
+  {
+    "id": "profile-violent",
+    "name": "Violent",
+    "section": "criminal_profile",
+    "summary": "purple tier.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "color": "purple"
+  },
+  {
+    "id": "profile-psycho",
+    "name": "Psycho",
+    "section": "criminal_profile",
+    "summary": "light grey tier. You can no longer surrender",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "color": "light grey"
+  },
+  {
+    "id": "profile-irredeemable",
+    "name": "Irredeemable",
+    "section": "criminal_profile",
+    "summary": "dark grey tier. Permanent, reached by staying Psycho too long",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "color": "dark grey"
+  }
+]

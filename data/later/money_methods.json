@@ -1,0 +1,346 @@
+[
+  {
+    "id": "money-south-vice-dale-warehouse-baseball-card",
+    "name": "South Vice-Dale warehouse baseball card",
+    "section": "money_methods",
+    "summary": "Ch1. Reported payout: $6,000 (likely best single item in first 12-16 h).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.vice.com/en/article/gta-6-cheat-codes-list/",
+        "title": "VICE, Nov 19",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "Ch1",
+    "payout_text": "$6,000 (likely best single item in first 12-16 h)",
+    "payout_min": 6000
+  },
+  {
+    "id": "money-manatee-motel-stilt-house-three-sheets-liquor",
+    "name": "Manatee Motel, stilt house, Three Sheets Liquor",
+    "section": "money_methods",
+    "summary": "Ch1. Reported payout: cash, amounts not stated.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+        "title": "Insider Gaming",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "Ch1",
+    "payout_text": "cash, amounts not stated",
+    "payout_min": null
+  },
+  {
+    "id": "money-barn-respawn-loop-see-exploits",
+    "name": "Barn respawn loop (see Exploits)",
+    "section": "money_methods",
+    "summary": "from Ch2 advised. Reported payout: $8,000-$11,000 per run; LADbible says about $10k per 10 minutes (about $60k/hr by my arithmetic).",
+    "details": "Report tag: CONFIRMED (exists).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.tweaktown.com/news/114814/gta-6-already-has-an-infinite-money-glitch-but-many-players-are-skipping-it/index.html",
+        "title": "TweakTown, Nov 22",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://beebom.com/gta-6-unlimited-money-glitch/",
+        "title": "Beebom",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.ladbible.com/entertainment/gaming/gta-6-infinite-money-glitch-jason-994211-20261121",
+        "title": "LADbible, Nov 21",
+        "accessed": "2026-11-21"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "from Ch2 advised",
+    "payout_text": "$8,000-$11,000 per run; LADbible says about $10k per 10 minutes (about $60k/hr by my arithmetic)",
+    "payout_min": 8000
+  },
+  {
+    "id": "money-steal-cars-for-moses",
+    "name": "Steal cars for Moses",
+    "section": "money_methods",
+    "summary": "Ch2+. Reported payout: $1,000-$20,000 per car; one video shows $20,000+ from 4 cars.",
+    "details": "Report tag: CONFIRMED (activity); LIKELY (amount).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-strangers-freaks-side-missions/",
+        "title": "PowerPyx S&F",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=5zym0IC44UU",
+        "title": "YouTube 5zym0IC44UU",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "Ch2+",
+    "payout_text": "$1,000-$20,000 per car; one video shows $20,000+ from 4 cars",
+    "payout_min": 1000
+  },
+  {
+    "id": "money-gang-operations",
+    "name": "Gang Operations",
+    "section": "money_methods",
+    "summary": "early. Reported payout: not stated; called a good early earner.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-tips-tricks/",
+        "title": "PowerPyx tips",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "early",
+    "payout_text": "not stated; called a good early earner",
+    "payout_min": null
+  },
+  {
+    "id": "money-store-robberies",
+    "name": "Store robberies",
+    "section": "money_methods",
+    "summary": "mid Ch3+. Reported payout: bag capped at $3,200 (RUMOR).",
+    "details": "Report tag: LIKELY (good earner).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://meowdb.com/gta6/glitches",
+        "title": "meowdb",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-tips-tricks/",
+        "title": "PowerPyx tips",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "mid Ch3+",
+    "payout_text": "bag capped at $3,200 (RUMOR)",
+    "payout_min": 3200
+  },
+  {
+    "id": "money-stick-ups",
+    "name": "Stick-ups",
+    "section": "money_methods",
+    "summary": "any. Reported payout: pay poorly.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-tips-tricks/",
+        "title": "PowerPyx tips",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "any",
+    "payout_text": "pay poorly",
+    "payout_min": null
+  },
+  {
+    "id": "money-randys-wish-list",
+    "name": "Randy's Wish List",
+    "section": "money_methods",
+    "summary": "Ch3+. Reported payout: $30,000+ or $35,000+ per car.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://timesaver.gg/tools/gta-6/money/randy-wish-list",
+        "title": "timesaver.gg",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "Ch3+",
+    "payout_text": "$30,000+ or $35,000+ per car",
+    "payout_min": 30000
+  },
+  {
+    "id": "money-jewelry-stores",
+    "name": "Jewelry stores",
+    "section": "money_methods",
+    "summary": "Ch3+. Reported payout: $10,000-$25,000.",
+    "details": "Report tag: RUMOR.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gta6heists.com/money",
+        "title": "gta6heists.com",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "Ch3+",
+    "payout_text": "$10,000-$25,000",
+    "payout_min": 10000
+  },
+  {
+    "id": "money-large-bank-vault",
+    "name": "Large bank vault",
+    "section": "money_methods",
+    "summary": "end of Ch4+. Reported payout: up to $205,000 (about 5 min for experienced runs, RUMOR).",
+    "details": "Report tag: LIKELY (PowerPyx).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "title": "PowerPyx 100%",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "end of Ch4+",
+    "payout_text": "up to $205,000 (about 5 min for experienced runs, RUMOR)",
+    "payout_min": 205000
+  },
+  {
+    "id": "money-tracker-car-to-pay-n-spray",
+    "name": "Tracker car to Pay 'n' Spray",
+    "section": "money_methods",
+    "summary": "any. Reported payout: about $2,500+.",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+        "title": "PowerPyx 100%",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "any",
+    "payout_text": "about $2,500+",
+    "payout_min": 2500
+  },
+  {
+    "id": "money-ambrosia-raceway-derby",
+    "name": "Ambrosia Raceway derby",
+    "section": "money_methods",
+    "summary": "any. Reported payout: $3,800-$6,300 per win.",
+    "details": "Report tag: RUMOR.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://leonidaverse.com/en/codex/gta-6-money",
+        "title": "leonidaverse",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "any",
+    "payout_text": "$3,800-$6,300 per win",
+    "payout_min": 3800
+  },
+  {
+    "id": "money-street-race-dive-tour-perfect-hunt",
+    "name": "Street race / dive tour / perfect hunt",
+    "section": "money_methods",
+    "summary": "any. Reported payout: $3,000 / $400 / $500.",
+    "details": "Report tag: RUMOR.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gta6heists.com/money",
+        "title": "gta6heists.com",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gta6heists.com/heists",
+        "title": "gta6heists.com",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "any",
+    "payout_text": "$3,000 / $400 / $500",
+    "payout_min": 3000
+  },
+  {
+    "id": "money-story-heists",
+    "name": "Story heists",
+    "section": "money_methods",
+    "summary": "story. Reported payout: Cartel Heist $150,000; VCIA $250,000; Coast Guard $50,000.",
+    "details": "Report tag: RUMOR; GrindMap says no outlet has published payouts (conflict).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gta6heists.com/heists",
+        "title": "gta6heists.com",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://grindmap.com/guides/gta-6-heists-money-guide",
+        "title": "GrindMap",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "story",
+    "payout_text": "Cartel Heist $150,000; VCIA $250,000; Coast Guard $50,000",
+    "payout_min": 150000
+  },
+  {
+    "id": "money-van-storage-500k-hour",
+    "name": "Van storage \"$500k/hour\"",
+    "section": "money_methods",
+    "summary": "any. Reported payout: creator claim.",
+    "details": "Report tag: RUMOR.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=ZrtuF9Gx9Bk",
+        "title": "YouTube ZrtuF9Gx9Bk",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://moneymeta.gg/money/",
+        "title": "moneymeta.gg",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "any",
+    "payout_text": "creator claim",
+    "payout_min": null
+  },
+  {
+    "id": "money-1-million-5-million-per-hour-glitches",
+    "name": "\"1 million / 5 million per hour\" glitches",
+    "section": "money_methods",
+    "summary": "any. Reported payout: clickbait.",
+    "details": "Report tag: RUMOR.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=U7iUvczxwcQ",
+        "title": "YouTube U7iUvczxwcQ",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "chapter_min": "any",
+    "payout_text": "clickbait",
+    "payout_min": null
+  }
+]

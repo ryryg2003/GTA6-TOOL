@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "date": "2026-11-22",
+    "section": "all",
+    "added": [
+      "Seed data built from reports/GTA 6 launch data for tool.md: weapons 77, vehicles 57, missions 148, map_pins 116, trophies 55, later/release 13, later/patches 5, later/characters 9, later/character_stats 4, later/heat_icons 6, later/criminal_profile 5, later/pin_counts 22, later/collectible_counts 23, later/activities 10, later/random_events 9, later/secrets 10, later/theories 8, later/hoaxes 9, later/money_methods 16, later/cheats 18, later/exploits 7, later/properties 15, later/conflicts 28, later/sources 23"
+    ],
+    "updated": []
+  }
+]

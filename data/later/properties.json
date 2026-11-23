@@ -1,0 +1,382 @@
+[
+  {
+    "id": "garage-mitchell-auto-center",
+    "name": "Mitchell Auto Center",
+    "section": "properties",
+    "summary": "Garage. List price $5,000; $4,000 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 5000,
+    "discounted_price": 4000,
+    "unlock": "After \"Daily Driver\""
+  },
+  {
+    "id": "garage-persistence-road",
+    "name": "Persistence Road",
+    "section": "properties",
+    "summary": "Garage. List price $9,500; $7,600 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 9500,
+    "discounted_price": 7600,
+    "unlock": null
+  },
+  {
+    "id": "garage-7th-avenue",
+    "name": "7th Avenue",
+    "section": "properties",
+    "summary": "Garage. List price $15,000; $12,000 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 15000,
+    "discounted_price": 12000,
+    "unlock": null
+  },
+  {
+    "id": "garage-store-n-bolt",
+    "name": "Store 'N' Bolt",
+    "section": "properties",
+    "summary": "Garage. List price $21,000; $16,800 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 21000,
+    "discounted_price": 16800,
+    "unlock": "After \"Dubious Provenance\" (Ch3)"
+  },
+  {
+    "id": "garage-wyatt-motors",
+    "name": "Wyatt Motors",
+    "section": "properties",
+    "summary": "Garage. List price $27,000; $21,600 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 27000,
+    "discounted_price": 21600,
+    "unlock": null
+  },
+  {
+    "id": "garage-vela-rota-drive",
+    "name": "Vela Rota Drive",
+    "section": "properties",
+    "summary": "Garage. List price $30,000; $24,000 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 30000,
+    "discounted_price": 24000,
+    "unlock": null
+  },
+  {
+    "id": "garage-bonita-court",
+    "name": "Bonita Court",
+    "section": "properties",
+    "summary": "Garage. List price $42,500; $34,000 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 42500,
+    "discounted_price": 34000,
+    "unlock": null
+  },
+  {
+    "id": "garage-atlantic-court",
+    "name": "Atlantic Court",
+    "section": "properties",
+    "summary": "Garage. List price $50,000; $40,000 with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": 50000,
+    "discounted_price": 40000,
+    "unlock": null
+  },
+  {
+    "id": "garage-port-gellhorn-station",
+    "name": "Port Gellhorn Station",
+    "section": "properties",
+    "summary": "Garage. List price Free; Free with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": null,
+    "discounted_price": null,
+    "unlock": "\"Daily Driver\" (Ch2)"
+  },
+  {
+    "id": "garage-thompson-court",
+    "name": "Thompson Court",
+    "section": "properties",
+    "summary": "Garage. List price Free; Free with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": null,
+    "discounted_price": null,
+    "unlock": "\"Company Cars\" (Ch4)"
+  },
+  {
+    "id": "garage-ne-15th-street",
+    "name": "NE 15th Street",
+    "section": "properties",
+    "summary": "Garage. List price Free; Free with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": null,
+    "discounted_price": null,
+    "unlock": "\"Operation Savage Glory\" (Ch5)"
+  },
+  {
+    "id": "garage-pegassi-residences",
+    "name": "Pegassi Residences",
+    "section": "properties",
+    "summary": "Garage. List price Free; Free with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": null,
+    "discounted_price": null,
+    "unlock": "Ch5 (GTABase); unlock not listed (GameRant)"
+  },
+  {
+    "id": "garage-paradise-garage",
+    "name": "Paradise Garage",
+    "section": "properties",
+    "summary": "Garage. List price Free; Free with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": null,
+    "discounted_price": null,
+    "unlock": "Ultimate Edition"
+  },
+  {
+    "id": "garage-shore-court",
+    "name": "Shore Court",
+    "section": "properties",
+    "summary": "Garage. List price Free; Free with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": null,
+    "discounted_price": null,
+    "unlock": "Pre-order bonus"
+  },
+  {
+    "id": "garage-gta-crosstown",
+    "name": "GTA+ Crosstown",
+    "section": "properties",
+    "summary": "Garage. List price Free; Free with BuckMe Gold discount (GTABase).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://gamerant.com/gta-6-store-cars-garage-little-boxes/",
+        "title": "GameRant",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/articles/how-to-unlock-garages-in-gta-6",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "kind": "garage",
+    "list_price": null,
+    "discounted_price": null,
+    "unlock": "GTA+"
+  }
+]

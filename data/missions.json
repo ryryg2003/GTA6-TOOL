@@ -1,43 +1,2297 @@
 [
   {
-    "id": "mission-sample-intro",
-    "name": "Prologue (sample)",
+    "id": "mission-adventures-in-babysitting",
+    "name": "Adventures in Babysitting",
     "section": "missions",
-    "summary": "SAMPLE: Placeholder first story mission.",
-    "confidence": "unverified",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.rockstargames.com/VI",
-        "title": "Rockstar Games: Grand Theft Auto VI",
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
         "accessed": "2026-11-22"
       }
     ],
     "last_verified": "2026-11-22",
     "type": "story",
-    "order": 1,
+    "order": 129,
     "giver": null,
-    "objective": "Placeholder objective.",
-    "steps": [
-      "Step one",
-      "Step two"
-    ],
-    "tips": [
-      "Tip"
-    ],
+    "objective": null,
+    "steps": [],
+    "tips": [],
     "missables": [],
     "rewards": null,
-    "unlocks": []
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
   },
   {
-    "id": "mission-sample-second",
-    "name": "Second Mission (sample)",
+    "id": "mission-afternoon-delight",
+    "name": "Afternoon Delight",
     "section": "missions",
-    "summary": "SAMPLE: Placeholder with a missable.",
-    "confidence": "unverified",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.rockstargames.com/VI",
-        "title": "Rockstar Games: Grand Theft Auto VI",
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 61,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-amateur-hour",
+    "name": "Amateur Hour",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 116,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-ambulance-chaser",
+    "name": "Ambulance Chaser",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 46,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-another-life",
+    "name": "Another Life",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 102,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-attend-eddie-acostas-party",
+    "name": "Attend Eddie Acosta's Party",
+    "section": "missions",
+    "summary": "Chapter 4 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 112,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-bad-driver",
+    "name": "Bad Driver!",
+    "section": "missions",
+    "summary": "Chapter 4 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 111,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-behind-on-payments",
+    "name": "Behind on Payments",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 48,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-bird-in-the-hand",
+    "name": "Bird in the Hand",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 140,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-blood-sweat-and-gear",
+    "name": "Blood Sweat and Gear",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 114,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-boobie-time",
+    "name": "Boobie Time",
+    "section": "missions",
+    "summary": "Chapter 3 story mission, Jason only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 72,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "jason",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-breakfast-run",
+    "name": "Breakfast Run",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 52,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-bricked-up",
+    "name": "Bricked Up",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 99,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-brother-to-brother",
+    "name": "Brother To Brother",
+    "section": "missions",
+    "summary": "Chapter 3 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 97,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-buck-me",
+    "name": "Buck Me",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 20,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-buddy",
+    "name": "Buddy?",
+    "section": "missions",
+    "summary": "Chapter 3 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 73,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-building-a-life",
+    "name": "Building a Life",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 28,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-bumper-to-bumper",
+    "name": "Bumper to Bumper",
+    "section": "missions",
+    "summary": "Chapter 3 optional mission, Jason only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 76,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "jason",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-buy-flowers",
+    "name": "Buy Flowers",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 14,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-buy-lucia-a-necklace",
+    "name": "Buy Lucia a Necklace",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 15,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-call-nate",
+    "name": "Call Nate",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 117,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-call-valentina-back",
+    "name": "Call Valentina Back",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 137,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-car-service",
+    "name": "Car Service",
+    "section": "missions",
+    "summary": "Chapter 3 story mission, Lucia only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 77,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "lucia",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-cash-injections",
+    "name": "Cash Injections",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 118,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-caught-slipping",
+    "name": "Caught Slipping",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 95,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-check-out-mckittrick-farm",
+    "name": "Check Out McKittrick Farm",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 47,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-checking-out",
+    "name": "Checking Out",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 62,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-childs-play",
+    "name": "Child's Play",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 132,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-clean-up-after-donnie",
+    "name": "Clean Up After Donnie",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 19,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-clear-skies",
+    "name": "Clear Skies",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 27,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-clock-out",
+    "name": "Clock Out",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 26,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-clonin-keys-makin-gs",
+    "name": "Clonin' Keys, Makin' GS",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 83,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-close-surveillance",
+    "name": "Close Surveillance",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 122,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-coffee-break",
+    "name": "Coffee Break",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 53,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-collect-chemicals-for-kyle",
+    "name": "Collect Chemicals for Kyle",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 50,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-coming-home",
+    "name": "Coming Home",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 18,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-company-cars",
+    "name": "Company Cars",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 104,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-company-property",
+    "name": "Company Property",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 90,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-cooties",
+    "name": "Cooties",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 98,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-credit-check",
+    "name": "Credit Check",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 82,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-crosstown-traffic",
+    "name": "Crosstown Traffic",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 81,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-daily-driver",
+    "name": "Daily Driver",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 51,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-day-release",
+    "name": "Day Release",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 25,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-dealers-choice",
+    "name": "Dealer's Choice",
+    "section": "missions",
+    "summary": "Chapter 3 story mission, Jason only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 64,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "jason",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-delivery-method",
+    "name": "Delivery Method",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 123,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-deposit-cash-into-buckme",
+    "name": "Deposit Cash Into BuckMe",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 22,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-dirty-work",
+    "name": "Dirty Work",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 119,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-discharge-time",
+    "name": "Discharge Time",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 35,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-doggie-bag",
+    "name": "Doggie Bag",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 142,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-don-gone",
+    "name": "Don Gone",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 30,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-donnies-lost-drugs",
+    "name": "Donnie's Lost Drugs",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 31,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-down-to-earth",
+    "name": "Down to Earth",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 21,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-dubious-provenance",
+    "name": "Dubious Provenance",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 65,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-encrypted-hard-drive",
+    "name": "Encrypted Hard Drive",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 71,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-feng-shui",
+    "name": "Feng Shui",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 12,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-find-the-lost-drugs",
+    "name": "Find the Lost Drugs",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 24,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-first-impressions",
+    "name": "First Impressions",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 80,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-fresh-evidence",
+    "name": "Fresh Evidence",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 131,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-fully-catered",
+    "name": "Fully Catered",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 125,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-gear-up",
+    "name": "Gear Up",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 3,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-get-lucias-clothes",
+    "name": "Get Lucia's Clothes",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 17,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-get-shirleys-rum",
+    "name": "Get Shirley's Rum",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 8,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [
+      "Optional mission is time-limited and can be missed"
+    ],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-get-the-chop",
+    "name": "Get The Chop",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 16,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-get-your-wheels",
+    "name": "Get Your Wheels",
+    "section": "missions",
+    "summary": "Chapter 3 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 67,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-girls-trip",
+    "name": "Girl's Trip",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 40,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-gone-fishing",
+    "name": "Gone Fishing",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
         "accessed": "2026-11-22"
       }
     ],
@@ -45,41 +2299,2892 @@
     "type": "story",
     "order": 2,
     "giver": null,
-    "objective": "Placeholder objective.",
-    "steps": [
-      "Step one"
-    ],
+    "objective": null,
+    "steps": [],
     "tips": [],
-    "missables": [
-      "Placeholder missable collectible"
-    ],
-    "rewards": "$0",
-    "unlocks": [
-      "mission-sample-intro"
-    ]
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
   },
   {
-    "id": "mission-sample-side",
-    "name": "Side Job (sample)",
+    "id": "mission-headliners",
+    "name": "Headliners",
     "section": "missions",
-    "summary": "SAMPLE: Placeholder side mission.",
-    "confidence": "unverified",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
     "sources": [
       {
-        "url": "https://www.rockstargames.com/VI",
-        "title": "Rockstar Games: Grand Theft Auto VI",
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 134,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-heavy-lifting",
+    "name": "Heavy Lifting",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 106,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-heist-planning",
+    "name": "Heist Planning",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 89,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-heist-plans-in-place",
+    "name": "Heist Plans in Place",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 126,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-here-kitty-kitty",
+    "name": "Here, Kitty Kitty",
+    "section": "missions",
+    "summary": "Chapter 3 story mission, Jason only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 69,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "jason",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-hey-arnold",
+    "name": "Hey Arnold!",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 10,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-hidden-charges",
+    "name": "Hidden Charges",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 93,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-hit-avery-pawn",
+    "name": "Hit Avery Pawn",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
         "accessed": "2026-11-22"
       }
     ],
     "last_verified": "2026-11-22",
     "type": "side",
-    "order": null,
+    "order": 56,
     "giver": null,
-    "objective": "Placeholder.",
+    "objective": null,
     "steps": [],
     "tips": [],
     "missables": [],
     "rewards": null,
-    "unlocks": []
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-hit-kingpin-bowling",
+    "name": "Hit Kingpin Bowling",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 57,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-home-sweet-home",
+    "name": "Home Sweet Home",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 34,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-honest-abe",
+    "name": "Honest Abe",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 145,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-how-do-i-look",
+    "name": "How Do I Look?",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 44,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-impounded-vehicle",
+    "name": "Impounded Vehicle",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 58,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-island-dreams",
+    "name": "Island Dreams",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 11,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-its-a-date",
+    "name": "It's A Date!",
+    "section": "missions",
+    "summary": "Chapter 4 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 107,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-join-a-street-race",
+    "name": "Join a Street Race",
+    "section": "missions",
+    "summary": "Chapter 3 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 68,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-just-a-scratch",
+    "name": "Just a Scratch",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 5,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-just-moved-in",
+    "name": "Just Moved In",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 39,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-lab-fees",
+    "name": "Lab Fees",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 4,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-lawyer-up",
+    "name": "Lawyer Up",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 105,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-making-gainz",
+    "name": "Making Gainz",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 113,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-mall-rats",
+    "name": "Mall Rats",
+    "section": "missions",
+    "summary": "Chapter 3 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 96,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-mami-knows-best",
+    "name": "Mami Knows Best",
+    "section": "missions",
+    "summary": "Chapter 3 story mission, Lucia only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 66,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "lucia",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-meet-the-heders",
+    "name": "Meet the Heders",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 74,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-moses",
+    "name": "Moses",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 42,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-nate-will-be-in-touch",
+    "name": "Nate Will Be in Touch",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 120,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-new-look",
+    "name": "New Look",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 43,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-ocean-beach",
+    "name": "Ocean Beach",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 101,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-operation-savage-glory",
+    "name": "Operation Savage Glory",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 144,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-overnight-charges",
+    "name": "Overnight Charges",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 38,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-painkiller-supplier",
+    "name": "Painkiller Supplier",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 45,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-party-hard",
+    "name": "Party Hard",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 108,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-pay-abes-fee",
+    "name": "Pay Abe's Fee",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 109,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-photo-shoot",
+    "name": "Photo/Shoot",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 110,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-pick-up-a-gun",
+    "name": "Pick Up A Gun",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 41,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-pick-up-drop-off-groceries",
+    "name": "Pick Up/Drop Off Groceries",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 13,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-pipework",
+    "name": "Pipework",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 7,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-pool-day",
+    "name": "Pool Day",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 103,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-power-play",
+    "name": "Power Play",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 121,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-prepare-for-vice-city",
+    "name": "Prepare for Vice City",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 59,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-prologue",
+    "name": "Prologue",
+    "section": "missions",
+    "summary": "Prologue story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: CONFIRMED. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 1,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 0,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-protective-custody",
+    "name": "Protective Custody",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 147,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-race-against-yago",
+    "name": "Race Against Yago",
+    "section": "missions",
+    "summary": "Chapter 3 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 86,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [
+      "Optional mission is time-limited and can be missed"
+    ],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-rafas-kidnapping",
+    "name": "Rafa's Kidnapping",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 130,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-rauls-next-job",
+    "name": "Raul's Next Job",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 85,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-recalibration",
+    "name": "Recalibration",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 32,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-ride-or-die",
+    "name": "Ride Or Die",
+    "section": "missions",
+    "summary": "Chapter 3 story mission, Jason only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 84,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "jason",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-safe-word",
+    "name": "Safe Word",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 91,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-save-for-the-future",
+    "name": "Save for the Future",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 23,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-security-expert",
+    "name": "Security Expert",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 88,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-send-money-to-lorena",
+    "name": "Send Money to Lorena",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 70,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-send-more-money-to-lorena",
+    "name": "Send More Money to Lorena",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 78,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-sinfrontera-national-bank",
+    "name": "Sinfrontera National Bank",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 87,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-slam-dunk",
+    "name": "Slam Dunk",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 49,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-south-leonida-real-estate",
+    "name": "South Leonida Real Estate",
+    "section": "missions",
+    "summary": "Chapter 3 story mission, Lucia only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 100,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "lucia",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-starting-from-zero",
+    "name": "Starting From Zero",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 139,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-steal-the-scooter",
+    "name": "Steal the Scooter",
+    "section": "missions",
+    "summary": "Chapter 1 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 9,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [
+      "Optional mission is time-limited and can be missed"
+    ],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-sunset",
+    "name": "Sunset",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 138,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-swamped",
+    "name": "Swamped",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 29,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-take-care-of-jason",
+    "name": "Take Care of Jason",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 37,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-taking-liberties",
+    "name": "Taking Liberties",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 141,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-team-building",
+    "name": "Team Building",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 124,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-thats-where-the-money-is",
+    "name": "That's Where The Money Is…",
+    "section": "missions",
+    "summary": "Chapter 4 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 136,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-the-cartel-heist",
+    "name": "The Cartel Heist",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 94,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-the-end-of-the-road",
+    "name": "The End of the Road",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 148,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-the-missing-link",
+    "name": "The Missing Link",
+    "section": "missions",
+    "summary": "Chapter 3 story mission (Cartel Heist setup), Lucia only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 92,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": "lucia",
+    "heist_group": "Cartel Heist",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-this-is-a-free-call-from",
+    "name": "This is a Free Call From…",
+    "section": "missions",
+    "summary": "Chapter 4 optional mission, Lucia only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 133,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [
+      "Optional mission is time-limited and can be missed"
+    ],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": "lucia",
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-thrillbillies",
+    "name": "Thrillbillies",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 54,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-tie-up-loose-ends",
+    "name": "Tie Up Loose Ends",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 135,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-too-much-baggage",
+    "name": "Too Much Baggage",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 115,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-top-billing",
+    "name": "Top Billing",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 79,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-tourist-trap",
+    "name": "Tourist Trap",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 33,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-twist-wrist-smash-grab",
+    "name": "Twist Wrist, Smash, Grab",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 55,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-unfinished-business",
+    "name": "Unfinished Business",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 146,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-unwanted-attention",
+    "name": "Unwanted Attention",
+    "section": "missions",
+    "summary": "Chapter 1 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Main names CONFIRMED (video + wiki + guide); optional LIKELY. Contains story spoilers by name.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 6,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 1,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-vc-baby",
+    "name": "VC Baby",
+    "section": "missions",
+    "summary": "Chapter 5 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY; final mission CONFIRMED. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 143,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 5,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-vcia-takedown",
+    "name": "VCIA Takedown",
+    "section": "missions",
+    "summary": "Chapter 4 story mission (VCIA Takedown setup).",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 127,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": "VCIA Takedown",
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-veteran-hunted",
+    "name": "Veteran Hunted",
+    "section": "missions",
+    "summary": "Chapter 2 optional mission, Jason only.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "side",
+    "order": 60,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": "jason",
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-watch-it",
+    "name": "Watch It",
+    "section": "missions",
+    "summary": "Chapter 4 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 128,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 4,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-welcome-to-vice-city",
+    "name": "Welcome to Vice City",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 63,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-whats-in-the-bag",
+    "name": "What's in the Bag?",
+    "section": "missions",
+    "summary": "Chapter 2 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 36,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 2,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": false,
+    "game_version": "01.002.001"
+  },
+  {
+    "id": "mission-yasmanis-jewelry-jobs",
+    "name": "Yasmani's Jewelry Jobs",
+    "section": "missions",
+    "summary": "Chapter 3 story mission.",
+    "details": "Order follows PowerPyx and may differ slightly from play order. Report tag: Video-matched names CONFIRMED; rest LIKELY. Contains story spoilers by name.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/",
+        "title": "PowerPyx walkthrough",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.gtabase.com/gta-6/achievements",
+        "title": "GTABase",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "type": "story",
+    "order": 75,
+    "giver": null,
+    "objective": null,
+    "steps": [],
+    "tips": [],
+    "missables": [],
+    "rewards": null,
+    "unlocks": [],
+    "chapter": 3,
+    "character_lock": null,
+    "heist_group": null,
+    "spoiler": true,
+    "game_version": "01.002.001"
   }
 ]

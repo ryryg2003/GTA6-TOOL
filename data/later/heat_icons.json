@@ -1,0 +1,122 @@
+[
+  {
+    "id": "heat-hanger",
+    "name": "Hanger",
+    "section": "heat_icons",
+    "summary": "Your clothing. Clear it: Change outfit (shop items tagged \"Will remove outfit heat\"; car trunk holds 5 outfits).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "heat-single-silhouette",
+    "name": "Single silhouette",
+    "section": "heat_icons",
+    "summary": "Your face. Clear it: Haircut, mask or helmet.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "heat-double-silhouette",
+    "name": "Double silhouette",
+    "section": "heat_icons",
+    "summary": "You two together. Clear it: Split up.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "heat-handgun",
+    "name": "Handgun",
+    "section": "heat_icons",
+    "summary": "Your weapon. Clear it: Stow it.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "heat-camera",
+    "name": "Camera",
+    "section": "heat_icons",
+    "summary": "CCTV footage. Clear it: Destroy camera or stop witnesses escaping.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "heat-car",
+    "name": "Car",
+    "section": "heat_icons",
+    "summary": "Your vehicle. Clear it: Swap cars or use Pay 'n' Spray.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.gameleap.com/articles/gta-6-wanted-level-heat-system-explained",
+        "title": "GameLeap",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gamerant.com/gta-6-all-heat-icons-explained-lose-avoid",
+        "title": "Game Rant",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  }
+]

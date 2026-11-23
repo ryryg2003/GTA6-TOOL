@@ -1,0 +1,260 @@
+[
+  {
+    "id": "release-release-date",
+    "name": "Release date",
+    "section": "release",
+    "summary": "Nov 19, 2026, unlocked at local midnight (12:00 AM ET = 9:00 PM PT Nov 18 in the US)",
+    "details": "Report tag: CONFIRMED (date); LIKELY (unlock time).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://finviz.com/news/425095/rockstar-games-announces-grand-theft-auto-vi-now-available",
+        "title": "Business Wire, Nov 19",
+        "accessed": "2026-11-19"
+      },
+      {
+        "url": "https://www.gtaboss.gg/gta-6/guides/gta-6-release-date",
+        "title": "GTA Boss",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-platforms",
+    "name": "Platforms",
+    "section": "release",
+    "summary": "PS5, Xbox Series X|S; Xbox One via Xbox Cloud Gaming",
+    "details": "Report tag: CONFIRMED; LIKELY (cloud).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+        "title": "PlayStation Blog",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia citing Windows Central, Nov 10",
+        "accessed": "2026-11-10"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-pc",
+    "name": "PC",
+    "section": "release",
+    "summary": "Not announced. Q1 2027 is a RUMOR from industry reports",
+    "details": "Report tag: CONFIRMED (not announced).",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-gta-vi-online",
+    "name": "GTA VI Online",
+    "section": "release",
+    "summary": "Not launched, no date. A 2027 date traces to remarks by Twitch's CEO, not Rockstar",
+    "details": "Report tag: CONFIRMED (single-player at launch); RUMOR (2027).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://finviz.com/news/425095/rockstar-games-announces-grand-theft-auto-vi-now-available",
+        "title": "Business Wire",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://shattered.io/gta-6-online-q1-2027-report-zero-rockstar-dates/",
+        "title": "Shattered.io",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-standard-edition",
+    "name": "Standard Edition",
+    "section": "release",
+    "summary": "$79.99 (CA$109.99, A$129.95)",
+    "details": "Report tag: CONFIRMED (USD); LIKELY (regional).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.forbes.com/sites/brianmazique/2026/10/30/what-gta-vis-20-ultimate-edition-upgrade-actually-buys-you/",
+        "title": "Forbes, Oct 30",
+        "accessed": "2026-10-30"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-ultimate-edition",
+    "name": "Ultimate Edition",
+    "section": "release",
+    "summary": "$99.99 (CA$139.99, A$159.95). Adds '95 Grotti Cheetah, '67 Vapid Dominator Buggy, Shitzu Squalo boat, Classic Car Collection, Hawk and Little Morgan revolvers, personalized ES9 and K17 pistols, 5 exclusive shops, 50+ FAILE tattoos. Item counts differ between sources",
+    "details": "Report tag: CONFIRMED (price, Forbes + Vice + Dot Esports); LIKELY (contents).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.forbes.com/sites/brianmazique/2026/10/30/what-gta-vis-20-ultimate-edition-upgrade-actually-buys-you/",
+        "title": "Forbes",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.vice.com/en/article/gta-6-pre-order-bonuses-ultimate-edition/",
+        "title": "Vice",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://dotesports.com/gta/guides/gta-6-ultimate-edition-gta-plus-bonuses",
+        "title": "Dot Esports",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-pre-order-bonus",
+    "name": "Pre-order bonus",
+    "section": "release",
+    "summary": "Vintage Vice City Pack: '55 Vapid Stanier with its own garage, two outfits, a weapon pattern. Cutoff given as Nov 19 or Nov 20 (conflict)",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-pre-order-bonuses-ultimate-edition/",
+        "title": "Vice",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/",
+        "title": "Vice",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.vice.com/en/article/gta-6-day-one-patch-ps5-version-1002/",
+        "title": "Vice",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-install-size",
+    "name": "Install size",
+    "section": "release",
+    "summary": "About 210-212 GB; no official figure. The viral \"677 GB\" claim is fake",
+    "details": "Report tag: LIKELY; HOAX (677 GB).",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gb-size/",
+        "title": "GamesRadar",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.dlcompare.com/gaming-news/gta-6-day-one-patch-two-silent-updates-and-a-psn-outage",
+        "title": "dLcompare, Nov 20",
+        "accessed": "2026-11-20"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-frame-rate",
+    "name": "Frame rate",
+    "section": "release",
+    "summary": "30 FPS lock, no performance/quality toggle in the 12 display options",
+    "details": "Report tag: LIKELY (Wikipedia + ViceManual screenshot + Outputlag).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://vicemanual.com/gta-6-screenshots",
+        "title": "ViceManual",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://outputlag.com/featured-slider/gta-6-review-roundup/",
+        "title": "Outputlag",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-build-string",
+    "name": "Build string",
+    "section": "release",
+    "summary": "930.048.020 shown in game menu (internal, separate from store version)",
+    "details": "Report tag: LIKELY (screenshot).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://vicemanual.com/gta-6-screenshots",
+        "title": "ViceManual, Nov 18",
+        "accessed": "2026-11-18"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-microtransactions",
+    "name": "Microtransactions",
+    "section": "release",
+    "summary": "None at launch, no generative AI",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia citing Kinda Funny",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-launch-outage",
+    "name": "Launch outage",
+    "section": "release",
+    "summary": "PSN login and license failures evening of Nov 18 into launch morning, resolved that afternoon; Xbox unaffected",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.dlcompare.com/gaming-news/gta-6-day-one-patch-two-silent-updates-and-a-psn-outage",
+        "title": "dLcompare",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  },
+  {
+    "id": "release-sales",
+    "name": "Sales",
+    "section": "release",
+    "summary": "32.5M pre-release copies; about $3.79B first-24-hour revenue",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Wikipedia",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22"
+  }
+]

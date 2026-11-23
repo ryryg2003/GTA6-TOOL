@@ -1,0 +1,508 @@
+[
+  {
+    "id": "count-mod-shops",
+    "name": "Mod Shops",
+    "section": "pin_counts",
+    "summary": "Mod Shops: 14 in the game (Vehicle services).",
+    "details": "Report tag: LIKELY; each shop specializes in one vehicle type.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Vehicle services",
+    "count": 14
+  },
+  {
+    "id": "count-pay-n-sprays",
+    "name": "Pay 'n' Sprays",
+    "section": "pin_counts",
+    "summary": "Pay 'n' Sprays: 19 in the game (Vehicle services).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Vehicle services",
+    "count": 19
+  },
+  {
+    "id": "count-gas-stations",
+    "name": "Gas Stations",
+    "section": "pin_counts",
+    "summary": "Gas Stations: 57 in the game (Vehicle services).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Vehicle services",
+    "count": 57
+  },
+  {
+    "id": "count-car-washes",
+    "name": "Car Washes",
+    "section": "pin_counts",
+    "summary": "Car Washes: 6 in the game (Vehicle services).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Vehicle services",
+    "count": 6
+  },
+  {
+    "id": "count-garages",
+    "name": "Garages",
+    "section": "pin_counts",
+    "summary": "Garages: 13 in the game (Vehicle services).",
+    "details": "Report tag: LIKELY (conflict: GameRant counts 14 garages plus a GTA+ 15th, see Properties).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Vehicle services",
+    "count": 13
+  },
+  {
+    "id": "count-ammu-nations",
+    "name": "Ammu-Nations",
+    "section": "pin_counts",
+    "summary": "Ammu-Nations: 24 in the game (Weapons).",
+    "details": "Report tag: CONFIRMED (PowerPyx + video [tjsYTsPPYQE](https://www.youtube.com/watch?v=tjsYTsPPYQE) at 03:43); 6 are \"expanded\" stores.",
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://www.powerpyx.com/gta-6-all-cocaine-flamingo-locations/",
+        "title": "PowerPyx",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Weapons",
+    "count": 24
+  },
+  {
+    "id": "count-train-stations",
+    "name": "Train Stations",
+    "section": "pin_counts",
+    "summary": "Train Stations: 25 in the game (Travel).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Travel",
+    "count": 25
+  },
+  {
+    "id": "count-ferry-terminals",
+    "name": "Ferry Terminals",
+    "section": "pin_counts",
+    "summary": "Ferry Terminals: 2 in the game (Travel).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Travel",
+    "count": 2
+  },
+  {
+    "id": "count-clothing-stores",
+    "name": "Clothing Stores",
+    "section": "pin_counts",
+    "summary": "Clothing Stores: 67 in the game (Retail).",
+    "details": "Report tag: LIKELY; same-brand stores share stock.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Retail",
+    "count": 67
+  },
+  {
+    "id": "count-footwear",
+    "name": "Footwear",
+    "section": "pin_counts",
+    "summary": "Footwear: 17 in the game (Retail).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Retail",
+    "count": 17
+  },
+  {
+    "id": "count-hair-and-beauty-salons",
+    "name": "Hair and Beauty Salons",
+    "section": "pin_counts",
+    "summary": "Hair and Beauty Salons: 18 in the game (Retail).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Retail",
+    "count": 18
+  },
+  {
+    "id": "count-tattoo-studios",
+    "name": "Tattoo Studios",
+    "section": "pin_counts",
+    "summary": "Tattoo Studios: 11 in the game (Retail).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Retail",
+    "count": 11
+  },
+  {
+    "id": "count-electronics",
+    "name": "Electronics",
+    "section": "pin_counts",
+    "summary": "Electronics: 15 in the game (Retail).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Retail",
+    "count": 15
+  },
+  {
+    "id": "count-convenience-stores",
+    "name": "Convenience Stores",
+    "section": "pin_counts",
+    "summary": "Convenience Stores: 72 in the game (Retail).",
+    "details": "Report tag: LIKELY; all robbable.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Retail",
+    "count": 72
+  },
+  {
+    "id": "count-liquor-stores",
+    "name": "Liquor Stores",
+    "section": "pin_counts",
+    "summary": "Liquor Stores: 14 in the game (Retail).",
+    "details": "Report tag: LIKELY; all robbable.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Retail",
+    "count": 14
+  },
+  {
+    "id": "count-fast-food",
+    "name": "Fast Food",
+    "section": "pin_counts",
+    "summary": "Fast Food: 21 in the game (Food and drink).",
+    "details": "Report tag: LIKELY (conflict: robbery list says 23 fast food joints).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Food and drink",
+    "count": 21
+  },
+  {
+    "id": "count-cafes-and-takeout",
+    "name": "Cafes and Takeout",
+    "section": "pin_counts",
+    "summary": "Cafes and Takeout: 87 in the game (Food and drink).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Food and drink",
+    "count": 87
+  },
+  {
+    "id": "count-bars",
+    "name": "Bars",
+    "section": "pin_counts",
+    "summary": "Bars: 122 in the game (Food and drink).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Food and drink",
+    "count": 122
+  },
+  {
+    "id": "count-street-food-vendors",
+    "name": "Street Food Vendors",
+    "section": "pin_counts",
+    "summary": "Street Food Vendors: 118 in the game (Food and drink).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Food and drink",
+    "count": 118
+  },
+  {
+    "id": "count-robbable-payday-loans",
+    "name": "Robbable Payday Loans",
+    "section": "pin_counts",
+    "summary": "Robbable Payday Loans: 7 in the game (Other).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Other",
+    "count": 7
+  },
+  {
+    "id": "count-banks",
+    "name": "Banks",
+    "section": "pin_counts",
+    "summary": "Banks: 22 bank jobs (14 small, 8 large vaults) in the game (Other).",
+    "details": "Report tag: LIKELY.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Other",
+    "count": 22148
+  },
+  {
+    "id": "count-hospitals-police-stations-fire-stations-airports-marinas-atm",
+    "name": "Hospitals, police stations, fire stations, airports, marinas, ATMs",
+    "section": "pin_counts",
+    "summary": "Hospitals, police stations, fire stations, airports, marinas, ATMs: unknown in the game (Not counted).",
+    "details": "Report tag: RUMOR (GTA Boss fan map uses estimated positions); no ATM source at all.",
+    "confidence": "unverified",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/gta-6-collectible-guide/",
+        "title": "PowerPyx Progress Database, Nov 18",
+        "accessed": "2026-11-18"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tjsYTsPPYQE",
+        "title": "tjsYTsPPYQE",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "group": "Not counted",
+    "count": null
+  }
+]

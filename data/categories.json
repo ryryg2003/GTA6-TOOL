@@ -1,58 +1,128 @@
 [
   {
     "id": "drugs",
-    "label": "Drugs",
-    "icon": "💊",
-    "color": "#b36bff",
+    "label": "Drug stashes",
+    "icon": "pill",
+    "color": "#e05252",
     "collectible": true
   },
   {
     "id": "collectible-cards",
-    "label": "Collectible Cards",
-    "icon": "🃏",
-    "color": "#2ee6c9",
+    "label": "Collectible cards",
+    "icon": "card",
+    "color": "#f2b84b",
     "collectible": true
   },
   {
     "id": "money-bags",
-    "label": "Money Bags",
-    "icon": "💰",
-    "color": "#3ddc84",
+    "label": "Money and cash stashes",
+    "icon": "cash",
+    "color": "#4caf50",
     "collectible": true
   },
   {
     "id": "stores",
     "label": "Stores",
-    "icon": "🛒",
-    "color": "#5aa9ff",
+    "icon": "bag",
+    "color": "#5aa9e6",
     "collectible": false
   },
   {
     "id": "paint-spray",
-    "label": "Paint & Spray",
-    "icon": "🎨",
-    "color": "#ff8a3d",
+    "label": "Pay 'n' Spray",
+    "icon": "spray",
+    "color": "#b36ae2",
     "collectible": false
   },
   {
     "id": "mechanics",
-    "label": "Mechanics",
-    "icon": "🔧",
-    "color": "#ffd23d",
+    "label": "Mod shops",
+    "icon": "wrench",
+    "color": "#ff8a3d",
     "collectible": false
   },
   {
     "id": "garages",
     "label": "Garages",
-    "icon": "🅿️",
-    "color": "#9aa0b0",
+    "icon": "garage",
+    "color": "#9aa5b1",
     "collectible": false
   },
   {
     "id": "safe-codes",
-    "label": "Safe Codes",
-    "icon": "🔐",
-    "color": "#ff3d7f",
+    "label": "Safe and keypad codes",
+    "icon": "lock",
+    "color": "#ffd400",
     "collectible": true
+  },
+  {
+    "id": "ammu-nation",
+    "label": "Ammu-Nation",
+    "icon": "gun",
+    "color": "#c0392b",
+    "collectible": false
+  },
+  {
+    "id": "gas-stations",
+    "label": "Gas stations",
+    "icon": "fuel",
+    "color": "#7f8c8d",
+    "collectible": false
+  },
+  {
+    "id": "clothing",
+    "label": "Clothing stores",
+    "icon": "shirt",
+    "color": "#e84393",
+    "collectible": false
+  },
+  {
+    "id": "collectibles",
+    "label": "Other collectibles",
+    "icon": "star",
+    "color": "#ffe066",
+    "collectible": true
+  },
+  {
+    "id": "stunt-jumps",
+    "label": "Stunt jumps",
+    "icon": "ramp",
+    "color": "#00bcd4",
+    "collectible": true
+  },
+  {
+    "id": "weapons",
+    "label": "Free and unique weapons",
+    "icon": "crosshair",
+    "color": "#ff5252",
+    "collectible": true
+  },
+  {
+    "id": "secrets",
+    "label": "Secrets and easter eggs",
+    "icon": "eye",
+    "color": "#8e44ad",
+    "collectible": true
+  },
+  {
+    "id": "random-events",
+    "label": "Random events",
+    "icon": "alert",
+    "color": "#ff9800",
+    "collectible": true
+  },
+  {
+    "id": "rare-vehicles",
+    "label": "Rare and Wish List vehicles",
+    "icon": "car",
+    "color": "#26c6da",
+    "collectible": true
+  },
+  {
+    "id": "activities",
+    "label": "Activities",
+    "icon": "flag",
+    "color": "#66bb6a",
+    "collectible": false
   }
 ]

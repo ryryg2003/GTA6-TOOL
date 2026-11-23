@@ -1,0 +1,531 @@
+[
+  {
+    "id": "source-powerpyx",
+    "name": "PowerPyx",
+    "section": "sources",
+    "summary": "robots `Allow: /`; RSS at `/feed/` with several GTA VI posts a day. Verdict: Ingest (poll RSS, diff titles). Best for: Trophies, walkthroughs, 100% checklist, collectible counts.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "guide",
+    "verdict": "Ingest (poll RSS, diff titles)",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-fandom-gta-wiki",
+    "name": "Fandom GTA Wiki",
+    "section": "sources",
+    "summary": "HTML behind Cloudflare, but `/api.php` returns JSON; `recentchanges` shows edits within minutes. Verdict: Ingest via API; attribute (CC BY-SA, not re-verified). Best for: Mission lists, characters, change detection.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "wiki",
+    "verdict": "Ingest via API; attribute (CC BY-SA, not re-verified)",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-gtabase",
+    "name": "GTABase",
+    "section": "sources",
+    "summary": "robots blocks only admin/search/user; publishes `/llms.txt` listing GTA VI databases. Verdict: Ingest. Best for: Vehicles, weapons, properties, map layers.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "guide/database",
+    "verdict": "Ingest",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-youtube-channel-rss",
+    "name": "YouTube channel RSS",
+    "section": "sources",
+    "summary": "`feeds/videos.xml?channel_id=` works, no key. Verdict: Ingest metadata. Best for: New official trailers and guide uploads.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "video metadata",
+    "verdict": "Ingest metadata",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-youtube-chapter-markers",
+    "name": "YouTube chapter markers",
+    "section": "sources",
+    "summary": "yt-dlp `--dump-single-json` gives chapters. Verdict: Ingest derived names and timestamps only; check YouTube ToS. Best for: Corroborating mission names and pin areas.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "video",
+    "verdict": "Ingest derived names and timestamps only; check YouTube ToS",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-youtube-transcripts",
+    "name": "YouTube transcripts",
+    "section": "sources",
+    "summary": "Mostly blocked by \"Sign in to confirm you're not a bot\" and HTTP 429/403. Verdict: Manual or local transcription only; store derived facts. Best for: Spoken prices, spawn spots, codes.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "video",
+    "verdict": "Manual or local transcription only; store derived facts",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-reddit-r-gta6",
+    "name": "Reddit r/GTA6",
+    "section": "sources",
+    "summary": "RSS 429, JSON 403. Verdict: Official API only under Reddit's terms; signals, never facts. Best for: Early warnings on patches, glitches, missables.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "forum",
+    "verdict": "Official API only under Reddit's terms; signals, never facts",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-rockstar-newswire-vi-hub-support",
+    "name": "Rockstar Newswire, VI hub, Support",
+    "section": "sources",
+    "summary": "Newswire HTML 200, no RSS (404); robots disallows ClaudeBot, GPTBot and others; Support timed out. Verdict: Link-only for automated AI fetching; track via YouTube RSS and press coverage. Best for: Patch notes, announcements.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "official",
+    "verdict": "Link-only for automated AI fetching; track via YouTube RSS and press coverage",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-niameowdb-playday-timesaver-gg-game-checklists-gmtreks-metaf",
+    "name": "NiaMeowDB, Playday, timesaver.gg, Game-Checklists, GMTreks, Metaforge",
+    "section": "sources",
+    "summary": "Reachable; terms and robots not checked. Verdict: Candidate; verify terms first; never sole source for CONFIRMED. Best for: Stats, missable status changes.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "fan DB",
+    "verdict": "Candidate; verify terms first; never sole source for CONFIRMED",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-dexerto-push-square-red-bull-beebom-vice-insider-gaming-gami",
+    "name": "Dexerto, Push Square, Red Bull, Beebom, VICE, Insider Gaming, GamingBible, TweakTown",
+    "section": "sources",
+    "summary": "Readable; robots not checked. Verdict: Candidate for headline monitoring; link plus own-words summary. Best for: Cross-checks, easter eggs, money, cheats.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "news/guide",
+    "verdict": "Candidate for headline monitoring; link plus own-words summary",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-vicemanual-screenshots",
+    "name": "ViceManual screenshots",
+    "section": "sources",
+    "summary": "Readable. Verdict: Manual review only. Best for: UI facts (menus, stats tab).",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "screenshot",
+    "verdict": "Manual review only",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-exophase",
+    "name": "Exophase",
+    "section": "sources",
+    "summary": "robots only blocks `/search`, but Cloudflare challenge. Verdict: Manual. Best for: Official trophy data.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "trophy mirror",
+    "verdict": "Manual",
+    "ingest_policy": "ingest"
+  },
+  {
+    "id": "source-gamesradar",
+    "name": "GamesRadar",
+    "section": "sources",
+    "summary": "Blocks several AI crawlers (Claude not named in the part read). Verdict: Link-only to be safe. Best for: Reviews, news.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "news",
+    "verdict": "Link-only to be safe",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-game8",
+    "name": "Game8",
+    "section": "sources",
+    "summary": "Blocks GPTBot and Google-Extended; 402 paywall. Verdict: Link-only. Best for: Maps, guides.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "guide",
+    "verdict": "Link-only",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-ign",
+    "name": "IGN",
+    "section": "sources",
+    "summary": "robots forbids scraping, TDM, RAG, datasets. Verdict: **Link-only**. Best for: Deep links.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "guide/map",
+    "verdict": "**Link-only**",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-mapgenie",
+    "name": "MapGenie",
+    "section": "sources",
+    "summary": "Same Ziff Davis ban; blocks anthropic-ai; map at `/grand-theft-auto-6/maps/leonida`. Verdict: **Link-only, never ingest**. Best for: Deep links to the map.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "map",
+    "verdict": "**Link-only, never ingest**",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-gamerant",
+    "name": "GameRant",
+    "section": "sources",
+    "summary": "Valnet ban on scraping and RAG; blocks ClaudeBot. Verdict: **Link-only**. Best for: Secrets, puzzles.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "guide",
+    "verdict": "**Link-only**",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-gtaforums",
+    "name": "GTAForums",
+    "section": "sources",
+    "summary": "robots disallows Claude bots; Cloudflare 403. Verdict: **Link-only**. Best for: Review hub, mapping thread.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "forum",
+    "verdict": "**Link-only**",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-gamefaqs",
+    "name": "GameFAQs",
+    "section": "sources",
+    "summary": "`ai-train=no, use=reference`; blocks Claude bots. Verdict: **Link-only**. Best for: Q&A.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "forum/guide",
+    "verdict": "**Link-only**",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-psnprofiles",
+    "name": "PSNProfiles",
+    "section": "sources",
+    "summary": "`ai-train=no, use=reference`; blocks ClaudeBot; Cloudflare 403. Verdict: **Link-only**. Best for: Rarity.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "trophy",
+    "verdict": "**Link-only**",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-trueachievements-playstationtrophies",
+    "name": "TrueAchievements, PlayStationTrophies",
+    "section": "sources",
+    "summary": "Cloudflare blocked. Verdict: **Link-only / manual**. Best for: Guides, rarity.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "trophy",
+    "verdict": "**Link-only / manual**",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-gamespot",
+    "name": "GameSpot",
+    "section": "sources",
+    "summary": "HTTP 403. Verdict: Link-only. Best for: Guides.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "news/guide",
+    "verdict": "Link-only",
+    "ingest_policy": "link_only"
+  },
+  {
+    "id": "source-x-tiktok",
+    "name": "X, TikTok",
+    "section": "sources",
+    "summary": "Login required; leak-heavy. Verdict: Link-only, never auto-CONFIRMED. Best for: Signals.",
+    "confidence": "likely",
+    "sources": [
+      {
+        "url": "https://www.powerpyx.com/robots.txt",
+        "title": "PowerPyx robots",
+        "accessed": "2026-11-22"
+      },
+      {
+        "url": "https://gta.fandom.com/api.php?action=query&list=recentchanges&rclimit=3&format=json",
+        "title": "Fandom API",
+        "accessed": "2026-11-22"
+      }
+    ],
+    "last_verified": "2026-11-22",
+    "source_type": "social",
+    "verdict": "Link-only, never auto-CONFIRMED",
+    "ingest_policy": "link_only"
+  }
+]
