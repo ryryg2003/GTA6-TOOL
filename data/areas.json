@@ -2,676 +2,4339 @@
   {
     "id": "vice-city",
     "name": "Vice City",
-    "x": 760,
-    "y": 640,
-    "kind": "region",
-    "official": true,
-    "placeholder_position": true
+    "x": 480.8,
+    "y": 508.5
   },
   {
-    "id": "leonida-keys",
-    "name": "Leonida Keys",
-    "x": 560,
-    "y": 910,
-    "kind": "region",
-    "official": true,
-    "placeholder_position": true
+    "id": "hamlet",
+    "name": "Hamlet",
+    "x": 427.8,
+    "y": 612.8
   },
   {
-    "id": "grassrivers",
-    "name": "Grassrivers",
-    "x": 500,
-    "y": 650,
-    "kind": "region",
-    "official": true,
-    "placeholder_position": true
+    "id": "key-lento",
+    "name": "Key Lento",
+    "x": 433.6,
+    "y": 694.9
   },
   {
     "id": "port-gellhorn",
     "name": "Port Gellhorn",
-    "x": 180,
-    "y": 330,
-    "kind": "region",
-    "official": true,
-    "placeholder_position": true
+    "x": 311.2,
+    "y": 394.4
   },
   {
     "id": "ambrosia",
     "name": "Ambrosia",
-    "x": 420,
-    "y": 320,
-    "kind": "region",
-    "official": true,
-    "placeholder_position": true
+    "x": 423.5,
+    "y": 388.6
+  },
+  {
+    "id": "vice-beach",
+    "name": "Vice Beach",
+    "x": 564.8,
+    "y": 477.9
+  },
+  {
+    "id": "waning-sands",
+    "name": "Waning Sands",
+    "x": 507.6,
+    "y": 389.3
+  },
+  {
+    "id": "watson-bay",
+    "name": "Watson Bay",
+    "x": 365.6,
+    "y": 603.9
+  },
+  {
+    "id": "capri",
+    "name": "Capri",
+    "x": 303.7,
+    "y": 509.5
+  },
+  {
+    "id": "gloriana-key",
+    "name": "Gloriana Key",
+    "x": 529.5,
+    "y": 570.3
+  },
+  {
+    "id": "washington-beach",
+    "name": "Washington Beach",
+    "x": 566.9,
+    "y": 444.6
+  },
+  {
+    "id": "ocean-beach",
+    "name": "Ocean Beach",
+    "x": 569.8,
+    "y": 488.9
+  },
+  {
+    "id": "shore-dr",
+    "name": "Shore Dr",
+    "x": 572.7,
+    "y": 495.1
+  },
+  {
+    "id": "catalan-key",
+    "name": "Catalan Key",
+    "x": 511,
+    "y": 569.3
+  },
+  {
+    "id": "tequesta-retreat",
+    "name": "Tequesta Retreat",
+    "x": 505.3,
+    "y": 546.1
+  },
+  {
+    "id": "rialto-islands",
+    "name": "Rialto Islands",
+    "x": 523.1,
+    "y": 474
+  },
+  {
+    "id": "leonard-county",
+    "name": "Leonard County",
+    "x": 486.8,
+    "y": 395.5
+  },
+  {
+    "id": "belville",
+    "name": "Belville",
+    "x": 479.2,
+    "y": 424.5
+  },
+  {
+    "id": "vice-decor-district",
+    "name": "Vice Decor District",
+    "x": 506.1,
+    "y": 443.4
+  },
+  {
+    "id": "miramar-dr",
+    "name": "Miramar Dr",
+    "x": 491,
+    "y": 474.5
+  },
+  {
+    "id": "crosstown",
+    "name": "Crosstown",
+    "x": 493.2,
+    "y": 473.6
+  },
+  {
+    "id": "stockyard",
+    "name": "Stockyard",
+    "x": 500.3,
+    "y": 456.1
+  },
+  {
+    "id": "bayside",
+    "name": "Bayside",
+    "x": 500,
+    "y": 482.7
+  },
+  {
+    "id": "delphino-cir",
+    "name": "Delphino Cir",
+    "x": 503,
+    "y": 484.1
+  },
+  {
+    "id": "catalan-blvd",
+    "name": "Catalan Blvd",
+    "x": 498.2,
+    "y": 495.8
+  },
+  {
+    "id": "shoreline",
+    "name": "Shoreline",
+    "x": 504.8,
+    "y": 506.8
+  },
+  {
+    "id": "downtown",
+    "name": "Downtown",
+    "x": 492.5,
+    "y": 514
+  },
+  {
+    "id": "rockridge",
+    "name": "Rockridge",
+    "x": 470.9,
+    "y": 487.1
+  },
+  {
+    "id": "little-cuba",
+    "name": "Little Cuba",
+    "x": 474.3,
+    "y": 511.9
+  },
+  {
+    "id": "vice-city-international-airport",
+    "name": "Vice City International Airport",
+    "x": 435.5,
+    "y": 531.8
+  },
+  {
+    "id": "salton",
+    "name": "Salton",
+    "x": 463.2,
+    "y": 519.4
+  },
+  {
+    "id": "tequesta",
+    "name": "Tequesta",
+    "x": 484.4,
+    "y": 546.7
+  },
+  {
+    "id": "mariana-county",
+    "name": "Mariana County",
+    "x": 372.7,
+    "y": 640.4
+  },
+  {
+    "id": "peregrine-bay",
+    "name": "Peregrine Bay",
+    "x": 460.9,
+    "y": 621.7
+  },
+  {
+    "id": "bluegrass",
+    "name": "Bluegrass",
+    "x": 432.5,
+    "y": 585.3
+  },
+  {
+    "id": "route-1",
+    "name": "Route 1",
+    "x": 423.4,
+    "y": 704.8
+  },
+  {
+    "id": "maroon-key",
+    "name": "Maroon Key",
+    "x": 375.4,
+    "y": 725.1
+  },
+  {
+    "id": "kelly-county",
+    "name": "Kelly County",
+    "x": 351.5,
+    "y": 397.9
+  },
+  {
+    "id": "historic-route-628",
+    "name": "Historic Route 628",
+    "x": 346.6,
+    "y": 402.3
+  },
+  {
+    "id": "moonstone-hwy",
+    "name": "Moonstone Hwy",
+    "x": 321.2,
+    "y": 375.4
+  },
+  {
+    "id": "goose-key",
+    "name": "Goose Key",
+    "x": 305.5,
+    "y": 714.6
+  },
+  {
+    "id": "route-61",
+    "name": "Route 61",
+    "x": 430.9,
+    "y": 622.8
+  },
+  {
+    "id": "allied-crystal",
+    "name": "Allied Crystal",
+    "x": 423.5,
+    "y": 396.8
+  },
+  {
+    "id": "la-perle",
+    "name": "La Perle",
+    "x": 482.2,
+    "y": 466.8
+  },
+  {
+    "id": "leaf-links",
+    "name": "Leaf Links",
+    "x": 534.3,
+    "y": 436.3
+  },
+  {
+    "id": "vice-dale-county",
+    "name": "Vice-Dale County",
+    "x": 508.5,
+    "y": 486.7
+  },
+  {
+    "id": "route-32",
+    "name": "Route 32",
+    "x": 386.8,
+    "y": 363.4
+  },
+  {
+    "id": "lummox-county",
+    "name": "Lummox County",
+    "x": 414.6,
+    "y": 293.4
+  },
+  {
+    "id": "interstate-404",
+    "name": "Interstate 404",
+    "x": 313.2,
+    "y": 399.8
+  },
+  {
+    "id": "leonida",
+    "name": "Leonida",
+    "x": 407.7,
+    "y": 432.4
+  },
+  {
+    "id": "port-vice-city",
+    "name": "Port Vice City",
+    "x": 545.9,
+    "y": 530.1
+  },
+  {
+    "id": "balsero",
+    "name": "Balsero",
+    "x": 447.3,
+    "y": 488.6
+  },
+  {
+    "id": "peacock-bay",
+    "name": "Peacock Bay",
+    "x": 479.4,
+    "y": 575.1
+  },
+  {
+    "id": "prison",
+    "name": "Prison",
+    "x": 425.2,
+    "y": 600.8
+  },
+  {
+    "id": "sw-4th-ave",
+    "name": "SW 4th Ave",
+    "x": 484.2,
+    "y": 545.6
+  },
+  {
+    "id": "tisha-wocka",
+    "name": "Tisha-Wocka",
+    "x": 424.9,
+    "y": 489.6
+  },
+  {
+    "id": "calderone-ave",
+    "name": "Calderone Ave",
+    "x": 455.2,
+    "y": 570.4
+  },
+  {
+    "id": "southside",
+    "name": "Southside",
+    "x": 455.4,
+    "y": 578.8
+  },
+  {
+    "id": "thompson-ave",
+    "name": "Thompson Ave",
+    "x": 567,
+    "y": 470.1
+  },
+  {
+    "id": "starlet-motel",
+    "name": "Starlet Motel",
+    "x": 346.1,
+    "y": 403.7
+  },
+  {
+    "id": "shorefront-ave",
+    "name": "Shorefront Ave",
+    "x": 560.4,
+    "y": 497.3
+  },
+  {
+    "id": "sw-4th-st",
+    "name": "SW 4th St",
+    "x": 544,
+    "y": 471.1
+  },
+  {
+    "id": "abismo-key",
+    "name": "Abismo Key",
+    "x": 358.7,
+    "y": 736.5
+  },
+  {
+    "id": "rialto-cswy",
+    "name": "Rialto Cswy",
+    "x": 500.7,
+    "y": 480.5
+  },
+  {
+    "id": "gellhorn-international-raceway",
+    "name": "Gellhorn International Raceway",
+    "x": 310.4,
+    "y": 450.5
+  },
+  {
+    "id": "sundown",
+    "name": "Sundown",
+    "x": 486.5,
+    "y": 375.8
+  },
+  {
+    "id": "el-joven-blvd",
+    "name": "El Joven Blvd",
+    "x": 460.2,
+    "y": 578.4
+  },
+  {
+    "id": "ne-5th-st",
+    "name": "NE 5th St",
+    "x": 492.4,
+    "y": 501
+  },
+  {
+    "id": "buckskin",
+    "name": "Buckskin",
+    "x": 381.6,
+    "y": 484.1
+  },
+  {
+    "id": "vickery-dr",
+    "name": "Vickery Dr",
+    "x": 558.7,
+    "y": 457.5
+  },
+  {
+    "id": "millport",
+    "name": "Millport",
+    "x": 483.9,
+    "y": 308.6
+  },
+  {
+    "id": "redhill",
+    "name": "Redhill",
+    "x": 395,
+    "y": 284.8
+  },
+  {
+    "id": "moreau",
+    "name": "Moreau",
+    "x": 391.9,
+    "y": 269.7
+  },
+  {
+    "id": "sw-7th-ave",
+    "name": "SW 7th Ave",
+    "x": 468.2,
+    "y": 546.6
+  },
+  {
+    "id": "westbrook-dr",
+    "name": "Westbrook Dr",
+    "x": 464.2,
+    "y": 506.5
+  },
+  {
+    "id": "sw-3rd-ave",
+    "name": "SW 3rd Ave",
+    "x": 450.4,
+    "y": 574.7
+  },
+  {
+    "id": "starfish-island",
+    "name": "Starfish Island",
+    "x": 540.3,
+    "y": 491.3
+  },
+  {
+    "id": "huevo-st",
+    "name": "Huevo St",
+    "x": 572.7,
+    "y": 497.8
+  },
+  {
+    "id": "port-gellhorn-international-raceway",
+    "name": "Port Gellhorn International Raceway",
+    "x": 338.7,
+    "y": 431.1
+  },
+  {
+    "id": "bobcat-key",
+    "name": "Bobcat Key",
+    "x": 311.7,
+    "y": 589.5
+  },
+  {
+    "id": "emerald-springs",
+    "name": "Emerald Springs",
+    "x": 370.4,
+    "y": 428.3
+  },
+  {
+    "id": "admiral-cswy",
+    "name": "Admiral Cswy",
+    "x": 533.9,
+    "y": 510.4
+  },
+  {
+    "id": "ferry-island",
+    "name": "Ferry Island",
+    "x": 533.9,
+    "y": 510.4
+  },
+  {
+    "id": "cicada-ave",
+    "name": "Cicada Ave",
+    "x": 456.1,
+    "y": 584.3
+  },
+  {
+    "id": "mirimar-dr",
+    "name": "Mirimar Dr",
+    "x": 492.8,
+    "y": 474.4
+  },
+  {
+    "id": "draper-island",
+    "name": "Draper Island",
+    "x": 281.4,
+    "y": 352.2
+  },
+  {
+    "id": "y-vice-beach",
+    "name": "Y Vice Beach",
+    "x": 572.4,
+    "y": 461.9
+  },
+  {
+    "id": "yorktown",
+    "name": "Yorktown",
+    "x": 334.9,
+    "y": 297.3
+  },
+  {
+    "id": "grassrivers",
+    "name": "Grassrivers",
+    "x": 416.5,
+    "y": 671
+  },
+  {
+    "id": "decor-district",
+    "name": "Decor District",
+    "x": 502.5,
+    "y": 442.1
+  },
+  {
+    "id": "vice-regal",
+    "name": "Vice Regal",
+    "x": 556,
+    "y": 424.4
+  },
+  {
+    "id": "albany-hotel",
+    "name": "Albany Hotel",
+    "x": 573.4,
+    "y": 455.3
+  },
+  {
+    "id": "y-vice-city",
+    "name": "Y Vice City",
+    "x": 573.2,
+    "y": 462.3
+  },
+  {
+    "id": "crystal",
+    "name": "Crystal",
+    "x": 574,
+    "y": 469.5
+  },
+  {
+    "id": "sachem",
+    "name": "Sachem",
+    "x": 573,
+    "y": 471.9
+  },
+  {
+    "id": "the-atoll",
+    "name": "The Atoll",
+    "x": 572.9,
+    "y": 476.3
+  },
+  {
+    "id": "bayfront-heights",
+    "name": "Bayfront Heights",
+    "x": 575.4,
+    "y": 479.6
+  },
+  {
+    "id": "dominion-hotel",
+    "name": "Dominion Hotel",
+    "x": 574.8,
+    "y": 483.5
+  },
+  {
+    "id": "hotel-dixon",
+    "name": "Hotel Dixon",
+    "x": 573.7,
+    "y": 489
+  },
+  {
+    "id": "paramour-hotel",
+    "name": "Paramour Hotel",
+    "x": 573.3,
+    "y": 490.8
+  },
+  {
+    "id": "ocean-view-hotel",
+    "name": "Ocean View Hotel",
+    "x": 573.2,
+    "y": 492
+  },
+  {
+    "id": "seven-seas-seafood",
+    "name": "Seven Seas Seafood",
+    "x": 572.7,
+    "y": 493.6
+  },
+  {
+    "id": "boardwalk",
+    "name": "Boardwalk",
+    "x": 572.6,
+    "y": 494.4
+  },
+  {
+    "id": "hotel-neptune",
+    "name": "Hotel Neptune",
+    "x": 572.5,
+    "y": 495.1
+  },
+  {
+    "id": "parsons-hotel",
+    "name": "Parsons Hotel",
+    "x": 572.4,
+    "y": 495.5
+  },
+  {
+    "id": "seashell-hotel",
+    "name": "Seashell Hotel",
+    "x": 572.3,
+    "y": 498
+  },
+  {
+    "id": "cortez-hotel",
+    "name": "Cortez Hotel",
+    "x": 572.3,
+    "y": 499.1
+  },
+  {
+    "id": "bobby-hurricane-s",
+    "name": "Bobby Hurricane's",
+    "x": 572.1,
+    "y": 499.5
+  },
+  {
+    "id": "atlantis-hotel",
+    "name": "Atlantis Hotel",
+    "x": 572.1,
+    "y": 499.9
+  },
+  {
+    "id": "seahorse",
+    "name": "Seahorse",
+    "x": 572,
+    "y": 500.4
+  },
+  {
+    "id": "cordelia",
+    "name": "Cordelia",
+    "x": 571.9,
+    "y": 500.9
+  },
+  {
+    "id": "vice-museum-of-art",
+    "name": "Vice Museum of Art",
+    "x": 568,
+    "y": 465.9
+  },
+  {
+    "id": "fence",
+    "name": "Fence",
+    "x": 567.9,
+    "y": 462.9
+  },
+  {
+    "id": "firefly-plaza",
+    "name": "Firefly Plaza",
+    "x": 565.4,
+    "y": 460.2
+  },
+  {
+    "id": "supermarket",
+    "name": "Supermarket",
+    "x": 313.5,
+    "y": 426.5
+  },
+  {
+    "id": "hospital",
+    "name": "Hospital",
+    "x": 544.4,
+    "y": 446.2
+  },
+  {
+    "id": "vice-beach-welcome-mural",
+    "name": "Vice Beach Welcome Mural",
+    "x": 556,
+    "y": 456.8
+  },
+  {
+    "id": "effluvia",
+    "name": "Effluvia",
+    "x": 558.6,
+    "y": 470
+  },
+  {
+    "id": "vice-beach-marina",
+    "name": "Vice Beach Marina",
+    "x": 554.4,
+    "y": 515.5
+  },
+  {
+    "id": "tennis-stadium",
+    "name": "Tennis Stadium",
+    "x": 502.3,
+    "y": 570.3
+  },
+  {
+    "id": "pegassi-residences-south-tower",
+    "name": "Pegassi Residences South Tower",
+    "x": 513.5,
+    "y": 545.8
+  },
+  {
+    "id": "pegassi-residences-north-tower",
+    "name": "Pegassi Residences North Tower",
+    "x": 512.1,
+    "y": 541.9
+  },
+  {
+    "id": "redwood-suites",
+    "name": "Redwood Suites",
+    "x": 512.7,
+    "y": 474.2
+  },
+  {
+    "id": "construction-site",
+    "name": "Construction Site",
+    "x": 510.6,
+    "y": 380.1
+  },
+  {
+    "id": "arrow-gas-station",
+    "name": "Arrow Gas Station",
+    "x": 502.5,
+    "y": 380.7
+  },
+  {
+    "id": "evergreen-mall",
+    "name": "Evergreen Mall",
+    "x": 501.6,
+    "y": 385.4
+  },
+  {
+    "id": "water-tower",
+    "name": "Water Tower",
+    "x": 482.4,
+    "y": 411.8
+  },
+  {
+    "id": "parking-lot",
+    "name": "Parking Lot",
+    "x": 487.4,
+    "y": 423.7
+  },
+  {
+    "id": "jack-of-hearts",
+    "name": "Jack of Hearts",
+    "x": 490.6,
+    "y": 474.7
+  },
+  {
+    "id": "park",
+    "name": "Park",
+    "x": 496.7,
+    "y": 469
+  },
+  {
+    "id": "archez",
+    "name": "Archez",
+    "x": 497,
+    "y": 458.3
+  },
+  {
+    "id": "crescent",
+    "name": "Crescent",
+    "x": 499.9,
+    "y": 472.1
+  },
+  {
+    "id": "archipelago-n",
+    "name": "Archipelago (N)",
+    "x": 497.4,
+    "y": 476.3
+  },
+  {
+    "id": "tennis-court",
+    "name": "Tennis court",
+    "x": 502,
+    "y": 475.5
+  },
+  {
+    "id": "gemini-tower",
+    "name": "Gemini Tower",
+    "x": 502.9,
+    "y": 482.5
+  },
+  {
+    "id": "the-sumerian",
+    "name": "The Sumerian",
+    "x": 503,
+    "y": 485.6
+  },
+  {
+    "id": "galina-ballet-opera-house",
+    "name": "Galina Ballet Opera House",
+    "x": 496.1,
+    "y": 489.3
+  },
+  {
+    "id": "sahara-arena",
+    "name": "Sahara Arena",
+    "x": 502.5,
+    "y": 498.6
+  },
+  {
+    "id": "the-celtica-hotel",
+    "name": "The Celtica Hotel",
+    "x": 496.4,
+    "y": 495.3
+  },
+  {
+    "id": "nine1nine",
+    "name": "NINE1NINE",
+    "x": 491,
+    "y": 497.4
+  },
+  {
+    "id": "venture-apts-north",
+    "name": "Venture Apts North",
+    "x": 470.6,
+    "y": 489.7
+  },
+  {
+    "id": "venture-apts-south",
+    "name": "Venture Apts South",
+    "x": 470.9,
+    "y": 492.2
+  },
+  {
+    "id": "7071-warren-thacker-manor",
+    "name": "7071 Warren Thacker Manor",
+    "x": 471.6,
+    "y": 486.4
+  },
+  {
+    "id": "lou-s",
+    "name": "Lou's",
+    "x": 471.4,
+    "y": 483.5
+  },
+  {
+    "id": "fleeca-field",
+    "name": "Fleeca Field",
+    "x": 461.8,
+    "y": 479.6
+  },
+  {
+    "id": "fleeca-field-metro-station",
+    "name": "Fleeca Field Metro Station",
+    "x": 464.1,
+    "y": 475.2
+  },
+  {
+    "id": "rockridge-neighborhood-service-center",
+    "name": "Rockridge Neighborhood Service Center",
+    "x": 469.1,
+    "y": 488.8
+  },
+  {
+    "id": "navaro-shipping-terminal",
+    "name": "Navaro Shipping Terminal",
+    "x": 468.2,
+    "y": 493.9
+  },
+  {
+    "id": "arcadia-towers-n",
+    "name": "Arcadia Towers (N)",
+    "x": 494.5,
+    "y": 508.2
+  },
+  {
+    "id": "megamundo",
+    "name": "Megamundo",
+    "x": 497.5,
+    "y": 521.2
+  },
+  {
+    "id": "el-gabeto-center",
+    "name": "El Gabeto Center",
+    "x": 476.6,
+    "y": 513.2
+  },
+  {
+    "id": "autograph-hangar-2",
+    "name": "Autograph Hangar 2",
+    "x": 433.6,
+    "y": 514.9
+  },
+  {
+    "id": "vcia-metro-mover-station",
+    "name": "VCIA Metro Mover Station",
+    "x": 463.4,
+    "y": 521.1
+  },
+  {
+    "id": "heath-tower",
+    "name": "Heath Tower",
+    "x": 486.9,
+    "y": 525.8
+  },
+  {
+    "id": "piker-financial-center",
+    "name": "Piker Financial Center",
+    "x": 496.6,
+    "y": 526.9
+  },
+  {
+    "id": "gico-huxley-hotels",
+    "name": "Gico? Huxley Hotels",
+    "x": 494.5,
+    "y": 529.7
+  },
+  {
+    "id": "shorefront",
+    "name": "ShoreFront",
+    "x": 499.7,
+    "y": 527.5
+  },
+  {
+    "id": "vice-tower",
+    "name": "Vice Tower",
+    "x": 488.8,
+    "y": 542.7
+  },
+  {
+    "id": "sahara-hq",
+    "name": "Sahara HQ",
+    "x": 487.3,
+    "y": 547.5
+  },
+  {
+    "id": "grand-majestic",
+    "name": "Grand Majestic",
+    "x": 478.7,
+    "y": 553.2
+  },
+  {
+    "id": "international-online-unlimited",
+    "name": "International Online Unlimited",
+    "x": 481.4,
+    "y": 555.1
+  },
+  {
+    "id": "stiltsville-bridge",
+    "name": "Stiltsville Bridge",
+    "x": 491.8,
+    "y": 613.6
+  },
+  {
+    "id": "fuzzard-power-station-n",
+    "name": "Fuzzard Power Station (N)",
+    "x": 463,
+    "y": 620.7
+  },
+  {
+    "id": "beacon",
+    "name": "Beacon",
+    "x": 430.3,
+    "y": 620.1
+  },
+  {
+    "id": "rattlers",
+    "name": "Rattlers",
+    "x": 432.4,
+    "y": 615.9
+  },
+  {
+    "id": "te-invito",
+    "name": "Te Invito",
+    "x": 431.7,
+    "y": 622.4
+  },
+  {
+    "id": "ltd-gas-station",
+    "name": "LTD Gas Station",
+    "x": 431.7,
+    "y": 625
+  },
+  {
+    "id": "hamlet-water-tower",
+    "name": "Hamlet Water Tower",
+    "x": 419.4,
+    "y": 608.9
+  },
+  {
+    "id": "sewage-treatment-plant",
+    "name": "Sewage Treatment Plant",
+    "x": 413.4,
+    "y": 598.7
+  },
+  {
+    "id": "radio-mast",
+    "name": "Radio Mast",
+    "x": 432.5,
+    "y": 585.3
+  },
+  {
+    "id": "sunrise-rv-park",
+    "name": "Sunrise RV Park",
+    "x": 403.4,
+    "y": 652.5
+  },
+  {
+    "id": "jason-s-house",
+    "name": "Jason's House",
+    "x": 438.5,
+    "y": 684.9
+  },
+  {
+    "id": "cell-tower",
+    "name": "Cell Tower",
+    "x": 406,
+    "y": 724.5
+  },
+  {
+    "id": "air-force-radar-station",
+    "name": "Air Force Radar Station",
+    "x": 377.3,
+    "y": 724.8
+  },
+  {
+    "id": "blimp",
+    "name": "Blimp",
+    "x": 373.5,
+    "y": 725.3
+  },
+  {
+    "id": "radio-tower",
+    "name": "Radio Tower",
+    "x": 315.6,
+    "y": 724.5
+  },
+  {
+    "id": "guard-booth",
+    "name": "Guard Booth",
+    "x": 311.9,
+    "y": 729.6
+  },
+  {
+    "id": "warehouse",
+    "name": "Warehouse",
+    "x": 365,
+    "y": 454.1
+  },
+  {
+    "id": "mod-shop",
+    "name": "Mod shop",
+    "x": 310.9,
+    "y": 430.9
+  },
+  {
+    "id": "gas-stop",
+    "name": "Gas Stop",
+    "x": 314.1,
+    "y": 425.3
+  },
+  {
+    "id": "bingo-hall",
+    "name": "Bingo Hall",
+    "x": 313,
+    "y": 423
+  },
+  {
+    "id": "police-station",
+    "name": "Police station",
+    "x": 318,
+    "y": 416.5
+  },
+  {
+    "id": "red-raccoon-diner",
+    "name": "Red Raccoon Diner",
+    "x": 309.6,
+    "y": 413.9
+  },
+  {
+    "id": "pawn-gun",
+    "name": "Pawn & Gun",
+    "x": 313.6,
+    "y": 406.8
+  },
+  {
+    "id": "lucky-plucker",
+    "name": "Lucky Plucker",
+    "x": 313.2,
+    "y": 404.5
+  },
+  {
+    "id": "port-gellhorn-smokestack",
+    "name": "Port Gellhorn Smokestack",
+    "x": 313.5,
+    "y": 405.4
+  },
+  {
+    "id": "taco-bomb",
+    "name": "Taco Bomb",
+    "x": 347.9,
+    "y": 402.7
+  },
+  {
+    "id": "starlet-motel-sign",
+    "name": "Starlet Motel Sign",
+    "x": 346,
+    "y": 402.2
+  },
+  {
+    "id": "alpha-gas-station",
+    "name": "Alpha Gas Station",
+    "x": 347.1,
+    "y": 400.5
+  },
+  {
+    "id": "easy-inn-motel",
+    "name": "Easy Inn Motel",
+    "x": 321.2,
+    "y": 375.4
+  },
+  {
+    "id": "hank-s-waffles",
+    "name": "Hank's Waffles",
+    "x": 318.6,
+    "y": 370.6
+  },
+  {
+    "id": "tank",
+    "name": "Tank",
+    "x": 316.4,
+    "y": 369.7
+  },
+  {
+    "id": "bridge",
+    "name": "Bridge",
+    "x": 326.6,
+    "y": 361.6
+  },
+  {
+    "id": "uncle-jack-s-liquor",
+    "name": "Uncle Jack's Liquor",
+    "x": 313.4,
+    "y": 391.2
+  },
+  {
+    "id": "schlott-construction",
+    "name": "Schlott Construction",
+    "x": 318.1,
+    "y": 372.4
+  },
+  {
+    "id": "car-wash",
+    "name": "Car Wash",
+    "x": 317.5,
+    "y": 375.1
+  },
+  {
+    "id": "bocamar-bridge",
+    "name": "Bocamar Bridge",
+    "x": 301.7,
+    "y": 369.4
+  },
+  {
+    "id": "dry-dock",
+    "name": "Dry Dock",
+    "x": 269.8,
+    "y": 366.4
+  },
+  {
+    "id": "container-crane-1",
+    "name": "Container Crane (1)",
+    "x": 263.8,
+    "y": 364.5
+  },
+  {
+    "id": "hotel-valetta",
+    "name": "Hotel Valetta",
+    "x": 568.1,
+    "y": 461.6
+  },
+  {
+    "id": "the-rusty-anchor",
+    "name": "The Rusty Anchor",
+    "x": 441,
+    "y": 676.3
+  },
+  {
+    "id": "brian-s-boat-works-marina",
+    "name": "Brian's Boat Works & Marina",
+    "x": 432.2,
+    "y": 695.1
+  },
+  {
+    "id": "key-lento-marina-club",
+    "name": "Key Lento Marina Club",
+    "x": 431.3,
+    "y": 692.7
+  },
+  {
+    "id": "wonder-whale",
+    "name": "Wonder Whale",
+    "x": 420.3,
+    "y": 712.6
+  },
+  {
+    "id": "marina",
+    "name": "Marina",
+    "x": 408.2,
+    "y": 719.8
+  },
+  {
+    "id": "hair-salon",
+    "name": "Hair salon",
+    "x": 411.3,
+    "y": 721.5
+  },
+  {
+    "id": "clothes-shop",
+    "name": "Clothes shop",
+    "x": 412.7,
+    "y": 720.4
+  },
+  {
+    "id": "24-7-supermarket",
+    "name": "24/7 Supermarket",
+    "x": 450.1,
+    "y": 678.7
+  },
+  {
+    "id": "vcia-control-tower",
+    "name": "VCIA Control Tower",
+    "x": 437.8,
+    "y": 536.2
+  },
+  {
+    "id": "three-toe-lake",
+    "name": "Three Toe Lake",
+    "x": 389,
+    "y": 523.3
+  },
+  {
+    "id": "burnout-scooters",
+    "name": "Burnout Scooters",
+    "x": 310.3,
+    "y": 408
+  },
+  {
+    "id": "watkins-auto-parts",
+    "name": "Watkins Auto Parts",
+    "x": 310.6,
+    "y": 409.6
+  },
+  {
+    "id": "mile-zero-air-station",
+    "name": "Mile Zero Air Station",
+    "x": 294.6,
+    "y": 712.1
+  },
+  {
+    "id": "mexican-restaurant",
+    "name": "Mexican Restaurant",
+    "x": 432,
+    "y": 620.1
+  },
+  {
+    "id": "sara-s-unisex-salon",
+    "name": "Sara's Unisex Salon",
+    "x": 432.2,
+    "y": 618.7
+  },
+  {
+    "id": "burger-shot",
+    "name": "Burger Shot",
+    "x": 432.3,
+    "y": 617.6
+  },
+  {
+    "id": "vinylism",
+    "name": "Vinylism",
+    "x": 432.3,
+    "y": 617.2
+  },
+  {
+    "id": "kurt-s-barber-shop",
+    "name": "Kurt's Barber Shop",
+    "x": 431.6,
+    "y": 623.1
+  },
+  {
+    "id": "treasured-trash",
+    "name": "Treasured Trash",
+    "x": 430.3,
+    "y": 624.4
+  },
+  {
+    "id": "lifeguard-tower",
+    "name": "Lifeguard Tower",
+    "x": 579.8,
+    "y": 514.1
+  },
+  {
+    "id": "pegassi-residences-west-tower",
+    "name": "Pegassi Residences West Tower",
+    "x": 507.2,
+    "y": 540.1
+  },
+  {
+    "id": "akio-hotel",
+    "name": "Akio Hotel",
+    "x": 500.4,
+    "y": 549.8
+  },
+  {
+    "id": "bite-house",
+    "name": "Bite House",
+    "x": 347.8,
+    "y": 617.9
+  },
+  {
+    "id": "sugar-mill",
+    "name": "Sugar Mill",
+    "x": 417.7,
+    "y": 407.4
+  },
+  {
+    "id": "silo",
+    "name": "Silo",
+    "x": 428.2,
+    "y": 390.9
+  },
+  {
+    "id": "tucker-s-tower",
+    "name": "Tucker's Tower",
+    "x": 386,
+    "y": 416.3
+  },
+  {
+    "id": "w-blanco-s-cuban-foods",
+    "name": "W. Blanco's Cuban Foods",
+    "x": 426.4,
+    "y": 378.5
+  },
+  {
+    "id": "xero-gas-station",
+    "name": "Xero Gas Station",
+    "x": 427.7,
+    "y": 381.4
+  },
+  {
+    "id": "jeudy-s-food-depot",
+    "name": "Jeudy's Food Depot",
+    "x": 483.4,
+    "y": 464.3
+  },
+  {
+    "id": "conch-king",
+    "name": "Conch King",
+    "x": 483.1,
+    "y": 464
+  },
+  {
+    "id": "pay-n-spray",
+    "name": "Pay 'n' Spray",
+    "x": 473,
+    "y": 474.9
+  },
+  {
+    "id": "simon-s-tires",
+    "name": "Simon's Tires",
+    "x": 477,
+    "y": 475.3
+  },
+  {
+    "id": "rivo-bridge",
+    "name": "Rivo Bridge",
+    "x": 508.7,
+    "y": 478.7
+  },
+  {
+    "id": "leaf-links-golf-club",
+    "name": "Leaf Links Golf Club",
+    "x": 534.3,
+    "y": 440.3
+  },
+  {
+    "id": "port-vice-city-tunnel",
+    "name": "Port Vice City Tunnel",
+    "x": 520.9,
+    "y": 504.3
+  },
+  {
+    "id": "palaestra-tower",
+    "name": "Palaestra Tower",
+    "x": 497.9,
+    "y": 490.8
+  },
+  {
+    "id": "dock-ring",
+    "name": "Dock Ring",
+    "x": 513,
+    "y": 507.7
+  },
+  {
+    "id": "v-rock-caf",
+    "name": "V-Rock Café",
+    "x": 509,
+    "y": 512.4
+  },
+  {
+    "id": "vice-city-arts-center-metro-station",
+    "name": "Vice City Arts Center Metro Station",
+    "x": 494.6,
+    "y": 488
+  },
+  {
+    "id": "presidential-bunker",
+    "name": "Presidential Bunker",
+    "x": 518.5,
+    "y": 347
+  },
+  {
+    "id": "underwater-research-station",
+    "name": "Underwater Research Station",
+    "x": 449.5,
+    "y": 720.3
+  },
+  {
+    "id": "what-s-cooking",
+    "name": "What's Cooking",
+    "x": 491.6,
+    "y": 472.5
+  },
+  {
+    "id": "vice-city-sign",
+    "name": "Vice City Sign",
+    "x": 394.2,
+    "y": 526.3
+  },
+  {
+    "id": "lake",
+    "name": "Lake",
+    "x": 504.4,
+    "y": 429.1
+  },
+  {
+    "id": "lombank",
+    "name": "Lombank",
+    "x": 567.1,
+    "y": 471.3
+  },
+  {
+    "id": "waste-transfer-services",
+    "name": "Waste Transfer Services",
+    "x": 438.5,
+    "y": 429.7
+  },
+  {
+    "id": "lucia-s-apartment",
+    "name": "Lucia's Apartment",
+    "x": 497.2,
+    "y": 473.9
+  },
+  {
+    "id": "allied-air-hangar",
+    "name": "Allied Air Hangar",
+    "x": 444.9,
+    "y": 528.8
+  },
+  {
+    "id": "glamour-clothing",
+    "name": "Glamour Clothing",
+    "x": 498.4,
+    "y": 459
+  },
+  {
+    "id": "goliath",
+    "name": "Goliath",
+    "x": 496,
+    "y": 461.3
+  },
+  {
+    "id": "panos-plaza",
+    "name": "Panos Plaza",
+    "x": 504.4,
+    "y": 490.5
+  },
+  {
+    "id": "going-spare",
+    "name": "Going Spare",
+    "x": 492.1,
+    "y": 465.9
+  },
+  {
+    "id": "shunters",
+    "name": "Shunters",
+    "x": 491.3,
+    "y": 467.3
+  },
+  {
+    "id": "kirkwood-distribution",
+    "name": "Kirkwood Distribution",
+    "x": 491,
+    "y": 469.1
+  },
+  {
+    "id": "ficroth-capital",
+    "name": "Ficroth Capital",
+    "x": 485.9,
+    "y": 549.7
+  },
+  {
+    "id": "house-b",
+    "name": "House B",
+    "x": 439.4,
+    "y": 685
+  },
+  {
+    "id": "house-c",
+    "name": "House C",
+    "x": 439.5,
+    "y": 683.8
+  },
+  {
+    "id": "house-d",
+    "name": "House D",
+    "x": 440.1,
+    "y": 683.1
+  },
+  {
+    "id": "hoodwinks-bar",
+    "name": "Hoodwinks Bar",
+    "x": 491.8,
+    "y": 475.3
+  },
+  {
+    "id": "thrillbilly-mud-club",
+    "name": "Thrillbilly Mud Club",
+    "x": 386.8,
+    "y": 363.4
+  },
+  {
+    "id": "buckme",
+    "name": "Buckme",
+    "x": 497.5,
+    "y": 517
+  },
+  {
+    "id": "mount-waffles",
+    "name": "Mount Waffles",
+    "x": 347.5,
+    "y": 337.7
+  },
+  {
+    "id": "mount-mountain",
+    "name": "Mount Mountain",
+    "x": 372.1,
+    "y": 346
   },
   {
     "id": "mount-kalaga",
-    "name": "Mount Kalaga National Park",
-    "x": 640,
-    "y": 130,
-    "kind": "region",
-    "official": true,
-    "placeholder_position": true
+    "name": "Mount Kalaga",
+    "x": 404.8,
+    "y": 312.9
   },
   {
-    "id": "mariana-leonard",
-    "name": "Mariana and Leonard counties",
-    "x": 700,
-    "y": 420,
-    "kind": "region",
-    "official": false,
-    "placeholder_position": true
+    "id": "easy-hill",
+    "name": "Easy Hill",
+    "x": 334.1,
+    "y": 388
   },
   {
-    "id": "area-balsero",
-    "name": "Balsero",
-    "x": 785,
-    "y": 640,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "refinery",
+    "name": "Refinery",
+    "x": 277.1,
+    "y": 348.7
   },
   {
-    "id": "area-bayside",
-    "name": "Bayside",
-    "x": 737,
-    "y": 660,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "factory",
+    "name": "Factory",
+    "x": 288.5,
+    "y": 356.4
   },
   {
-    "id": "area-bluegrass",
-    "name": "Bluegrass",
-    "x": 763,
-    "y": 603,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "church",
+    "name": "Church",
+    "x": 304.1,
+    "y": 390.4
   },
   {
-    "id": "area-crosstown",
-    "name": "Crosstown",
-    "x": 786,
-    "y": 674,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "port-gellhorn-train-station",
+    "name": "Port Gellhorn Train Station",
+    "x": 305.7,
+    "y": 398.8
   },
   {
-    "id": "area-dalton-island",
-    "name": "Dalton Island",
-    "x": 711,
-    "y": 631,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "vice-city-pawn",
+    "name": "Vice City Pawn",
+    "x": 491.4,
+    "y": 475.7
   },
   {
-    "id": "area-decor-district",
-    "name": "Decor District",
-    "x": 806,
-    "y": 610,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "tequesta-retreat-bridge",
+    "name": "Tequesta Retreat Bridge",
+    "x": 497.6,
+    "y": 546.3
   },
   {
-    "id": "area-downtown",
-    "name": "Downtown",
-    "x": 744,
-    "y": 698,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "watson-bay-water-tower",
+    "name": "Watson Bay Water Tower",
+    "x": 357,
+    "y": 614.5
   },
   {
-    "id": "area-hamlet",
-    "name": "Hamlet",
-    "x": 729,
-    "y": 580,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "evergreen-mall-sign",
+    "name": "Evergreen Mall Sign",
+    "x": 494.6,
+    "y": 384.8
   },
   {
-    "id": "area-la-perle",
-    "name": "La Perle",
-    "x": 783,
-    "y": 648,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "j-c-anglin-united-states-courthouse",
+    "name": "J.C. Anglin United States Courthouse",
+    "x": 490.5,
+    "y": 487.7
   },
   {
-    "id": "area-little-cuba",
-    "name": "Little Cuba",
-    "x": 731,
-    "y": 651,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "the-vault",
+    "name": "The Vault",
+    "x": 487.8,
+    "y": 497.6
   },
   {
-    "id": "area-ocean-beach",
-    "name": "Ocean Beach",
-    "x": 775,
-    "y": 606,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "x-hotel",
+    "name": "X Hotel",
+    "x": 457.2,
+    "y": 527.8
   },
   {
-    "id": "area-penmarch-isle",
-    "name": "Penmarch Isle",
-    "x": 772,
-    "y": 681,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "clarissa-hotel",
+    "name": "Clarissa Hotel",
+    "x": 503.5,
+    "y": 527.6
   },
   {
-    "id": "area-port-vc",
-    "name": "Port VC",
-    "x": 717,
-    "y": 615,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "parking-garage",
+    "name": "Parking Garage",
+    "x": 489.7,
+    "y": 508.6
   },
   {
-    "id": "area-salton",
-    "name": "Salton",
-    "x": 813,
-    "y": 628,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "ambrosia-raceway-park",
+    "name": "Ambrosia Raceway Park",
+    "x": 418.9,
+    "y": 366.9
   },
   {
-    "id": "area-southside",
-    "name": "Southside",
-    "x": 724,
-    "y": 689,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "ambrosia-station",
+    "name": "Ambrosia Station",
+    "x": 440.6,
+    "y": 395.9
   },
   {
-    "id": "area-tequesta",
-    "name": "Tequesta",
-    "x": 751,
-    "y": 573,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "repair-salvage",
+    "name": "Repair & Salvage",
+    "x": 302.2,
+    "y": 395.7
   },
   {
-    "id": "area-tequesta-retreat",
-    "name": "Tequesta Retreat",
-    "x": 779,
-    "y": 656,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "train-bridge",
+    "name": "Train Bridge",
+    "x": 289.3,
+    "y": 375.9
   },
   {
-    "id": "area-vcia",
-    "name": "VCIA",
-    "x": 729,
-    "y": 641,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "vice-pass",
+    "name": "Vice Pass",
+    "x": 515.6,
+    "y": 476.6
   },
   {
-    "id": "area-vcia-terminals",
-    "name": "VCIA Terminals",
-    "x": 786,
-    "y": 613,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "kington-hotel",
+    "name": "Kington Hotel",
+    "x": 571.7,
+    "y": 491.5
   },
   {
-    "id": "area-washington-beach",
-    "name": "Washington Beach",
-    "x": 758,
-    "y": 682,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "metro-station",
+    "name": "Metro Station",
+    "x": 490.1,
+    "y": 481
   },
   {
-    "id": "area-south-vice-dale-county",
-    "name": "South Vice-Dale County",
-    "x": 728,
-    "y": 602,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "crossroad-park-minimall",
+    "name": "Crossroad Park Minimall",
+    "x": 314,
+    "y": 389.2
   },
   {
-    "id": "area-west-vice-dale-county",
-    "name": "West Vice-Dale County",
-    "x": 814,
-    "y": 647,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "grassrivers-visitor-center",
+    "name": "Grassrivers Visitor Center",
+    "x": 428.5,
+    "y": 660.6
   },
   {
-    "id": "area-starfish-island",
-    "name": "Starfish Island",
-    "x": 709,
-    "y": 674,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "delights",
+    "name": "Delights",
+    "x": 313.2,
+    "y": 399.8
   },
   {
-    "id": "area-belville",
-    "name": "Belville",
-    "x": 774,
-    "y": 574,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "tequesta-retreat-park",
+    "name": "Tequesta Retreat Park",
+    "x": 501,
+    "y": 552.7
   },
   {
-    "id": "area-capri",
-    "name": "Capri",
-    "x": 772,
-    "y": 661,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "spaceship-house",
+    "name": "Spaceship House",
+    "x": 336,
+    "y": 298.2
   },
   {
-    "id": "area-vespucci-island",
-    "name": "Vespucci Island",
-    "x": 730,
-    "y": 630,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "vice-river",
+    "name": "Vice River",
+    "x": 472.4,
+    "y": 519
   },
   {
-    "id": "area-key-lento",
-    "name": "Key Lento",
-    "x": 585,
-    "y": 910,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "transformer-station",
+    "name": "Transformer Station",
+    "x": 309.4,
+    "y": 402.2
   },
   {
-    "id": "area-abismo-key",
-    "name": "Abismo Key",
-    "x": 537,
-    "y": 930,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "the-amalfi",
+    "name": "The Amalfi",
+    "x": 575.4,
+    "y": 480.4
   },
   {
-    "id": "area-corsair-key",
-    "name": "Corsair Key",
-    "x": 563,
-    "y": 873,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "shoreline-market",
+    "name": "Shoreline Market",
+    "x": 503.1,
+    "y": 507
   },
   {
-    "id": "area-breakwater-quarry",
-    "name": "Breakwater Quarry",
-    "x": 586,
-    "y": 944,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "cipher-mall",
+    "name": "Cipher Mall",
+    "x": 469.6,
+    "y": 487.5
   },
   {
-    "id": "area-mile-zero-air-station",
-    "name": "Mile Zero Air Station",
-    "x": 511,
-    "y": 901,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "gas-station",
+    "name": "Gas Station",
+    "x": 509.5,
+    "y": 451.7
   },
   {
-    "id": "area-permit-keys",
-    "name": "Permit Keys",
-    "x": 606,
-    "y": 880,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "chariot-empire-suites",
+    "name": "Chariot Empire Suites",
+    "x": 497.2,
+    "y": 515
   },
   {
-    "id": "area-riquezas-key",
-    "name": "Riquezas Key",
-    "x": 544,
-    "y": 968,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "main-prison-building",
+    "name": "Main Prison Building",
+    "x": 419.1,
+    "y": 600.9
   },
   {
-    "id": "area-grassrivers-wetlands",
-    "name": "Grassrivers (wetlands)",
-    "x": 525,
-    "y": 650,
-    "kind": "sub_area",
-    "region": "grassrivers",
-    "placeholder_position": true
+    "id": "container-crane-9",
+    "name": "Container Crane #9",
+    "x": 544.8,
+    "y": 519.5
   },
   {
-    "id": "area-north-mariana-county",
-    "name": "North Mariana County",
-    "x": 725,
-    "y": 420,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "container-crane-8",
+    "name": "Container Crane #8",
+    "x": 547.7,
+    "y": 522
   },
   {
-    "id": "area-belpoint",
-    "name": "Belpoint",
-    "x": 677,
-    "y": 440,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "container-crane-7",
+    "name": "Container Crane #7",
+    "x": 550.8,
+    "y": 524.7
   },
   {
-    "id": "area-watson-bay",
-    "name": "Watson Bay",
-    "x": 703,
-    "y": 383,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "container-crane-6",
+    "name": "Container Crane #6",
+    "x": 554.2,
+    "y": 527.4
   },
   {
-    "id": "area-mount-hailes-country-club",
-    "name": "Mount Hailes Country Club",
-    "x": 726,
-    "y": 454,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "container-crane-5",
+    "name": "Container Crane #5",
+    "x": 558.4,
+    "y": 530.8
   },
   {
-    "id": "area-north-leonard-county",
-    "name": "North Leonard County",
-    "x": 651,
-    "y": 411,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "container-crane-4",
+    "name": "Container Crane #4",
+    "x": 554.6,
+    "y": 535.2
   },
   {
-    "id": "area-south-leonard-county",
-    "name": "South Leonard County",
-    "x": 746,
-    "y": 390,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "container-crane-3",
+    "name": "Container Crane #3",
+    "x": 551.4,
+    "y": 536
   },
   {
-    "id": "area-richard-barebone-national-park",
-    "name": "Richard Barebone National Park",
-    "x": 684,
-    "y": 478,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "container-crane-2",
+    "name": "Container Crane #2",
+    "x": 546.6,
+    "y": 536.9
   },
   {
-    "id": "area-waning-sands",
-    "name": "Waning Sands",
-    "x": 669,
-    "y": 360,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "status-auto-resort",
+    "name": "Status Auto Resort",
+    "x": 494.9,
+    "y": 466.2
   },
   {
-    "id": "area-ambrosia",
-    "name": "Ambrosia",
-    "x": 445,
-    "y": 320,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "judith-s",
+    "name": "Judith's",
+    "x": 456.1,
+    "y": 527.1
   },
   {
-    "id": "area-port-gellhorn",
-    "name": "Port Gellhorn",
-    "x": 157,
-    "y": 350,
-    "kind": "sub_area",
-    "region": "port-gellhorn",
-    "placeholder_position": true
+    "id": "arcadia-towers-s",
+    "name": "Arcadia Towers (S)",
+    "x": 492.6,
+    "y": 509.5
   },
   {
-    "id": "area-gellhorn",
-    "name": "Gellhorn",
-    "x": 183,
-    "y": 293,
-    "kind": "sub_area",
-    "region": "port-gellhorn",
-    "placeholder_position": true
+    "id": "autograph-hangar-1",
+    "name": "Autograph Hangar 1",
+    "x": 430.6,
+    "y": 514.3
   },
   {
-    "id": "area-draper-island",
-    "name": "Draper Island",
-    "x": 206,
-    "y": 364,
-    "kind": "sub_area",
-    "region": "port-gellhorn",
-    "placeholder_position": true
+    "id": "break-inn",
+    "name": "Break Inn",
+    "x": 497.1,
+    "y": 502.1
   },
   {
-    "id": "area-emerald-springs",
-    "name": "Emerald Springs",
-    "x": 371,
-    "y": 311,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "submerged-tank",
+    "name": "Submerged Tank",
+    "x": 592,
+    "y": 446.5
   },
   {
-    "id": "area-frogswater",
-    "name": "Frogswater",
-    "x": 226,
-    "y": 300,
-    "kind": "sub_area",
-    "region": "port-gellhorn",
-    "placeholder_position": true
+    "id": "archipelago-s",
+    "name": "Archipelago (S)",
+    "x": 498.6,
+    "y": 476.7
   },
   {
-    "id": "area-manifest-canyon",
-    "name": "Manifest Canyon",
-    "x": 404,
-    "y": 378,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "calle-creativa",
+    "name": "Calle Creativa",
+    "x": 475.6,
+    "y": 508.5
   },
   {
-    "id": "area-north-kelly-county",
-    "name": "North Kelly County",
-    "x": 389,
-    "y": 260,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "temple-park",
+    "name": "Temple Park",
+    "x": 481.9,
+    "y": 538.3
   },
   {
-    "id": "area-south-kelly-county",
-    "name": "South Kelly County",
-    "x": 443,
-    "y": 328,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "donovan-roeder-jr-community-center",
+    "name": "Donovan Roeder Jr. Community Center",
+    "x": 446.3,
+    "y": 679.5
   },
   {
-    "id": "area-thrillbilly-mud-club",
-    "name": "Thrillbilly Mud Club",
-    "x": 391,
-    "y": 331,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "train-tunnel",
+    "name": "Train Tunnel",
+    "x": 344,
+    "y": 347.3
   },
   {
-    "id": "area-wild-hog-point",
-    "name": "Wild Hog Point",
-    "x": 195,
-    "y": 296,
-    "kind": "sub_area",
-    "region": "port-gellhorn",
-    "placeholder_position": true
+    "id": "water-tank",
+    "name": "Water Tank",
+    "x": 302.8,
+    "y": 392.4
   },
   {
-    "id": "area-bonanza",
-    "name": "Bonanza",
-    "x": 432,
-    "y": 361,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "soccer-field",
+    "name": "Soccer Field",
+    "x": 297.9,
+    "y": 397.9
   },
   {
-    "id": "area-dawson-dam",
-    "name": "Dawson Dam",
-    "x": 377,
-    "y": 295,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "guardhouse",
+    "name": "Guardhouse",
+    "x": 312.6,
+    "y": 431.1
   },
   {
-    "id": "area-grayson",
-    "name": "Grayson",
-    "x": 473,
-    "y": 308,
-    "kind": "sub_area",
-    "region": "ambrosia",
-    "placeholder_position": true
+    "id": "shoreline-park",
+    "name": "Shoreline Park",
+    "x": 501.9,
+    "y": 516.8
   },
   {
-    "id": "area-kalaga-national-park",
-    "name": "Kalaga National Park",
-    "x": 665,
-    "y": 130,
-    "kind": "sub_area",
-    "region": "mount-kalaga",
-    "placeholder_position": true
+    "id": "control-tower",
+    "name": "Control Tower",
+    "x": 303.6,
+    "y": 715.2
   },
   {
-    "id": "area-macalister-gold-mine",
+    "id": "radar-tower",
+    "name": "Radar Tower",
+    "x": 302.6,
+    "y": 711.6
+  },
+  {
+    "id": "hangar",
+    "name": "Hangar",
+    "x": 305,
+    "y": 710.3
+  },
+  {
+    "id": "weather-radar",
+    "name": "Weather Radar",
+    "x": 301.9,
+    "y": 709.5
+  },
+  {
+    "id": "ambrosia-police-department",
+    "name": "Ambrosia Police Department",
+    "x": 423.3,
+    "y": 378.7
+  },
+  {
+    "id": "giant-fish-building",
+    "name": "Giant Fish Building",
+    "x": 454.5,
+    "y": 277.6
+  },
+  {
+    "id": "watson-island-sea-port",
+    "name": "Watson Island Sea Port",
+    "x": 517.7,
+    "y": 506.3
+  },
+  {
+    "id": "domed-hills",
+    "name": "Domed Hills",
+    "x": 371.4,
+    "y": 316.5
+  },
+  {
+    "id": "cal-s-house",
+    "name": "Cal's House",
+    "x": 418.8,
+    "y": 720.3
+  },
+  {
+    "id": "hamilton-private-health-clinic",
+    "name": "Hamilton Private Health Clinic",
+    "x": 449.5,
+    "y": 674.8
+  },
+  {
+    "id": "fuzzard-power-station-s",
+    "name": "Fuzzard Power Station (S)",
+    "x": 463,
+    "y": 622.7
+  },
+  {
+    "id": "fuzzard-power-station-1",
+    "name": "Fuzzard Power Station (1)",
+    "x": 465.5,
+    "y": 627.5
+  },
+  {
+    "id": "fuzzard-power-station-2",
+    "name": "Fuzzard Power Station (2)",
+    "x": 465.4,
+    "y": 628.6
+  },
+  {
+    "id": "fuzzard-power-station-3",
+    "name": "Fuzzard Power Station (3)",
+    "x": 465.4,
+    "y": 630.1
+  },
+  {
+    "id": "sculpture",
+    "name": "Sculpture",
+    "x": 502.6,
+    "y": 522.8
+  },
+  {
+    "id": "outdoor-movie-screen",
+    "name": "Outdoor Movie Screen",
+    "x": 362.9,
+    "y": 619.7
+  },
+  {
+    "id": "river",
+    "name": "River",
+    "x": 376.5,
+    "y": 281
+  },
+  {
+    "id": "vice-city-hall",
+    "name": "Vice City Hall",
+    "x": 482.2,
+    "y": 580.6
+  },
+  {
+    "id": "empty-lot",
+    "name": "Empty Lot",
+    "x": 492.4,
+    "y": 482.1
+  },
+  {
+    "id": "limit-hq",
+    "name": "Limit HQ",
+    "x": 484.3,
+    "y": 516.6
+  },
+  {
+    "id": "prison-tower-1",
+    "name": "Prison Tower (1)",
+    "x": 421,
+    "y": 597.4
+  },
+  {
+    "id": "prison-tower-2",
+    "name": "Prison Tower (2)",
+    "x": 426.1,
+    "y": 598.2
+  },
+  {
+    "id": "prison-tower-3",
+    "name": "Prison Tower (3)",
+    "x": 430.4,
+    "y": 600.7
+  },
+  {
+    "id": "prison-tower-4",
+    "name": "Prison Tower (4)",
+    "x": 428.9,
+    "y": 603
+  },
+  {
+    "id": "prison-tower-5",
+    "name": "Prison Tower (5)",
+    "x": 420.7,
+    "y": 603.6
+  },
+  {
+    "id": "prison-tower-6",
+    "name": "Prison Tower (6)",
+    "x": 417.8,
+    "y": 600.3
+  },
+  {
+    "id": "office-building",
+    "name": "Office Building",
+    "x": 425.2,
+    "y": 387.8
+  },
+  {
+    "id": "football-stadium",
+    "name": "Football Stadium",
+    "x": 412.4,
+    "y": 374.9
+  },
+  {
+    "id": "mason-s-shrimp-shack",
+    "name": "Mason's Shrimp Shack",
+    "x": 307.8,
+    "y": 376.7
+  },
+  {
+    "id": "pier",
+    "name": "Pier",
+    "x": 305.7,
+    "y": 404
+  },
+  {
+    "id": "juice-fruit-sign",
+    "name": "Juice Fruit Sign",
+    "x": 306.9,
+    "y": 398.1
+  },
+  {
+    "id": "welcome-to-port-gellhorn-sign",
+    "name": "Welcome to Port Gellhorn Sign",
+    "x": 315.3,
+    "y": 422.9
+  },
+  {
+    "id": "wasteland-off-road",
+    "name": "Wasteland Off-Road",
+    "x": 315.9,
+    "y": 380
+  },
+  {
+    "id": "cafe-carraway",
+    "name": "Cafe Carraway",
+    "x": 484.2,
+    "y": 545.6
+  },
+  {
+    "id": "canal",
+    "name": "Canal",
+    "x": 297.9,
+    "y": 392.6
+  },
+  {
+    "id": "macalister-gold-mine",
     "name": "MacAlister Gold Mine",
-    "x": 617,
-    "y": 150,
-    "kind": "sub_area",
-    "region": "mount-kalaga",
-    "placeholder_position": true
+    "x": 383.4,
+    "y": 295
   },
   {
-    "id": "area-millport",
-    "name": "Millport",
-    "x": 643,
-    "y": 93,
-    "kind": "sub_area",
-    "region": "mount-kalaga",
-    "placeholder_position": true
+    "id": "lake-leonida",
+    "name": "Lake Leonida",
+    "x": 450.3,
+    "y": 364.1
   },
   {
-    "id": "area-moreau",
-    "name": "Moreau",
-    "x": 666,
-    "y": 164,
-    "kind": "sub_area",
-    "region": "mount-kalaga",
-    "placeholder_position": true
+    "id": "tisha-wocka-flea-market",
+    "name": "Tisha-Wocka Flea Market",
+    "x": 424.9,
+    "y": 489.6
   },
   {
-    "id": "area-kalaga-reservoir",
+    "id": "mariana-island",
+    "name": "Mariana Island",
+    "x": 283.9,
+    "y": 634.2
+  },
+  {
+    "id": "pawn-shop",
+    "name": "Pawn Shop",
+    "x": 466.7,
+    "y": 530.9
+  },
+  {
+    "id": "muscle-sands",
+    "name": "Muscle Sands",
+    "x": 575.2,
+    "y": 499.9
+  },
+  {
+    "id": "yellow-house",
+    "name": "Yellow House",
+    "x": 442.7,
+    "y": 683
+  },
+  {
+    "id": "mandy-s-house",
+    "name": "Mandy's House",
+    "x": 442.9,
+    "y": 682.6
+  },
+  {
+    "id": "white-house",
+    "name": "White House",
+    "x": 443.2,
+    "y": 682.2
+  },
+  {
+    "id": "wholesale-furniture-outlet",
+    "name": "Wholesale Furniture Outlet",
+    "x": 463.3,
+    "y": 563
+  },
+  {
+    "id": "cospace",
+    "name": "Cospace",
+    "x": 496.3,
+    "y": 486.5
+  },
+  {
+    "id": "catalan-boulevard-bridge",
+    "name": "Catalan Boulevard Bridge",
+    "x": 496.4,
+    "y": 533.3
+  },
+  {
+    "id": "trailer-park",
+    "name": "Trailer Park",
+    "x": 300.1,
+    "y": 388.3
+  },
+  {
+    "id": "underwater-ruins",
+    "name": "Underwater Ruins",
+    "x": 528.6,
+    "y": 594.8
+  },
+  {
+    "id": "capri-city-jackals-stadium",
+    "name": "Capri City Jackals Stadium",
+    "x": 311.7,
+    "y": 518.6
+  },
+  {
+    "id": "sugar-fields",
+    "name": "Sugar Fields",
+    "x": 449.9,
+    "y": 404.6
+  },
+  {
+    "id": "corkscrew-hill",
+    "name": "Corkscrew Hill",
+    "x": 324.9,
+    "y": 443
+  },
+  {
+    "id": "phil-s-ammu-nation",
+    "name": "Phil's Ammu-Nation",
+    "x": 455.4,
+    "y": 589
+  },
+  {
+    "id": "ammu-nation",
+    "name": "Ammu-Nation",
+    "x": 473.2,
+    "y": 492
+  },
+  {
+    "id": "bus-parking-lot",
+    "name": "Bus Parking Lot",
+    "x": 462.8,
+    "y": 532.5
+  },
+  {
+    "id": "bite",
+    "name": "Bite",
+    "x": 469,
+    "y": 487.6
+  },
+  {
+    "id": "bump-grind",
+    "name": "Bump & Grind",
+    "x": 468.9,
+    "y": 487.1
+  },
+  {
+    "id": "harmon-fenix",
+    "name": "Harmon & Fenix",
+    "x": 469.2,
+    "y": 486.9
+  },
+  {
+    "id": "core-software",
+    "name": "Core Software",
+    "x": 469.5,
+    "y": 486.9
+  },
+  {
+    "id": "happy-nails",
+    "name": "Happy Nails",
+    "x": 313.4,
+    "y": 391.4
+  },
+  {
+    "id": "wet-wild-pet-store",
+    "name": "Wet & Wild Pet Store",
+    "x": 313.4,
+    "y": 390.9
+  },
+  {
+    "id": "game-horde",
+    "name": "Game Horde",
+    "x": 313.4,
+    "y": 390.7
+  },
+  {
+    "id": "marco-wholesale-footwear",
+    "name": "Marco Wholesale Footwear",
+    "x": 497.3,
+    "y": 458.6
+  },
+  {
+    "id": "autograph-flight-support-building",
+    "name": "Autograph Flight Support Building",
+    "x": 436.2,
+    "y": 515.5
+  },
+  {
+    "id": "main-gate",
+    "name": "Main Gate",
+    "x": 428.2,
+    "y": 603.5
+  },
+  {
+    "id": "sandeep-plaza",
+    "name": "Sandeep Plaza",
+    "x": 567.4,
+    "y": 469.5
+  },
+  {
+    "id": "pool",
+    "name": "Pool",
+    "x": 346.1,
+    "y": 403.7
+  },
+  {
+    "id": "lake-bonner",
+    "name": "Lake Bonner",
+    "x": 513.5,
+    "y": 402.3
+  },
+  {
+    "id": "whiz",
+    "name": "Whiz",
+    "x": 442.5,
+    "y": 614.7
+  },
+  {
+    "id": "tequesta-station",
+    "name": "Tequesta Station",
+    "x": 483.9,
+    "y": 549.9
+  },
+  {
+    "id": "metromover-station",
+    "name": "Metromover station",
+    "x": 444.8,
+    "y": 536.3
+  },
+  {
+    "id": "autograph",
+    "name": "Autograph",
+    "x": 428.2,
+    "y": 514.6
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "x": 422.6,
+    "y": 520.5
+  },
+  {
+    "id": "vice-beach-police-department",
+    "name": "Vice Beach Police Department",
+    "x": 558.7,
+    "y": 499.5
+  },
+  {
+    "id": "golf-carts",
+    "name": "Golf Carts",
+    "x": 303.1,
+    "y": 435
+  },
+  {
+    "id": "marbles",
+    "name": "Marbles",
+    "x": 449.2,
+    "y": 678.9
+  },
+  {
+    "id": "liquor-store",
+    "name": "Liquor Store",
+    "x": 491.4,
+    "y": 474.2
+  },
+  {
+    "id": "boat-ramp",
+    "name": "Boat Ramp",
+    "x": 432.2,
+    "y": 353.6
+  },
+  {
+    "id": "intersection",
+    "name": "Intersection",
+    "x": 440.3,
+    "y": 685.5
+  },
+  {
+    "id": "baseball-field",
+    "name": "Baseball Field",
+    "x": 408.6,
+    "y": 381.6
+  },
+  {
+    "id": "star-island-bridge",
+    "name": "Star Island Bridge",
+    "x": 533.2,
+    "y": 506.2
+  },
+  {
+    "id": "maple-syrup-hill",
+    "name": "Maple Syrup Hill",
+    "x": 346.4,
+    "y": 314.6
+  },
+  {
+    "id": "manifest-canyon",
+    "name": "Manifest Canyon",
+    "x": 356.1,
+    "y": 351.8
+  },
+  {
+    "id": "prison-building",
+    "name": "Prison Building",
+    "x": 419.5,
+    "y": 599.2
+  },
+  {
+    "id": "banner-hotel-spa",
+    "name": "Banner Hotel & Spa",
+    "x": 459.1,
+    "y": 537.4
+  },
+  {
+    "id": "fuzzard-drain-canal",
+    "name": "Fuzzard Drain Canal",
+    "x": 447.8,
+    "y": 594.8
+  },
+  {
+    "id": "lighthouse",
+    "name": "Lighthouse",
+    "x": 499.5,
+    "y": 601.1
+  },
+  {
+    "id": "euroform-automotive",
+    "name": "Euroform Automotive",
+    "x": 475.9,
+    "y": 515.9
+  },
+  {
+    "id": "p",
+    "name": "P",
+    "x": 556.8,
+    "y": 455
+  },
+  {
+    "id": "piano",
+    "name": "Piano",
+    "x": 515.5,
+    "y": 463.2
+  },
+  {
+    "id": "162-s",
+    "name": "162°S",
+    "x": 503.5,
+    "y": 453
+  },
+  {
+    "id": "bohemia",
+    "name": "Bohemia",
+    "x": 500.4,
+    "y": 457.8
+  },
+  {
+    "id": "chip-s-body-shop",
+    "name": "Chip's Body Shop",
+    "x": 419,
+    "y": 713.9
+  },
+  {
+    "id": "peewees",
+    "name": "Peewees",
+    "x": 460.4,
+    "y": 586.2
+  },
+  {
+    "id": "gellhorn-roadhouse",
+    "name": "Gellhorn Roadhouse",
+    "x": 315.9,
+    "y": 389.7
+  },
+  {
+    "id": "airfield",
+    "name": "Airfield",
+    "x": 379.6,
+    "y": 384.8
+  },
+  {
+    "id": "escher-bridge",
+    "name": "Escher Bridge",
+    "x": 426.7,
+    "y": 336.2
+  },
+  {
+    "id": "bus-stop",
+    "name": "Bus Stop",
+    "x": 570.3,
+    "y": 461.2
+  },
+  {
+    "id": "brian-s-marina-workshop",
+    "name": "Brian's Marina Workshop",
+    "x": 432.2,
+    "y": 696.8
+  },
+  {
+    "id": "gellhorn-roadhouse-sign",
+    "name": "Gellhorn Roadhouse Sign",
+    "x": 315.5,
+    "y": 389.4
+  },
+  {
+    "id": "vake-island",
+    "name": "Vake Island",
+    "x": 399.3,
+    "y": 759.8
+  },
+  {
+    "id": "national-coast-guard",
+    "name": "National Coast Guard",
+    "x": 546.2,
+    "y": 512.7
+  },
+  {
+    "id": "tunnel-entrance",
+    "name": "Tunnel Entrance",
+    "x": 528,
+    "y": 532.3
+  },
+  {
+    "id": "electric-fang-tattoo",
+    "name": "Electric Fang Tattoo",
+    "x": 500.2,
+    "y": 454.5
+  },
+  {
+    "id": "stock-305",
+    "name": "Stock 305",
+    "x": 501.7,
+    "y": 456.8
+  },
+  {
+    "id": "ptt-youngin-illegal-goods-store",
+    "name": "PTT YOUNGIN$ Illegal Goods Store",
+    "x": 458.4,
+    "y": 569.1
+  },
+  {
+    "id": "paradise-garage",
+    "name": "Paradise Garage",
+    "x": 384.3,
+    "y": 587.8
+  },
+  {
+    "id": "fake-tunnel-mural",
+    "name": "Fake Tunnel Mural",
+    "x": 505.7,
+    "y": 444.6
+  },
+  {
+    "id": "big-house",
+    "name": "Big House",
+    "x": 492.8,
+    "y": 489.7
+  },
+  {
+    "id": "turn-16",
+    "name": "Turn 16",
+    "x": 329.1,
+    "y": 443.8
+  },
+  {
+    "id": "turn-18",
+    "name": "Turn 18",
+    "x": 334.7,
+    "y": 430.5
+  },
+  {
+    "id": "turn-20",
+    "name": "Turn 20",
+    "x": 320.8,
+    "y": 442.7
+  },
+  {
+    "id": "turn-32",
+    "name": "Turn 32",
+    "x": 301.3,
+    "y": 477.7
+  },
+  {
+    "id": "mount-leonida",
+    "name": "Mount Leonida",
+    "x": 432,
+    "y": 315.2
+  },
+  {
+    "id": "tortoise-lake",
+    "name": "Tortoise Lake",
+    "x": 308.6,
+    "y": 501.3
+  },
+  {
+    "id": "hobbs-milford",
+    "name": "Hobbs Milford",
+    "x": 557.7,
+    "y": 456.9
+  },
+  {
+    "id": "gulf-of-leonida",
+    "name": "Gulf of Leonida",
+    "x": 204.7,
+    "y": 473.9
+  },
+  {
+    "id": "atlantic-ocean",
+    "name": "Atlantic Ocean",
+    "x": 610.4,
+    "y": 474.3
+  },
+  {
+    "id": "leonida-straits",
+    "name": "Leonida Straits",
+    "x": 430.5,
+    "y": 762
+  },
+  {
+    "id": "dudz-island",
+    "name": "Dudz Island",
+    "x": 324,
+    "y": 664.4
+  },
+  {
+    "id": "henry-j-edwards-airport",
+    "name": "Henry J Edwards Airport",
+    "x": 327.3,
+    "y": 589.2
+  },
+  {
+    "id": "southpoint-airfield",
+    "name": "Southpoint Airfield",
+    "x": 425.2,
+    "y": 650.2
+  },
+  {
+    "id": "dawson-dam",
+    "name": "Dawson Dam",
+    "x": 422.1,
+    "y": 298.7
+  },
+  {
+    "id": "sundown-private-airfield",
+    "name": "Sundown Private Airfield",
+    "x": 486.5,
+    "y": 375.8
+  },
+  {
+    "id": "racetrack",
+    "name": "Racetrack",
+    "x": 501.6,
+    "y": 357.6
+  },
+  {
+    "id": "boone-speedway",
+    "name": "Boone Speedway",
+    "x": 415.4,
+    "y": 617.5
+  },
+  {
+    "id": "strip-mall",
+    "name": "Strip Mall",
+    "x": 460,
+    "y": 577.2
+  },
+  {
+    "id": "baller-dealership",
+    "name": "Baller Dealership",
+    "x": 462.5,
+    "y": 584.8
+  },
+  {
+    "id": "juicy-joes",
+    "name": "Juicy Joes",
+    "x": 450.6,
+    "y": 582.5
+  },
+  {
+    "id": "gator-plaza",
+    "name": "Gator Plaza",
+    "x": 454.9,
+    "y": 588.4
+  },
+  {
+    "id": "marlin-motors",
+    "name": "Marlin Motors",
+    "x": 461,
+    "y": 566.7
+  },
+  {
+    "id": "wlc-community-centre",
+    "name": "WLC Community Centre",
+    "x": 446.4,
+    "y": 574.6
+  },
+  {
+    "id": "railyard",
+    "name": "Railyard",
+    "x": 443.2,
+    "y": 490.1
+  },
+  {
+    "id": "vice-city-casino-racetrack",
+    "name": "Vice City Casino Racetrack",
+    "x": 506.9,
+    "y": 418.6
+  },
+  {
+    "id": "motorcycle-customs-shop",
+    "name": "Motorcycle Customs Shop",
+    "x": 447.5,
+    "y": 577.9
+  },
+  {
+    "id": "mattress-madness",
+    "name": "Mattress Madness",
+    "x": 448.3,
+    "y": 581
+  },
+  {
+    "id": "vapid-dealership",
+    "name": "Vapid Dealership",
+    "x": 449.9,
+    "y": 585.1
+  },
+  {
+    "id": "welcome-sign",
+    "name": "Welcome Sign",
+    "x": 309.9,
+    "y": 522.7
+  },
+  {
+    "id": "spender-s",
+    "name": "Spender's",
+    "x": 451.3,
+    "y": 589.6
+  },
+  {
+    "id": "vice-city-shopping-plaza",
+    "name": "Vice City Shopping Plaza",
+    "x": 498.8,
+    "y": 462.2
+  },
+  {
+    "id": "redford-gallery",
+    "name": "Redford Gallery",
+    "x": 500.5,
+    "y": 454.5
+  },
+  {
+    "id": "avis",
+    "name": "Avis",
+    "x": 499.6,
+    "y": 453.6
+  },
+  {
+    "id": "l-rss-elb",
+    "name": "Lârss & Elbö",
+    "x": 501.1,
+    "y": 453.6
+  },
+  {
+    "id": "84",
+    "name": "84",
+    "x": 499.5,
+    "y": 457.1
+  },
+  {
+    "id": "bean-machine",
+    "name": "Bean Machine",
+    "x": 499.2,
+    "y": 460.8
+  },
+  {
+    "id": "247-supermarket",
+    "name": "247 Supermarket",
+    "x": 498.6,
+    "y": 460.9
+  },
+  {
+    "id": "al-dentes",
+    "name": "Al Dentes",
+    "x": 499.8,
+    "y": 461.3
+  },
+  {
+    "id": "allure-resort-services",
+    "name": "Allure Resort Services",
+    "x": 498,
+    "y": 461.9
+  },
+  {
+    "id": "orion-k",
+    "name": "Orion K",
+    "x": 497.7,
+    "y": 462.5
+  },
+  {
+    "id": "gun-shop",
+    "name": "Gun shop",
+    "x": 412.9,
+    "y": 294.4
+  },
+  {
+    "id": "downtown-metro-station",
+    "name": "Downtown Metro Station",
+    "x": 492.4,
+    "y": 501
+  },
+  {
+    "id": "the-hub-gallery",
+    "name": "The Hub Gallery",
+    "x": 499.9,
+    "y": 454.5
+  },
+  {
+    "id": "we-have-shoes",
+    "name": "We Have Shoes",
+    "x": 313.4,
+    "y": 390.4
+  },
+  {
+    "id": "tobacco",
+    "name": "Tobacco",
+    "x": 313.4,
+    "y": 390.2
+  },
+  {
+    "id": "deadzombie",
+    "name": "Deadzombie",
+    "x": 498.9,
+    "y": 458.2
+  },
+  {
+    "id": "evoke",
+    "name": "Evoke",
+    "x": 498.7,
+    "y": 458.6
+  },
+  {
+    "id": "footbridge",
+    "name": "Footbridge",
+    "x": 308.8,
+    "y": 516.7
+  },
+  {
+    "id": "chacey-s",
+    "name": "Chacey's",
+    "x": 456.9,
+    "y": 590.6
+  },
+  {
+    "id": "cell-tower-lot",
+    "name": "Cell Tower Lot",
+    "x": 452.7,
+    "y": 583.3
+  },
+  {
+    "id": "lock",
+    "name": "Lock",
+    "x": 442.7,
+    "y": 630.4
+  },
+  {
+    "id": "vice-vinyl",
+    "name": "Vice Vinyl",
+    "x": 500.1,
+    "y": 459.8
+  },
+  {
+    "id": "fleeca",
+    "name": "Fleeca",
+    "x": 559.1,
+    "y": 455.7
+  },
+  {
+    "id": "eye-dry",
+    "name": "Eye & Dry",
+    "x": 558.7,
+    "y": 456.9
+  },
+  {
+    "id": "diamond-dawgs",
+    "name": "Diamond Dawgs",
+    "x": 559.2,
+    "y": 457
+  },
+  {
+    "id": "glazin-glory",
+    "name": "Glazin' Glory",
+    "x": 558,
+    "y": 455.5
+  },
+  {
+    "id": "sandbars",
+    "name": "Sandbars",
+    "x": 222.7,
+    "y": 411.6
+  },
+  {
+    "id": "corsair-key",
+    "name": "Corsair Key",
+    "x": 472.8,
+    "y": 653.6
+  },
+  {
+    "id": "casino",
+    "name": "Casino",
+    "x": 381.2,
+    "y": 486.3
+  },
+  {
+    "id": "dam",
+    "name": "Dam",
+    "x": 468.3,
+    "y": 294.2
+  },
+  {
+    "id": "turn-34",
+    "name": "Turn 34",
+    "x": 294.2,
+    "y": 464.4
+  },
+  {
+    "id": "turn-2",
+    "name": "Turn 2",
+    "x": 290.1,
+    "y": 446.7
+  },
+  {
+    "id": "ambrosia-hill",
+    "name": "Ambrosia Hill",
+    "x": 404.2,
+    "y": 336.2
+  },
+  {
+    "id": "bridge-ridge",
+    "name": "Bridge Ridge",
+    "x": 381.3,
+    "y": 388.2
+  },
+  {
+    "id": "lollipop-ridge",
+    "name": "Lollipop Ridge",
+    "x": 377.1,
+    "y": 411.4
+  },
+  {
+    "id": "thrillbilly-hill",
+    "name": "Thrillbilly Hill",
+    "x": 398.1,
+    "y": 366.3
+  },
+  {
+    "id": "turn-27",
+    "name": "Turn 27",
+    "x": 310.8,
+    "y": 477.4
+  },
+  {
+    "id": "public-restrooms",
+    "name": "Public Restrooms",
+    "x": 575.8,
+    "y": 467.1
+  },
+  {
+    "id": "drawbridge",
+    "name": "Drawbridge",
+    "x": 289.2,
+    "y": 494.1
+  },
+  {
+    "id": "catalyst-realty",
+    "name": "Catalyst Realty",
+    "x": 557.2,
+    "y": 456.8
+  },
+  {
+    "id": "lulu",
+    "name": "Lulu",
+    "x": 556.8,
+    "y": 456.8
+  },
+  {
+    "id": "ajax-gym",
+    "name": "Ajax Gym",
+    "x": 556.4,
+    "y": 456.8
+  },
+  {
+    "id": "papasco-s",
+    "name": "Papasco's",
+    "x": 558.7,
+    "y": 457.5
+  },
+  {
+    "id": "train-station",
+    "name": "Train Station",
+    "x": 308.1,
+    "y": 496.1
+  },
+  {
+    "id": "breakwater",
+    "name": "Breakwater",
+    "x": 295.3,
+    "y": 521.3
+  },
+  {
+    "id": "turn-31",
+    "name": "Turn 31",
+    "x": 299.1,
+    "y": 456.1
+  },
+  {
+    "id": "carousell-hill",
+    "name": "Carousell Hill",
+    "x": 335.4,
+    "y": 430.2
+  },
+  {
+    "id": "kelly-hill",
+    "name": "Kelly Hill",
+    "x": 338.6,
+    "y": 418.7
+  },
+  {
+    "id": "starlet-hill",
+    "name": "Starlet Hill",
+    "x": 333.6,
+    "y": 401
+  },
+  {
+    "id": "stage",
+    "name": "Stage",
+    "x": 430.1,
+    "y": 618.3
+  },
+  {
+    "id": "perkins-deli",
+    "name": "Perkins Deli",
+    "x": 500.4,
+    "y": 463.6
+  },
+  {
+    "id": "josefina",
+    "name": "Josefina",
+    "x": 500.6,
+    "y": 463.2
+  },
+  {
+    "id": "bruiser-skate-shop",
+    "name": "Bruiser? Skate Shop",
+    "x": 500.8,
+    "y": 462.9
+  },
+  {
+    "id": "port",
+    "name": "Port",
+    "x": 488.2,
+    "y": 294
+  },
+  {
+    "id": "mount-lummox",
+    "name": "Mount Lummox",
+    "x": 391.9,
+    "y": 269.7
+  },
+  {
+    "id": "vice-city-oceanarium",
+    "name": "Vice City Oceanarium",
+    "x": 512.3,
+    "y": 566.9
+  },
+  {
+    "id": "vice-city-casino",
+    "name": "Vice City Casino",
+    "x": 506.6,
+    "y": 414.9
+  },
+  {
+    "id": "broadcast-tower",
+    "name": "Broadcast Tower",
+    "x": 471.3,
+    "y": 387.4
+  },
+  {
+    "id": "crys",
+    "name": "Crys",
+    "x": 499.9,
+    "y": 414.5
+  },
+  {
+    "id": "riquezas-keys",
+    "name": "Riquezas Keys",
+    "x": 259.4,
+    "y": 681.3
+  },
+  {
+    "id": "parlor-wo13",
+    "name": "Parlor WO13",
+    "x": 559.7,
+    "y": 457.1
+  },
+  {
+    "id": "the-anderson",
+    "name": "The Anderson",
+    "x": 565.5,
+    "y": 511.7
+  },
+  {
+    "id": "palometa-seafood-restaurant",
+    "name": "Palometa Seafood Restaurant",
+    "x": 563.9,
+    "y": 510.6
+  },
+  {
+    "id": "frills-fancy",
+    "name": "Frills & Fancy",
+    "x": 562,
+    "y": 495
+  },
+  {
+    "id": "pharmacy",
+    "name": "Pharmacy",
+    "x": 557.8,
+    "y": 497.1
+  },
+  {
+    "id": "electrical",
+    "name": "Electrical",
+    "x": 564.9,
+    "y": 489.2
+  },
+  {
+    "id": "void",
+    "name": "Void",
+    "x": 561.1,
+    "y": 473.7
+  },
+  {
+    "id": "ocean-beach-pharmacy",
+    "name": "Ocean Beach Pharmacy",
+    "x": 567,
+    "y": 471.9
+  },
+  {
+    "id": "juxta-gallery",
+    "name": "Juxta Gallery",
+    "x": 560.9,
+    "y": 472.2
+  },
+  {
+    "id": "lickety-split",
+    "name": "Lickety Split",
+    "x": 560.9,
+    "y": 472.7
+  },
+  {
+    "id": "pharaoh",
+    "name": "Pharaoh",
+    "x": 567.8,
+    "y": 469.9
+  },
+  {
+    "id": "electrotoke",
+    "name": "Electrotoke",
+    "x": 567.3,
+    "y": 473
+  },
+  {
+    "id": "oceanside-style",
+    "name": "Oceanside Style",
+    "x": 567.2,
+    "y": 470
+  },
+  {
+    "id": "luna",
+    "name": "Luna",
+    "x": 561,
+    "y": 473.2
+  },
+  {
+    "id": "city-picnic-market",
+    "name": "City Picnic Market",
+    "x": 567.3,
+    "y": 473.7
+  },
+  {
+    "id": "fufu",
+    "name": "Fufu",
+    "x": 501.7,
+    "y": 441.7
+  },
+  {
+    "id": "car-park",
+    "name": "Car Park",
+    "x": 468.2,
+    "y": 546.6
+  },
+  {
+    "id": "excavator-parking-lot",
+    "name": "Excavator Parking Lot",
+    "x": 483.5,
+    "y": 519.7
+  },
+  {
+    "id": "caf-coyote",
+    "name": "Café Coyote",
+    "x": 474,
+    "y": 512.3
+  },
+  {
+    "id": "djb-shipyard",
+    "name": "DJB Shipyard",
+    "x": 465,
+    "y": 507.2
+  },
+  {
+    "id": "city-of-vice-fire-rescue-station",
+    "name": "City of Vice Fire Rescue Station",
+    "x": 463.8,
+    "y": 508.5
+  },
+  {
+    "id": "partytown-usa",
+    "name": "Partytown USA",
+    "x": 469.7,
+    "y": 533.3
+  },
+  {
+    "id": "perfecto-boatyard-marina",
+    "name": "Perfecto Boatyard & Marina",
+    "x": 468,
+    "y": 505
+  },
+  {
+    "id": "mami-s-grocery-market",
+    "name": "Mami's Grocery Market",
+    "x": 459.3,
+    "y": 577.6
+  },
+  {
+    "id": "a1-fashions",
+    "name": "A1 Fashions",
+    "x": 459.5,
+    "y": 577.4
+  },
+  {
+    "id": "rideout-customs",
+    "name": "Rideout Customs",
+    "x": 485,
+    "y": 481.5
+  },
+  {
+    "id": "the-flamingrill",
+    "name": "The Flamingrill",
+    "x": 486.1,
+    "y": 481.9
+  },
+  {
+    "id": "carnicero",
+    "name": "Carnicero",
+    "x": 486.1,
+    "y": 482.9
+  },
+  {
+    "id": "shoe-shop",
+    "name": "Shoe shop",
+    "x": 294.9,
+    "y": 501.7
+  },
+  {
+    "id": "vetiver-minimarket",
+    "name": "Vetiver Minimarket",
+    "x": 480.5,
+    "y": 465.2
+  },
+  {
+    "id": "electronics-shop",
+    "name": "Electronics shop",
+    "x": 471.1,
+    "y": 421.8
+  },
+  {
+    "id": "banner-parking-garage",
+    "name": "Banner Parking Garage",
+    "x": 459.8,
+    "y": 533.7
+  },
+  {
+    "id": "g-hanson",
+    "name": "G. Hanson",
+    "x": 462.4,
+    "y": 543.2
+  },
+  {
+    "id": "hangars",
+    "name": "Hangars",
+    "x": 422.8,
+    "y": 551.7
+  },
+  {
+    "id": "service-gate",
+    "name": "Service Gate",
+    "x": 452.8,
+    "y": 560.6
+  },
+  {
+    "id": "electric-substation",
+    "name": "Electric Substation",
+    "x": 453.1,
+    "y": 559.6
+  },
+  {
+    "id": "food",
+    "name": "Food",
+    "x": 450.4,
+    "y": 574.7
+  },
+  {
+    "id": "gator-s-piano-bar",
+    "name": "Gator's Piano Bar",
+    "x": 455.9,
+    "y": 527.8
+  },
+  {
+    "id": "x-hotel-parking-lot",
+    "name": "X Hotel Parking Lot",
+    "x": 457.7,
+    "y": 526.4
+  },
+  {
+    "id": "covered-parking-lot",
+    "name": "Covered Parking Lot",
+    "x": 460,
+    "y": 525.1
+  },
+  {
+    "id": "cash-for-scrap-scrapyard",
+    "name": "Cash For Scrap Scrapyard",
+    "x": 450.5,
+    "y": 572.3
+  },
+  {
+    "id": "gator-plaza-sign",
+    "name": "Gator Plaza Sign",
+    "x": 451,
+    "y": 592.7
+  },
+  {
+    "id": "apollo-aggregates",
+    "name": "Apollo Aggregates",
+    "x": 454.6,
+    "y": 601.9
+  },
+  {
+    "id": "money-shift",
+    "name": "Money Shift",
+    "x": 312.3,
+    "y": 389.7
+  },
+  {
+    "id": "complete-tools",
+    "name": "Complete Tools",
+    "x": 313.6,
+    "y": 393.7
+  },
+  {
+    "id": "kalaga-reservoir",
     "name": "Kalaga Reservoir",
-    "x": 591,
-    "y": 121,
-    "kind": "sub_area",
-    "region": "mount-kalaga",
-    "placeholder_position": true
+    "x": 421.3,
+    "y": 302
   },
   {
-    "id": "area-vice-beach",
-    "name": "Vice Beach",
-    "x": 790,
-    "y": 610,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "lake-tallaloko",
+    "name": "Lake Tallaloko",
+    "x": 458.3,
+    "y": 289.4
   },
   {
-    "id": "area-peacock-estates",
-    "name": "Peacock Estates",
-    "x": 790,
-    "y": 610,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "bus-loop",
+    "name": "Bus Loop",
+    "x": 493.7,
+    "y": 488.6
   },
   {
-    "id": "area-waxman-island",
-    "name": "Waxman Island",
-    "x": 790,
-    "y": 610,
-    "kind": "sub_area",
-    "region": "vice-city",
-    "placeholder_position": true
+    "id": "vicycle",
+    "name": "Vicycle",
+    "x": 471.2,
+    "y": 493.7
   },
   {
-    "id": "area-sharktooth-island",
-    "name": "Sharktooth Island",
-    "x": 730,
-    "y": 390,
-    "kind": "sub_area",
-    "region": "mariana-leonard",
-    "placeholder_position": true
+    "id": "go-postal",
+    "name": "Go Postal",
+    "x": 472.1,
+    "y": 493
   },
   {
-    "id": "area-shoeless-keys",
-    "name": "Shoeless Keys",
-    "x": 590,
-    "y": 880,
-    "kind": "sub_area",
-    "region": "leonida-keys",
-    "placeholder_position": true
+    "id": "welcome-to-hamlet-sign",
+    "name": "Welcome to Hamlet\" Sign",
+    "x": 442.6,
+    "y": 612.5
   },
   {
-    "id": "area-cottonmouth-lake",
-    "name": "Cottonmouth Lake",
-    "x": 530,
-    "y": 620,
-    "kind": "sub_area",
-    "region": "grassrivers",
-    "placeholder_position": true
+    "id": "r",
+    "name": "R",
+    "x": 501.8,
+    "y": 442.8
   },
   {
-    "id": "area-big-pine",
+    "id": "infinity-tower",
+    "name": "Infinity Tower",
+    "x": 499.9,
+    "y": 443.3
+  },
+  {
+    "id": "alpha",
+    "name": "Alpha",
+    "x": 565.8,
+    "y": 516.7
+  },
+  {
+    "id": "ride-glide",
+    "name": "Ride & Glide",
+    "x": 456.9,
+    "y": 508.8
+  },
+  {
+    "id": "go-postal-office",
+    "name": "Go Postal Office",
+    "x": 556.7,
+    "y": 474.2
+  },
+  {
+    "id": "ficroth-capital-garage",
+    "name": "Ficroth Capital Garage",
+    "x": 486.9,
+    "y": 550.1
+  },
+  {
+    "id": "bus-station",
+    "name": "Bus Station",
+    "x": 466,
+    "y": 516.8
+  },
+  {
+    "id": "overkeel",
+    "name": "Overkeel",
+    "x": 475.3,
+    "y": 273.9
+  },
+  {
+    "id": "adelphila-jewelry",
+    "name": "Adelphila? Jewelry",
+    "x": 567.1,
+    "y": 516.9
+  },
+  {
+    "id": "key-lento-sign",
+    "name": "Key Lento Sign",
+    "x": 447.8,
+    "y": 681.1
+  },
+  {
+    "id": "hamlet-platinum-plaza",
+    "name": "Hamlet Platinum(?) Plaza",
+    "x": 441.8,
+    "y": 613.3
+  },
+  {
+    "id": "binco",
+    "name": "Binco",
+    "x": 442.5,
+    "y": 615.1
+  },
+  {
+    "id": "mio",
+    "name": "Mio",
+    "x": 442.5,
+    "y": 613.7
+  },
+  {
+    "id": "cash",
+    "name": "Cash...",
+    "x": 442.1,
+    "y": 615.3
+  },
+  {
+    "id": "paperclips",
+    "name": "Paperclips",
+    "x": 442.5,
+    "y": 614
+  },
+  {
+    "id": "bocamar-bay",
+    "name": "Bocamar Bay",
+    "x": 295.2,
+    "y": 372.1
+  },
+  {
+    "id": "third-eye",
+    "name": "Third Eye",
+    "x": 556.6,
+    "y": 473.5
+  },
+  {
+    "id": "pa-o-rojo",
+    "name": "Paño Rojo",
+    "x": 564,
+    "y": 484.3
+  },
+  {
+    "id": "tunnel",
+    "name": "Tunnel",
+    "x": 431,
+    "y": 314.7
+  },
+  {
+    "id": "saint-attaway-islands",
+    "name": "Saint Attaway Islands",
+    "x": 413.3,
+    "y": 246.1
+  },
+  {
+    "id": "turn-6b",
+    "name": "Turn 6B",
+    "x": 303.3,
+    "y": 453.3
+  },
+  {
+    "id": "turn-5",
+    "name": "Turn 5",
+    "x": 319.9,
+    "y": 426.9
+  },
+  {
+    "id": "turn-6",
+    "name": "Turn 6",
+    "x": 323.9,
+    "y": 425.8
+  },
+  {
+    "id": "turn-10",
+    "name": "Turn 10",
+    "x": 337.6,
+    "y": 435.7
+  },
+  {
+    "id": "turn-11",
+    "name": "Turn 11",
+    "x": 338,
+    "y": 439.7
+  },
+  {
+    "id": "turn-12",
+    "name": "Turn 12",
+    "x": 335.8,
+    "y": 442.8
+  },
+  {
+    "id": "turn-13",
+    "name": "Turn 13",
+    "x": 337,
+    "y": 445.7
+  },
+  {
+    "id": "turn-14",
+    "name": "Turn 14",
+    "x": 331.3,
+    "y": 446.5
+  },
+  {
+    "id": "turn-15",
+    "name": "Turn 15",
+    "x": 328.2,
+    "y": 447.7
+  },
+  {
+    "id": "turn",
+    "name": "Turn",
+    "x": 315.5,
+    "y": 432.3
+  },
+  {
+    "id": "turn-7",
+    "name": "Turn 7",
+    "x": 329.1,
+    "y": 426.6
+  },
+  {
+    "id": "turn-3",
+    "name": "Turn 3",
+    "x": 305.6,
+    "y": 449.1
+  },
+  {
+    "id": "turn-4",
+    "name": "Turn 4",
+    "x": 313.2,
+    "y": 435.1
+  },
+  {
+    "id": "turn-41",
+    "name": "Turn 41",
+    "x": 304.8,
+    "y": 432.3
+  },
+  {
+    "id": "turn-42",
+    "name": "Turn 42",
+    "x": 306.7,
+    "y": 436.5
+  },
+  {
+    "id": "turn-1",
+    "name": "Turn 1",
+    "x": 297.4,
+    "y": 447.8
+  },
+  {
+    "id": "turn-22",
+    "name": "Turn 22",
+    "x": 317.7,
+    "y": 449.4
+  },
+  {
+    "id": "turn-37",
+    "name": "Turn 37",
+    "x": 286.7,
+    "y": 449.7
+  },
+  {
+    "id": "turn-38",
+    "name": "Turn 38",
+    "x": 287.8,
+    "y": 445.8
+  },
+  {
+    "id": "turn-39",
+    "name": "Turn 39",
+    "x": 291.2,
+    "y": 443
+  },
+  {
+    "id": "turn-40",
+    "name": "Turn 40",
+    "x": 294.4,
+    "y": 443.4
+  },
+  {
+    "id": "turn-4b",
+    "name": "Turn 4B",
+    "x": 311.3,
+    "y": 443.1
+  },
+  {
+    "id": "turn-4c",
+    "name": "Turn 4C",
+    "x": 312.6,
+    "y": 438
+  },
+  {
+    "id": "turn-25",
+    "name": "Turn 25",
+    "x": 315.3,
+    "y": 472.2
+  },
+  {
+    "id": "turn-26",
+    "name": "Turn 26",
+    "x": 313.3,
+    "y": 473.7
+  },
+  {
+    "id": "turn-28",
+    "name": "Turn 28",
+    "x": 306.9,
+    "y": 476.4
+  },
+  {
+    "id": "turn-29",
+    "name": "Turn 29",
+    "x": 305.4,
+    "y": 473.7
+  },
+  {
+    "id": "turn-30",
+    "name": "Turn 30",
+    "x": 304.1,
+    "y": 472.7
+  },
+  {
+    "id": "turn-33",
+    "name": "Turn 33",
+    "x": 293.2,
+    "y": 470.1
+  },
+  {
+    "id": "turn-35",
+    "name": "Turn 35",
+    "x": 290.5,
+    "y": 459
+  },
+  {
+    "id": "turn-36",
+    "name": "Turn 36",
+    "x": 285.2,
+    "y": 455.9
+  },
+  {
+    "id": "turn-5b",
+    "name": "Turn 5B",
+    "x": 312.2,
+    "y": 454.9
+  },
+  {
+    "id": "turn-8c",
+    "name": "Turn 8C",
+    "x": 311.1,
+    "y": 467.8
+  },
+  {
+    "id": "turn-9c",
+    "name": "Turn 9C",
+    "x": 306.3,
+    "y": 469.3
+  },
+  {
+    "id": "turn-10c",
+    "name": "Turn 10C",
+    "x": 305.2,
+    "y": 467.6
+  },
+  {
+    "id": "turn-11c",
+    "name": "Turn 11C",
+    "x": 303.6,
+    "y": 465.8
+  },
+  {
+    "id": "turn-23",
+    "name": "Turn 23",
+    "x": 316.5,
+    "y": 458.1
+  },
+  {
+    "id": "turn-24",
+    "name": "Turn 24",
+    "x": 317,
+    "y": 464.5
+  },
+  {
+    "id": "vercetti-estate",
+    "name": "Vercetti Estate",
+    "x": 540.3,
+    "y": 491.3
+  },
+  {
+    "id": "turn-8",
+    "name": "Turn 8",
+    "x": 336.4,
+    "y": 426.5
+  },
+  {
+    "id": "turn-9",
+    "name": "Turn 9",
+    "x": 338.7,
+    "y": 429.1
+  },
+  {
+    "id": "welcome-to-the-keys-sign",
+    "name": "Welcome to The Keys\" Sign",
+    "x": 445.6,
+    "y": 673.9
+  },
+  {
+    "id": "fruitshots",
+    "name": "Fruitshots",
+    "x": 572.7,
+    "y": 497.8
+  },
+  {
+    "id": "the-grain-of-truth",
+    "name": "The Grain of Truth",
+    "x": 497.3,
+    "y": 522.6
+  },
+  {
+    "id": "diangelo",
+    "name": "Diangelo",
+    "x": 495.6,
+    "y": 522.6
+  },
+  {
+    "id": "little-gems-jewellery",
+    "name": "Little Gems Jewellery",
+    "x": 473.1,
+    "y": 491.8
+  },
+  {
+    "id": "berth",
+    "name": "Berth",
+    "x": 274.1,
+    "y": 451.5
+  },
+  {
+    "id": "zeke-s-gadgets",
+    "name": "Zeke's Gadgets",
+    "x": 476.2,
+    "y": 480.6
+  },
+  {
+    "id": "video-forever",
+    "name": "Video Forever",
+    "x": 476.3,
+    "y": 480.8
+  },
+  {
+    "id": "joyeria-empenos",
+    "name": "Joyeria Empenos",
+    "x": 476.1,
+    "y": 480.4
+  },
+  {
+    "id": "vice-city-hospital",
+    "name": "Vice City Hospital",
+    "x": 479.3,
+    "y": 483.6
+  },
+  {
+    "id": "interchange",
+    "name": "Interchange",
+    "x": 327.1,
+    "y": 493.4
+  },
+  {
+    "id": "fire-station",
+    "name": "Fire Station",
+    "x": 487.5,
+    "y": 457.6
+  },
+  {
+    "id": "el-rinc-n-notorio",
+    "name": "El Rincón Notorio",
+    "x": 475.5,
+    "y": 511.5
+  },
+  {
+    "id": "crude-islands",
+    "name": "Crude Islands",
+    "x": 247.1,
+    "y": 437.1
+  },
+  {
+    "id": "cove",
+    "name": "Cove",
+    "x": 311.7,
+    "y": 589.5
+  },
+  {
+    "id": "tamarro",
+    "name": "Tamarro",
+    "x": 579.6,
+    "y": 512.9
+  },
+  {
+    "id": "turn-17",
+    "name": "Turn 17",
+    "x": 329.8,
+    "y": 440.7
+  },
+  {
+    "id": "turn-21",
+    "name": "Turn 21",
+    "x": 321.7,
+    "y": 444.5
+  },
+  {
+    "id": "turn-19",
+    "name": "Turn 19",
+    "x": 332,
+    "y": 434.7
+  },
+  {
+    "id": "turn-33b",
+    "name": "Turn 33B",
+    "x": 289.4,
+    "y": 463.4
+  },
+  {
+    "id": "cave",
+    "name": "Cave",
+    "x": 370.4,
+    "y": 428.3
+  },
+  {
+    "id": "copyshop",
+    "name": "Copyshop",
+    "x": 497.7,
+    "y": 522.6
+  },
+  {
+    "id": "the-captain-s-cabins",
+    "name": "The Captain's Cabins",
+    "x": 444.1,
+    "y": 676.9
+  },
+  {
+    "id": "waterfall",
+    "name": "Waterfall",
+    "x": 423.3,
+    "y": 324.6
+  },
+  {
+    "id": "nirvana-spa",
+    "name": "Nirvana Spa",
+    "x": 496.5,
+    "y": 463.8
+  },
+  {
+    "id": "royals",
+    "name": "Royals",
+    "x": 560.6,
+    "y": 471.5
+  },
+  {
+    "id": "la-perle-river",
+    "name": "La Perle River",
+    "x": 476.5,
+    "y": 460.4
+  },
+  {
+    "id": "port-vc-tunnel",
+    "name": "Port VC Tunnel",
+    "x": 522.5,
+    "y": 514.8
+  },
+  {
+    "id": "grandstands",
+    "name": "Grandstands",
+    "x": 294.1,
+    "y": 450.7
+  },
+  {
+    "id": "covered-grandstands",
+    "name": "Covered Grandstands",
+    "x": 300.5,
+    "y": 446.2
+  },
+  {
+    "id": "shirley-s-house",
+    "name": "Shirley's House",
+    "x": 440.4,
+    "y": 684.7
+  },
+  {
+    "id": "farmacia",
+    "name": "Farmacia",
+    "x": 474.3,
+    "y": 513.3
+  },
+  {
+    "id": "little-cuba-souvenir-shop",
+    "name": "Little Cuba Souvenir Shop",
+    "x": 474,
+    "y": 511.5
+  },
+  {
+    "id": "riverbank",
+    "name": "Riverbank",
+    "x": 474.6,
+    "y": 515.9
+  },
+  {
+    "id": "billie-bob-s",
+    "name": "Billie Bob's",
+    "x": 516.1,
+    "y": 382
+  },
+  {
+    "id": "flash-fm",
+    "name": "Flash FM",
+    "x": 506.2,
+    "y": 435.4
+  },
+  {
+    "id": "leonard-county-sheriff-s-office",
+    "name": "Leonard County Sheriff's Office",
+    "x": 463,
+    "y": 432.7
+  },
+  {
+    "id": "waning-sands-police-department",
+    "name": "Waning Sands Police Department",
+    "x": 516.5,
+    "y": 383.6
+  },
+  {
+    "id": "vcia-train-station",
+    "name": "VCIA Train Station",
+    "x": 464.9,
+    "y": 519
+  },
+  {
+    "id": "vcia-metro-station",
+    "name": "VCIA Metro Station",
+    "x": 464.1,
+    "y": 519.5
+  },
+  {
+    "id": "metro-mover-station",
+    "name": "Metro Mover Station",
+    "x": 438,
+    "y": 506.5
+  },
+  {
+    "id": "roasters-coffee-cafe",
+    "name": "Roasters Coffee Cafe",
+    "x": 496.2,
+    "y": 527.3
+  },
+  {
+    "id": "fenestra-plaza",
+    "name": "Fenestra Plaza",
+    "x": 492.8,
+    "y": 539.5
+  },
+  {
+    "id": "gate-building",
+    "name": "Gate Building",
+    "x": 428.8,
+    "y": 599.8
+  },
+  {
+    "id": "mammacita-s",
+    "name": "Mammacita's",
+    "x": 495.9,
+    "y": 526.7
+  },
+  {
+    "id": "august-hill-farm",
+    "name": "August Hill Farm",
+    "x": 500.3,
+    "y": 433
+  },
+  {
+    "id": "docks",
+    "name": "Docks",
+    "x": 451.9,
+    "y": 489.2
+  },
+  {
+    "id": "hamlet-police-department",
+    "name": "Hamlet Police Department",
+    "x": 430.2,
+    "y": 622.4
+  },
+  {
+    "id": "peninsula",
+    "name": "Peninsula",
+    "x": 334.9,
+    "y": 297.3
+  },
+  {
+    "id": "brian-s-marina-boat-racks",
+    "name": "Brian's Marina Boat Racks",
+    "x": 433.8,
+    "y": 695.8
+  },
+  {
+    "id": "tattoo-parlour",
+    "name": "Tattoo parlour",
+    "x": 446.4,
+    "y": 682.8
+  },
+  {
+    "id": "fast-food",
+    "name": "Fast food",
+    "x": 449.8,
+    "y": 678.2
+  },
+  {
+    "id": "mount-redhill",
+    "name": "Mount Redhill",
+    "x": 417.6,
+    "y": 291.3
+  },
+  {
+    "id": "street-vendor",
+    "name": "Street vendor",
+    "x": 579.4,
+    "y": 511.8
+  },
+  {
+    "id": "beach-volleyball",
+    "name": "Beach Volleyball",
+    "x": 575.2,
+    "y": 501.4
+  },
+  {
+    "id": "turn-7b",
+    "name": "Turn 7B",
+    "x": 296.4,
+    "y": 454.6
+  },
+  {
+    "id": "turn-8b",
+    "name": "Turn 8B",
+    "x": 288.7,
+    "y": 449.6
+  },
+  {
+    "id": "turn-6c",
+    "name": "Turn 6C",
+    "x": 311.6,
+    "y": 456.6
+  },
+  {
+    "id": "turn-7c",
+    "name": "Turn 7C",
+    "x": 312,
+    "y": 458.2
+  },
+  {
+    "id": "the-old-mill-barber-shop",
+    "name": "The Old Mill Barber Shop",
+    "x": 477.9,
+    "y": 309.3
+  },
+  {
+    "id": "trotman-s-super-market",
+    "name": "Trotman's Super Market",
+    "x": 478.4,
+    "y": 309.2
+  },
+  {
+    "id": "jacob-s-tavern-bar",
+    "name": "Jacob's Tavern Bar",
+    "x": 478.9,
+    "y": 309.2
+  },
+  {
+    "id": "reynold-s-pharmacy",
+    "name": "Reynold's Pharmacy",
+    "x": 479.5,
+    "y": 309.3
+  },
+  {
+    "id": "tennis-courts",
+    "name": "Tennis Courts",
+    "x": 527.1,
+    "y": 528
+  },
+  {
+    "id": "ricardo-s-tires",
+    "name": "Ricardo's Tires",
+    "x": 480.8,
+    "y": 471
+  },
+  {
+    "id": "res-trade-paint",
+    "name": "RES TRADE PAINT",
+    "x": 481.9,
+    "y": 472.2
+  },
+  {
+    "id": "the-atoll-bar-grill",
+    "name": "The Atoll Bar & Grill",
+    "x": 577.4,
+    "y": 476
+  },
+  {
+    "id": "wild-hog-point",
+    "name": "Wild Hog Point",
+    "x": 275.7,
+    "y": 409.6
+  },
+  {
+    "id": "partridge-bay",
+    "name": "Partridge Bay",
+    "x": 444.5,
+    "y": 233
+  },
+  {
+    "id": "okchiloha-bay",
+    "name": "Okchiloha Bay",
+    "x": 370.7,
+    "y": 238.5
+  },
+  {
+    "id": "millport-basin",
+    "name": "Millport Basin",
+    "x": 505.8,
+    "y": 298.2
+  },
+  {
+    "id": "san-malo-bay",
+    "name": "San Malo Bay",
+    "x": 331.3,
+    "y": 290.1
+  },
+  {
+    "id": "permit-keys",
+    "name": "Permit Keys",
+    "x": 331.6,
+    "y": 710.7
+  },
+  {
+    "id": "tola-bay",
+    "name": "Tola Bay",
+    "x": 316.4,
+    "y": 551.2
+  },
+  {
+    "id": "big-pine",
     "name": "Big Pine",
-    "x": 530,
-    "y": 620,
-    "kind": "sub_area",
-    "region": "grassrivers",
-    "placeholder_position": true
+    "x": 345.3,
+    "y": 565.1
+  },
+  {
+    "id": "nehrling-river",
+    "name": "Nehrling River",
+    "x": 318.4,
+    "y": 525.8
+  },
+  {
+    "id": "bobcat-bight",
+    "name": "Bobcat Bight",
+    "x": 285.8,
+    "y": 553.3
+  },
+  {
+    "id": "capri-sound",
+    "name": "Capri Sound",
+    "x": 281.8,
+    "y": 481.8
+  },
+  {
+    "id": "borrachero-sound",
+    "name": "Borrachero Sound",
+    "x": 265.6,
+    "y": 433.3
+  },
+  {
+    "id": "wetman-bay",
+    "name": "Wetman Bay",
+    "x": 375.1,
+    "y": 661.1
+  },
+  {
+    "id": "gullet-marsh",
+    "name": "Gullet Marsh",
+    "x": 397,
+    "y": 624.5
+  },
+  {
+    "id": "pelican-river",
+    "name": "Pelican River",
+    "x": 395.9,
+    "y": 608.4
+  },
+  {
+    "id": "gambit-bay",
+    "name": "Gambit Bay",
+    "x": 425.1,
+    "y": 675.7
+  },
+  {
+    "id": "shoeless-keys",
+    "name": "Shoeless Keys",
+    "x": 436.6,
+    "y": 663.9
+  },
+  {
+    "id": "gellhorn-drive-in-theatre",
+    "name": "Gellhorn Drive-In Theatre",
+    "x": 306.7,
+    "y": 387.7
+  },
+  {
+    "id": "effete",
+    "name": "Effete",
+    "x": 500,
+    "y": 444
+  },
+  {
+    "id": "cottonmouth-lake",
+    "name": "Cottonmouth Lake",
+    "x": 403.2,
+    "y": 661.6
+  },
+  {
+    "id": "sharktooth-island",
+    "name": "Sharktooth Island",
+    "x": 516.9,
+    "y": 346.7
+  },
+  {
+    "id": "leith-river",
+    "name": "Leith River",
+    "x": 520,
+    "y": 382.6
+  },
+  {
+    "id": "moreau-river",
+    "name": "Moreau River",
+    "x": 430.1,
+    "y": 254.6
+  },
+  {
+    "id": "the-monument-of-leonidan-supremacy",
+    "name": "The Monument of Leonidan Supremacy",
+    "x": 328.8,
+    "y": 338.8
   }
 ]

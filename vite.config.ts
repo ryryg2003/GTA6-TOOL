@@ -24,7 +24,15 @@ export default defineConfig({
           { src: 'apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
         ],
       },
-      workbox: { globPatterns: ['**/*.{js,css,html,svg,png,json}'] },
+      workbox: {
+        globPatterns: ['**/*.{js,css,html,svg,png,json}'],
+        // Keep map tiles and screenshots you've viewed, so the map works with no signal.
+        runtimeCaching: [{
+          urlPattern: /^https:\/\/fbritoferreira\.github\.io\/gta6\/(tiles|screenshots)\//,
+          handler: 'CacheFirst',
+          options: { cacheName: 'open-gta6-map', expiration: { maxEntries: 3000, maxAgeSeconds: 60 * 60 * 24 * 60 }, cacheableResponse: { statuses: [0, 200] } },
+        }],
+      },
     }),
   ],
   test: {

@@ -38,9 +38,9 @@ test('allows null weapon stats', () => {
   expect(validateAll(f).ok).toBe(true);
 });
 
-test('rejects a map pin with x = 1001', () => {
+test('rejects a map pin past the map edge (x = 1025)', () => {
   const f = real();
-  (f.map_pins as any[])[0].x = 1001;
+  (f.map_pins as any[])[0].x = 1025;
   expect(validateAll(f).ok).toBe(false);
 });
 

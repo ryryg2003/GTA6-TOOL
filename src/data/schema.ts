@@ -1,6 +1,7 @@
 import { z } from 'zod';
 
-export const MAP_SIZE = 1000;
+/** Map units, matching Open GTA 6 Map: a 1024-unit square, y grows downward (south). */
+export const MAP_SIZE = 1024;
 export const SECTIONS = ['weapons', 'vehicles', 'missions', 'map_pins', 'trophies'] as const;
 export type SectionName = (typeof SECTIONS)[number];
 
@@ -71,7 +72,7 @@ export const MapPinSchema = BaseSchema.extend({
   category: z.string().min(1),
   x: z.number().min(0).max(MAP_SIZE),
   y: z.number().min(0).max(MAP_SIZE),
-  location_precision: z.enum(['exact', 'approximate']),
+  location_precision: z.enum(['exact', 'approximate', 'unknown']),
   area_name: z.string().nullable(),
   how_to_reach: z.string().nullable(),
   code: z.string().nullable(),

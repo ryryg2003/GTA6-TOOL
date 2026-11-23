@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "validate": "tsx scripts/validate.ts",
-    "merge": "tsx scripts/merge.ts"
+    "merge": "tsx scripts/merge.ts",
+    "import:map": "tsx scripts/import-open-map.ts"
   },
   "dependencies": {
     "fuse.js": "^7.5.0",
